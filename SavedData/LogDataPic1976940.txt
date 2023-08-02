@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/1976940/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1976940/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1976940/word_cloud.png	0,38,387.25934210526316	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/1976940/Northridge earthquake 10 frwy2.png	-48.75,38,196.21052631578948	0,0,1	0,1,0	-1,0,0	-85.60526315789474	0	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/1976940/caption/caption0.png	-48.75,38,196.21052631578948	0,0,1	0,1,0	-1,0,0	-65.60526315789474	-10	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/1976940/Hanshin-Awaji earthquake 1995 337.jpg	-48.75,38,196.21052631578948	0,0,1	0,1,0	-1,0,0	95.60526315789474	0	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/1976940/caption/caption1.png	-48.75,38,196.21052631578948	0,0,1	0,1,0	-1,0,0	115.60526315789474	-10	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/1976940/BenFranklinDuplessis.jpg	48.75,38,196.21052631578948	0,0,-1	0,1,0	1,0,0	98.10526315789474	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/1976940/caption/caption2.png	48.75,38,196.21052631578948	0,0,-1	0,1,0	1,0,0	118.10526315789474	-10	0.2	0.7	none(caption)	-1:-1	8
+8	./Images/1976940/David Lloyd George.jpg	48.75,38,196.21052631578948	0,0,-1	0,1,0	1,0,0	-98.10526315789474	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/1976940/caption/caption3.png	48.75,38,196.21052631578948	0,0,-1	0,1,0	1,0,0	-78.10526315789474	-10	0.2	0.7	none(caption)	-1:-1	10

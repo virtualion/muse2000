@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/2354784/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/2354784/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/2354784/word_cloud.png	0,38,305.97513157894736	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/2354784/kaijo building.jpg	-48.75,38,155.1578947368421	0,0,1	0,1,0	-1,0,0	-65.07894736842105	0	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/2354784/caption/caption0.png	-48.75,38,155.1578947368421	0,0,1	0,1,0	-1,0,0	-45.078947368421055	-10	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/2354784/tokio kaijo building shinkan.jpeg	-48.75,38,155.1578947368421	0,0,1	0,1,0	-1,0,0	75.07894736842107	0	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/2354784/caption/caption1.png	-48.75,38,155.1578947368421	0,0,1	0,1,0	-1,0,0	95.07894736842107	-10	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/2354784/Tokio Marine & Nichido Fire Insurancea.jpg	48.75,38,155.1578947368421	0,0,-1	0,1,0	1,0,0	77.57894736842105	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/2354784/caption/caption2.png	48.75,38,155.1578947368421	0,0,-1	0,1,0	1,0,0	97.57894736842105	-10	0.2	0.7	none(caption)	-1:-1	8
+8	./Images/2354784/Tokio Marine & Nichido Building New Building.jpg	48.75,38,155.1578947368421	0,0,-1	0,1,0	1,0,0	-77.57894736842107	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/2354784/caption/caption3.png	48.75,38,155.1578947368421	0,0,-1	0,1,0	1,0,0	-57.57894736842107	-10	0.2	0.7	none(caption)	-1:-1	10

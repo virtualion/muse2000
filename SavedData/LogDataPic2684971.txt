@@ -1,0 +1,25 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/2684971/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/2684971/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/2684971/word_cloud.png	0,38,728.6530263157894	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/2684971/RATTLING JET STREAM ON JUPITER.ogv	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	-313.26842105263154	0	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/2684971/caption/caption0.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	-291.26842105263154	-10	0.3	0.7	none(caption)	-1:-1	4
+4	./Images/2684971/Structure of Jovian atmosphere.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	-242.54210526315788	0	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/2684971/caption/caption1.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	-220.54210526315788	-10	0.3	0.7	none(caption)	-1:-1	6
+6	./Images/2684971/Map of Jupiter.jpg	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	-171.81578947368422	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/2684971/caption/caption2.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	-149.81578947368422	-10	0.3	0.7	none(caption)	-1:-1	8
+8	./Images/2684971/Wind speeds on Jupiter.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	-101.08947368421053	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/2684971/caption/caption3.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	-79.08947368421053	-10	0.3	0.7	none(caption)	-1:-1	10
+10	./Images/2684971/PIA02863 - Jupiter surface motion animation.gif	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	-30.363157894736844	0	0.2	3	Wooden_thin	-1:-1	11
+11	./Images/2684971/caption/caption4.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	-8.363157894736844	-10	0.3	0.7	none(caption)	-1:-1	12
+12	./Images/2684971/Thermal emission of Jupiter.jpg	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	40.363157894736844	0	0.2	3	Wooden_thin	-1:-1	13
+13	./Images/2684971/caption/caption5.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	62.363157894736844	-10	0.3	0.7	none(caption)	-1:-1	14
+14	./Images/2684971/NH Jupiter IR (contrast enhanced).jpg	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	111.08947368421047	0	0.2	3	Wooden_thin	-1:-1	15
+15	./Images/2684971/caption/caption6.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	133.08947368421047	-10	0.3	0.7	none(caption)	-1:-1	16
+16	./Images/2684971/GRS in far infrared.jpg	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	181.8157894736841	0	0.2	3	Wooden_thin	-1:-1	17
+17	./Images/2684971/caption/caption7.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	203.8157894736841	-10	0.3	0.7	none(caption)	-1:-1	18
+18	./Images/2684971/Redjunior.jpg	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	252.5421052631579	0	0.2	3	Wooden_thin	-1:-1	19
+19	./Images/2684971/caption/caption8.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	274.5421052631579	-10	0.3	0.7	none(caption)	-1:-1	20
+20	./Images/2684971/Oval BA (Hubble).jpg	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	323.2684210526315	0	0.2	3	Wooden_thin	-1:-1	21
+21	./Images/2684971/caption/caption9.png	-48.75,38,368.6315789473684	0,0,1	0,1,0	-1,0,0	345.2684210526315	-10	0.3	0.7	none(caption)	-1:-1	22
+22	Images/2684971/table/fixed_概要.png	48.75,38,368.6315789473684	0,0,-1	0,1,0	1,0,0	0.0	0	0.2	2.3125	Wooden_thin	-1:-1	23

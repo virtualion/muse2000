@@ -1,0 +1,24 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/975793/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/975793/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/975793/word_cloud.png	0,38,679.8825	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/975793/The death of general warren at the battle of bunker hill.jpg	-48.75,38,344.00000000000006	0,0,1	0,1,0	-1,0,0	-258.20000000000005	0	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/975793/caption/caption0.png	-48.75,38,344.00000000000006	0,0,1	0,1,0	-1,0,0	-236.20000000000005	-10	0.3	0.7	none(caption)	-1:-1	4
+4	./Images/975793/Lexington_Concord_Siege_of_Boston.jpg	-48.75,38,344.00000000000006	0,0,1	0,1,0	-1,0,0	-126.60000000000002	0	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/975793/caption/caption1.png	-48.75,38,344.00000000000006	0,0,1	0,1,0	-1,0,0	-104.60000000000002	-10	0.3	0.7	none(caption)	-1:-1	6
+6	./Images/975793/Bunker Hill by Pyle.jpg	-48.75,38,344.00000000000006	0,0,1	0,1,0	-1,0,0	5.0	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/975793/caption/caption2.png	-48.75,38,344.00000000000006	0,0,1	0,1,0	-1,0,0	27.0	-10	0.3	0.7	none(caption)	-1:-1	8
+8	./Images/975793/Array of American Forces on the Field at the Battle of Breeds Hill.png	-48.75,38,344.00000000000006	0,0,1	0,1,0	-1,0,0	136.60000000000002	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/975793/caption/caption3.png	-48.75,38,344.00000000000006	0,0,1	0,1,0	-1,0,0	158.60000000000002	-10	0.3	0.7	none(caption)	-1:-1	10
+10	./Images/975793/Bunker_hill_first_attack.png	-48.75,38,344.00000000000006	0,0,1	0,1,0	-1,0,0	268.2	0	0.2	3	Wooden_thin	-1:-1	11
+11	./Images/975793/caption/caption4.png	-48.75,38,344.00000000000006	0,0,1	0,1,0	-1,0,0	290.2	-10	0.3	0.7	none(caption)	-1:-1	12
+12	./Images/975793/Bunker_hill_second_attack.png	48.75,38,344.00000000000006	0,0,-1	0,1,0	1,0,0	275.20000000000005	0	0.2	3	Wooden_thin	-1:-1	13
+13	./Images/975793/caption/caption5.png	48.75,38,344.00000000000006	0,0,-1	0,1,0	1,0,0	297.20000000000005	-10	0.3	0.7	none(caption)	-1:-1	14
+14	./Images/975793/Bunker_hill_final_attack.png	48.75,38,344.00000000000006	0,0,-1	0,1,0	1,0,0	137.60000000000002	0	0.2	3	Wooden_thin	-1:-1	15
+15	./Images/975793/caption/caption6.png	48.75,38,344.00000000000006	0,0,-1	0,1,0	1,0,0	159.60000000000002	-10	0.3	0.7	none(caption)	-1:-1	16
+16	./Images/975793/Bunker Hill Monument 2005.jpg	48.75,38,344.00000000000006	0,0,-1	0,1,0	1,0,0	0.0	0	0.2	3	Wooden_thin	-1:-1	17
+17	./Images/975793/caption/caption7.png	48.75,38,344.00000000000006	0,0,-1	0,1,0	1,0,0	22.0	-10	0.3	0.7	none(caption)	-1:-1	18
+18	./Images/975793/Ralph Farnham.jpg	48.75,38,344.00000000000006	0,0,-1	0,1,0	1,0,0	-137.60000000000002	0	0.2	3	Wooden_thin	-1:-1	19
+19	./Images/975793/caption/caption8.png	48.75,38,344.00000000000006	0,0,-1	0,1,0	1,0,0	-115.60000000000002	-10	0.3	0.7	none(caption)	-1:-1	20
+20	./Images/975793/Map of the Battle of Bunker Hill area.jpg	48.75,38,344.00000000000006	0,0,-1	0,1,0	1,0,0	-275.2	0	0.2	3	Wooden_thin	-1:-1	21
+21	./Images/975793/caption/caption9.png	48.75,38,344.00000000000006	0,0,-1	0,1,0	1,0,0	-253.2	-10	0.3	0.7	none(caption)	-1:-1	22

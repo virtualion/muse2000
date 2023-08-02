@@ -1,0 +1,16 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/1784716/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1784716/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1784716/word_cloud.png	0,38,354.7456578947368	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/1784716/Fukuji_Dam_1_Okinawa.jpg	-48.75,38,179.7894736842105	0,0,1	0,1,0	-1,0,0	-104.85964912280699	0	0.2	2.497076023391813	Wooden_thin	-1:-1	3
+3	./Images/1784716/caption/caption0.png	-48.75,38,179.7894736842105	0,0,1	0,1,0	-1,0,0	-89.37426900584792	-10	0.3	0.5	none(caption)	-1:-1	4
+4	./Images/1784716/Fukuji Dam under construction.JPG	-48.75,38,179.7894736842105	0,0,1	0,1,0	-1,0,0	5.0	0	0.2	2.497076023391813	Wooden_thin	-1:-1	5
+5	./Images/1784716/caption/caption1.png	-48.75,38,179.7894736842105	0,0,1	0,1,0	-1,0,0	20.485380116959064	-10	0.3	0.5	none(caption)	-1:-1	6
+6	./Images/1784716/Fukuji_Dam_2_Okinawa.jpg	-48.75,38,179.7894736842105	0,0,1	0,1,0	-1,0,0	114.85964912280699	0	0.2	2.497076023391813	Wooden_thin	-1:-1	7
+7	./Images/1784716/caption/caption2.png	-48.75,38,179.7894736842105	0,0,1	0,1,0	-1,0,0	130.34502923976606	-10	0.3	0.5	none(caption)	-1:-1	8
+8	./Images/1784716/Fukuji_Dam_3_Okinawa.jpg	48.75,38,179.7894736842105	0,0,-1	0,1,0	1,0,0	119.85964912280699	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/1784716/caption/caption3.png	48.75,38,179.7894736842105	0,0,-1	0,1,0	1,0,0	137.85964912280699	-10	0.3	0.5	none(caption)	-1:-1	10
+10	./Images/1784716/Fukuji_Dam_4_Okinawa.jpg	48.75,38,179.7894736842105	0,0,-1	0,1,0	1,0,0	0.0	0	0.2	3	Wooden_thin	-1:-1	11
+11	./Images/1784716/caption/caption4.png	48.75,38,179.7894736842105	0,0,-1	0,1,0	1,0,0	18.0	-10	0.3	0.5	none(caption)	-1:-1	12
+12	./Images/1784716/Fukuji_Dam_5_Okinawa.jpg	48.75,38,179.7894736842105	0,0,-1	0,1,0	1,0,0	-119.85964912280699	0	0.2	3	Wooden_thin	-1:-1	13
+13	./Images/1784716/caption/caption5.png	48.75,38,179.7894736842105	0,0,-1	0,1,0	1,0,0	-101.85964912280699	-10	0.3	0.5	none(caption)	-1:-1	14

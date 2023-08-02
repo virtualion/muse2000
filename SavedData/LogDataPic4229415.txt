@@ -1,0 +1,14 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/4229415/title_panel.png	-103.05263157894734,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/4229415/title_panel.png	-103.05263157894734,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/4229415/word_cloud.png	-188.22631578947366,38,180.7010526315789	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/4229415/2010 NCCBF Grand Parade 2010-04-18 8.JPG	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	-81.61315789473683	-10	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/4229415/caption/caption0.png	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	-59.61315789473683	-20	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/4229415/Blazer viatura.JPG	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	91.61315789473682	-10	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/4229415/caption/caption1.png	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	113.61315789473682	-20	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/4229415/Autobahnpolizei Niedersachsen Fahrzeug.jpg	188.22631578947366,38,182.52631578947364	0,0,-1	0,1,0	1,0,0	120.46736842105261	-10	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/4229415/caption/caption2.png	188.22631578947366,38,182.52631578947364	0,0,-1	0,1,0	1,0,0	142.4673684210526	-20	0.2	0.7	none(caption)	-1:-1	8
+8	./Images/4229415/Indonesian traffic police car.jpg	188.22631578947366,38,182.52631578947364	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/4229415/caption/caption3.png	188.22631578947366,38,182.52631578947364	0,0,-1	0,1,0	1,0,0	22.0	-20	0.2	0.7	none(caption)	-1:-1	10
+10	./Images/4229415/Mitsubishi Lancer Evolution X Police patrol car.jpg	188.22631578947366,38,182.52631578947364	0,0,-1	0,1,0	1,0,0	-120.46736842105261	-10	0.2	3	Wooden_thin	-1:-1	11
+11	./Images/4229415/caption/caption4.png	188.22631578947366,38,182.52631578947364	0,0,-1	0,1,0	1,0,0	-98.46736842105261	-20	0.2	0.7	none(caption)	-1:-1	12

@@ -1,0 +1,11 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/1987019/title_panel.png	-86.63157894736841,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1987019/title_panel.png	-86.63157894736841,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1987019/word_cloud.png	-172.2157894736842,38,164.44421052631577	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/1987019/Matthew Morrison 2009.jpg	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	-99.81052631578947	-10	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/1987019/caption/caption0.png	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	-77.81052631578947	-20	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/1987019/Jayma Mays 2009.jpg	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/1987019/caption/caption1.png	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	27.0	-20	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/1987019/Cory Monteith 2009.jpg	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	109.81052631578945	-10	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/1987019/caption/caption2.png	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	131.81052631578945	-20	0.2	0.7	none(caption)	-1:-1	8
+8	Images/1987019/table/fixed_サウンドトラック・アルバム.png	172.2157894736842,38,166.1052631578947	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	8.31875	Wooden_thin	-1:-1	9

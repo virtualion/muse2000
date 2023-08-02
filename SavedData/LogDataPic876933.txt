@@ -1,0 +1,10 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/876933/title_panel.png	3.684210526315809,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/876933/title_panel.png	3.684210526315809,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/876933/word_cloud.png	-84.15789473684208,38,83.16	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/876933/Arles_Thermes_de_Constantin_1.jpg	0,38,165.9	1,0,0	0,1,0	0,0,1	-41.105263157894726	-10	0.2	2.1538461538461537	Wooden_thin	-1:-1	2
+3	./Images/876933/caption/caption0.png	0,38,165.9	1,0,0	0,1,0	0,0,1	-27.33603238866396	-20	0.2	0.5	none(caption)	-1:-1	3
+4	./Images/876933/Arles_Thermes_de_Constantin_2_Voute_caldarium.jpg	0,38,165.9	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	2.1538461538461537	Wooden_thin	-1:-1	4
+5	./Images/876933/caption/caption1.png	0,38,165.9	1,0,0	0,1,0	0,0,1	18.769230769230766	-20	0.2	0.5	none(caption)	-1:-1	5
+6	./Images/876933/Arles_Thermes_de_Constantin_3_hypocauste.jpg	0,38,165.9	1,0,0	0,1,0	0,0,1	51.10526315789471	-10	0.2	2.1538461538461537	Wooden_thin	-1:-1	6
+7	./Images/876933/caption/caption2.png	0,38,165.9	1,0,0	0,1,0	0,0,1	64.87449392712549	-20	0.2	0.5	none(caption)	-1:-1	7

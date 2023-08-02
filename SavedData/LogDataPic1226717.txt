@@ -1,0 +1,13 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/1226717/title_panel.png	-29.15789473684211,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1226717/title_panel.png	-29.15789473684211,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1226717/word_cloud.png	-116.17894736842106,38,107.54526315789474	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/1226717/Ankara Express Turkey 2006.jpg	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	-62.452631578947376	-10	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/1226717/caption/caption0.png	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	-40.452631578947376	-20	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/1226717/Sirkeci-station_Orient_Express.JPG	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/1226717/caption/caption1.png	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	27.0	-20	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/1226717/Haydarpasha train station istanbul.jpg	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	72.45263157894738	-10	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/1226717/caption/caption2.png	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	94.45263157894738	-20	0.2	0.7	none(caption)	-1:-1	8
+8	Images/1226717/table/fixed_廃止された狭軌路線.png	116.17894736842106,38,108.63157894736842	0,0,-1	0,1,0	1,0,0	53.77263157894737	-10	0.2	2.1	Wooden_thin	-1:-1	9
+9	./Images/1226717/caption/caption3.png	116.17894736842106,38,108.63157894736842	0,0,-1	0,1,0	1,0,0	71.27263157894737	-20	0.2	0.7	none(caption)	-1:-1	10
+10	Images/1226717/table/fixed_現在も運行中.png	116.17894736842106,38,108.63157894736842	0,0,-1	0,1,0	1,0,0	-53.77263157894737	-10	0.2	4.0875	Wooden_thin	-1:-1	11

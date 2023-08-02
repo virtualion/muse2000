@@ -1,0 +1,16 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/168918/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/168918/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/168918/word_cloud.png	0,38,517.3140789473683	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/168918/Isezaki.jpg	-48.75,38,261.8947368421052	0,0,1	0,1,0	-1,0,0	-159.59649122807014	0	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/168918/caption/caption0.png	-48.75,38,261.8947368421052	0,0,1	0,1,0	-1,0,0	-137.59649122807014	-10	0.3	0.7	none(caption)	-1:-1	4
+4	./Images/168918/Kensyuu.jpg	-48.75,38,261.8947368421052	0,0,1	0,1,0	-1,0,0	5.0	0	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/168918/caption/caption1.png	-48.75,38,261.8947368421052	0,0,1	0,1,0	-1,0,0	27.0	-10	0.3	0.7	none(caption)	-1:-1	6
+6	./Images/168918/Rinsyou.jpg	-48.75,38,261.8947368421052	0,0,1	0,1,0	-1,0,0	169.59649122807014	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/168918/caption/caption2.png	-48.75,38,261.8947368421052	0,0,1	0,1,0	-1,0,0	191.59649122807014	-10	0.3	0.7	none(caption)	-1:-1	8
+8	./Images/168918/Tokyo University of Social Welfare Junior College.jpg	48.75,38,261.8947368421052	0,0,-1	0,1,0	1,0,0	174.59649122807014	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/168918/caption/caption3.png	48.75,38,261.8947368421052	0,0,-1	0,1,0	1,0,0	196.59649122807014	-10	0.3	0.7	none(caption)	-1:-1	10
+10	./Images/168918/New Gymnasium of Isesaki Campus.jpg	48.75,38,261.8947368421052	0,0,-1	0,1,0	1,0,0	0.0	0	0.2	3	Wooden_thin	-1:-1	11
+11	./Images/168918/caption/caption4.png	48.75,38,261.8947368421052	0,0,-1	0,1,0	1,0,0	22.0	-10	0.3	0.7	none(caption)	-1:-1	12
+12	./Images/168918/Tokyo University of Social Welfare.JPG	48.75,38,261.8947368421052	0,0,-1	0,1,0	1,0,0	-174.59649122807014	0	0.2	3	Wooden_thin	-1:-1	13
+13	./Images/168918/caption/caption5.png	48.75,38,261.8947368421052	0,0,-1	0,1,0	1,0,0	-152.59649122807014	-10	0.3	0.7	none(caption)	-1:-1	14

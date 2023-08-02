@@ -1,0 +1,14 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/286664/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/286664/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/286664/word_cloud.png	0,38,452.28671052631574	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/286664/Venus_de_Milo_Louvre_Ma399_n4.jpg	-48.75,38,229.05263157894734	0,0,1	0,1,0	-1,0,0	-102.02631578947367	0	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/286664/caption/caption0.png	-48.75,38,229.05263157894734	0,0,1	0,1,0	-1,0,0	-80.02631578947367	-10	0.3	0.7	none(caption)	-1:-1	4
+4	./Images/286664/Germany_GB_France.gif	-48.75,38,229.05263157894734	0,0,1	0,1,0	-1,0,0	112.0263157894737	0	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/286664/caption/caption1.png	-48.75,38,229.05263157894734	0,0,1	0,1,0	-1,0,0	134.0263157894737	-10	0.3	0.7	none(caption)	-1:-1	6
+6	./Images/286664/Toho_Labor_disputes.JPG	48.75,38,229.05263157894734	0,0,-1	0,1,0	1,0,0	152.70175438596488	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/286664/caption/caption2.png	48.75,38,229.05263157894734	0,0,-1	0,1,0	1,0,0	174.70175438596488	-10	0.3	0.7	none(caption)	-1:-1	8
+8	./Images/286664/Giuseppe_Tartini.png	48.75,38,229.05263157894734	0,0,-1	0,1,0	1,0,0	0.0	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/286664/caption/caption3.png	48.75,38,229.05263157894734	0,0,-1	0,1,0	1,0,0	22.0	-10	0.3	0.7	none(caption)	-1:-1	10
+10	./Images/286664/Edmund_Husserl_1900.jpg	48.75,38,229.05263157894734	0,0,-1	0,1,0	1,0,0	-152.70175438596488	0	0.2	3	Wooden_thin	-1:-1	11
+11	./Images/286664/caption/caption4.png	48.75,38,229.05263157894734	0,0,-1	0,1,0	1,0,0	-130.70175438596488	-10	0.3	0.7	none(caption)	-1:-1	12

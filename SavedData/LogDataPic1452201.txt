@@ -1,0 +1,14 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/1452201/title_panel.png	3.684210526315809,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1452201/title_panel.png	3.684210526315809,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1452201/word_cloud.png	-84.15789473684208,38,91.28842105263156	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/1452201/Bartholomeus van der Helst - Paul Potter.jpg	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	-29.57894736842104	-10	0.2	1.844210526315789	Wooden_thin	-1:-1	3
+3	./Images/1452201/caption/caption0.png	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	-15.357894736842095	-20	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/1452201/Paulus Potter - Four Bulls.JPG	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	39.57894736842104	-10	0.2	1.844210526315789	Wooden_thin	-1:-1	5
+5	./Images/1452201/caption/caption1.png	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	53.79999999999998	-20	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/1452201/Paulus Potter - Peasant Family with Animals.JPG	84.15789473684208,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	60.85894736842104	-10	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/1452201/caption/caption2.png	84.15789473684208,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	80.85894736842104	-20	0.2	0.7	none(caption)	-1:-1	8
+8	./Images/1452201/Paulus Potter - Resting Herd.JPG	84.15789473684208,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/1452201/caption/caption3.png	84.15789473684208,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	20.0	-20	0.2	0.7	none(caption)	-1:-1	10
+10	./Images/1452201/Paulus Potter - Cows in a Meadow.JPG	84.15789473684208,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	-60.85894736842103	-10	0.2	3	Wooden_thin	-1:-1	11
+11	./Images/1452201/caption/caption4.png	84.15789473684208,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	-40.85894736842103	-20	0.2	0.7	none(caption)	-1:-1	12

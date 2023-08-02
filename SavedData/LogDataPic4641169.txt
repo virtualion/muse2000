@@ -1,0 +1,22 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/4641169/title_panel.png	3.684210526315809,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/4641169/title_panel.png	3.684210526315809,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/4641169/word_cloud.png	-84.15789473684208,38,83.16	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/4641169/European wasp white bg.jpg	0,38,165.9	1,0,0	0,1,0	0,0,1	-46.86842105263156	-10	0.2	0.9333333333333333	Wooden_thin	-1:-1	2
+3	./Images/4641169/caption/caption0.png	0,38,165.9	1,0,0	0,1,0	0,0,1	-37.2017543859649	-20	0.2	0.7	none(caption)	-1:-1	3
+4	./Images/4641169/Raphidia icon.png	0,38,165.9	1,0,0	0,1,0	0,0,1	-12.28947368421052	-10	0.2	0.9333333333333333	Wooden_thin	-1:-1	4
+5	./Images/4641169/caption/caption1.png	0,38,165.9	1,0,0	0,1,0	0,0,1	-2.6228070175438534	-20	0.2	0.7	none(caption)	-1:-1	5
+6	./Images/4641169/Corydalus cornutus illustration (rotated).png	0,38,165.9	1,0,0	0,1,0	0,0,1	22.28947368421052	-10	0.2	0.9333333333333333	Wooden_thin	-1:-1	6
+7	./Images/4641169/caption/caption2.png	0,38,165.9	1,0,0	0,1,0	0,0,1	31.956140350877188	-20	0.2	0.7	none(caption)	-1:-1	7
+8	./Images/4641169/Osmylus_(white_background).jpg	0,38,165.9	1,0,0	0,1,0	0,0,1	56.86842105263156	-10	0.2	0.9333333333333333	Wooden_thin	-1:-1	8
+9	./Images/4641169/caption/caption3.png	0,38,165.9	1,0,0	0,1,0	0,0,1	66.53508771929822	-20	0.2	0.7	none(caption)	-1:-1	9
+10	./Images/4641169/Elenchus koebelei.jpg	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	66.52799999999999	-10	0.2	3	Wooden_thin	-1:-1	10
+11	./Images/4641169/caption/caption4.png	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	86.52799999999999	-20	0.2	0.7	none(caption)	-1:-1	11
+12	./Images/4641169/RHYACOPHILA DORSALIS Male Pont Forge de Sailly Watigny 02 MHNT.jpg	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	33.264	-10	0.2	3	Wooden_thin	-1:-1	12
+13	./Images/4641169/caption/caption5.png	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	53.264	-20	0.2	0.7	none(caption)	-1:-1	13
+14	./Images/4641169/Arctia villica SLU.JPG	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	3	Wooden_thin	-1:-1	14
+15	./Images/4641169/caption/caption6.png	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	20.0	-20	0.2	0.7	none(caption)	-1:-1	15
+16	./Images/4641169/Scorpionfly (white background).jpg	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	-33.26399999999998	-10	0.2	3	Wooden_thin	-1:-1	16
+17	./Images/4641169/caption/caption7.png	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	-13.263999999999982	-20	0.2	0.7	none(caption)	-1:-1	17
+18	./Images/4641169/Pulex irritans female ZSM (white background).jpg	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	-66.52799999999999	-10	0.2	3	Wooden_thin	-1:-1	18
+19	./Images/4641169/caption/caption8.png	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	-46.52799999999999	-20	0.2	0.7	none(caption)	-1:-1	19

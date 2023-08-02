@@ -1,0 +1,14 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/20577/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/20577/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/20577/word_cloud.png	0,38,240.9477631578947	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/20577/551-esdragonhammer90-08.jpg	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	-48.6578947368421	0	0.2	2.2239234449760765	Wooden_thin	-1:-1	3
+3	./Images/20577/caption/caption0.png	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	-34.538277511961724	-10	0.3	0.5	none(caption)	-1:-1	4
+4	./Images/20577/USS Cabot (CVL-28) underway at sea in 1945.jpg	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	58.657894736842096	0	0.2	2.2239234449760765	Wooden_thin	-1:-1	5
+5	./Images/20577/caption/caption1.png	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	72.77751196172248	-10	0.3	0.5	none(caption)	-1:-1	6
+6	./Images/20577/HMS Centaur 1965.jpg	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	81.5438596491228	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/20577/caption/caption2.png	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	99.5438596491228	-10	0.3	0.5	none(caption)	-1:-1	8
+8	./Images/20577/Royal Navy Aircraft Carrier HMS Illustrious Returns To Portsmouth Folllowing Refit MOD 45152939.jpg	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	-1.4210854715202004e-14	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/20577/caption/caption3.png	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	17.999999999999986	-10	0.3	0.5	none(caption)	-1:-1	10
+10	./Images/20577/F-35B Lightning IIs of VMFA-211 aboard USS Essex (LHD-2) on 28 March 2018 (180328-N-RY670-264).JPG	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	-81.54385964912281	0	0.2	3	Wooden_thin	-1:-1	11
+11	./Images/20577/caption/caption4.png	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	-63.54385964912281	-10	0.3	0.5	none(caption)	-1:-1	12

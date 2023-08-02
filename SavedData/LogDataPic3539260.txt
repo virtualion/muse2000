@@ -1,0 +1,13 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/3539260/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/3539260/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/3539260/word_cloud.png	0,38,143.40671052631578	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/3539260/Platform of Xibeiwang Station (20210126184801).jpg	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-38.53947368421053	0	0.2	1.5219298245614035	Wooden_thin	-1:-1	3
+3	./Images/3539260/caption/caption0.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-27.92982456140351	-10	0.3	0.5	none(caption)	-1:-1	4
+4	./Images/3539260/Concourse of Xibeiwang Station (20161231135145).jpg	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-9.513157894736842	0	0.2	1.5219298245614035	Wooden_thin	-1:-1	5
+5	./Images/3539260/caption/caption1.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	1.0964912280701746	-10	0.3	0.5	none(caption)	-1:-1	6
+6	./Images/3539260/Platform of Xibeiwang Station 20171107.jpg	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	19.51315789473685	0	0.2	1.5219298245614035	Wooden_thin	-1:-1	7
+7	./Images/3539260/caption/caption2.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	30.122807017543863	-10	0.3	0.5	none(caption)	-1:-1	8
+8	./Images/3539260/Xibeiwang Station Platform 20171107.jpg	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	48.53947368421052	0	0.2	1.5219298245614035	Wooden_thin	-1:-1	9
+9	./Images/3539260/caption/caption3.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	59.149122807017534	-10	0.3	0.5	none(caption)	-1:-1	10
+10	Images/3539260/table/fixed_駅構造.png	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	0.0	0	0.2	2.1	Wooden_thin	-1:-1	11

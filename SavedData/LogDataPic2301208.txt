@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/2301208/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/2301208/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/2301208/word_cloud.png	0,38,257.2046052631579	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/2301208/Yemen protest.jpg	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	-52.763157894736835	0	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/2301208/caption/caption0.png	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	-32.763157894736835	-10	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/2301208/Ali Abdullah Saleh 2004.jpg	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	62.76315789473685	0	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/2301208/caption/caption1.png	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	82.76315789473685	-10	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/2301208/Yemen Protests 21-Feb-2011 P01.JPG	48.75,38,130.52631578947367	0,0,-1	0,1,0	1,0,0	65.26315789473684	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/2301208/caption/caption2.png	48.75,38,130.52631578947367	0,0,-1	0,1,0	1,0,0	85.26315789473684	-10	0.2	0.7	none(caption)	-1:-1	8
+8	./Images/2301208/Yemeni Protests 4-Apr-2011 P01.JPG	48.75,38,130.52631578947367	0,0,-1	0,1,0	1,0,0	-65.26315789473685	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/2301208/caption/caption3.png	48.75,38,130.52631578947367	0,0,-1	0,1,0	1,0,0	-45.26315789473685	-10	0.2	0.7	none(caption)	-1:-1	10

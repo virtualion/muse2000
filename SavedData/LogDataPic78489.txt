@@ -1,0 +1,14 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/78489/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/78489/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/78489/word_cloud.png	0,38,257.2046052631579	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/78489/Kishida Ryusei Self-Portrait.jpg	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	-81.64473684210526	0	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/78489/caption/caption0.png	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	-59.64473684210526	-10	0.3	0.7	none(caption)	-1:-1	4
+4	./Images/78489/Kishida-ryusei000047.jpeg	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	-23.88157894736841	0	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/78489/caption/caption1.png	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	-1.8815789473684106	-10	0.3	0.7	none(caption)	-1:-1	6
+6	./Images/78489/Kishida Ryusei Young Girl Standing.jpg	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	33.88157894736841	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/78489/caption/caption2.png	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	55.88157894736841	-10	0.3	0.7	none(caption)	-1:-1	8
+8	./Images/78489/Two Reikos by Kishida Ryusei (Senoku Hakukokan).jpg	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	91.64473684210526	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/78489/caption/caption3.png	-48.75,38,130.52631578947367	0,0,1	0,1,0	-1,0,0	113.64473684210526	-10	0.3	0.7	none(caption)	-1:-1	10
+10	Images/78489/table/fixed_代表作.png	48.75,38,130.52631578947367	0,0,-1	0,1,0	1,0,0	65.26315789473684	0	0.2	1.6915509740912236	Wooden_thin	-1:-1	11
+11	Images/78489/table/fixed_麗子像一覧.png	48.75,38,130.52631578947367	0,0,-1	0,1,0	1,0,0	-65.26315789473685	0	0.2	10.174477734042746	Wooden_thin	-1:-1	12

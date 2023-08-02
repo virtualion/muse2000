@@ -1,0 +1,7 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/186314/title_panel.png	-37.368421052631575,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/186314/title_panel.png	-37.368421052631575,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/186314/word_cloud.png	-124.18421052631578,38,131.93052631578948	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/186314/SagaKen map.png	0,38,263.19473684210527	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/186314/caption/caption0.png	0,38,263.19473684210527	1,0,0	0,1,0	0,0,1	27.0	-20	0.2	0.7	none(caption)	-1:-1	4
+4	Images/186314/table/fixed_INTRO.png	124.18421052631578,38,133.26315789473685	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	2.1	Wooden_thin	-1:-1	5

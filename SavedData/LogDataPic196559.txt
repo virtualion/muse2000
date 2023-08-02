@@ -1,0 +1,8 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/196559/title_panel.png	-20.947368421052616,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/196559/title_panel.png	-20.947368421052616,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/196559/word_cloud.png	-108.1736842105263,38,91.28842105263156	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/196559/Busan harbour.jpg	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	-41.58684210526315	-10	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/196559/caption/caption0.png	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	-19.586842105263152	-20	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/196559/Hamayuu in Port of Shimonoseki.jpg	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	51.58684210526316	-10	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/196559/caption/caption1.png	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	73.58684210526316	-20	0.2	0.7	none(caption)	-1:-1	6

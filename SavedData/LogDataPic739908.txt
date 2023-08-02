@@ -1,0 +1,8 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/739908/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/739908/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/739908/word_cloud.png	0,38,143.40671052631578	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/739908/The Lowest Point on Chinese Land.jpg	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-24.026315789473685	0	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/739908/caption/caption0.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-2.026315789473685	-10	0.3	0.7	none(caption)	-1:-1	4
+4	./Images/739908/Turpan-calles-d01.jpg	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	34.026315789473685	0	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/739908/caption/caption1.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	56.026315789473685	-10	0.3	0.7	none(caption)	-1:-1	6

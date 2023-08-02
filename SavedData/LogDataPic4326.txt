@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/4326/title_panel.png	-201.57894736842104,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/4326/title_panel.png	-201.57894736842104,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/4326/word_cloud.png	-284.2894736842105,38,278.24210526315784	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/4326/Lightmatter stpeterscathedral vatican.jpg	0,38,555.078947368421	1,0,0	0,1,0	0,0,1	-129.64473684210526	-10	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/4326/caption/caption0.png	0,38,555.078947368421	1,0,0	0,1,0	0,0,1	-107.64473684210526	-20	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/4326/Escorial-sur.jpg	0,38,555.078947368421	1,0,0	0,1,0	0,0,1	139.64473684210526	-10	0.2	3	Wooden_thin	-1:-1	5
+5	./Images/4326/caption/caption1.png	0,38,555.078947368421	1,0,0	0,1,0	0,0,1	161.64473684210526	-20	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/4326/The Spanish Armada.jpg	284.2894736842105,38,281.05263157894734	0,0,-1	0,1,0	1,0,0	139.12105263157892	-10	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/4326/caption/caption2.png	284.2894736842105,38,281.05263157894734	0,0,-1	0,1,0	1,0,0	161.12105263157892	-20	0.2	0.7	none(caption)	-1:-1	8
+8	./Images/4326/Elizabeth I Rainbow Portrait.jpg	284.2894736842105,38,281.05263157894734	0,0,-1	0,1,0	1,0,0	-139.12105263157895	-10	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/4326/caption/caption3.png	284.2894736842105,38,281.05263157894734	0,0,-1	0,1,0	1,0,0	-117.12105263157895	-20	0.2	0.7	none(caption)	-1:-1	10

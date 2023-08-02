@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/3251441/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/3251441/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/3251441/word_cloud.png	0,38,127.14986842105264	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/3251441/Chimaphila japonica 5-1.JPG	-48.75,38,64.8421052631579	0,0,1	0,1,0	-1,0,0	-19.921052631578952	0	0.2	1.473684210526316	Wooden_thin	-1:-1	3
+3	./Images/3251441/caption/caption0.png	-48.75,38,64.8421052631579	0,0,1	0,1,0	-1,0,0	-9.552631578947373	-10	0.3	0.5	none(caption)	-1:-1	4
+4	./Images/3251441/Chimaphila japonica 1.JPG	-48.75,38,64.8421052631579	0,0,1	0,1,0	-1,0,0	29.921052631578945	0	0.2	1.473684210526316	Wooden_thin	-1:-1	5
+5	./Images/3251441/caption/caption1.png	-48.75,38,64.8421052631579	0,0,1	0,1,0	-1,0,0	40.28947368421053	-10	0.3	0.5	none(caption)	-1:-1	6
+6	./Images/3251441/Chimaphila umbellata (Japan)-4.JPG	48.75,38,64.8421052631579	0,0,-1	0,1,0	1,0,0	32.42105263157895	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/3251441/caption/caption2.png	48.75,38,64.8421052631579	0,0,-1	0,1,0	1,0,0	50.42105263157895	-10	0.3	0.5	none(caption)	-1:-1	8
+8	./Images/3251441/Chimaphila menziesii-Oregon.jpg	48.75,38,64.8421052631579	0,0,-1	0,1,0	1,0,0	-32.421052631578945	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/3251441/caption/caption3.png	48.75,38,64.8421052631579	0,0,-1	0,1,0	1,0,0	-14.421052631578945	-10	0.3	0.5	none(caption)	-1:-1	10

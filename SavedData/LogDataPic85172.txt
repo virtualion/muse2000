@@ -1,0 +1,10 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/85172/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/85172/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/85172/word_cloud.png	0,38,143.40671052631578	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/85172/20120617Hockenheimer Handwerker und Bauernmarkt11.ogv	-48.75,38,73.05263157894736	0,0,1	0,1,0	-1,0,0	-33.701754385964904	0	0.2	2.0292397660818713	Wooden_thin	-1:-1	3
+3	./Images/85172/caption/caption0.png	-48.75,38,73.05263157894736	0,0,1	0,1,0	-1,0,0	-20.555555555555546	-10	0.3	0.5	none(caption)	-1:-1	4
+4	./Images/85172/Bang Bao - Jongleur.JPG	-48.75,38,73.05263157894736	0,0,1	0,1,0	-1,0,0	5.0	0	0.2	2.0292397660818713	Wooden_thin	-1:-1	5
+5	./Images/85172/caption/caption1.png	-48.75,38,73.05263157894736	0,0,1	0,1,0	-1,0,0	18.146198830409357	-10	0.3	0.5	none(caption)	-1:-1	6
+6	./Images/85172/Malabarista de Rua.jpg	-48.75,38,73.05263157894736	0,0,1	0,1,0	-1,0,0	43.701754385964904	0	0.2	2.0292397660818713	Wooden_thin	-1:-1	7
+7	./Images/85172/caption/caption2.png	-48.75,38,73.05263157894736	0,0,1	0,1,0	-1,0,0	56.847953216374265	-10	0.3	0.5	none(caption)	-1:-1	8

@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/1417652/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1417652/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1417652/word_cloud.png	0,38,192.17723684210526	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/1417652/Masasumi_Hashihime.jpg	-48.75,38,97.6842105263158	0,0,1	0,1,0	-1,0,0	-36.3421052631579	0	0.2	2.4421052631578952	Wooden_thin	-1:-1	3
+3	./Images/1417652/caption/caption0.png	-48.75,38,97.6842105263158	0,0,1	0,1,0	-1,0,0	-19.13157894736842	-10	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/1417652/SekienHashihime.jpg	-48.75,38,97.6842105263158	0,0,1	0,1,0	-1,0,0	46.342105263157904	0	0.2	2.4421052631578952	Wooden_thin	-1:-1	5
+5	./Images/1417652/caption/caption1.png	-48.75,38,97.6842105263158	0,0,1	0,1,0	-1,0,0	63.552631578947384	-10	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/1417652/SekienUshi-no-tokimairi.jpg	48.75,38,97.6842105263158	0,0,-1	0,1,0	1,0,0	48.8421052631579	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/1417652/caption/caption2.png	48.75,38,97.6842105263158	0,0,-1	0,1,0	1,0,0	68.84210526315789	-10	0.2	0.7	none(caption)	-1:-1	8
+8	./Images/1417652/Itijo-modoribashi.jpg	48.75,38,97.6842105263158	0,0,-1	0,1,0	1,0,0	-48.842105263157904	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/1417652/caption/caption3.png	48.75,38,97.6842105263158	0,0,-1	0,1,0	1,0,0	-28.842105263157904	-10	0.2	0.7	none(caption)	-1:-1	10

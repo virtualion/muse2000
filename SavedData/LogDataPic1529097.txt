@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/1529097/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1529097/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1529097/word_cloud.png	0,38,110.89302631578947	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/1529097/Yangshan Deep-Water Port locator map.png	-48.75,38,56.63157894736842	0,0,1	0,1,0	-1,0,0	-15.815789473684209	0	0.2	1.1798245614035086	Wooden_thin	-1:-1	3
+3	./Images/1529097/caption/caption0.png	-48.75,38,56.63157894736842	0,0,1	0,1,0	-1,0,0	-6.916666666666666	-10	0.3	0.5	none(caption)	-1:-1	4
+4	./Images/1529097/Yangshan-Port-Containers.jpg	-48.75,38,56.63157894736842	0,0,1	0,1,0	-1,0,0	25.815789473684212	0	0.2	1.1798245614035086	Wooden_thin	-1:-1	5
+5	./Images/1529097/caption/caption1.png	-48.75,38,56.63157894736842	0,0,1	0,1,0	-1,0,0	34.71491228070175	-10	0.3	0.5	none(caption)	-1:-1	6
+6	./Images/1529097/Yangshan Deepwater Port.jpg	48.75,38,56.63157894736842	0,0,-1	0,1,0	1,0,0	28.31578947368421	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/1529097/caption/caption2.png	48.75,38,56.63157894736842	0,0,-1	0,1,0	1,0,0	46.315789473684205	-10	0.3	0.5	none(caption)	-1:-1	8
+8	./Images/1529097/Donghai Bridge.jpg	48.75,38,56.63157894736842	0,0,-1	0,1,0	1,0,0	-28.315789473684212	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/1529097/caption/caption3.png	48.75,38,56.63157894736842	0,0,-1	0,1,0	1,0,0	-10.315789473684212	-10	0.3	0.5	none(caption)	-1:-1	10

@@ -1,0 +1,30 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/2156343/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/2156343/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/2156343/word_cloud.png	0,38,143.40671052631578	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/2156343/Tarantula Nebula TRAPPIST.jpg	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-43.377192982456144	0	0.2	0.5619433198380567	Wooden_thin	-1:-1	3
+3	./Images/2156343/caption/caption0.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-35.56747638326586	-10	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/2156343/Hubble WFC3 30 Doradus Zoom.ogv	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-24.026315789473685	0	0.2	0.5619433198380567	Wooden_thin	-1:-1	5
+5	./Images/2156343/caption/caption1.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-16.2165991902834	-10	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/2156343/The rich region around the Tarantula Nebula in the Large Magellanic Cloud.jpg	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-4.675438596491233	0	0.2	0.5619433198380567	Wooden_thin	-1:-1	7
+7	./Images/2156343/caption/caption2.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	3.1342780026990504	-10	0.2	0.7	none(caption)	-1:-1	8
+8	./Images/2156343/The Tarantula Nebula region imaged with HAWK-I with the Adaptive Optics Facility.jpg	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	14.675438596491233	0	0.2	0.5619433198380567	Wooden_thin	-1:-1	9
+9	./Images/2156343/caption/caption3.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	22.485155195681518	-10	0.2	0.7	none(caption)	-1:-1	10
+10	./Images/2156343/The brilliant star VFTS 682 in the Large Magellanic Cloud.jpg	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	34.02631578947367	0	0.2	0.5619433198380567	Wooden_thin	-1:-1	11
+11	./Images/2156343/caption/caption4.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	41.83603238866395	-10	0.2	0.7	none(caption)	-1:-1	12
+12	./Images/2156343/Close-up Tarantula Nebula.jpg	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	53.37719298245614	0	0.2	0.5619433198380567	Wooden_thin	-1:-1	13
+13	./Images/2156343/caption/caption5.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	61.18690958164642	-10	0.2	0.7	none(caption)	-1:-1	14
+14	./Images/2156343/ESO - Eso1030a (by).jpg	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	62.61654135338346	0	0.2	3	Wooden_thin	-1:-1	15
+15	./Images/2156343/caption/caption6.png	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	82.61654135338347	-10	0.2	0.7	none(caption)	-1:-1	16
+16	./Images/2156343/Tarantula Nebula - Hubble.jpg	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	41.744360902255636	0	0.2	3	Wooden_thin	-1:-1	17
+17	./Images/2156343/caption/caption7.png	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	61.744360902255636	-10	0.2	0.7	none(caption)	-1:-1	18
+18	./Images/2156343/ESO-Ring-shaped-Nebula-phot-34a-04-fullres.jpg	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	20.872180451127818	0	0.2	3	Wooden_thin	-1:-1	19
+19	./Images/2156343/caption/caption8.png	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	40.87218045112782	-10	0.2	0.7	none(caption)	-1:-1	20
+20	./Images/2156343/ESO 2.2-m WFI Image of the Tarantula Nebula (4598317299).jpg	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	0.0	0	0.2	3	Wooden_thin	-1:-1	21
+21	./Images/2156343/caption/caption9.png	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	20.0	-10	0.2	0.7	none(caption)	-1:-1	22
+22	./Images/2156343/Tarantula nebula WISE.jpg	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	-20.872180451127832	0	0.2	3	Wooden_thin	-1:-1	23
+23	./Images/2156343/caption/caption10.png	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	-0.8721804511278322	-10	0.2	0.7	none(caption)	-1:-1	24
+24	./Images/2156343/PIA23646-TarantulaNebula-PAHs-SpitzerST-20200127.jpg	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	-41.74436090225565	0	0.2	3	Wooden_thin	-1:-1	25
+25	./Images/2156343/caption/caption11.png	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	-21.74436090225565	-10	0.2	0.7	none(caption)	-1:-1	26
+26	./Images/2156343/Heic2004a.jpg	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	-62.61654135338347	0	0.2	3	Wooden_thin	-1:-1	27
+27	./Images/2156343/caption/caption12.png	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	-42.61654135338347	-10	0.2	0.7	none(caption)	-1:-1	28

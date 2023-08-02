@@ -1,0 +1,14 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/2713872/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/2713872/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/2713872/word_cloud.png	0,38,208.43407894736842	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/2713872/Dendrobium kingianum Orchi 03.jpg	-48.75,38,105.89473684210526	0,0,1	0,1,0	-1,0,0	-40.44736842105263	0	0.2	2.1178947368421053	Wooden_thin	-1:-1	3
+3	./Images/2713872/caption/caption0.png	-48.75,38,105.89473684210526	0,0,1	0,1,0	-1,0,0	-24.857894736842105	-10	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/2713872/Dendrobium kingianum - Curtis' 76 (Ser. 3 no. 6) pl. 4527 (1850).jpg	-48.75,38,105.89473684210526	0,0,1	0,1,0	-1,0,0	50.44736842105263	0	0.2	2.1178947368421053	Wooden_thin	-1:-1	5
+5	./Images/2713872/caption/caption1.png	-48.75,38,105.89473684210526	0,0,1	0,1,0	-1,0,0	66.03684210526316	-10	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/2713872/A and B Larsen orchids - Dendrobium kingianum 205-24zw.jpg	48.75,38,105.89473684210526	0,0,-1	0,1,0	1,0,0	70.59649122807016	0	0.2	3	Wooden_thin	-1:-1	7
+7	./Images/2713872/caption/caption2.png	48.75,38,105.89473684210526	0,0,-1	0,1,0	1,0,0	90.59649122807016	-10	0.2	0.7	none(caption)	-1:-1	8
+8	./Images/2713872/Dendrobium kingianum toapel.jpg	48.75,38,105.89473684210526	0,0,-1	0,1,0	1,0,0	0.0	0	0.2	3	Wooden_thin	-1:-1	9
+9	./Images/2713872/caption/caption3.png	48.75,38,105.89473684210526	0,0,-1	0,1,0	1,0,0	20.0	-10	0.2	0.7	none(caption)	-1:-1	10
+10	./Images/2713872/A and B Larsen orchids - Dendrobium Berry 1068-16.jpg	48.75,38,105.89473684210526	0,0,-1	0,1,0	1,0,0	-70.59649122807019	0	0.2	3	Wooden_thin	-1:-1	11
+11	./Images/2713872/caption/caption4.png	48.75,38,105.89473684210526	0,0,-1	0,1,0	1,0,0	-50.59649122807019	-10	0.2	0.7	none(caption)	-1:-1	12

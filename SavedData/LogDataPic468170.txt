@@ -1,0 +1,20 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/468170/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/468170/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/468170/word_cloud.png	0,38,240.9477631578947	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/468170/Masaru Hashimoto cropped 2 Masaru Hashimoto and Yoshihiko Noda 20110927.jpg	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	-75.48684210526315	0	0.2	1.3899521531100478	Wooden_thin	-1:-1	3
+3	./Images/468170/caption/caption0.png	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	-65.53708133971291	-10	0.3	0.5	none(caption)	-1:-1	4
+4	./Images/468170/Masaru Hashimoto 20070310.jpg	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	-21.828947368421055	0	0.2	1.3899521531100478	Wooden_thin	-1:-1	5
+5	./Images/468170/caption/caption1.png	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	-11.879186602870815	-10	0.3	0.5	none(caption)	-1:-1	6
+6	./Images/468170/Masaru Hashimoto and Yoshihiko Noda 20110927 2.jpg	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	31.828947368421055	0	0.2	1.3899521531100478	Wooden_thin	-1:-1	7
+7	./Images/468170/caption/caption2.png	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	41.77870813397129	-10	0.3	0.5	none(caption)	-1:-1	8
+8	./Images/468170/Masayoshi Yoshino and Masaru Hashimoto 20170628 2.jpg	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	85.48684210526314	0	0.2	1.3899521531100478	Wooden_thin	-1:-1	9
+9	./Images/468170/caption/caption3.png	-48.75,38,122.3157894736842	0,0,1	0,1,0	-1,0,0	95.43660287081337	-10	0.3	0.5	none(caption)	-1:-1	10
+10	./Images/468170/Masaru Hashimoto 20030329.jpg	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	91.73684210526315	0	0.2	3	Wooden_thin	-1:-1	11
+11	./Images/468170/caption/caption4.png	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	109.73684210526315	-10	0.3	0.5	none(caption)	-1:-1	12
+12	./Images/468170/Masako Miyoshi and Masaru Hashimoto 20140115.jpg	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	30.578947368421055	0	0.2	3	Wooden_thin	-1:-1	13
+13	./Images/468170/caption/caption5.png	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	48.578947368421055	-10	0.3	0.5	none(caption)	-1:-1	14
+14	./Images/468170/Tsuyoshi Takagi and Masaru Hashimoto 20160319 2.jpg	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	-30.578947368421055	0	0.2	3	Wooden_thin	-1:-1	15
+15	./Images/468170/caption/caption6.png	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	-12.578947368421055	-10	0.3	0.5	none(caption)	-1:-1	16
+16	./Images/468170/Yasutada Ono Ryosei Tanaka and Masaru Hashimoto 20161011.jpg	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	-91.73684210526314	0	0.2	3	Wooden_thin	-1:-1	17
+17	./Images/468170/caption/caption7.png	48.75,38,122.3157894736842	0,0,-1	0,1,0	1,0,0	-73.73684210526314	-10	0.3	0.5	none(caption)	-1:-1	18

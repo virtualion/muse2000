@@ -1,0 +1,30 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/20232/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/20232/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/20232/word_cloud.png	0,38,436.0298684210526	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/20232/Pacific Culture Areas.jpg	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	-166.53508771929822	0	0.2	1.6987854251012142	Wooden_thin	-1:-1	3
+3	./Images/20232/caption/caption0.png	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	-153.04116059379214	-10	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/20232/Aerial view limestone islands palau1971.jpg	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	-97.92105263157893	0	0.2	1.6987854251012142	Wooden_thin	-1:-1	5
+5	./Images/20232/caption/caption1.png	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	-84.42712550607285	-10	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/20232/Onotoa.png	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	-29.307017543859644	0	0.2	1.6987854251012142	Wooden_thin	-1:-1	7
+7	./Images/20232/caption/caption2.png	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	-15.813090418353575	-10	0.2	0.7	none(caption)	-1:-1	8
+8	./Images/20232/Karte aus Zweigen - Marshallinseln.JPG	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	39.307017543859644	0	0.2	1.6987854251012142	Wooden_thin	-1:-1	9
+9	./Images/20232/caption/caption3.png	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	52.80094466936571	-10	0.2	0.7	none(caption)	-1:-1	10
+10	./Images/20232/Nan Madol 2.jpg	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	107.9210526315789	0	0.2	1.6987854251012142	Wooden_thin	-1:-1	11
+11	./Images/20232/caption/caption4.png	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	121.41497975708498	-10	0.2	0.7	none(caption)	-1:-1	12
+12	./Images/20232/Latte stones in Hagatna.jpg	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	176.53508771929825	0	0.2	1.6987854251012142	Wooden_thin	-1:-1	13
+13	./Images/20232/caption/caption5.png	-48.75,38,220.84210526315786	0,0,1	0,1,0	-1,0,0	190.02901484480432	-10	0.2	0.7	none(caption)	-1:-1	14
+14	./Images/20232/HH1883 pg125 Hafen von Jap.jpg	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	189.29323308270673	0	0.2	3	Wooden_thin	-1:-1	15
+15	./Images/20232/caption/caption6.png	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	209.29323308270673	-10	0.2	0.7	none(caption)	-1:-1	16
+16	./Images/20232/Koror in the Japanese Period3.JPG	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	126.1954887218045	0	0.2	3	Wooden_thin	-1:-1	17
+17	./Images/20232/caption/caption7.png	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	146.1954887218045	-10	0.2	0.7	none(caption)	-1:-1	18
+18	./Images/20232/TTPI High Commissioner and staff.jpg	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	63.097744360902254	0	0.2	3	Wooden_thin	-1:-1	19
+19	./Images/20232/caption/caption8.png	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	83.09774436090225	-10	0.2	0.7	none(caption)	-1:-1	20
+20	./Images/20232/US Navy 050628-N-7293M-093 U.S. Navy Capt. Conrad Divis and U.S. Air Force 2nd Lieutenant Kazumi Udagawa escort the emperor and empress of Japan.jpg	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	0.0	0	0.2	3	Wooden_thin	-1:-1	21
+21	./Images/20232/caption/caption9.png	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	20.0	-10	0.2	0.7	none(caption)	-1:-1	22
+22	./Images/20232/Plumeria Girl.jpg	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	-63.097744360902254	0	0.2	3	Wooden_thin	-1:-1	23
+23	./Images/20232/caption/caption10.png	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	-43.097744360902254	-10	0.2	0.7	none(caption)	-1:-1	24
+24	./Images/20232/Betel leaf betel nuts and lime.jpg	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	-126.19548872180445	0	0.2	3	Wooden_thin	-1:-1	25
+25	./Images/20232/caption/caption11.png	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	-106.19548872180445	-10	0.2	0.7	none(caption)	-1:-1	26
+26	./Images/20232/Yap Stone Money.jpg	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	-189.29323308270676	0	0.2	3	Wooden_thin	-1:-1	27
+27	./Images/20232/caption/caption12.png	48.75,38,220.84210526315786	0,0,-1	0,1,0	1,0,0	-169.29323308270676	-10	0.2	0.7	none(caption)	-1:-1	28

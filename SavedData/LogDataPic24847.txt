@@ -1,0 +1,9 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/24847/title_panel.png	-20.947368421052616,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/24847/title_panel.png	-20.947368421052616,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/24847/word_cloud.png	-108.1736842105263,38,99.41684210526314	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/24847/Yokohama-municipal-subway-B24-Kishine-koen-2-entrance.jpg	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	3	Wooden_thin	-1:-1	3
+3	./Images/24847/caption/caption0.png	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	27.0	-20	0.2	0.7	none(caption)	-1:-1	4
+4	Images/24847/table/fixed_のりば.png	108.1736842105263,38,100.42105263157893	0,0,-1	0,1,0	1,0,0	66.27789473684209	-10	0.2	2.1	Wooden_thin	-1:-1	5
+5	Images/24847/table/fixed_バス路線.png	108.1736842105263,38,100.42105263157893	0,0,-1	0,1,0	1,0,0	-1.4210854715202004e-14	-10	0.2	2.1	Wooden_thin	-1:-1	6
+6	Images/24847/table/fixed_利用状況.png	108.1736842105263,38,100.42105263157893	0,0,-1	0,1,0	1,0,0	-66.27789473684213	-10	0.2	3.0875	Wooden_thin	-1:-1	7

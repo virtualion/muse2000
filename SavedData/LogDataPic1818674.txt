@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/1818674/title_panel.png	3.684210526315809,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1818674/title_panel.png	3.684210526315809,28.656,31.5	1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/1818674/word_cloud.png	-84.15789473684208,38,83.16	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/1818674/Wagatani dam.jpg	0,38,165.9	1,0,0	0,1,0	0,0,1	-29.57894736842104	-10	0.2	1.6153846153846154	Wooden_thin	-1:-1	2
+3	./Images/1818674/caption/caption0.png	0,38,165.9	1,0,0	0,1,0	0,0,1	-18.502024291497964	-20	0.2	0.5	none(caption)	-1:-1	3
+4	./Images/1818674/Wagatani tsuribashi.jpg	0,38,165.9	1,0,0	0,1,0	0,0,1	39.57894736842104	-10	0.2	1.6153846153846154	Wooden_thin	-1:-1	4
+5	./Images/1818674/caption/caption1.png	0,38,165.9	1,0,0	0,1,0	0,0,1	50.65587044534412	-20	0.2	0.5	none(caption)	-1:-1	5
+6	./Images/1818674/Wagatani tsuribashi2.jpg	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	41.58	-10	0.2	3	Wooden_thin	-1:-1	6
+7	./Images/1818674/caption/caption2.png	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	59.58	-20	0.2	0.5	none(caption)	-1:-1	7
+8	./Images/1818674/ROUTE 364 Wagatani-dam.jpg	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	-41.58	-10	0.2	3	Wooden_thin	-1:-1	8
+9	./Images/1818674/caption/caption3.png	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	-23.58	-20	0.2	0.5	none(caption)	-1:-1	9

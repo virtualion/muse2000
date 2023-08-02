@@ -1,0 +1,23 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/3031869/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/3031869/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/3031869/word_cloud.png	0,38,143.40671052631578	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/3031869/Map of Novorossiya.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-46.60233918128655	0	0.2	0.8116959064327485	Wooden_thin	-1:-1	3
+3	./Images/3031869/caption/caption0.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-37.54385964912281	-10	0.2	0.7	none(caption)	-1:-1	4
+4	./Images/3031869/Fictional flag of Dnipropetrovsk People's Republic 2.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-33.70175438596491	0	0.2	0.8116959064327485	Wooden_thin	-1:-1	5
+5	./Images/3031869/caption/caption1.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-24.643274853801167	-10	0.2	0.7	none(caption)	-1:-1	6
+6	./Images/3031869/Fictional flag of Zaporozhye People's Republic.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-20.80116959064327	0	0.2	0.8116959064327485	Wooden_thin	-1:-1	7
+7	./Images/3031869/caption/caption2.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-11.742690058479525	-10	0.2	0.7	none(caption)	-1:-1	8
+8	./Images/3031869/Fictional flag of Kherson People's Republic.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	-7.900584795321635	0	0.2	0.8116959064327485	Wooden_thin	-1:-1	9
+9	./Images/3031869/caption/caption3.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	1.157894736842108	-10	0.2	0.7	none(caption)	-1:-1	10
+10	./Images/3031869/Fictional flag of Nikolayev People's Republic.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	5.0	0	0.2	0.8116959064327485	Wooden_thin	-1:-1	11
+11	./Images/3031869/caption/caption4.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	14.058479532163743	-10	0.2	0.7	none(caption)	-1:-1	12
+12	./Images/3031869/Fictional flag of the Sumy People's Republic.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	17.900584795321635	0	0.2	0.8116959064327485	Wooden_thin	-1:-1	13
+13	./Images/3031869/caption/caption5.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	26.95906432748538	-10	0.2	0.7	none(caption)	-1:-1	14
+14	./Images/3031869/Fictional flag of Kirovograd People's Republic.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	30.801169590643283	0	0.2	0.8116959064327485	Wooden_thin	-1:-1	15
+15	./Images/3031869/caption/caption6.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	39.85964912280703	-10	0.2	0.7	none(caption)	-1:-1	16
+16	./Images/3031869/Fictional flag of Nikolayev People's Republic.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	43.70175438596492	0	0.2	0.8116959064327485	Wooden_thin	-1:-1	17
+17	./Images/3031869/caption/caption7.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	52.76023391812866	-10	0.2	0.7	none(caption)	-1:-1	18
+18	./Images/3031869/Federal States of New Russia in Ukraine (Envisaged).PNG	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	56.60233918128655	0	0.2	0.8116959064327485	Wooden_thin	-1:-1	19
+19	./Images/3031869/caption/caption8.png	-48.75,38,73.05263157894737	0,0,1	0,1,0	-1,0,0	65.6608187134503	-10	0.2	0.7	none(caption)	-1:-1	20
+20	Images/3031869/table/fixed_構成体.png	48.75,38,73.05263157894737	0,0,-1	0,1,0	1,0,0	0.0	0	0.2	2.1	Wooden_thin	-1:-1	21

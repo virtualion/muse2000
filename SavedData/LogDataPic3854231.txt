@@ -1,0 +1,14 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/3854231/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/3854231/title_panel.png	-25.0,28.656,12	0,0,1	0,1,0	-1,0,0	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/3854231/word_cloud.png	0,38,110.89302631578947	1,0,0	0,1,0	0,0,1	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/3854231/Peninsula de La Magdalena.jpg	-48.75,38,56.63157894736842	0,0,1	0,1,0	-1,0,0	-15.815789473684209	0	0.2	1.1326315789473684	Wooden_thin	-1:-1	2
+3	./Images/3854231/caption/caption0.png	-48.75,38,56.63157894736842	0,0,1	0,1,0	-1,0,0	-5.152631578947368	-10	0.2	0.7	none(caption)	-1:-1	3
+4	./Images/3854231/Santander.Palacio.de.la.Magdalena.2.jpg	-48.75,38,56.63157894736842	0,0,1	0,1,0	-1,0,0	25.815789473684212	0	0.2	1.1326315789473684	Wooden_thin	-1:-1	4
+5	./Images/3854231/caption/caption1.png	-48.75,38,56.63157894736842	0,0,1	0,1,0	-1,0,0	36.47894736842105	-10	0.2	0.7	none(caption)	-1:-1	5
+6	./Images/3854231/Zoomagdalena.jpg	48.75,38,56.63157894736842	0,0,-1	0,1,0	1,0,0	37.754385964912274	0	0.2	3	Wooden_thin	-1:-1	6
+7	./Images/3854231/caption/caption2.png	48.75,38,56.63157894736842	0,0,-1	0,1,0	1,0,0	57.754385964912274	-10	0.2	0.7	none(caption)	-1:-1	7
+8	./Images/3854231/Vital Alsar - Galeones.jpg	48.75,38,56.63157894736842	0,0,-1	0,1,0	1,0,0	-7.105427357601002e-15	0	0.2	3	Wooden_thin	-1:-1	8
+9	./Images/3854231/caption/caption3.png	48.75,38,56.63157894736842	0,0,-1	0,1,0	1,0,0	19.999999999999993	-10	0.2	0.7	none(caption)	-1:-1	9
+10	./Images/3854231/Santander.Playa.Magdalena.jpg	48.75,38,56.63157894736842	0,0,-1	0,1,0	1,0,0	-37.754385964912295	0	0.2	3	Wooden_thin	-1:-1	10
+11	./Images/3854231/caption/caption4.png	48.75,38,56.63157894736842	0,0,-1	0,1,0	1,0,0	-17.754385964912295	-10	0.2	0.7	none(caption)	-1:-1	11
