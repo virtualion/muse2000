@@ -1,0 +1,121 @@
+<page>
+    <title>対称差</title>
+    <ns>0</ns>
+    <id>26088</id>
+    <revision>
+      <id>92113888</id>
+      <parentid>87884577</parentid>
+      <timestamp>2022-10-25T01:22:30Z</timestamp>
+      <contributor>
+        <username>砂塵嵐</username>
+        <id>972974</id>
+      </contributor>
+      <comment>3集合のベン図を英語版のものに</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11116" xml:space="preserve">{{出典の明記|date=2018年5月}}
+[[File:Venn-Diagram-XOR.png|thumb|alt=ベン図による対称差の表現|ベン図による対称差の表現]]
+[[File:Venn 0110 1001.svg|thumb|
+&lt;math&gt;~(A \triangle B) \triangle C&lt;/math&gt; のベン図
+
+{{nowrap|[[File:Venn 0110 0110.svg|40px]]&lt;math&gt;~\triangle~&lt;/math&gt;[[File:Venn 0000 1111.svg|40px]]}}&lt;math&gt;~=~&lt;/math&gt;[[File:Venn 0110 1001.svg|40px]]
+]]
+[[数学]]において、2 つの[[集合]] {{math|''A''}} と {{math|''B''}} との'''対称差'''（たいしょうさ、{{lang-en-short|symmetric difference}}&lt;ref&gt;{{Cite book|和書|year=1998|title=理化学英和辞典|chapter=symmtric dfference|editor=小田　稔ほか|publisher=JapanKnowledge}}&lt;/ref&gt;）とは、“{{math|''A''}} に属し、{{math|''B''}} に属さないもの” と “{{math|''B''}} に属し、{{math|''A''}} に属さないもの” とを全部集めて得られる集合である{{sfn|松坂|1968|pp=21-22|ps=&amp;nbsp;&amp;nbsp;第1章 §2 問題7-9}}。一般に、集合 {{math|''A''}} と {{math|''B''}} との対称差を、記号
+{{indent|{{math|''A''△''B''}}{{sfn|松坂|1968|pp=21-22|ps=&amp;nbsp;&amp;nbsp;第1章 §2 問題7-9}}&amp;nbsp;&amp;nbsp;あるいは&amp;nbsp;&amp;nbsp;{{math|''A''⊖''B''}}&amp;nbsp;&amp;nbsp;あるいは&amp;nbsp;&amp;nbsp;{{math|''A''⊕''B''}}}}
+などで表す。例えば、{{math|{{mset|1, 2, 3}}}} と {{math|{{mset|3, 4}}}} との対称差は {{math|{{mset|1, 2, 4}}}} に等しい： {{math|1={{mset|1, 2, 3}}△{{mset|3, 4}} = {{mset|1, 2, 4}}}}。
+
+任意の集合に対して、その集合の[[冪集合]]は、対称差 {{math|△}} を[[二項演算|算法]]として[[アーベル群]]となる{{sfn|松坂|1976|p=50|ps=&amp;nbsp;&amp;nbsp;第2章 §2 問題9}}。[[空集合]] {{math|∅}} はその群の[[単位元]]であり、その群の任意の元はその元自身の[[逆元]]である。また、任意の集合に対して、その集合の冪集合は、対称差 {{math|△}} を加法とし[[共通部分 (数学)|共通部分]] {{math|∩}} を乗法とするとき、[[ブール環]]となる{{sfn|松坂|1976|p=111|ps=&amp;nbsp;&amp;nbsp;第3章 §1 問題8}}。
+
+== 性質 ==
+対称差は、[[和集合]]と[[差集合]]の記号を用いて次のように表すことができる{{sfn|松坂|1968|pp=21-22|ps=&amp;nbsp;&amp;nbsp;第1章 §2 問題7-9}}：
+{{indent|{{math|1=''A''△''B'' = (''A''&amp;minus;''B'')∪(''B''&amp;minus;''A'')}}。}}
+
+{{math|''X''}} を 1 つの集合とし、{{math|''A'', ''B''}} を {{math|''X''}} の 2 つの[[部分集合]]とする。集合 {{math|{{mset|0, 1}}}} における二項演算として[[排他的論理和]] {{math|⊕ : {{mset|0, 1}} × {{mset|0, 1}}}} → {{math|{{mset|0, 1}}}} を定義すれば、{{math|''X''}} における[[指示関数]]に関して次が成り立つ： {{math|''X''}} の任意の元 {{math|''x''}} に対して
+{{indent|{{math|1=χ {{sub|''A''△''B''}} (''x'') = χ &lt;sub&gt;''A''&lt;/sub&gt; (''x'') ⊕ χ &lt;sub&gt;''B''&lt;/sub&gt; (''x'')}}。}}
+[[アイバーソンの記法]]を用いれば次のようにも書ける：
+{{indent|{{math|1=[ ''x'' ∈ ''A''△''B'' ] = [ ''x'' ∈ ''A'' ] ⊕ [ ''x'' ∈ ''B'' ]}}。}}
+
+対称差はまた、和集合、差集合、共通部分の記号を用いて次のように表すことができる{{sfn|松坂|1968|pp=21-22|ps=&amp;nbsp;&amp;nbsp;第1章 §2 問題7-9}}：
+{{indent|{{math|1=''A''△''B'' = (''A''∪''B'')&amp;minus;(''A''∩''B'')}}。}}
+特に、{{math|''A''△''B''}} は {{math|''A''∪''B''}} の部分集合である： {{math|''A''△''B'' ⊂ ''A''∪''B''}}。また、{{math|''A''}} と {{math|''B''}} とが[[素集合|互いに素]]であるときかつそのときに限り {{math|1=''A''△''B'' = ''A''∪''B''}} である。さらには、{{math|''A''△''B''}} と {{math|''A''∩''B''}} とは互いに素であって、集合 {{math|{{mset|''A''△''B'', ''A''∩''B''}}}} は {{math|''A''∪''B''}} の 1 つの[[集合の分割|分割]]である。従って、対称差と共通部分とを最初に定義しておき、それらの記号を用いて、式
+{{indent|{{math|1=''A''∪''B'' = (''A''△''B'')△(''A''∩''B'')}}}}
+によって和集合を定義することもできる。
+
+=== 代数学的な性質 ===
+対称差について、次の 4 つが成り立つ{{sfn|松坂|1968|pp=21-22|ps=&amp;nbsp;&amp;nbsp;第1章 §2 問題7-9}}：
+# {{math|1=(''A''△''B'')△''C'' = ''A''△(''B''△''C'')}}&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;（[[結合法則]]）、
+# {{math|1=''A''△∅ = ∅△''A'' = ''A''}}、
+# {{math|1=''A''△''A'' = ∅}}、
+# {{math|1=''A''△''B'' = ''B''△''A''}}&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;（[[交換法則]]）。
+
+{{math|''X''}} を 1 つの集合とし、{{math|P(''X'')}} を {{math|''X''}} の冪集合とする。{{math|P(''X'') × P(''X'')}} の元 {{math|(''A'', ''B'')}} に {{math|P(''X'')}} の元 {{math|''A''△''B''}} を対応させれば、{{math|P(''X'')}} における 1 つの二項算法が得られる。上の 4 つの性質から、その算法に関して {{math|P(''X'')}} はアーベル群となる。空集合 {{math|∅}} はその群の単位元である。{{math|P(''X'')}} の任意の元 {{math|''A''}} に対して {{math|''A''}} は {{math|''A''}} の逆元であるから、{{math|P(''X'')}} は[[基本アーベル群|ブール群]]でもある。{{math|''X''}} がちょうど 2 個の元から成る集合であるならば、その可換群 {{math|P(''X'')}} は[[クラインの四元群]] {{math|'''Z'''&lt;sub&gt;2&lt;/sub&gt; × '''Z'''&lt;sub&gt;2&lt;/sub&gt;}}&lt;ref group="注釈"&gt;{{math|'''Z'''&lt;sub&gt;2&lt;/sub&gt;}} は {{math|'''Z'''}} の {{math|2'''Z'''}} による[[商群]]に等しい： {{math|1='''Z'''&lt;sub&gt;2&lt;/sub&gt; = '''Z'''/2'''Z'''}}。ここで、{{math|'''Z'''}} は[[加法群]]（[[整数]]全体の集合）、{{math|2'''Z'''}} は {{math|{{mset|2}}}} によって[[群の生成系|生成]]される {{math|'''Z'''}} の[[部分群]]（[[偶数]]全体の集合）である。&lt;/ref&gt; と[[群同型|同型]]である。
+
+共通部分は対称差に対して[[分配法則]]を満たす{{sfn|松坂|1968|pp=21-22|ps=&amp;nbsp;&amp;nbsp;第1章 §2 問題7-9}}：
+{{indent|{{math|1=''A''∩(''B''△''C'') = (''A''∩''B'')△(''A''∩''C'')}}。}}
+よって、{{math|''X''}} を 1 つの集合とするとき、{{math|P(''X'') × P(''X'')}} の元 {{math|(''A'', ''B'')}} に {{math|P(''X'')}} の元 {{math|''A''△''B''}} を対応させて得られる二項算法を加法とし、{{math|P(''X'') × P(''X'')}} の元 {{math|(''A'', ''B'')}} に {{math|P(''X'')}} の元 {{math|''A''∩''B''}} を対応させて得られる二項算法を乗法とすれば、{{math|P(''X'')}} は[[環 (数学)|環]]となる。また、{{math|P(''X'')}} はブール環でもある。
+
+=== その他の性質 ===
+* {{math|''X''}} を 1 つの集合とし、{{math|''A'', ''B''}} を {{math|''X''}} の 2 つの部分集合とするとき、次が成り立つ：
+{{indent|{{math|1=''A''△''B'' = (''X''&amp;minus;''A'')△(''X''&amp;minus;''B'')}}。}}
+* {{math|''Λ''}} を 1 つの集合とし、{{math|''Λ''}} の各元 {{math|''λ''}} に対して 2 つの集合 {{math|''A''&lt;sub&gt;''λ''&lt;/sub&gt; , ''B''&lt;sub&gt;''λ''&lt;/sub&gt;}} が定められているとき、次が成り立つ：
+{{indent|&lt;math&gt;\left(\bigcup_{\lambda\in\Lambda}A_\lambda\right)\triangle\left(\bigcup_{\lambda\in\Lambda}B_\lambda\right)\subset\bigcup_{\lambda\in\Lambda}\left(A_\lambda\triangle B_\lambda\right)&lt;/math&gt;。}}
+* {{math|''f''}} を集合 {{math|''S''}} から集合 {{math|''T''}} への 1 つの写像とし、{{math|''A'', ''B''}} を {{math|''T''}} の 2 つの部分集合とするとき、次が成り立つ：
+{{indent|{{math|1=''f'' &lt;sup&gt;&amp;minus;1&lt;/sup&gt;(''A''△''B'') = ''f'' &lt;sup&gt;&amp;minus;1&lt;/sup&gt;(''A'') △ ''f'' &lt;sup&gt;&amp;minus;1&lt;/sup&gt;(''B'')}}。}}
+
+== 多項対称差 ==
+対称差は結合法則と交換法則を満たすので、{{math|''n''}}個の集合{{math|''A''&lt;sub&gt;0&lt;/sub&gt;}}…{{math|''A''&lt;sub&gt;''n''-1&lt;/sub&gt;}}の対称差{{math|''A''&lt;sub&gt;0&lt;/sub&gt;}}△…△{{math|''A''&lt;sub&gt;''n''-1&lt;/sub&gt;}}=(…({{math|''A''&lt;sub&gt;0&lt;/sub&gt;}}△{{math|''A''&lt;sub&gt;1&lt;/sub&gt;)}}△…△{{math|''A''&lt;sub&gt;''n''-1&lt;/sub&gt;)}}は順番に依らない。このことから対称差はより一般に（各元における重複度が有限であるような）集合族　&lt;math&gt;\{A_\lambda\}_{\lambda\in\Lambda}&lt;/math&gt;　に対し以下のように拡張できる。
+:&lt;math&gt;\triangle_{\lambda\in\Lambda} A_\lambda = \left\{ a \in \bigcup_{\lambda\in\Lambda}A_\lambda : |\{\lambda\in\Lambda:a \in A_\lambda\}| \mbox{ が 奇 数 }\right\} &lt;/math&gt;.
+上記のような集合族について &lt;math&gt;\Lambda&lt;/math&gt; 及び各 &lt;math&gt;A_\lambda&lt;/math&gt; がともに有限集合であるとき、対称差の濃度について以下のような公式が成り立つ（[[和集合#性質|和集合]]の場合にも同様の公式が成り立つ）。
+:&lt;math&gt;|\triangle_{\lambda\in\Lambda} A_\lambda| = \sum_{\Mu\subset\Lambda} (-2)^{|\Mu|-1}  |\bigcap_{\lambda\in\Mu} A_\lambda|&lt;/math&gt;.
+
+== 測度空間上の対称差 ==
+2つの集合の対称差の「大きさ」は2つの集合がどれだけ異なるかを表していると思える。
+今 {{math|''&amp;mu;''}} を集合 {{math|''X''}} 上の[[測度]]とし {{math|''&amp;Sigma;''}} を測度有限な可測集合全体とする。
+このとき{{math|''&amp;Sigma;&amp;times;&amp;Sigma;''}}上の関数の{{math|''d''}}を
+:&lt;math&gt;d_\mu (A,B):=\mu(A\triangle B)&lt;/math&gt;
+と定めると、これは {{math|''&amp;Sigma;''}} 上の[[擬距離空間|擬距離]]になる。
+
+この擬距離に関して2つの集合間の距離が0になることは、2つの集合の定義関数が {{math|''&amp;mu;''}} に関して殆どいたるところ一致することの必要十分条件である。
+
+{{math|''A,B''}} が {{math|''&amp;Sigma;''}} の元であるとき &lt;math&gt;|\mu(A) - \mu(B)| \leq \mu(A\,\triangle\,B)&lt;/math&gt; が成立する。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+&lt;references group="注釈"/&gt;
+=== 出典 ===
+&lt;references/&gt;
+
+== 参考文献 ==
+* {{Citation | last=松坂 | first=和夫 | author-link=松坂和夫 | year=1968 | title=集合・位相入門 | place=日本 | publisher=岩波書店| isbn=4-00-005424-4}}
+* {{Citation | last=松坂 | first=和夫 | author-link=松坂和夫 | year=1976 | title=代数系入門 | place=日本 | publisher=岩波書店| isbn=4-00-005634-4}}
+
+== 関連項目 ==
+* [[完全加法族]]
+* [[差集合]]
+* [[集合の代数学]]
+* [[集合論]]
+* [[対称性]]
+* [[排他的論理和]]
+* [[ファジィ集合]]
+* [[ブール関数]]
+* {{仮リンク|ロジカルグラフ|en|Logical graph}}
+{{集合論}}
+
+== 外部リンク ==
+* {{nlab|urlname=symmetric+difference|title=symmetric difference}}
+* {{MathWorld|urlname=SymmetricDifference|title=Symmetric Difference}}
+* {{PlanetMath|urlname=SymmetricDifference|title=symmetric difference}}
+* {{ProofWiki|urlname=Definition:Symmetric_Difference|title=Definition:Symmetric Difference}}
+* {{SpringerEOM|urlname=Symmetric_difference_of_sets|title=Symmetric difference of sets|author= Voitsekhovskii, M.I.}}
+
+{{Settheory-stub}}
+{{DEFAULTSORT:たいしようさ}}
+[[Category:減法]]
+[[Category:集合の基本概念]]
+[[Category:初等数学]]
+[[Category:数学に関する記事]]</text>
+      <sha1>s3qpeusyn036izobys4i139liuvrfmm</sha1>
+    </revision>
+  </page>
+  

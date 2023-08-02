@@ -1,0 +1,75 @@
+<page>
+    <title>キク亜綱</title>
+    <ns>0</ns>
+    <id>874926</id>
+    <revision>
+      <id>61034318</id>
+      <parentid>53047456</parentid>
+      <timestamp>2016-09-04T23:29:49Z</timestamp>
+      <contributor>
+        <username>MomijiRoBot</username>
+        <id>1123658</id>
+      </contributor>
+      <minor />
+      <comment>Bot: &lt;br style="clear:both"/&gt; → {{clear}} ∵Tag with incorrect syntax: Check Wikipedia #2</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2999" xml:space="preserve">{{生物分類表
+| 名称 = キク亜綱
+| 色 = lightgreen
+| 画像=[[ファイル:Himawari.jpg|250px]]
+| 画像キャプション = [[ヒマワリ]]（[[キク目]][[キク科]]）
+| 分類体系 = [[クロンキスト体系]]
+| 界 = [[植物界]] {{Sname||Plantae}}
+| 門 = [[被子植物門]] {{Sname||Magnoliophyta}}
+| 綱 =[[双子葉植物綱]] {{Sname||Magnoliopsida}}
+| 亜綱 = '''キク亜綱''' {{Sname||Asteridae}}
+| 下位分類名 =[[目 (分類学)|目]]
+| 下位分類 =本文参照
+| 学名 ={{Sname|Asteridae}}&lt;br /&gt;{{AUY|Takht.|1967|bio=bot}} &lt;ref&gt;{{Cite web | title = Indices Nominum Supragenericorum Plantarum Vascularium – A. (Entries as of 17 Feb 2011) | url = http://www.plantsystematics.org/reveal/pbio/fam/allspgfileA.html | accessdate = 2012-08-28 | author = James L. Reveal | work = [http://www.plantsystematics.org/reveal/pbio/fam/allspgnames.html Alphabetical Listing by Genera of Validly Published Suprageneric Names]}}&lt;/ref&gt;
+}}
+
+'''キク亜綱''' (Asteridae) は[[被子植物]]の[[タクソン]]の一つで、[[キク科]]を含む[[亜綱]]の階級。[[双子葉植物]]の下位区分。代表的な[[分類体系]]では、[[クロンキスト体系]]がこのタクソンを認識している。
+
+==クロンキスト体系==
+双子葉類でもっとも進化の進んだグループと捉えている。11[[目 (分類学)|目]]がここに含められている。
+* [[被子植物門]] division [[:w:Magnoliophyta|Magnoliophyta]]
+** [[モクレン綱]]（双子葉綱）class [[:w:Magnoliopsida|Magnoliopsida]]
+*** '''キク亜綱''' subclass [[:w:Asteridae|Asteridae]]
+**** [[リンドウ目]] order [[:w:Gentianales|Gentianales]]
+**** [[ナス目]] order [[:w:Solanales|Solanales]]
+**** [[シソ目]] order [[:w:Lamiales|Lamiales]]
+**** [[アワゴケ目]] order [[:w:Callitrichales|Callitrichales]]
+**** [[オオバコ目]] order [[:w:Plantaginales|Plantaginales]]
+**** [[ゴマノハグサ目]] order [[:w:Scrophulariales|Scrophulariales]]
+**** [[キキョウ目]] order [[:w:Campanulales|Campanulales]]
+**** [[アカネ目]] order [[:w:Rubiales|Rubiales]]
+**** [[マツムシソウ目]] order [[:w:Dipsacales|Dipsacales]]
+**** [[カリケラ目]] order [[:w:Calycerales|Calycerales]]
+**** [[キク目]] order [[:w:Asterales|Asterales]]
+
+{{Commonscat|Asteridae}}
+&lt;!--{{Wikispecies|Asteridae}}--&gt;
+
+{{ウィキポータルリンク|植物|[[Image:Gluecksklee.jpg|32px]]}}
+{{ウィキプロジェクトリンク|生物|[[Image:Gluecksklee.jpg|32px]]}}
+
+{{clear}}
+
+&lt;gallery&gt;
+ファイル:W rindou1111.jpg|[[リンドウ]]（[[リンドウ目]][[リンドウ科]]）
+ファイル:W oobako4041.jpg|[[オオバコ]]（[[オオバコ目]][[オオバコ科]]）
+ファイル:Aubergine.jpg|[[ナス]]（[[ナス目]][[ナス科]]）
+ファイル:Salvia splendens - blossoms (aka).jpg|サルビア（[[シソ目]][[シソ科]]）
+&lt;/gallery&gt;
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+{{デフォルトソート:きくあこう}}
+[[Category:植物分類]]</text>
+      <sha1>defzhxswbeseihgo6h9t0kloh5dcfzd</sha1>
+    </revision>
+  </page>
+  

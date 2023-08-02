@@ -1,0 +1,203 @@
+<page>
+    <title>佐野藩</title>
+    <ns>0</ns>
+    <id>214930</id>
+    <revision>
+      <id>91638854</id>
+      <parentid>91627974</parentid>
+      <timestamp>2022-09-25T14:31:18Z</timestamp>
+      <contributor>
+        <username>桂鷺淵</username>
+        <id>151322</id>
+      </contributor>
+      <comment>/* 佐野氏改易後の佐野地域 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19426" xml:space="preserve">'''佐野藩'''（さのはん）は、[[下野国]][[安蘇郡]]の佐野（現在の[[栃木県]][[佐野市]]）周辺に存在した[[藩]]。江戸時代初期には、中世以来の当地の豪族である[[佐野氏]]が3万9000石を治め、[[佐野城]]（現在の佐野市[[若松町 (佐野市)|若松町]]）を築いて城下町を整備したが、1614年に改易された。その後1684年に譜代大名[[堀田氏]]出身の[[堀田正高]]が1万石の大名となり、[[佐野陣屋]]（現：同市[[植下町]]）に藩庁を置いた。堀田家は10年あまりで[[近江国]][[堅田藩]]に移されたが、1825年に[[堀田正敦]]が居所を父祖ゆかりの佐野に戻しており、佐野藩が「再興」されたとみなされる。堀田家の佐野藩は廃藩置県まで続いた。
+
+== 藩史 ==
+{{OSM Location map
+|coord = {{coord|36.3200|139.5900}}
+|zoom = 10
+|float = right
+|width = 350
+|height = 300
+|nolabels=1
+| scalemark = 1
+| caption =関連地図（佐野市周辺）{{efn|赤丸は本文内で藩領として言及する土地。青丸はそれ以外。黒文字は本文内で言及する土地。灰文字はそれ以外。}}
+&lt;!-- 1つ目のパラメータセット --&gt;
+|label1 = 佐野陣屋（植野）　 | label-color1 = black |label-pos1 = right
+|mark1=Red pog.svg |mark-size1 =10
+|mark-coord1 ={{coord|36.2925|139.5835}}
+| mark-title1 = 佐野陣屋（植野） |mark-description1=座標は堀田佐野城址公園。
+&lt;!-- 2つ目のパラメータセット --&gt;
+|label2 = 佐野城（春日岡） | label-color2 = black |label-pos2 = right
+|mark2=Red pog.svg|mark-size2 = 10
+|mark-coord2 ={{coord|36.3196|139.5790}}
+|mark-title2 = 佐野城 |mark-description2 = 座標は佐野城跡。
+&lt;!-- 3つ目のパラメータセット --&gt;
+|label3 = 唐沢山城 | label-color3 = black |label-pos3 = top
+|mark3=Red pog.svg|mark-size3 = 10
+|mark-coord3 ={{coord|36.3539|139.6007}}
+|mark-title3 = 唐沢山城 |mark-description3 = 座標は唐沢山城跡。
+&lt;!-- 4つ目のパラメータセット --&gt;
+|label4 =足利 | label-color4 = gray |label-pos4 = bottom
+|mark4=Blue pog.svg|mark-size4 = 8
+|mark-coord4 =　{{coord|36.3368|139.4487}}
+|mark-title4 = 足利 |mark-description4 = 座標は足利藩陣屋跡。
+&lt;!-- 5つ目のパラメータセット --&gt;
+|label5 =館林 | label-color5 = gray |label-pos5 = bottom
+|mark5=Blue pog.svg|mark-size5 = 8
+|mark-coord5 =　{{coord|36.2457|139.5405}}
+|mark-title5 = 館林 |mark-description5 = 座標は館林城跡。
+&lt;!-- 6つ目のパラメータセット --&gt;
+|label6 =栃木 | label-color6 = gray |label-pos6 = bottom
+|mark6=Blue pog.svg|mark-size6 = 8
+|mark-coord6 =　{{coord|36.3790|139.7313}}
+|mark-title6 = 栃木 |mark-description6 = 座標は幸来橋。
+&lt;!-- 7つ目のパラメータセット --&gt;
+|label7 =小山 | label-color7 = black |label-pos7 = left
+|mark7=Blue pog.svg|mark-size7 = 8
+|mark-coord7 =　{{coord|36.3183|139.8000}}
+|mark-title7 = 小山 |mark-description7 = 座標は祗園城跡（小山城跡）。
+}}
+=== 前史 ===
+「佐野」はもともと、平安時代の荘園「[[佐野荘]]」に由来する広域地名である&lt;ref name="sano_4742"/&gt;&lt;ref name="kadokawa-chimei_7279108"/&gt;。この佐野荘の地頭として根を下ろし、地域に勢力を張った豪族が[[佐野氏]]である&lt;ref name="kadokawa-chimei_7279108"/&gt;。戦国期に佐野氏は[[唐沢山城]]を拠点とし、[[佐野昌綱]]が上杉謙信をたびたび退けたことでも知られる（[[唐沢山城の戦い]]）。天正13年（1585年）に[[佐野宗綱]]が戦死すると、後継を巡り佐野家中では親北条派と反北条派との間で対立が生じ&lt;ref name="sano_8773"/&gt;、[[北条氏政]]の弟の[[北条氏忠|氏忠]]が佐野家の家督に送り込まれると&lt;ref name="sekaidaihyakka_sanoshi"/&gt;、一族{{efn|宗綱の叔父&lt;ref name="asahijinmei_sano-fusatsuna"/&gt;、あるいは宗綱の弟&lt;ref name="sano_4917"/&gt;という。}}の[[佐野房綱]]（天徳寺宝衍）らが佐野家を去るなど混乱が生じた&lt;ref name="asahijinmei_sano-fusatsuna"/&gt;。
+
+なお、中世に佐野荘のうちの一部が「{{ruby|天命|てんみょう}}」（のちに「天明」の表記が広がる）と呼ばれ、鋳物生産の中心地として（[[天明鋳物]]。とくに[[天明釜]]で知られる）、また町場（天命宿）を擁する交通の要衝{{efn|佐野地域には古代[[東山道]]が通過するなど、交通の要地であった&lt;ref name="iwata_sho1147"/&gt;。}}として史料に現れる。この天命（天明）も広域地名であり、鋳物生産地である「天命」と中世天命宿の場所は一致しないとの指摘がある&lt;ref name="iwata_sho1147"/&gt;。後述のように近世の佐野城下町は天明宿と呼ばれるが、中世天命宿との関係については同一の場所とするもの、移動して名を受け継いだものなど諸説ある&lt;ref name="iwata_sho1147"/&gt;。
+
+=== 近世大名としての佐野氏 ===
+[[File:Sano Shiroyama Park.JPG|thumb|250px|佐野氏が築いた佐野城（春日岡城）跡。城山公園として整備されている。]]
+佐野房綱（天徳寺宝衍）は[[豊臣秀吉]]に仕えて関東・南東北の大名の[[取次 (豊臣政権)|取次]]を務めた&lt;ref name="asahijinmei_sano-fusatsuna"/&gt;。天正18年（1590年）の小田原合戦では豊臣軍の関東への道案内を務めるとともに&lt;ref name="sano_4917"/&gt;、唐沢山城を奪回した&lt;ref name="sano_4917"/&gt;。小田原合戦後に秀吉から佐野家当主の地位を認められて&lt;ref name="asahijinmei_sano-fusatsuna"/&gt;本領3万9000石を安堵された&lt;ref name="nipponica_sanohan"/&gt;&lt;ref name="hanmei_sanohan"/&gt;。文禄元年（1592年）、房綱は秀吉の命を受け、[[富田一白]]（知信）の子の[[佐野信吉|信吉]]を婿養子に迎えて隠居した&lt;ref name="asahijinmei_sano-fusatsuna"/&gt;。
+
+佐野信吉は関ヶ原の戦いでは東軍に属して所領を保った&lt;ref name="hanmei_sanohan"/&gt;&lt;ref name="sano_8775"/&gt;。信吉は、慶長7年（1602年）に居城を[[唐沢山城]]から[[佐野城]]（春日岡城）に移した&lt;ref name="nipponica_sanohan"/&gt;。これには、堅城として知られた唐沢山城の破却が命じられたためとされ&lt;ref name="hanmei_sanohan"/&gt;{{efn|[[軍記物語]]である『[[唐沢城老談記]]』（『[[続群書類従]]』巻第六百二十七）は以下のような話を載せる。江戸で火災があった際に、佐野信吉（原文では「信宣」）が居城の唐沢山城からこれを遠望し、早馬で江戸に駆けつけて家康に見舞いのため参上した。早い到着に感心した家康が信吉に、江戸の火事をどのように知らされたかを問うたところ、信吉は居城から江戸が見下ろせますので、と答えた。これは家康の不興を買い、江戸城が佐野の城から見下ろされているのはよくないので、信吉は平地に城を移すようにと命じた。かくて信吉は家老たちと相談し、唐沢山城から春日岡城に城を移した&lt;ref&gt;刊本『続群書類従 22上(合戦部)』p.231&lt;/ref&gt;（『唐沢城老談記』は、信吉を「我儘」で家を滅ぼした暗君として描いている）。この話の筋を引いて、佐野家改易の説明とする書籍類もある。}}、佐野城の築城は慶長5年（1600年）に開始されたともいう&lt;ref name="sano_8763"/&gt;。佐野城の城下町として「佐野町」&lt;ref name="kadokawa-chimei_7279108"/&gt;が整備され、{{ruby|天明|てんみょう}}（天命）宿を中心として&lt;ref name="kadokawa-chimei_7279839"/&gt;、町は碁盤の目状に整然と区画された&lt;ref name="sano_8763"/&gt;。信吉は城下町建設とともに、鋳物師を城下の金屋町に集住させた（現在の佐野市には金屋仲町・金屋下町・金吹町などの地名が残る）
+&lt;ref name="japanknowledge_32"/&gt;。
+
+[[大坂冬の陣]]直前の慶長19年（1614年）、佐野信吉は実兄の[[富田信高]]（伊予国宇和島藩主）の改易に連座し、3万9000石を没収された&lt;ref name="nipponica_sanohan"/&gt;&lt;ref name="hanmei_sanohan"/&gt;。
+
+=== 佐野氏改易後の佐野地域 ===
+[[ファイル:壬生通り.png|thumb|350px|[[日光例幣使街道]]およびその周辺の街道]]
+佐野氏の改易後、佐野地域は[[天領|幕府直轄領]]とされた&lt;ref name="sano_4742"/&gt;。元和2年（1616年）には[[本多正純]]領（当時[[小山藩]]主、のち[[宇都宮藩]]主）となるが、同8年に本多正純が改易されたことにより、再度幕府直轄領となった&lt;ref name="sano_4742"/&gt;。以後、佐野地域をまとめて統治する大名は現れず、諸藩領や旗本領に分割されることとなる&lt;ref name="sano_4742"/&gt;。
+
+城下町としての性格を失った「佐野町」は、天明町と小屋町の2つの町として把握され{{efn|明治初年に天明町・小屋町は[[佐野町 (栃木県)|佐野町]]として行政的に統合され、現代の佐野市の中核となる。}}、[[日光例幣使街道]]の[[天明宿]]が置かれて繁栄する&lt;ref name="kadokawa-chimei_7279839"/&gt;&lt;ref name="kadokawa-chimei_7279108"/&gt;。寛永10年（1633年）以後、天明町・小屋町を含む地域は[[彦根藩]]領となった&lt;ref name="kadokawa-chimei_7279045"/&gt;。彦根藩による佐野領15か村統治の拠点として、万治2年（1659年）に堀米町に陣屋（堀米陣屋）が置かれ&lt;ref name="kadokawa-chimei_7280711"/&gt;、以後幕末・明治維新期まで続いた。
+
+=== 堀田佐野藩 ===
+{{see also|佐野陣屋|堅田藩}}
+貞享元年（1684年）、大老[[堀田正俊]]（[[古河藩]]13万石）が江戸城中で[[稲葉正休]]に刺殺された。正俊の三男の[[堀田正高]]は、父の遺領から1万石を分知されることとなり、下野国安蘇郡・都賀郡に所領を与えられて&lt;ref name="kadokawa-chimei_7277875"/&gt;「佐野」を居所とした。『角川地名大辞典』によれば、赤坂・田島・植野の3か村が佐野領に組み入れられ、陣屋は植野村に置かれたという&lt;ref name="kadokawa-chimei_7277875"/&gt;。堀田家の佐野藩については、江戸時代初期の佐野家の佐野藩と区別するため「堀田佐野藩」と称されることがある&lt;ref name="sano_4742"/&gt;。
+
+堀田正高は元禄11年（1698年）に[[近江国]][[堅田藩]]に移され、所領は再び幕府直轄領となった。正高の移封により、陣屋は廃墟化したという&lt;ref name="sano_5272"/&gt;。
+
+正高から4代おいて、[[堀田正敦]]は文政9年（1826年）に近江国高島郡の所領に替えて下野国安蘇郡を与えられた。正敦は城地を父祖の地である佐野に移すこととし、植野村に佐野陣屋（植野陣屋）を再興した&lt;ref name="kadokawa-chimei_7277875"/&gt;&lt;ref name="sano_5272"/&gt;。これにより佐野藩が「再興」されたとみなされる。
+
+堀田氏は江戸時代を通して[[定府]]であり、[[参勤交代]]を行っていない{{sfn|東谷智|2017|p=25}}。1万6000石の領地は下野・上野・近江3国に分散していた&lt;ref name="nipponica_sanohan"/&gt;&lt;ref name="hanmei_sanohan"/&gt;。1826年以後の堀田家は佐野と堅田に陣屋を置いて所領の支配を行っていた{{sfn|東谷智|2017|p=25}}。
+
+堀田家支配のもとで幕末・明治維新を迎えた。1871年（明治4年）、廃藩置県によって'''佐野県'''となり、次いで[[栃木県]]の一部となった&lt;ref name="hanmei_sanohan"/&gt;。
+
+== 歴代藩主 ==
+=== 佐野家 ===
+3万9000石 外様
+#[[佐野信吉]]
+
+=== 幕府領 ===
+
+=== 堀田家 ===
+1万石 譜代 [[佐倉藩]]の支藩
+#[[堀田正高]]
+
+=== 幕府領 ===
+
+=== 堀田家 ===
+1万3000石→1万6000石 譜代
+#[[堀田正敦]]
+#[[堀田正衡]]
+#[[堀田正頌]]
+
+== 幕末の領地 ==
+* [[下野国]]
+** [[安蘇郡]]のうち - 3村
+* [[上野国]]
+** [[勢多郡]]のうち - 6村
+** [[緑野郡]]のうち - 4村
+** [[新田郡]]のうち - 1村
+** [[山田郡 (群馬県)|山田郡]]のうち - 1村（[[館林藩]]に編入）
+* [[近江国]]
+** [[滋賀郡]]のうち - 20村
+
+[[明治維新]]後に滋賀郡1村（旧[[地方知行|旗本領]]）が加わった。
+
+== 文化・産業・人物 ==
+=== 学問 ===
+[[堀田正敦]]は、『寛政重修諸家譜』編纂総裁を務め、近世最大とされる鳥類図鑑『堀田禽譜』の編纂を行うなど、文化事業での活躍で知られている&lt;ref name="yuagariart_tochigi07"/&gt;。[[堀田正衡]]は洋学への関心が高く、家臣に西洋砲術を学ばせ、藩校{{efn|下記の「観光館」設立が元治元年（1863年）とする記述が正しいならば、それより前に別に藩校が所在したことになる。}}で洋学を取り入れた&lt;ref name="yuagariart_tochigi07"/&gt;。
+
+元治元年（1863年）、[[堀田正頌]]の時代に[[藩校]]「観光館」が設けられた&lt;ref name="crd_1000002559"/&gt;。
+
+==人物==
+堀田正衡は狩野派の絵もよくし、[[狩野元信]]の絵を模写したという「山水図」（栃木県立博物館蔵）が残されている&lt;ref name="yuagariart_tochigi07"/&gt;。[[高橋由一]]は佐野藩出身で、正衡の小姓を務めており&lt;ref name="yuagariart_tochigi07"/&gt;、絵画について正衡の影響を指摘する見解もある&lt;ref name="yuagariart_tochigi07"/&gt;。
+
+貴族院議員となる[[西村茂樹]]と実業家の[[西村勝三]]の兄弟は、佐野藩付家老（本藩である[[佐倉藩]]から付けられた家老）西村平右衛門芳郁の子である。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist}}
+=== 出典 ===
+{{Reflist|2|refs=
+&lt;ref name="nipponica_sanohan"&gt;{{cite web|url=https://kotobank.jp/word/%E5%A0%85%E7%94%B0%E8%97%A9-1290267|author=[[奥田謙一]]|title=佐野藩|work=日本大百科全書(ニッポニカ)|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="hanmei_sanohan"&gt;{{cite web|url=https://kotobank.jp/word/%E5%A0%85%E7%94%B0%E8%97%A9-1290267|title=佐野藩|work=藩名・旧国名がわかる事典|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="sekaidaihyakka_sanoshi"&gt;{{cite web|url=https://kotobank.jp/word/%E4%BD%90%E9%87%8E%E6%B0%8F-1169230|title=佐野氏|work=世界大百科事典 第２版|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="asahijinmei_sano-fusatsuna"&gt;{{cite web|url=https://kotobank.jp/word/%E4%BD%90%E9%87%8E%E6%88%BF%E7%B6%B1-1079076|title=佐野房綱|work=朝日日本歴史人物事典|accessdate=2022-2-18}}&lt;/ref&gt;
+
+&lt;ref name="kadokawa-chimei_7277875"&gt;{{cite web|url=http://jlogos.com/docomosp/word.html?id=7277875|title=植野村(近世)|work=角川地名大辞典（旧地名）|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="kadokawa-chimei_7279108"&gt;{{cite web|url=http://jlogos.com/docomosp/word.html?id=7279108|title=佐野荘(中世)|work=角川地名大辞典（旧地名）|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="kadokawa-chimei_7279045"&gt;{{cite web|url=http://jlogos.com/docomosp/word.html?id=7279045|title=小屋町(近世)|work=角川地名大辞典（旧地名）|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="kadokawa-chimei_7279839"&gt;{{cite web|url=http://jlogos.com/docomosp/word.html?id=7279839|title=天明町(近世)|work=角川地名大辞典（旧地名）|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="kadokawa-chimei_7280711"&gt;{{cite web|url=http://jlogos.com/docomosp/word.html?id=7280711|title=堀米町(近世)|work=角川地名大辞典（旧地名）|accessdate=2022-2-18}}&lt;/ref&gt;
+
+&lt;ref name="sano_4742"&gt;{{cite web|url=https://www.city.sano.lg.jp/soshikiichiran/sougou/toshibrandsuishin/gyomuannai/koho/5/4742.html|title=歴史・伝統|publisher=佐野市|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="sano_5272"&gt;{{cite web|url=https://www.city.sano.lg.jp/soshikiichiran/toshi/toshiseibika/gyomuannai/1/5272.html|title=堀田佐野城址公園|publisher=佐野市|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="sano_4917"&gt;{{cite web|url=https://www.city.sano.lg.jp/soshikiichiran/kyouiku/bunkazaika/gyomuannai/4/2/4917.html|title=天徳寺宝衍と秀吉|publisher=佐野市|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="sano_8773"&gt;{{cite web|url=https://www.city.sano.lg.jp/kurashi_gyosei/kanko_bunka_sports/bunka_dento/karasawa/3/8773.html|title=北条氏忠の入城と、西側根小屋の整備
+|publisher=佐野市|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="sano_8775"&gt;{{cite web|url=https://www.city.sano.lg.jp/kurashi_gyosei/kanko_bunka_sports/bunka_dento/karasawa/3/8775.html|title=関ヶ原と信吉の転機|publisher=佐野市|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="sano_8763"&gt;{{cite web|url=https://www.city.sano.lg.jp/kurashi_gyosei/kanko_bunka_sports/bunka_dento/karasawa/3/8763.html|title=佐野城跡（さのじょうせき）|publisher=佐野市|accessdate=2022-2-18}}&lt;/ref&gt;
+
+&lt;ref name="crd_1000002559"&gt;{{cite web|url=https://crd.ndl.go.jp/reference/modules/d3ndlcrdentry/index.php?page=ref_view&amp;id=1000002559|author=栃木県立図書館（回答）|title=幕末の藩校「観光館」に関する資料を探しています。|website=レファレンス協同データベース|accessdate=2022-2-18}}&lt;/ref&gt;
+
+&lt;ref name="yuagariart_tochigi07"&gt;{{cite web|url=https://yuagariart.com/uag/tochigi07/|title=狩野派の絵をよくした佐野藩主・堀田正衡|publisher=UAG美術家研究所|accessdate=2022-2-18}}&lt;/ref&gt;
+&lt;ref name="iwata_sho1147"&gt;{{cite web|url=http://www.iwata-shoin.co.jp/shohyo/sho1147.htm|title=江田郁夫著『中世東国の街道と武士団』 評者：斎藤慎一 「日本歴史」765（2012.2）|website=[[岩田書店]]|accessdate=2022-2-22}}&lt;/ref&gt;
+&lt;ref name="japanknowledge_32"&gt;{{cite web|url=https://japanknowledge.com/articles/blogjournal/howtoread/entry.html?entryid=32|title=第23回　金屋町|work=日本歴史地名大系ジャーナル 「歴史地名」もう一つの読み方|website=ジャパンナレッジ|accessdate=2022-2-22}}&lt;/ref&gt;
+}}
+==参考文献==
+*{{citation|和書|author=[[中島義一]]|title=一万石大名の城下町 (第3報) その2|journal=新地理|publisher=日本地理教育学会|volume=13|issue=3|year=1965 |doi=10.5996/newgeo.13.3_28|ref=harv}}
+*{{citation|和書|author=[[東谷智]]|title=堅田藩における大庄屋の成立とその職掌|journal=甲南大學紀要 文学編|issue=168|year=2017|doi=10.14990/00003033|naid=120006465627|ref=harv}}
+
+== 関連項目 ==
+*[[大宮藩]] - 下野国都賀郡にあった藩。正高の兄・[[堀田正虎]]が遺領分知を受け、佐野藩と同時に成立した。
+
+== 外部リンク ==
+*{{kotobank|佐野藩|日本大百科全書(ニッポニカ)、藩名・旧国名がわかる事典 他}}
+
+{{s-start}}
+{{s-bef|before=（[[下野国]]）|表記=前}}
+{{s-ttl|title=行政区の変遷
+|years=[[1826年]] - [[1871年]]|years2=佐野藩→佐野県}}
+{{s-aft|after=[[栃木県]]|表記=次}}
+{{end}}
+{{江戸時代の藩}}
+
+{{デフォルトソート:さのはん}}
+[[Category:藩|さの]]
+[[Category:下野国の藩|さの]]
+[[Category:上野国の藩|さの]]
+[[Category:近江国の藩|さの]]
+[[Category:佐野氏|藩さの]]
+[[Category:佐野堀田家|藩]]
+[[Category:栃木県の歴史]]
+[[Category:佐野藩主|!]]
+[[Category:1600年設立]]
+[[Category:1871年廃止]]
+[[Category:17世紀の日本の設立]]</text>
+      <sha1>59b8b3qghuz230usqopy9dcgx8dpv6b</sha1>
+    </revision>
+  </page>
+  

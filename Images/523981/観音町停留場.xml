@@ -1,0 +1,120 @@
+<page>
+    <title>観音町停留場</title>
+    <ns>0</ns>
+    <id>523981</id>
+    <revision>
+      <id>93047644</id>
+      <parentid>91577881</parentid>
+      <timestamp>2022-12-24T15:42:29Z</timestamp>
+      <contributor>
+        <username>Shurishiki</username>
+        <id>1027347</id>
+      </contributor>
+      <comment>出典および外部リンクを追加し加筆、スタブ表示をとる。</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6852" xml:space="preserve">{{駅情報
+|社色 = #009944
+|文字色 = 
+|駅名 = 観音町停留場
+|画像 = Kan-on-machi Tramstop pt1.jpg
+|pxl = 300px
+|画像説明 = 手前が西広島方面
+|地図      = {{Infobox mapframe|zoom=14|type=point|frame-width=300|marker=rail}}
+|よみがな = かんおんまち
+|ローマ字 = Kan-on-machi
+|前の駅 = M15 [[天満町停留場|天満町]]
+|駅間A = 0.2
+|駅間B = 0.3
+|次の駅 = [[西観音町停留場|西観音町]] M17
+|駅番号 = {{駅番号C|#00a85f|M16}}
+|所属事業者 = [[広島電鉄]]
+|所属路線 = {{color|#00a85f|■}}[[広島電鉄本線|本線]]
+|キロ程 = 4.2
+|起点駅 = [[広島駅]]
+|所在地 = [[広島市]][[西区 (広島市)|西区]]天満町
+|緯度度=34|緯度分=23|緯度秒=43.81
+|経度度=132|経度分=26|経度秒=18.88
+|地図国コード = JP
+|座標右上表示 = Yes
+|駅構造 = [[地上駅]]
+|ホーム = 2面2線
+|開業年月日 = 1921年以前
+|乗車人員 = 
+|乗降人員 = 1,316&lt;ref&gt;{{Cite web|url=https://opendata-web.site|title=広島県 駅乗降客数|accessdate=2021年3月14日}}&lt;/ref&gt;
+|統計年度 = 2019年
+|乗換 = 
+|備考 = 
+}}
+'''観音町停留場'''（かんおんまちていりゅうじょう、観音町電停）は、[[広島市]][[西区 (広島市)|西区]]天満町にある[[広島電鉄]][[広島電鉄本線|本線]]の[[路面電車停留場]]である。駅番号は'''M16'''。
+
+== 歴史 ==
+当停留場付近は隣の[[天満町停留場]]と合わせて改廃が多く、資料によって時期に異同があるが、ここでは主に[[#imao|『日本鉄道旅行地図帳』]]を参考にした。
+
+* [[1921年]]以前 - 観音町停留場として開業&lt;ref name=imao&gt;{{Cite book|和書|author=[[今尾恵介]]（監修） |title=[[日本鉄道旅行地図帳]] |publisher=[[新潮社]] |volume=11 中国四国 |year=2009 |isbn=978-4-10-790029-6 |page=37 |ref=imao}}&lt;/ref&gt;。
+* [[1929年]]頃 - 廃止&lt;ref name=imao/&gt;。代わって隣の西天満町停留場が観音町停留場に改称&lt;ref name=imao/&gt;。
+* [[1936年]]（[[昭和]]11年）[[7月11日]] - 再開業&lt;ref name=imao/&gt;。それまで観音町停留場を名乗っていた隣の停留場は西天満町停留場に再改称&lt;ref name=imao/&gt;。
+* [[1942年]]（昭和17年）5月 - 休止&lt;ref name=imao/&gt;。
+* [[1964年]]（昭和39年）[[4月21日]] - '''西天満町停留場'''に改称し復活&lt;ref name=imao/&gt;。このとき隣の西天満町停留場はすでに[[天満町停留場]]に改称済み&lt;ref name=imao/&gt;。
+* [[1965年]]（昭和40年）[[4月1日]] - '''観音町停留場'''に再改称&lt;ref name=imao/&gt;。
+
+== 構造 ==
+本線はほぼすべての区間で軌道が道路上に敷かれている[[併用軌道]]であり、当停留場も道路上に[[プラットホーム|ホーム]]が設けられている。
+
+ホームは低床式で2面あり、東西方向に伸びる2本の線路を挟み込むように向かい合って配置されている&lt;ref name=line&gt;{{Cite book|和書|author=川島令三 |authorlink=川島令三 |title=山陽・山陰ライン 全線・全駅・全配線 |year=2012 |publisher=[[講談社]] |series=【図説】 日本の鉄道 |isbn=978-4-06-295157-9 |volume=第7巻 広島エリア |pages=12・77}}&lt;/ref&gt;&lt;ref&gt;{{Cite book|和書|author=川島令三 |title=[[全国鉄道事情大研究]] |year=2009 |publisher=[[草思社]] |isbn=978-4-7942-1711-0 |volume=中国篇 2 |pages=103-104}}&lt;/ref&gt;（[[相対式ホーム]]）。線路の北側に[[紙屋町停留場|紙屋町]]方面の上りホーム、南側に[[広電西広島駅]]方面の下りホームがある&lt;ref name=line/&gt;。周辺の道幅が狭く、ホームの幅も極端に狭い&lt;ref name=line/&gt;&lt;ref name=osafune&gt;{{Cite book|和書|author=長船友則 |title=広電が走る街 今昔 |year=2005 |publisher=[[JTBパブリッシング]] |series=JTBキャンブックス |isbn=4-533-05986-4 |page=61}}&lt;/ref&gt;。加えて上りホームは電車がカーブを曲がった先にあるため、電車との干渉を避けるように切り欠きがなされている&lt;ref name=osafune/&gt;。
+
+=== 運行系統 ===
+{{See also|広島電鉄#運行系統}}
+本線には広島電鉄が運行するすべての系統が乗り入れるが、このうち当停留場には2号線、3号線、それに0号線が乗り入れている。
+
+{| style="border-collapse: collapse;"
+|-
+! rowspan="3" style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|上りホーム
+| style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|[[ファイル:HirodenLine0.png|30px|0号線]]
+| colspan="2" style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|[[日赤病院前停留場|日赤病院前]]ゆき・[[広電本社前停留場|広電本社前]]ゆき
+|-
+| style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|[[ファイル:Hiroden Line 2.png|30px|2号線]]
+| style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|[[広島駅]]ゆき
+|-
+| style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|[[ファイル:HirodenLine3.png|30px|3号線]]
+| style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|[[広島港停留場|広島港]]ゆき、[[宇品二丁目停留場|宇品二丁目]]ゆき
+|-
+! rowspan="2" style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|下りホーム
+| style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|[[ファイル:Hiroden Line 2.png|30px|2号線]]
+| style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|[[広電宮島口駅|広電宮島口]]ゆき
+|-
+| style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|[[ファイル:Hiroden Line 2.png|30px|2号線]][[ファイル:HirodenLine3.png|30px|3号線]]
+| style="border-width: 2px 0; border-style: ridge; padding: 2px .5em;"|[[広電西広島駅|広電西広島]]ゆき
+|}
+
+== 周辺 ==
+周辺は住宅街となっている。すぐそばには[[広島市道駅前観音線|中広通り]]が走り、南へ少し歩いたところには[[平和大通り]]がある。
+* [[広島西郵便局]]
+* 都町公園
+
+== 隣の停留場 ==
+; 広島電鉄
+: {{color|#00a85f|■}}本線
+:: [[天満町停留場]] (M15) - '''観音町停留場 (M16)''' - [[西観音町停留場]] (M17)
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 関連項目 ==
+* [[日本の鉄道駅一覧]]
+
+== 外部リンク ==
+* [http://www.hiroden.co.jp/train/route-guide/stop-guide/m-16.html 観音町 | 電車情報：電停ガイド] - 広島電鉄
+
+{{広島電鉄本線}}
+{{DEFAULTSORT:かんおんまち}}
+[[Category:広島市西区の鉄道駅]]
+[[Category:日本の鉄道駅 か|んおんまち]]
+[[Category:広島電鉄の鉄道駅]]
+[[Category:1964年開業の鉄道駅]]
+[[Category:観音 (広島市)]]&lt;!--天満町と観音町の境界にあるので--&gt;</text>
+      <sha1>6ayhhvm2pavmcz1hz0vhp0ni2qe6ljq</sha1>
+    </revision>
+  </page>
+  

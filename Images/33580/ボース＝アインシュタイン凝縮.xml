@@ -1,0 +1,256 @@
+<page>
+    <title>ボース＝アインシュタイン凝縮</title>
+    <ns>0</ns>
+    <id>33580</id>
+    <revision>
+      <id>91296680</id>
+      <parentid>91227511</parentid>
+      <timestamp>2022-09-03T22:44:58Z</timestamp>
+      <contributor>
+        <username>Clocktower2022</username>
+        <id>1986678</id>
+      </contributor>
+      <comment>/* 歴史 */ λ点の名前でページがあります</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="41853" xml:space="preserve">[[Image:Bose Einstein condensate.png|right|thumb|250px|[[ルビジウム]]原子の気体の速度分布データ：物質の新しい[[相 (物質)|相]]であるボース＝アインシュタイン凝縮の発見を確証した。&lt;br&gt;左：ボースアインシュタイン凝縮が現れる直前。中央：凝縮が現れた直後。右：さらに蒸発させても、ほぼ純粋な凝縮が残る。]]
+'''ボース＝アインシュタイン凝縮'''（ボース＝アインシュタインぎょうしゅく、{{lang-en-short|Bose–Einstein condensation}}&lt;ref group="注"&gt;英語では、凝縮する過程を ''condensation''、凝縮した状態を ''condensate'' と言い分ける場合もある。&lt;/ref&gt;）、または略して'''BEC'''とは、ある転移温度以下で巨視的な数の[[ボース粒子]]がある1つの１粒子状態に落ち込む[[相転移]]現象&lt;ref name="ueda1998"&gt;[[#ueda1998| 上田 (1998)]]&lt;/ref&gt;&lt;ref name="cornel1999"&gt;[[#cornel1999| E.A. Cornel ''et al.'' (1999)]]&lt;/ref&gt;&lt;ref name="dalfavo1999"&gt;[[#dalfavo1999| F. Dalfavo ''et al.'' (1999)]]&lt;/ref&gt;&lt;ref name="kettelrle1999"&gt;[[#kettelrle1999| W. Kettelrle ''et al.'' (1999)]]&lt;/ref&gt;。量子力学的なボース粒子の満たす統計性である[[ボース＝アインシュタイン統計]]の性質から導かれる。BECの存在は[[アルベルト・アインシュタイン]]の1925年の論文の中で予言された&lt;ref name="einstein1925a"&gt;{{Cite journal|first1=A.|last1=Einstein|title=Quantentheorie des einatomigen idealen Gases. Zweite Abhandlung|journal=Sitzungsber. Preuss. Akad. Wiss., Phys. Math. Kl.|date=1925|volume=1|page=3|url=https://web.physik.rwth-aachen.de/~meden/boseeinstein/einstein1925.pdf}}&lt;/ref&gt;&lt;ref name="pais2005"&gt;[[#pais2005|A. Pais (2005)]], chapter.23&lt;/ref&gt;。粒子間の相互作用による他の相転移現象とは異なり、純粋に[[量子統計]]性から引き起こされる相転移であり、アインシュタインは「引力なしの凝縮」と呼んだ&lt;ref name="einstein1925a"&gt;&lt;/ref&gt;。粒子間[[相互作用]]が無視できる[[理想気体|理想]][[ボース気体]]に近い中性原子気体のBECは、アインシュタインの予言から70年経った1995年に実現された。1995年に[[コロラド大学]]{{仮リンク|宇宙物理学研究所連合|en|JILA|label=JILA}}の研究グループは[[ルビジウムの同位体|ルビジウム87]]（&lt;sup&gt;87&lt;/sup&gt;Rb）、[[マサチューセッツ工科大学]]（MIT）の研究グループは[[ナトリウムの同位体|ナトリウム23]]（&lt;sup&gt;23&lt;/sup&gt;Na）の希薄な中性[[アルカリ金属|アルカリ]]原子気体でのBECを実現させた&lt;ref name="anderson1995"&gt;{{Cite journal|first1=M. H.|last1=Anderson|first2=J. R.|last2=Ensher||first3=M. R.|last3=Matthews||first4=C. E.|last4=Wieman|authorlink4=カール・ワイマン|first5=E. A.|last5=Cornel|authorlink5=エリック・コーネル|title=Observation of Bose-Einstein Condensation in a Dilute Atomic Vapor|journal=Science|date=1995||volume=269|page=198|doi=10.1126/science.269.5221.198}}&lt;/ref&gt;&lt;ref name="davis1995"&gt;{{Cite journal|first1=K. B.|last1=Davis|first2= M.-O.|last2=Mewes|first3= M. R.|last3=Andrews|first4= N. J. van |last4=Druten|first5=D. S.|last5=Durfee|first6=D. M. |last6=Kurn|first7= W.|last7=Ketterle|authorlink7=ヴォルフガング・ケターレ|title=Bose-Einstein Condensation in a Gas of Sodium Atoms|date=1995|journal=Phys. Rev. Lett.|volume=75|page=3969|doi=10.1103/PhysRevLett.75.3969}}&lt;/ref&gt;。中性アルカリ原子気体でBECが起こる数[[マイクロ]][[ケルビン|K]]から数百[[ナノ]]Kという[[温度の比較|極低温状態]]の実現には、[[レーザー冷却]]などの冷却技術や{{仮リンク|磁気光学トラップ|en|Magneto-optical trap}}などの捕獲技術の確立が不可欠であった&lt;ref name="cornel2002"&gt;{{Cite journal|first1=E. A.|last1=Cornel|authorlink1=エリック・コーネル|first2=C. E.|last2=Wieman|authorlink3=カール・ワイマン|title=Nobel Lecture: Bose-Einstein condensation in a dilute gas, the first 70 years and some recent experiments|journal=Rev. Mod. Phys.|date=2002||volume=74|page=875|doi=10.1103/RevModPhys.74.875}} (free access)&lt;/ref&gt;&lt;ref name="ketterle2002"&gt;{{Cite journal|first1=Ketterle|last1=Wolfgang|authorlink1=ヴォルフガング・ケターレ|title=Nobel lecture: When atoms behave as waves: Bose-Einstein condensation and the atom laser|journal=Rev. Mod. Phys.|date=2002|volume=74|page=1131|doi=10.1103/RevModPhys.74.1131}} (free access)&lt;/ref&gt;。2001年の[[ノーベル物理学賞]]は、これらのBEC実現の実験的成果に対し、授与された。
+
+== 概要 ==
+[[File:Bose-Einstein Condensation.ogv|thumb|upright=1.5|ボース気体の温度とBECの関係]]
+量子力学上の粒子は[[スピン角運動量|スピン]]が[[整数]]値をとるボース粒子と[[半整数]]値をとるフェルミ粒子に分けられる。このうちのボース粒子はボース統計にしたがい、[[同種粒子]]は位置以外の区別がなく、複数の粒子が同じエネルギー状態をとりうる。[[ボース気体]]でボース＝アインシュタイン凝縮（BEC）が生じる機構は次のように説明される&lt;ref name="ueda1998"&gt;&lt;/ref&gt;&lt;ref name="cornel1999"&gt;&lt;/ref&gt;&lt;ref name="kettelrle1999"&gt;&lt;/ref&gt;。室温では[[マクスウェル＝ボルツマン分布]]に従う古典粒子として振る舞う気体原子も極低温状態では量子性が顕著となる。極低温状態にて、原子間距離が、原子の空間上の広がりの度合いを表す[[熱的ド・ブロイ波長]]に近づくとき、原子各個の[[波動関数]]が互いに重なり始める。その結果、ボゾン[[同種粒子]]が区別できなくなる「量子統計性」が顕れる。このとき、系のボース粒子群は相互交換に対する波動関数の対称性から[[相空間]]の一点に集まる様にふるまうものと予想される。結果として、巨視的といえる個数のボース粒子が最低エネルギーの[[量子状態]]を取り、BECが発現する。凝縮体は多数の原子が一つの波動関数で表される巨視的な量子状態であり、[[コヒーレンス|コヒーレント]]に振る舞う。これは固体、液体、気体、プラズマなどと同様に[[物質の相]]の一つと捉えられる。
+
+1925年、インドの物理学者[[サティエンドラ・ボース]]からの手紙をきっかけとして、[[アルベルト・アインシュタイン]]がBECの存在を予言した&lt;ref name="einstein1925a"&gt;&lt;/ref&gt;。
+
+BECを実現しうる系としては、従来、[[液体ヘリウム]]や[[酸化銅(I)|酸化銅]][[半導体]]（Cu{{sub|2}}O）の[[励起子]]が知られていたが、これらの系は粒子間[[相互作用]]が強く、理想ボース気体のふるまいからかけ離れていた&lt;ref name="cornel1999"&gt;&lt;/ref&gt;。より理想ボース気体に近い、中性アルカリ原子気体によるBECが1995年に実現した&lt;ref name="davis1995"&gt;&lt;/ref&gt;&lt;ref name="anderson1995"&gt;&lt;/ref&gt;。
+
+== 理想ボース気体 ==
+{{see also|ボース気体}}
+粒子間の相互作用がない自由ボース粒子から構成されるボース粒子の集団を、[[理想気体|理想]][[ボース気体]]と呼ぶ。[[熱平衡状態]]の理想ボース気体において、あるエネルギー状態を占有する粒子数はボース分布で与えられる。ボース分布の性質から、ある転移温度以下では巨視的な数の粒子の最低エネルギー状態への占有、すなわち、BECが生じる。この相転移は純粋に量子統計的性質のみに起因し、[[液化]]や[[固化]]のようなほかの相転移と異なり、相互作用を必要としない点に特徴がある。[[箱の中の気体|箱の中の一様な理想ボース気体の系]]や理想ボース気体が[[調和振動子]]ポテンシャルにトラップされた系では、以下のように転移温度や凝縮相の粒子数が求まる。
+===一様な系===
+箱の中にある理想ボース気体の系を考える。箱の中には[[ポテンシャル]]が作用しない一様な系とし、系の体積を {{mvar|V}}、粒子数を {{mvar|N}} とする。運動量 {{math|''{{mathbf|p}}''}} の自由ボース粒子の1粒子エネルギーは、粒子の質量を {{mvar|m}} とすると
+:&lt;math&gt;
+\epsilon_{\boldsymbol{p}}=\frac{\boldsymbol{p}^2}{2m}=\frac{\hbar^2 \boldsymbol{k}^2}{2m}
+&lt;/math&gt;
+となる&lt;ref group="注"&gt;対応する1粒子波動関数は
+
+:&lt;math&gt;\varphi_{\boldsymbol{k}}(\boldsymbol{r})=\frac{1}{\sqrt{V}}e^{i \boldsymbol{k}\cdot \boldsymbol{r}}&lt;/math&gt;
+である。&lt;/ref&gt;。BECの発生する転移温度 {{math|''T''{{sub|c}}}} 以下では、{{math|''&amp;epsilon;&lt;sub&gt;{{mathbf|p}}&lt;/sub&gt;''&amp;gt;0}} のエネルギー状態に粒子が収容しきれなくなり、{{math|{{mathbf|p}}{{=}}{{mathbf|0}}}} である {{math|''&amp;epsilon;''&lt;sub&gt;{{mathbf|0}}&lt;/sub&gt;}} 状態へと[[運動量空間]]での凝縮が生じる&lt;ref group="注"&gt;基底状態の1粒子波動関数は
+
+:&lt;math&gt;\varphi_{\boldsymbol{0}}(\boldsymbol{r})=\frac{1}{\sqrt{V}}&lt;/math&gt;
+であり、空間的には一様に広がっている。&lt;/ref&gt;。
+このとき、BECが発生する転移温度は
+:&lt;math&gt;
+T_c =\frac{h^2}{2\pi \, m \, k_{\mathrm B}} \times \left( \frac{N}{\zeta (3/2)\, V} \right)^{\! 2/3}
+&lt;/math&gt;
+で与えられる。但し、{{mvar|m}} は粒子の質量、{{mvar|k&lt;sub&gt;B&lt;/sub&gt;}} は[[ボルツマン定数]]、{{mvar|h}} は[[プランク定数]]である。また、{{math|&amp;zeta;(''z'')}} は[[リーマンゼータ関数]]であり
+:&lt;math&gt;
+\zeta \! \left( \frac{3}{2} \right) =\sum_{k=1}^{\infty} \frac{1}{\, k^{3/2} } =2.612 \cdots
+&lt;/math&gt;
+である。また、BEC状態になった粒子の数 {{math|''N''{{sub|0}}}} は、
+:&lt;math&gt;
+N_0 =N\! \left\{ 1-\left( \frac{T}{T_c} \right)^{\! 3/2} \right\}
+&lt;/math&gt;
+となる。上式で温度が転移温度以下になると、[[有限温度]]でもエネルギー {{math|''&amp;epsilon;''&lt;sub&gt;{{mathbf|0}}&lt;/sub&gt;}} の状態にある粒子数 {{math|''N''{{sub|0}}}} が急激に増えていき、 {{math|''T ''{{=}} 0 K}} で全ての粒子が凝縮状態となる&lt;ref group="注"&gt;粒子間相互作用が強く、[[ボース液体]]である[[ヘリウム]]4による超流動では、どんなに低温にしても凝縮状態にあるのは一割程度である。&lt;/ref&gt;。理想ボース気体での凝縮では、[[定積比熱]]の微分にとびがあり、これは三次の[[相転移]]である。
+
+===調和振動子ポテンシャルの系===
+中性原子気体の実験において、原子集団をトラップする外部ポテンシャルは[[調和振動子]]ポテンシャル
+:&lt;math&gt;
+V_{\mathrm{ext}}(\boldsymbol{r})=\frac{m}{2}(\omega_x^2 x^2+\omega_y^2 y^2+\omega_z^2 z^2)
+&lt;/math&gt;
+で近似できる。1粒子エネルギーは
+:&lt;math&gt;
+\epsilon_{\boldsymbol{n}}=\hbar\omega_x \biggl(n_x+ \frac{1}{2} \biggr)+\hbar\omega_y \biggl(n_y+ \frac{1}{2} \biggr)+\hbar\omega_z \biggl(n_z+ \frac{1}{2} \biggr)
+&lt;/math&gt;
+であり、基底エネルギーは
+:&lt;math&gt;
+\epsilon_{\boldsymbol{0}}=\frac{\hbar}{2}(\omega_x+\omega_y+\omega_z)
+&lt;/math&gt;
+
+である。調和振動子ポテンシャルにトラップされた理想ボース気体の系ではBECの転移温度は
+:&lt;math&gt;
+T_c =\frac{\hbar \bar{\omega}}{k_{\mathrm B}} \times \left( \frac{N}{\zeta (3)} \right)^{\! 1/3}
+&lt;/math&gt;
+となる。但し、{{math|{{overline|&amp;omega;}}}}は[[幾何平均]]
+:&lt;math&gt;
+\bar{\omega}=(\omega_x \omega_y \omega_z)^{1/3}
+&lt;/math&gt;
+である。BEC状態になった粒子の数 {{math|''N''{{sub|0}}}} は、
+:&lt;math&gt;
+N_0 =N\! \left\{ 1-\left( \frac{T}{T_c} \right)^{\! 3} \right\}
+&lt;/math&gt;
+となる。
+
+===熱的ド・ブロイ波長と位相空間密度===
+一様なボース気体の系でBECが起きる条件 {{math|''T'' &amp;le; ''T''{{sub|c}}}} は
+:&lt;math&gt;
+\lambda_T=\frac{h}{\sqrt{2\pi mk_BT}}
+&lt;/math&gt;
+で定義される熱的ド・ブロイ波長を導入すると、粒子数密度 {{math|''n''{{=}}''N''/''V''}} と熱的ド・ブロイ波長により、
+:&lt;math&gt;
+n \lambda_T^{3} \geq \zeta \! \left( \frac{3}{2} \right)= 2.612 \cdots
+&lt;/math&gt;
+と表すことができる。
+:&lt;math&gt;
+\rho=n \lambda_T^{3}
+&lt;/math&gt;
+で定義される {{mvar|&amp;rho;}} は'''位相空間密度'''と呼ばれ、BEC発生を特徴づける指標である。条件 {{math|''&amp;rho;'' &amp;ge; 2.612}}は位相空間密度が1程度の[[オーダー (物理学)|オーダー]]となるときにBECが起きることを表している。この条件は {{math|''l''{{=}}''n''&lt;sup&gt;-1/3&lt;/sup&gt;{{=}}(''V''/''N'')&lt;sup&gt;1/3&lt;/sup&gt;}} で与えられる平均粒子間距離より、熱的ド・ブロイ波長が小さいことに対応する。
+
+===転移温度の導出===
+箱の中の理想ボース気体で、外部ポテンシャルの作用しない一様な系を考え、系の体積を {{mvar|V}}、粒子数を {{mvar|N}} とする。運動量 {{math|''{{mathbf|p}}''}} の自由ボース粒子の1粒子エネルギーは、粒子の質量を {{mvar|m}} とすると{{math|''&amp;epsilon;&lt;sub&gt;{{mathbf|p}}&lt;/sub&gt;''{{=}}''p''&lt;sup&gt;2&lt;/sup&gt;/''2m''}} で与えられる。系が温度 {{mvar|T}}、[[化学ポテンシャル]] {{mvar|&amp;mu;}} の熱平衡状態にあるとき、エネルギー が{{math|''&amp;epsilon;&lt;sub&gt;{{mathbf|p}}&lt;/sub&gt;''}} である粒子数 {{math|''n&lt;sub&gt;{{mathbf|p}}&lt;/sub&gt;''}} の熱統計平均{{math|&amp;#12296;''n&lt;sub&gt;{{mathbf|p}}&lt;/sub&gt;''&amp;#12297;}}はボース分布によって、
+:&lt;math&gt;
+\langle n_\boldsymbol{p} \rangle=\frac{1}{e^{\beta(\epsilon_{\boldsymbol{p} }-\mu)}-1}=\frac{1}{z^{-1}e^{\beta\epsilon_{\boldsymbol{p} }}-1}
+&lt;/math&gt;
+で与えられる。但し、{{math|''&amp;beta;''{{=}}1/''k&lt;sub&gt;B&lt;/sub&gt;T''}} は[[逆温度]]（{{mvar|k&lt;sub&gt;B&lt;/sub&gt;}} は[[ボルツマン定数]]）、{{math|''z''{{=}}''e&lt;sup&gt;&amp;beta;&amp;mu;&lt;/sup&gt;''}} は[[逃散能]]である。ここで1粒子基底エネルギー {{math|''&amp;epsilon;''&lt;sub&gt;{{mathbf|0}}&lt;/sub&gt;{{=}}0}} を含む全ての {{math|''&amp;epsilon;&lt;sub&gt;{{mathbf|p}}&lt;/sub&gt;''}} について{{math|&amp;#12296;''n&lt;sub&gt;{{mathbf|p}}&lt;/sub&gt;''&amp;#12297;&amp;ge; 0}}となるために、逃散能は {{math|0 &amp;lt;''z'' &amp;le; 1}} （化学ポテンシャルは {{math|''&amp;mu;'' &amp;le; 0}} ）の条件を満たす。{{math|&amp;#12296;''n&lt;sub&gt;{{mathbf|p}}&lt;/sub&gt;''&amp;#12297;}}の全ての運動量状態についての和は粒子数 {{mvar|N}} と一致し、
+:&lt;math&gt;
+N=\sum_{\boldsymbol{p}}\langle n_\boldsymbol{p} \rangle=\sum_{\boldsymbol{p}}\frac{1}{z^{-1}e^{\beta\epsilon_{\boldsymbol{p} }}-1}
+&lt;/math&gt;
+となる。ここで粒子数 {{mvar|N}} を 1粒子基底エネルギー {{math|''&amp;epsilon;''&lt;sub&gt;{{mathbf|0}}&lt;/sub&gt;}} にある粒子数 {{math|''N''{{sub|0}}}} とそれ以外の {{math|''&amp;epsilon;&lt;sub&gt;{{mathbf|p}}&lt;/sub&gt;''&amp;gt;0}} の状態にある粒子数 {{math|''N''{{sub|1}}}} に分け、次のように表す。
+:&lt;math&gt;
+N=\frac{z}{1-z}+\sum_{\boldsymbol{p}\neq 0}\frac{1}{z^{-1}e^{\beta\epsilon_{\boldsymbol{p} }}-1}
+=:N_0+N_1
+&lt;/math&gt;
+逃散能 {{mvar|z}} の関数としてみたときに {{math|''N''{{sub|1}}{{=}}''N''{{sub|1}}(''z'')}} は {{math|''z''{{=}}1}} で最大値を取る&lt;ref group="注"&gt;系の体積が十分大きいとき、運動量についての和は次の積分による近似
+
+:&lt;math&gt;
+\sum_{\boldsymbol{p}\neq 0} \rightarrow \frac{V}{(2\pi)^3}\int d^3 \boldsymbol{p}
+&lt;/math&gt;
+を適用することができ、
+
+:&lt;math&gt;
+N_1(z)=\frac{V}{(2\pi)^3}\int d^3 \boldsymbol{p}\frac{1}{e^{\beta(\epsilon_{\boldsymbol{p} }-\mu)}-1}=\frac{V}{\lambda_T^{\, 3}}F_{\frac{3}{2}}(z)
+&lt;/math&gt;
+となる。ここで{{math|&amp;lambda;{{sub|T}}}}は熱的ド・ブロイ波長であり、{{math|''F{{sub|s}}''(''z'')}}は
+
+:&lt;math&gt;
+F_{s}(z)=\frac{1}{\Gamma(s)}\int_0^{\infty}dx \frac{x^{s-1}}{z^{-1}e^x-1}=\sum_{k=1}^{\infty}\frac{z^k}{k^s}
+&lt;/math&gt;
+で定義される関数である。特に {{math|''z''{{=}}1}} では、{{math|''F{{sub|s}}''(1){{=}}&amp;zeta;(s)}} と[[リーマンゼータ関数]]になる。&lt;/ref&gt;。一方、{{math|''N''{{sub|0}}{{=}}''N''{{sub|0}}(''z'')}} は {{math|''z''{{=}}1}} で特異性を持ち、{{math|''z''&amp;rarr;1}}の場合、{{math|''N''{{sub|0}}}} は非常に大きな値をとることができる。BECの転移温度 {{math|''T''&lt;sub&gt;c&lt;/sub&gt;}}は、{{math|''N''&lt;sub&gt;1&lt;/sub&gt;(1)}} が全粒子数 {{mvar|N}} と一致する温度として定まり、
+:&lt;math&gt;
+T_c =\frac{h^2}{2\pi \, m \, k_{\mathrm B}} \times \left( \frac{N}{\zeta (3/2)\, V} \right)^{\! 2/3}
+&lt;/math&gt;
+で与えられる。
+
+== 中性原子気体での実現 ==
+===原理と実験技術の概要===
+[[原子]]はスピン1/2の[[中性子]]、スピン1/2の[[陽子]]、スピン1/2の[[電子]]からなる[[複合粒子]]である。原子のスピンは中性子数と陽子数を足した[[核子]]数 {{mvar|A}} と電子数 {{mvar|Z}} の総和から {{math|(''Z'' + ''A'')/2}} で与えられる。{{math|''Z'' + ''A''}} が偶数であれば、原子のスピンは整数値をとり、ボース粒子となる。例えば、中性[[アルカリ金属|アルカリ]]原子において、電子数 {{mvar|Z}} は奇数であり、核子数 {{mvar|A}} が奇数の[[同位体]]がボース粒子である。このボース原子から成る中性原子気体を[[マイクロ]][[ケルビン|K]]以下の極低温に冷却するとボース＝アインシュタイン凝縮 (BEC) し、ボース原子は、1つの最低エネルギー状態を占有するようになる。
+
+こうした極低温では、原子と容器の壁との接触や原子間の3体衝突の過程により、気体は液体や固体の相に相転移してしまう&lt;ref name="cornel1999"&gt;&lt;/ref&gt;。従って、BECは最終的に[[化学平衡]]状態である液体や固体の相に相転移する[[準安定状態]]である。液体や固体への相転移が生じる前にBECを実現するためには、気体原子の液体や固体への凝集を抑制する必要がある。気体原子と容器の接触と避けるために、気体原子は真空中に捕獲される。一方、3つの原子が衝突する3体衝突では、[[束縛エネルギー]]が放出され、分子や[[クラスター (物質科学)|クラスター]]状態が形成され、凝集が生じる。3体衝突の発生率は原子[[数密度]]の2乗に比例するため、その抑制に希薄な気体を用いる必要がある。典型的なBECの実験では、密度は10{{sup|14}} cm{{sup-|3}}から10{{sup|15}} cm{{sup-|3}}であり、BEC発生の温度は500 nKから2 &amp;micro;Kである&lt;ref name="ketterle2002"&gt;&lt;/ref&gt;。
+
+中性原子気体の実験では、一般に[[レーザー冷却]]による予備冷却、{{仮リンク|磁気光学トラップ|en|Magneto-optical trap}}による捕獲、{{仮リンク|蒸発冷却|en|Evaporative cooling (atomic physics)}}の過程を経て、BECが実現される&lt;ref name="cornel1999"&gt;&lt;/ref&gt;。アルカリ金属原子は常温、常圧では固体状態であるため、加熱して気体状態にして[[原子線]]で実験装置内に送られる。レーザー冷却では、気体原子の共鳴周波数よりわずかに低い周波数のレーザーをx軸、y軸、z軸の正負の両方向から照射する。このとき、気体原子は[[輻射圧]]により、減速される。レーザー冷却では気体原子にとって、レーザーはあたかも[[粘性]]をもった[[糖蜜]]のように振る舞うので、{{仮リンク|光糖蜜状態|en|Optical molasses}}と呼ばれる。レーザー冷却された気体原子は、円偏光レーザーと4重極磁場で構成される磁気光学トラップに捕獲される。一定の条件が満たされる原子&lt;ref group="注"&gt;遷移する2準位の上側準位の全角運動量が下側準位よりも大きく、下側準位が縮退していないことが必要である。&lt;/ref&gt;については、磁気光学トラップ中で[[偏光勾配冷却]]が働き、さらに冷却される。冷却の最終段階では、磁気トラップ中で運動エネルギーの大きい原子を選択的に蒸発させる蒸発冷却により、BECが起きる転移温度以下に到達する。
+
+[[1995年]]、[[コロラド大学]]の[[エリック・コーネル]]、[[カール・ワイマン]]らは、[[ルビジウムの同位体|ルビジウム87]]原子 ({{sup|87}}Rb) を冷却することで初めてBECを実現し&lt;ref name="anderson1995"&gt;&lt;/ref&gt;、同年[[マサチューセッツ工科大学]]の[[ヴォルフガング・ケターレ]]らは、[[ナトリウムの同位体|ナトリウム23]]原子 ({{sup|23}}Na) でBECを実現した&lt;ref name="davis1995"&gt;&lt;/ref&gt;。この成果により、コーネル、ワイマン、ケターレの3名は2001年度[[ノーベル物理学賞]]を受賞した。現在では、[[水素の同位体|&lt;sup&gt;1&lt;/sup&gt;H]]、[[リチウムの同位体|&lt;sup&gt;7&lt;/sup&gt;Li]]、&lt;sup&gt;23&lt;/sup&gt;Na、[[カリウムの同位体|&lt;sup&gt;39&lt;/sup&gt;K]]、[[カリウムの同位体|&lt;sup&gt;41&lt;/sup&gt;K]]、[[クロムの同位体|&lt;sup&gt;52&lt;/sup&gt;Cr]]、&lt;sup&gt;85&lt;/sup&gt;Rb、&lt;sup&gt;87&lt;/sup&gt;Rb、[[セシウムの同位体|&lt;sup&gt;133&lt;/sup&gt;Cs]]、[[イッテルビウムの同位体|&lt;sup&gt;170&lt;/sup&gt;Yb]]、[[イッテルビウムの同位体|&lt;sup&gt;174&lt;/sup&gt;Yb]]、[[ヘリウムの同位体|&lt;sup&gt;4&lt;/sup&gt;He]]でBECが実現されている&lt;ref&gt;[[#pethick_simith2008|C.J. Pethick &amp; H. Smith (2008)]], chapter.1&lt;/ref&gt;。
+
+===レーザー冷却===
+{{main|レーザー冷却}}
+原子の極低温領域への冷却を可能とするレーザー冷却では、レーザー光による輻射圧で原子の運動を減速させる&lt;ref&gt;[[#kuga2003|久我 (2003)]]、第7-8章&lt;/ref&gt;。原子の特定のエネルギーの[[2準位系|2準位]]において、共鳴波長付近の光を入射すると、[[光子]]の吸収、放出により、原子は2準位間で遷移を繰り返す。下側準位にある原子は光子を吸収し、上側準位に励起する。逆に上側準位にある原子は一定時間後に光子を[[自然放出]]し、下側準位に戻る。レーザー冷却ではこの吸収、放出の過程が繰り返される。
+運動する原子の進行方向と対向する方向から光を入射すると、光子の吸収過程では、[[波数ベクトル]] {{math|{{mathbf|''k''}}}} の光子が持つ運動量 {{math|''&amp;#x127;{{mathbf|k}}''}} を原子が受け取る。一方、自然放出による光子の放出過程では、反跳により、放出された光子の波数ベクトル {{math|{{mathbf|''k'''}}}} とは逆方向に{{math|&amp;minus;''&amp;#x127;{{mathbf|k'}}''}} の運動量を受け取る。このとき、原子の単位時間あたりの運動量変化の平均が輻射圧となる。光子の吸収では必ず原子の運動と対向する方向に運動量変化を受け、原子は減速するが、光子の放出方向は完全にランダムであり、運動量変化は等方的となるため、その平均はゼロとなる。その結果、この過程の繰り返しによって原子の運動は減速される。
+
+=== 蒸発冷却 ===
+蒸発冷却では、磁気トラップにトラップされた原子集団からエネルギーの高い原子を選択的に逃し、残った原子集団の平均エネルギーを下げることを繰り返し、冷却する。熱分布の中で高いエネルギーを持つ原子が取り除かれた後、残った原子は弾性衝突の過程により、再び熱平衡状態に到る。蒸発冷却が有効に作用するには、トラップからの原子の損失レートよりも熱平衡に到るまでの弾性衝突レートが十分大きいことが必要である。実際の蒸発冷却の操作では、磁気副準位間の遷移を起こす[[無線周波数|RF周波数]]の共鳴電磁場を照射し、ある程度の高いエネルギーを持つ原子を磁気トラップでトラップされない磁気副準位状態に遷移させることで、トラップから逃す。RF周波数を徐々に下げて、蒸発を繰り返していくことで、最終的にBECの転移温度に到達する。
+
+== 歴史 ==
+量子力学的なボース粒子が満たす[[ボース＝アインシュタイン統計]]は、[[サティエンドラ・ボース]]とアルベルト・アインシュタインによって、導入された&lt;ref name="pais2005"&gt;&lt;/ref&gt;。1924年6月、ボースはアインシュタインに手紙ともに論文を送り、ドイツ語への翻訳と出版を依頼した。この論文の中で、ボースは[[光子]]の統計性から[[黒体輻射]]の[[プランクの公式]]が導けることを示した。アインシュタインはこの論文の重要性を認め、ドイツの学術誌で出版した&lt;ref&gt;{{Cite journal|first1=S.N.|last1=Bose|authorlink1=サティエンドラ・ボース|title=Plancks Gesetz und Lichtquantenhypothese|journal=Zeitschrift fur Physik|date=1924|volume=26|page=178||doi=10.1007/BF01327326|ref= bose1924}}, 英訳版 {{Cite journal|first1=S.N.|last1=Bose|authorlink1=サティエンドラ・ボース||title=Planck’s Law and Light Quantum Hypothesis|journal=Am. J. Phys.|date=1976|volume=44|page=1056|url=http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Bose_1924.pdf|doi=10.1119/1.10584|ref= bose1924b}}&lt;/ref&gt;。ボースが扱ったのは、粒子数が不定で質量をもたないボース粒子である光子の場合であったが、アインシュタインは粒子数が保存される気体分子にもこの統計性を拡張し、より一般的な形でボース＝アインシュタイン分布を導いた &lt;ref name="einstein1925b"&gt;{{Cite journal|first1=A.|last1=Einstein|authorlink1=アルベルト・アインシュタイン|title=Zur Quantentheorie des idealen Gases|journal=Sitzungsber. Preuss. Akad. Wiss., Phys. Math. Kl.|date=1925|volume=3|page=18|}}&lt;/ref&gt;。さらにアインシュタインは、この分布が持つ性質から[[逃散能]] {{math|''z''{{=}}''e&lt;sup&gt;&amp;beta;&amp;mu;&lt;/sup&gt;''}} が1の場合、ある転移温度以下で多数の粒子が基底状態に落ちこむこと、すなわち、ボース＝アインシュタイン凝縮が起きることを予想した。アインシュタインは1925年の論文の中で次のように記している&lt;ref name="einstein1925a"&gt;&lt;/ref&gt;&lt;ref name="pais2005"&gt;&lt;/ref&gt;&lt;ref group="注"&gt; {{mvar|A}} は逃散能 {{math|''z''{{=}}''e&lt;sup&gt;&amp;beta;&amp;mu;&lt;/sup&gt;''}} である。&lt;/ref&gt;。
+{{Quotation|この場合、密度の増加を伴いながら、多数の分子は次第に第一の状態、（これは運動エネルギーはゼロである）に落ち込み、一方、残りの分子自身はパラメータの値 {{math|''A''{{=}}1}} に従って、分布する。&amp;hellip;&amp;hellip;分離がもたらされる。一方は凝縮し、残りは飽和した理想気体のままとなる。|アルベルト・アインシュタイン|''Sitzungsber. Preuss. Akad. Wiss., Phys. Math. Kl.'', '''1''', 3 (1925)}}
+また、アインシュタインは1924年11月の[[ポール・エーレンフェスト]]への手紙の中で、次のように述べている&lt;ref&gt;{{Citation|title=The Collected Papers of Albert Einstein, The Berlin Years: Writings &amp; Correspondence, April 1923–May 1925|volume=14|location=&amp;sect;384|publisher= Princeton University Press|url=http://einsteinpapers.press.princeton.edu/papers}}&lt;/ref&gt;&lt;ref name="pais2005"&gt;&lt;/ref&gt;。
+{{Quotation|ある温度から分子は引力なしで"凝縮"する。すなわち、速度ゼロに集積する。理論は綺麗だが、何らかの真実が含まれているのだろうか？|アルベルト・アインシュタイン|1924年11月29日付のエーレンフェストへの私信}}
+
+BECが最初に脚光を浴びたのは、1938年の[[フリッツ・ロンドン]]のBECによる超流動現象のモデルによってであった。1937年、[[ピョートル・カピッツァ]]が液体ヘリウム4が超流動性を示すことを発見すると、ロンドンは超流動はヘリウム4のBECだと考え、転移温度を求めた。その値は{{math|''T''&lt;sub&gt;c&lt;/sub&gt;{{=}}3.1K}}であり、これは超流動の[[λ点]]温度{{math|''T''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;{{=}}2.17K}} に近いものであった。
+
+相互作用が無視でき、理想ボース気体に近い希薄な原子気体でのBEC実現は、最初に[[スピン偏極]]水素原子で試みられた。強磁場中でスピン偏極した水素原子はスピンの向きが揃っているため、再結合せず、分子を形成しない。スピン偏極水素原子は[[絶対零度]]でも気体状態を保ち、BECを実現させる候補となることを、1959年にチャールズ・ヘクト、1976年にはウィリアン・ストウォーリーとL.ノサナウが理論的に予測した&lt;ref&gt;{{Cite journal|first1=Willian C.|last1=Stwalley|authorlink1=|first2=L. H.|last2=Nosanow|title=Possible "New" Quantum Systems|journal=Phys. Rev. Lett.|year=1976|volume=36|page=910|doi=10.1103/PhysRevLett.36.910}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|first1=Charles E.|last1=Hecht|title=The possible superfluid behaviour of hydrogen atom gases and liquids|journal=Physica|year=1959|volume=25|page=1159|doi=10.1016/0031-8914(59)90035-7 }}&lt;/ref&gt;。これらの理論的な予測に触発され、1980年代にはスピン偏極水素原子を冷却し、BEC実現を目指す研究が活発に行われた。こうした研究の中で代表的なものとしては、MITの[[ダニエル・クレップナー]]と{{仮リンク|トーマス・グレイタック|en|Thomas Greytak}}のグループや[[アムステルダム大学]]の[[アイザック・シルヴェラ]]や{{仮リンク|ジューク・ウォルラベン|en|Jook Walraven}}のグループによるものがある。スピン偏極水素原子の冷却には、その初期には極低温冷凍機内で圧縮する手法が用いられたが、後に磁気トラップと蒸発冷却を組み合わせる手法が開発された。最終的にスピン偏極水素原子でのBECは、1995年の中性アルカリ原子気体での実現から3年経った1998年にMITのクレップナーとグレイタックのグループによって、達成された&lt;ref&gt;{{Cite journal|first1=Dale G.|last1=Fried|first2=Thomas C.|last2=Killian|first3=Lorenz|last3=Willmann|first4=David|last4=Landhuis|first5=Stephen C.|last5=Moss|first6=Daniel|last6=Kleppner|first7=Thomas J.|last7=Greytak|title=Bose-Einstein Condensation of Atomic Hydrogen|journal=Phys. Rev. Lett.|year=1998|volume=61|page=3811|doi=10.1103/PhysRevLett.81.3811}}&lt;/ref&gt;。
+
+==秩序変数==
+相転移現象において、転移温度以下で系の[[対称性の破れ|対称性が破れる]]と、新たな秩序相が出現する。この秩序相の状態は[[秩序変数]]によって記述される。BECでは'''凝縮体の波動関数'''と呼ばれる秩序変数をとることができる。凝縮体の波動関数は[[古典場|古典論的な複素場]]であり、その振幅の2乗は凝縮状態にある粒子数密度を与える。また、その[[位相]]は多数の粒子が保つコヒーレンスを表している。位相の[[空間微分]]は超流動状態の速度に関連付けられる。特定の位相の値をとることは、大域的[[U(1)]][[ゲージ対称性]]が破れた状態にあることを意味する。
+
+== グロス=ピタエフスキー方程式 ==
+{{main|グロス＝ピタエフスキー方程式}}
+BECの凝縮相は凝縮体の波動関数と呼ばれる[[秩序変数]]{{math|&amp;Psi;}}により、記述される。粒子間の相互作用の到達距離が原子間距離よりも十分小さいと仮定すると、{{math|&amp;Psi;('''r''', ''t'')}}は次の時間に依存した'''グロス=ピタエフスキー方程式'''を満たす。
+
+:&lt;math&gt;
+i \hbar \frac{\partial}{\partial t} \Psi(\boldsymbol{r},t)= \left ( -\frac{\hbar^2 \nabla^2}{2m}+ V_{\mathrm{ext}}(\boldsymbol{r})+g |\Psi(\boldsymbol{r},t)|^2 \right ) \Psi(\boldsymbol{r},t)
+&lt;/math&gt;
+
+ここで、{{math|''V''&lt;sub&gt;ext&lt;/sub&gt;}} は凝縮体をトラップするための外部[[ポテンシャル]]である。また、定数 {{mvar|g}} は
+
+:&lt;math&gt;g=\frac{4\pi \hbar^2 a}{m}&lt;/math&gt;
+
+で与えられる相互作用の[[結合定数 (物理学)|結合定数]]であり、{{mvar|a}} は[[s波散乱]]の[[散乱長]]である。{{math|''g'' &amp;gt; 0（''a'' &amp;gt; 0）}}の場合には、原子間に働く相互作用が斥力、{{math|''g'' &amp;lt; 0（''a'' &amp;lt; 0）}}の場合には、引力であることを示す。この方程式による記述が有効であるのは、平均原子間距離がs波散乱長よりも十分大きく、凝縮体の原子数が十分多い場合に限られる。また、定常状態では
+
+:&lt;math&gt;
+\left ( -\frac{\hbar^2}{2m}\nabla^2+ V_{\mathrm{ext}}(\boldsymbol{r})+g |\Psi(\boldsymbol{r},t)|^2 \right ) \Psi(\boldsymbol{r},t)
+= \mu \Psi(\boldsymbol{r},t)
+&lt;/math&gt;
+
+となる。
+
+== 超流動 ==
+ボース粒子である[[ヘリウム4]](&lt;sup&gt;4&lt;/sup&gt;He)による[[超流動]]現象において、超流体部分はボース＝アインシュタイン凝縮していると考えられている。実際、液体&lt;sup&gt;4&lt;/sup&gt;Heの粒子数密度 {{math|''N''/''V''{{=}}2.1{{E|28}} m&lt;sup&gt;-3&lt;/sup&gt;}} と&lt;sup&gt;4&lt;/sup&gt;He原子の質量 {{math|''m''&lt;sub&gt;4&lt;/sub&gt;{{=}}6.6{{E-|27}} kg}} を用い、理想ボース気体での公式からBECの転移温度を求めると {{math|''T''&lt;sub&gt;BEC&lt;/sub&gt;{{=}}3.1K}}となり、これは[[ラムダ転移]]の転移温度 {{math|''T''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;{{=}}2.17K}} に近い。一方で、液体&lt;sup&gt;4&lt;/sup&gt;Heでは粒子間相互作用が強く、理想ボース気体とは見なせない。そのため、BEC状態にある粒子数 {{math|''N''&lt;sub&gt;0&lt;/sub&gt;}} は全粒子数 {{mvar|N}} の1割程度に留まることが実験的にも確認されている&lt;ref&gt;{{Cite journal|author1=V. F. Sears|author2=E. C. Svensson|author3=P. Martel|author4=A. D. B. Woods|title=Neutron-Scattering Determination of the Momentum Distribution and the Condensate Fraction in Liquid &lt;sup&gt;4&lt;/sup&gt;He|journal=Phys. Rev. Lett.|year=1982|volume=49|page=279|doi=10.1103/PhysRevLett.49.279}}&lt;/ref&gt;。
+
+== 超伝導 ==
+[[BCS理論]]で記述できる[[超伝導]]現象では、電子の対である[[クーパー対]]をボース粒子として、厳密な言い方ではないがボース＝アインシュタイン凝縮が起きているとみなすことができる。クーパー対は電子対なので、電子対凝縮（単に対凝縮とも）と言うことがある。
+
+ボース＝アインシュタイン凝縮を起源とする超伝導は長らく観測されていなかったが、2020年11月に[[東京大学]]・[[京都大学]]の共同研究チームが鉄系超伝導体FeSe{{sub|0.79}}S{{sub|0.21}}において超伝導状態にある電子を直接観測することにより、この超伝導体における超伝導がクーパー対のボース＝アインシュタイン凝縮により発現していることの確証を得た、と発表した&lt;ref&gt;{{cite web|url=https://issp.u-tokyo.ac.jp/maincontents/news2.html?pid=11590|title=ボース・アインシュタイン凝縮による超伝導を初めて確認|date=2020-11-7|accessdate=2020-12-3|publisher=[[東京大学物性研究所]]}}&lt;/ref&gt;。研究グループが開発した極低温超高分解能レーザー角度分解光電子分光装置によりエネルギーバンドの分散関係を観測した結果、BCS理論に基づく超伝導状態ではなく、ボース＝アインシュタイン凝縮を起源とする超伝導状態に対応するバンド分散になっていることが確かめられた。
+
+== その他の類似現象 ==
+フェルミ粒子であるヘリウム3の超流動は、超伝導の場合のようにヘリウム3原子の対が凝縮対を作って、凝縮状態となっている（[[超流動]]参照）。また、フェルミ粒子である[[中性子]]が対をなすため、同様なことが[[中性子星]]の内部でも起こっている可能性が指摘されている。その他にも、[[光子]]や[[フォノン]]でも凝縮現象を考えることができる。
+
+== 宇宙での実験 ==
+ボース＝アインシュタイン凝縮を研究するためには、温度は絶対零度よりほんの少し高いだけの温度にまで冷却する必要がある。絶対零度まで冷やすと原子はエネルギーが最小となり、ほぼ動きを止める。科学者たちは重力のある環境下と、重力のない環境下での原子の挙動の違いを比較するため、[[国際宇宙ステーション]](ISS)を使って研究を行うことにした。このCold Atom Laboratory (CAL) と呼ぶ装置は2018年5月にISSへ打ち上げられた。地上試験では200[[ナノ]][[ケルビン]]を達成しており、ISSでの実験では、温度は1[[ピコ]]ケルビンにまで達する予定。これは自然現象でも到達できないため、これまで宇宙で観測された中でも一番低い温度になる予定。ここまで冷やすと、新たな量子現象の観察や、物理学の最も基本となる法則の試験が行える可能性がある。この実験を提案したチームの中には、3人のノーベル賞受賞者が含まれている&lt;ref&gt;{{cite news
+|title = Cold Atom Laboratory Creates Atomic Dance
+|url = http://www.nasa.gov/mission_pages/station/research/news/cold_atom_lab/
+|publisher = NASA
+|date = 2014-09-26
+|accessdate = 2015-5-5
+}}&lt;/ref&gt;。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+===注===
+{{reflist|group="注"}}
+===出典===
+{{reflist|30em}}
+
+== 参考文献 ==
+===書籍===
+* {{Cite book |和書|title= 現代量子物理学―基礎と応用|author1= 上田正仁|publisher=培風館|year=2004|isbn=978-4563022655|ref= ueda2004}}
+* {{Cite book |和書|title= 量子光学|author1=久我隆弘|authorlink1=久我隆弘|series=朝倉物性シリーズ3|publisher=朝倉書店|year=2003|ref=kuga2003 }}
+* {{Cite book |和書|title= 量子流体力学|author1= 坪田誠|author2= 笠松健一|author3= 小林未知数|author4= 竹内宏光|publisher=丸善出版|year=2018|isbn=978-4621302477|ref=tsubota2018 }}
+* {{Cite book|first1=C. J.|last1=Pethick|first2=H.|last2=Smith|title=Bose-Einstein Condensation in Dilute Gases|publisher=Cambridge University Press|year=2008|edition=2nd|isbn=978-0521846516|ref=pethick_smith2008}}; ペシィックおよびスミス『ボーズ・アインシュタイン凝縮』吉岡書店、[[2005年]](ISBN 4-8427-0327-X)
+* {{Cite book ||title= Subtle Is the Lord: The Science And the Life of Albert Einstein|first1=Abraham|last1= Pais|publisher=Oxford Univ Press|year=2005|isbn= 978-0192806727|ref=pais2005}}
+* {{Cite book ||title= Bose-Einstein Condensation and Superfluidity|first1=Lev|last1=Pitaevskii|first2=Sandro|last2=Stringari|series=International Series of Monographs on Physics|publisher=Oxford Univ Press|year=2016|isbn=978-0198758884|ref=pitaevskii_stringari}}
+
+===レビュー論文===
+* {{Cite journal|author1=上田正仁||title=レーザー冷却された中性原子気体のBose-Einstien凝縮|journal=日本物理学会誌||date=1998|volume=53|page=663|ref= ueda1998}}
+* {{Cite journal|first1=E. A.|last1=Cornel|authorlink1=エリック・コーネル|first2=J. R.|last2=Ensher|first3=C. E.|last3=Wieman|authorlink3=カール・ワイマン|title=Experiments in Dilute Atomic Bose-Einstein Condensation|journal=Proceedings of the International School of Physics "Enrico Fermi" course CXL|publisher=Italian Physical Society, volume of ''Bose-Einstein Condensation in Atomic Gases'', edtited by M. Ingsuscio, S. Stringari and C. E. Wieman.|date=1999||pages=15-66|url=https://arxiv.org/abs/cond-mat/9903109|arxiv=cond-mat/9903109|ref= cornel1999}}
+* {{Cite journal||first1=Dalfovo|last1=Franco|first2=Giorgin|last2=Stefano|first3=Pitaevskii|last3=Lev P.|first4=Stringari|last4=Sandro|title=Theory of Bose-Einstein condensation in trapped gases|journal=Rev. Mod. Phys.|date=1999||volume=71|page=463|doi=10.1103/RevModPhys.71.463|ref= dalfovo1999}}
+* {{Cite journal||first1=Anthony J.|last1=Leggett|authorlink1=アンソニー・レゲット|title=Bose-Einstein condensation in the alkali gases: Some fundamental concepts|journal=Rev. Mod. Phys.|date=2001|volume=73|page=307|doi=10.1103/RevModPhys.73.307|ref= leggett2001}}
+* {{Cite journal|first1=Kettelrle|last1=Wolfgabgl|authorlink1=ヴォルフガング・ケターレ|first2=D.S.|last2=Durfee|first3=D.M.|last3=Stamper-Kurn|title=Making, probing and understanding Bose-Einstein condensates|journal=Proceedings of the International School of Physics "Enrico Fermi" course CXL|publisher=Italian Physical Society, volume of ''Bose-Einstein Condensation in Atomic Gases'', edtited by M. Ingsuscio, S. Stringari and C. E. Wieman.|date=1999|pages=67-176|url=https://arxiv.org/abs/cond-mat/9904034|arxiv=cond-mat/9904034|doi=10.3254/978-1-61499-225-7-67|ref= kettelrle1999}}
+
+== 関連項目 ==
+* [[低温物理学]]
+* [[物性物理学]]
+* [[ボース分布関数]]
+* [[レーザー冷却]]
+* [[冷却原子気体]]
+
+== 外部リンク ==
+* [https://web.archive.org/web/20110611044641/http://nobelprize.org/nobel_prizes/physics/laureates/2001/public.html 2001年ノーベル物理学賞のプレスリリース（英語）]
+* {{Kotobank}}
+
+{{物質の状態}}
+{{Condensed matter physics topics}}
+{{アルベルト・アインシュタイン}}
+{{Normdaten}}
+
+{{デフォルトソート:ほおすあいんしゆたいんきようしゆく}}
+[[Category:固体物理学]]
+[[Category:物理化学の現象]]
+[[Category:サティエンドラ・ボース]]
+[[Category:アルベルト・アインシュタイン]]
+[[Category:物理学のエポニム]]
+[[Category:エキゾチック物質]]
+[[Category:物質の相]]</text>
+      <sha1>btdhr8cdrujfvjsh5fo7ed6oz0jwlm3</sha1>
+    </revision>
+  </page>
+  

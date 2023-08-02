@@ -1,0 +1,561 @@
+<page>
+    <title>千葉みなと駅</title>
+    <ns>0</ns>
+    <id>10265</id>
+    <revision>
+      <id>95573472</id>
+      <parentid>95477382</parentid>
+      <timestamp>2023-06-11T07:23:01Z</timestamp>
+      <contributor>
+        <username>Mister0124</username>
+        <id>1138348</id>
+      </contributor>
+      <comment>Templateやバス路線の表を見直し（Templateも新規挿入〔Plainlist、Unbulleted list〕）。Templateのアスタリスクが本来挿入されるべき箇所に挿入されていなかったため、脚注形式で挿入。また、駅周辺の箇条書きが多いため2段組形式に変更</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33400" xml:space="preserve">{{駅情報
+|駅名 = 千葉みなと駅
+|よみがな = ちばみなと
+|ローマ字 = Chibaminato
+|画像 = Chiba-Minato Station west20111028.jpg
+|pxl = 300
+|画像説明 = [[千葉港]]側から望むJR駅外観（2011年10月）
+|地図 = {{maplink2|frame=yes|plain=yes|type=point|type2=point|zoom=15|frame-align=center|frame-width=300|marker=rail|marker2=rail|marker-color=008000|marker-color2=2843ba|coord={{coord|35|36|25.8|N|140|6|8.7|E}}|title=JR東日本 千葉みなと駅|coord2={{coord|35|36|26.6|N|140|6|9|E}}|title2=千葉都市モノレール 千葉みなと駅}}
+|所在地 = [[千葉市]][[中央区_(千葉市)|中央区]]中央港一丁目
+|所属事業者 = {{Plainlist|
+* [[東日本旅客鉄道]]（JR東日本・[[#JR東日本|駅詳細]]）
+* [[千葉都市モノレール]]（[[#千葉都市モノレール|駅詳細]]）}}
+}}
+'''千葉みなと駅'''（ちばみなとえき）は、[[千葉県]][[千葉市]][[中央区 (千葉市)|中央区]]中央港一丁目にある、[[東日本旅客鉄道]]（JR東日本）・[[千葉都市モノレール]]の[[鉄道駅|駅]]である。
+
+JR東日本の[[京葉線]]と千葉都市モノレールの[[千葉都市モノレール1号線|1号線]]が乗り入れ、接続駅となっている。千葉都市モノレールの駅は1号線の起点かつ同線の単独駅であるが、[[千葉駅]]から分岐する[[千葉都市モノレール2号線|2号線]]の大半の列車も当駅まで乗り入れる。JRの駅には'''JE 17'''、千葉都市モノレールの駅には'''CM01'''の[[駅ナンバリング|駅番号]]が付与されている。
+
+== 歴史 ==
+* [[1986年]]（[[昭和]]61年）[[3月3日]]：[[日本国有鉄道]]（国鉄）京葉線の'''千葉港駅'''（ちばみなとえき）{{Refnest|group="注"|京葉線開業前の仮称は「新町」であった&lt;ref&gt;潮風と走る 東京湾岸通勤新線 国鉄京葉線 日本鉄道建設公団&lt;/ref&gt;。}}として開業&lt;ref name="sone45"&gt;{{Cite book|和書 |author=曽根悟（監修）|authorlink=曽根悟 |title=週刊 歴史でめぐる鉄道全路線 国鉄・JR |editor=朝日新聞出版分冊百科編集部 |publisher=[[朝日新聞出版]] |series=週刊朝日百科 |volume=45号 埼京線・八高線・川越線・武蔵野線・京葉線 |date=2010-06-06 |page=27 }}&lt;/ref&gt;。「ちばこう」という誤読を防ぐため、駅名標や方向幕などでは当初から「千葉みなと」と表記されることが多かった&lt;ref group="注" name="usui"&gt;なお、ICカードの履歴印字は現在も「千葉港」である。似たような事例として[[京成本線]]の[[京成臼井駅]]（けいせいうすいえき）があり、そちらに関しては[[北総鉄道北総線]]の[[白井駅]]（しろいえき）との誤読を防ぐために「うすい」と表記されることが多い。なお同駅は、現在も「京成臼井駅」が正式名である。&lt;/ref&gt;。
+* [[1987年]]（昭和62年）[[4月1日]]：[[国鉄分割民営化]]に伴い、東日本旅客鉄道（JR東日本）の駅となる&lt;ref name="sone45"/&gt;。
+* [[1988年]]（昭和63年）[[12月1日]]：京葉線が当駅から蘇我駅まで延伸開業&lt;ref name="sone45"/&gt;。
+* [[1992年]]（[[平成]]4年）[[3月14日]]：正式名称を'''千葉みなと駅'''に改称&lt;ref name="sone45"/&gt;&lt;ref name="RJ720_66"&gt;{{Cite journal|和書|author=末次清|title=京葉線車両ダイジェスト|journal=[[鉄道ピクトリアル]]|date=2002-08-01|volume=52|issue=第8号（通巻720号）|page=66|publisher=[[電気車研究会]]|issn=0040-4047}}&lt;/ref&gt;&lt;ref group="注" name="usui" /&gt;。
+* [[1995年]]（平成7年）[[8月1日]]：千葉都市モノレール1号線が開業する&lt;ref name="交通19950803"&gt;{{Cite news|title=モノレールが延長 千葉－千葉みなと間が開通|newspaper=[[交通新聞]]|publisher=[[交通新聞社]]|date=1995-08-03|page=1}}&lt;/ref&gt;&lt;ref name="sone30"&gt;{{Cite book|和書 |author=曽根悟（監修）|authorlink=曽根悟 |title=週刊 歴史でめぐる鉄道全路線 公営鉄道・私鉄 |editor=朝日新聞出版分冊百科編集部 |publisher=[[朝日新聞出版]] |series=週刊朝日百科 |volume=30号 モノレール・新交通システム・鋼索鉄道 |date=2011-10-16 |page=6 }}&lt;/ref&gt;。
+* [[2001年]]（平成13年）[[11月18日]]：JR東日本の駅で[[ICカード]]「[[Suica]]」の利用が可能となる&lt;ref group="広報"&gt;{{Cite web|url=https://www.jreast.co.jp/press/2001_1/20010904/suica.pdf|archiveurl=https://web.archive.org/web/20190727044949/https://www.jreast.co.jp/press/2001_1/20010904/suica.pdf|title=Suicaご利用可能エリアマップ（2001年11月18日当初）|format=PDF|language=日本語|archivedate=2019-07-27|accessdate=2020-04-28|publisher=東日本旅客鉄道}}&lt;/ref&gt;&lt;ref group="注"&gt;Suica・PASMOなどのICカードを当駅（JR線）で利用し、利用履歴の出力を行った場合、当駅の表示・印字は文字数の関係上、「千葉みなと」ではなく、かつての駅名である「千葉港」と表示・印字される。&lt;/ref&gt;。
+* [[2002年]]（平成14年）[[12月1日]]：ダイヤ改正により京葉線の快速電車が停車&lt;ref&gt;{{Cite web|url=https://www.jreast.co.jp/press/2002_1/20020911/pdf/syutoken.pdf |archiveurl=https://web.archive.org/web/20180630105145/https://www.jreast.co.jp/press/2002_1/20020911/pdf/syutoken.pdf|title=2002年12月 ダイヤ改正について＞III.首都圏輸送＞4.京葉線の増発及び輸送体系の変更 |format=PDF|language=日本語|archivedate=2018-06-30|accessdate=2020-05-24|publisher=[[東日本旅客鉄道]]}}&lt;/ref&gt;。
+* [[2007年]]（平成19年）[[3月10日]]：JR東日本の駅で[[発車メロディ]]を導入。
+* [[2009年]]（平成21年）3月14日：千葉都市モノレールの駅でICカード「[[PASMO]]」の利用が可能となる&lt;ref&gt;{{Cite press release|和書|url=https://www.tokyu.co.jp/file/081222.pdf|archiveurl=https://web.archive.org/web/20150414235704/http://www.tokyu.co.jp/file/081222.pdf|format=PDF|language=日本語|title=2009年3月14日、新たに3事業者でPASMOがご利用いただけるようになります。|publisher=PASMO協議会／パスモ|date=2008-12-22|accessdate=2020-08-21|archivedate=2015-04-14}}&lt;/ref&gt;&lt;ref group="注"&gt;千葉都市モノレール線にてICカードを利用した場合は「千モ 港」と表示・印字される。&lt;/ref&gt;。
+* [[2014年]]（平成25年）[[3月31日]]：[[みどりの窓口]]の営業を終了。
+* [[2015年]]（平成27年）[[10月20日]]：JR東日本の駅が業務委託化&lt;ref&gt;{{Cite web |url=https://doro-chiba.org/nikkan/%E5%8D%83%E8%91%89%E6%94%AF%E7%A4%BE%E3%83%BC%E3%80%8C%E5%8D%83%E8%91%89%E9%81%8B%E8%BC%B8%E5%8C%BA%E3%80%8D%E3%81%AE%E8%A6%81%E5%93%A1%E3%82%92%E6%8F%90%E6%A1%88-%EF%BC%96%E9%A7%85%E5%A7%94%E8%A8%97/ |archiveurl=https://archive.fo/LB6c7|title=千葉支社 「千葉運輸区」の要員を提案 6駅委託と窓口削減・要員削減も提案|accessdate=2019-07-30|publisher=[[国鉄千葉動力車労働組合]]|archivedate=2019-07-30}}&lt;/ref&gt;。
+* [[2018年]]（平成30年）[[2月]]：千葉都市モノレールの駅のトイレの改修工事（洋式化）完了。
+* [[2021年]]（[[令和]]3年）[[11月9日]]：JR東日本の駅に駅ナカシェアオフィス「STATION WORK」のテレワークブース「STATION BOOTH」が開設&lt;ref&gt;{{Cite press release|和書|url=https://www.jreast.co.jp/press/2021/20211108_ho01.pdf|archiveurl=https://web.archive.org/web/20211108050819/https://www.jreast.co.jp/press/2021/20211108_ho01.pdf|format=PDF|language=日本語|title=STATION WORKは全国300カ所超のネットワークへ 〜エキナカからマチナカへの展開により、多様な働き方を実現します〜|publisher=東日本旅客鉄道|date=2021-11-08|accessdate=2021-11-08|archivedate=2021-11-08}}&lt;/ref&gt;。
+
+== 駅構造 ==
+=== JR東日本 ===
+{{駅情報
+|社色 = green
+|駅名 = JR 千葉みなと駅{{Refnest|group="*"|[[1992年]]（[[平成]]4年）[[3月14日]]に「千葉港駅」から「'''千葉みなと駅'''」に改称&lt;ref name="RJ720_66" /&gt;。}}
+|画像 = 千葉みなと駅(2005-01-19) - panoramio.jpg
+|pxl = 300
+|画像説明 = JR駅舎（2005年1月）
+|よみがな = ちばみなと
+|ローマ字 = Chibaminato
+|電報略号 = チナ
+|駅番号 = {{駅番号r|JE|17|#c9252f|1}}
+|所属事業者 = [[東日本旅客鉄道]]（JR東日本）
+|所属路線 = {{color|#c9252f|■}}[[京葉線]]
+|前の駅 = JE 16 [[稲毛海岸駅|稲毛海岸]]{{Refnest|group="*"|この間に[[新港信号場]]有り（当駅から2.2&amp;nbsp;km先）。}}
+|駅間A = 3.7
+|駅間B = 4.0
+|次の駅 = [[蘇我駅|蘇我]]
+|キロ程 = 39.0
+|起点駅 = [[東京駅|東京]]
+|ホーム = 2面3線
+|駅構造 = [[高架駅]]
+|乗車人員 = 14,158
+|統計年度 = 2021年
+|所在地 = [[千葉市]][[中央区_(千葉市)|中央区]]中央港一丁目1-1
+|座標 = {{ウィキ座標2段度分秒|35|36|25.8|N|140|6|8.7|E|region:JP_type:railwaystation|display=inline,title|name=JR 千葉みなと駅}}
+|開業年月日 = [[1986年]]（[[昭和]]61年）[[3月3日]]&lt;ref name="sone45"/&gt;
+|廃止年月日 =
+|備考 = [[日本の鉄道駅#業務委託駅|業務委託駅]]&lt;ref name="outsourcing"/&gt;
+|備考全幅 = {{Reflist|group="*"}}
+}}
+[[島式ホーム]]1面2線（1・2番線）と[[単式ホーム]]1線（3番線）を有する[[高架駅]]。駅舎は高架下にある。
+
+[[JR東日本ステーションサービス]]が駅業務を受託している新浦安営業統括センター([[新浦安駅]]）管理の[[日本の鉄道駅#業務委託駅|業務委託駅]]&lt;ref name="outsourcing"&gt;{{Cite web|url=http://www.jreu-chiba.jp/library/5ae7dc3ada3b1e50464226fd/5ee35c9764a22fe00e9f1e5d.pdf|archiveurl=https://web.archive.org/web/20200613143456/http://www.jreu-chiba.jp/library/5ae7dc3ada3b1e50464226fd/5ee35c9764a22fe00e9f1e5d.pdf|title=営業施策について提案を受ける!|archivedate=2020-06-13|date=2020-06-12|accessdate=2020-11-30|publisher=JR東労組千葉地方本部|format=PDF|language=日本語}}&lt;/ref&gt;。[[指定席券売機]]・[[自動改札機]]・[[自動精算機]]設置駅。[[2017年]][[2月1日]]の駅遠隔操作システム導入により、始発から午前6時30分までは改札係員不在となり、一部の自動券売機のみ稼働する（[[稲毛海岸駅]]がインターホンによる遠隔対応を行う）&lt;ref name="a"&gt;{{Cite web |url=https://doro-chiba.org/nikkan/jr%E5%8D%83%E8%91%89%E6%94%AF%E7%A4%BE%E2%80%95%EF%BC%93%E6%9C%88%E3%83%80%E3%82%A4%E6%94%B9%E3%81%AE%E5%8A%B4%E5%83%8D%E6%9D%A1%E4%BB%B6%E3%82%92%E6%8F%90%E6%A1%88-%E5%86%85%E6%88%BF%E7%B7%9A/|title=JR千葉支社-3月ダイ改の労働条件を提案 内房線ー君津系統分離による列車削減＝地域切り捨てを絶対許すな！|accessdate=2018-06-13|publisher=[[国鉄千葉動力車労働組合]]|archiveurl=https://archive.li/Jmj9X|archivedate=2018-06-13}}&lt;/ref&gt;。
+
+[[万葉軒]]が営業する飲食店「万葉茶屋 千葉みなと」があったが、閉店した。
+
+その後同じスペースに[[日本レストランエンタプライズ]]が営業する飲食店「いろり庵きらく 千葉みなと店」が出店している。
+
+東京駅から続いてきた京葉線の[[電車特定区間]]は当駅までであり、蘇我駅は区間外となっている。
+
+==== のりば ====
+&lt;!--行先欄はスマートフォン向けアプリ「JR東日本アプリ」の構内図に従う--&gt;
+{|class="wikitable"
+!番線&lt;!-- 事業者側による呼称 --&gt;!!路線!!方向!!行先!!備考
+|-
+!1・2
+|rowspan="2"|[[File:JR JE line symbol.svg|15px|JE]] 京葉線
+|style="text-align:center"|下り
+|[[蘇我駅|蘇我]]方面
+|rowspan="2"|2番線は一部列車
+|-
+!2・3
+|style="text-align:center"|上り
+|[[南船橋駅|南船橋]]・[[東京駅|東京]]方面
+|}
+（出典：[https://www.jreast.co.jp/estation/stations/990.html JR東日本:駅構内図]）
+* 2番線は通過待ちで用いられる。また、ダイヤが大幅に乱れた場合は外房線および内房線の[[千葉駅|千葉]]行の上り列車が当駅2番線を用いて折り返すことがある。
+
+&lt;gallery&gt;
+JR Keiyo-Line Chibaminato Station Gates.jpg|改札口（2019年12月）
+JR Keiyo-Line Chibaminato Station Platform.jpg|ホーム（2019年12月）
+&lt;/gallery&gt;
+
+{|class="wikitable"
+!運転番線!!営業番線!!ホーム!!東京・西船橋方面着発!!蘇我方面着発!!備考
+|-
+|style="text-align:center"|1||style="text-align:center"|1||style="text-align:right"|10両分||到着可||出発可||下り主本線
+|-
+|style="text-align:center"|2||style="text-align:center"|2||style="text-align:right"|10両分||到着・出発可||到着・出発可||
+|-
+|style="text-align:center"|3||style="text-align:center"|3||style="text-align:right"|10両分||出発可||到着可||上り主本線
+|}
+* 主本線を発着する場合は通過が可能。
+
+=== 千葉都市モノレール ===
+{{駅情報
+|社色 = #2843ba
+|駅名 = 千葉都市モノレール 千葉みなと駅
+|画像 = Chiba-Minato Station east.jpg
+|pxl = 300
+|画像説明 = モノレール駅舎（2011年12月）
+|よみがな = ちばみなと
+|ローマ字 = Chibaminato
+|電報略号 =
+|駅番号 = {{駅番号r|CM|01|#0098cf|4||#185aa5}}
+|所属事業者 = [[千葉都市モノレール]]
+|所属路線 = {{Color|#2843ba|■}}[[千葉都市モノレール1号線|1号線]]&lt;br /&gt;（{{Color|#2843ba|■}}[[千葉都市モノレール2号線|2号線]]直通含む）
+|前の駅 =
+|駅間A =
+|駅間B = 0.7
+|次の駅 = [[市役所前駅 (千葉県)|市役所前]] CM02
+|キロ程 = 0.0
+|起点駅 = 千葉みなと
+|駅構造 = [[高架駅]]
+|ホーム = 2面2線
+|乗車人員 = 6,340&lt;!--千葉市統計書--&gt;
+|統計年度 = 2020年
+|所在地 = [[千葉市]][[中央区_(千葉市)|中央区]]中央港一丁目17-12
+|座標 = {{ウィキ座標2段度分秒|35|36|26.6|N|140|6|9|E|region:JP_type:railwaystation|name=千葉都市モノレール 千葉みなと駅}}
+|開業年月日 = [[1995年]]（[[平成]]7年）[[8月1日]]&lt;ref name="交通19950803" /&gt;&lt;ref name="sone30"/&gt;
+|廃止年月日 =
+|備考 =
+}}
+[[相対式ホーム]]2面2線を有する高架駅。JRとは別に独自の駅舎を有する。平日朝の一部列車を除き、1番線から[[動物公園駅|動物公園]]・[[千城台駅|千城台]]行が、2番線から[[県庁前駅 (千葉県)|県庁前]]行が発車する。
+
+==== のりば ====
+&lt;!-- 現地の案内標では一括して「千葉・千城台・県庁前方面」となっているが、実態に合わせて記載。発着番線は公式サイトの時刻表で参照可能（2012年2月時点） --&gt;
+{|class="wikitable"
+!番線&lt;!-- 事業者側による呼称 --&gt;!!路線!!行先!!備考
+|-
+!1
+|[[File:Number prefix Chiba monorail.svg|15px|千葉都市モノレール]] 2号線
+|[[千葉駅|千葉]]・[[千城台駅|千城台]]方面
+|平日朝の一部は2番線から発車
+|-
+!2
+|[[File:Number prefix Chiba monorail.svg|15px|千葉都市モノレール]] 1号線
+|千葉・[[県庁前駅 (千葉県)|県庁前]]方面
+| -　
+|}
+&lt;gallery&gt;
+Chibatoshimonorail_Chibaminato_sta_001.jpg|改札口
+Chiba-monorail-1-Chiba-minato-station-platform.jpg|ホーム
+Chiba-Minato Station, end edge of monorail.jpg|モノレール終端
+&lt;/gallery&gt;
+{{-}}
+
+== 利用状況 ==
+* '''JR東日本''' - 2021年度の1日平均[[乗降人員#乗車人員|'''乗車'''人員]]は'''14,158人'''である。
+* '''千葉都市モノレール''' - 2020年度の1日平均'''乗車'''人員は'''6,340人'''である。
+*: 同社の駅では18駅中2位。
+
+開業以後の1日平均'''乗車'''人員推移は下表の通り。
+{|class="wikitable" style="text-align:right"
+|+年度別1日平均乗車人員&lt;ref group="統計"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/ 千葉県統計年鑑] - 千葉県&lt;/ref&gt;&lt;ref group="統計"&gt;[https://www.city.chiba.jp/shisei/gyokaku/toke/toke/index.html 千葉市統計書] - 千葉市&lt;/ref&gt;
+|-
+!年度!!国鉄 / &lt;br /&gt;JR東日本!!千葉都市&lt;br /&gt;モノレール!!出典
+|-
+|1985年（昭和60年）
+|&lt;ref group="備考"&gt;1986年3月3日開業。開業日から同年3月31日までの計29日間を集計したデータ。&lt;/ref&gt;2,337
+|style="text-align:center" rowspan="10"|未&lt;br /&gt;開&lt;br /&gt;業
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-s61/index.html#11 千葉県統計年鑑（昭和61年）]&lt;/ref&gt;
+|-
+|1986年（昭和61年）
+|1,955
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-s62/index.html#11 千葉県統計年鑑（昭和62年）]&lt;/ref&gt;
+|-
+|1987年（昭和62年）
+|2,285
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-s63/index.html#11 千葉県統計年鑑（昭和63年）]&lt;/ref&gt;
+|-
+|1988年（昭和63年）
+|3,266
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h1/index.html#11 千葉県統計年鑑（平成元年）]&lt;/ref&gt;
+|-
+|1989年（平成元年）
+|4,898
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h02/index.html#11 千葉県統計年鑑（平成2年）]&lt;/ref&gt;
+|-
+|1990年（平成{{0}}2年）
+|6,009
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h03/index.html#11 千葉県統計年鑑（平成3年）]&lt;/ref&gt;
+|-
+|1991年（平成{{0}}3年）
+|6,625
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h04/index.html#11 千葉県統計年鑑（平成4年）]&lt;/ref&gt;
+|-
+|1992年（平成{{0}}4年）
+|6,968
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h05/index.html#11 千葉県統計年鑑（平成5年）]&lt;/ref&gt;
+|-
+|1993年（平成{{0}}5年）
+|7,307 
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h06/index.html#11 千葉県統計年鑑（平成6年）]&lt;/ref&gt;
+|-
+|1994年（平成{{0}}6年）
+|7,563
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h07/index.html#11 千葉県統計年鑑（平成7年）]&lt;/ref&gt;
+|-
+|1995年（平成{{0}}7年）
+|8,597
+|&lt;ref group="備考"&gt;1995年8月1日開業。開業日から翌年3月31日までの計244日間を集計したデータ。&lt;/ref&gt;2,919
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h08/index.html#11 千葉県統計年鑑（平成8年）]&lt;/ref&gt;
+|-
+|1996年（平成{{0}}8年）
+|9,439
+|3,825
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h09/index.html#11 千葉県統計年鑑（平成9年）]&lt;/ref&gt;
+|-
+|1997年（平成{{0}}9年）
+|9,505
+|4,160
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h10/index.html#11 千葉県統計年鑑（平成10年）]&lt;/ref&gt;
+|-
+|1998年（平成10年）
+|9,444
+|4,174
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h11/index.html#11 千葉県統計年鑑（平成11年）]&lt;/ref&gt;
+|-
+|1999年（平成11年）
+|9,432
+|4,421
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h12/index.html#11 千葉県統計年鑑（平成12年）]&lt;/ref&gt;
+|-
+|2000年（平成12年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2000_01.html 各駅の乗車人員（2000年度）] - JR東日本&lt;/ref&gt;9,813
+|4,493
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h13/index.html#11 千葉県統計年鑑（平成13年）]&lt;/ref&gt;
+|-
+|2001年（平成13年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2001_01.html 各駅の乗車人員（2001年度）] - JR東日本&lt;/ref&gt;10,157
+|4,540
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h14/index.html#11 千葉県統計年鑑（平成14年）]&lt;/ref&gt;
+|-
+|2002年（平成14年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2002_01.html 各駅の乗車人員（2002年度）] - JR東日本&lt;/ref&gt;10,592
+|4,684
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h15/index.html#11 千葉県統計年鑑（平成15年）]&lt;/ref&gt;
+|-
+|2003年（平成15年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2003_01.html 各駅の乗車人員（2003年度）] - JR東日本&lt;/ref&gt;11,649
+|5,139
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h16/index.html#11 千葉県統計年鑑（平成16年）]&lt;/ref&gt;
+|-
+|2004年（平成16年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2004_01.html 各駅の乗車人員（2004年度）] - JR東日本&lt;/ref&gt;12,147
+|5,448
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h17/index.html#11 千葉県統計年鑑（平成17年）]&lt;/ref&gt;
+|-
+|2005年（平成17年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2005_01.html 各駅の乗車人員（2005年度）] - JR東日本&lt;/ref&gt;13,118
+|5,702
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h18/index.html#11 千葉県統計年鑑（平成18年）]&lt;/ref&gt;
+|-
+|2006年（平成18年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2006_01.html 各駅の乗車人員（2006年度）] - JR東日本&lt;/ref&gt;14,013
+|6,166
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h19/index.html#11 千葉県統計年鑑（平成19年）]&lt;/ref&gt;
+|-
+|2007年（平成19年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2007_01.html 各駅の乗車人員（2007年度）] - JR東日本&lt;/ref&gt;14,768
+|6,573
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h20/index.html#11 千葉県統計年鑑（平成20年）]&lt;/ref&gt;
+|-
+|2008年（平成20年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2008_01.html 各駅の乗車人員（2008年度）] - JR東日本&lt;/ref&gt;15,134
+|6,704
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h21/index.html#a11 千葉県統計年鑑（平成21年）]&lt;/ref&gt;
+|-
+|2009年（平成21年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2009_01.html 各駅の乗車人員（2009年度）] - JR東日本&lt;/ref&gt;14,934
+|6,658
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h22/index.html#a11 千葉県統計年鑑（平成22年）]&lt;/ref&gt;
+|-
+|2010年（平成22年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2010_01.html 各駅の乗車人員（2010年度）] - JR東日本&lt;/ref&gt;14,888
+|6,648
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h23/index.html#a11 千葉県統計年鑑（平成23年）]&lt;/ref&gt;
+|-
+|2011年（平成23年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2011_01.html 各駅の乗車人員（2011年度）] - JR東日本&lt;/ref&gt;14,559
+|6,342
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h24/index.html#a11 千葉県統計年鑑（平成24年）]&lt;/ref&gt;
+|-
+|2012年（平成24年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2012_02.html 各駅の乗車人員（2012年度）] - JR東日本&lt;/ref&gt;14,956
+|6,740
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h25/index.html#a11 千葉県統計年鑑（平成25年）]&lt;/ref&gt;
+|-
+|2013年（平成25年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2013_02.html 各駅の乗車人員（2013年度）] - JR東日本&lt;/ref&gt;15,561
+|7,157
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h26/index.html#a11 千葉県統計年鑑（平成26年）]&lt;/ref&gt;
+|-
+|2014年（平成26年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2014_02.html 各駅の乗車人員（2014年度）] - JR東日本&lt;/ref&gt;15,699
+|7,237
+|&lt;ref group="*"&gt;[http://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h27/index.html#a11 千葉県統計年鑑（平成27年）]&lt;/ref&gt;
+|-
+|2015年（平成27年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2015_02.html 各駅の乗車人員（2015年度）] - JR東日本&lt;/ref&gt;16,400
+|7,504
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h28/index.html#a11 千葉県統計年鑑（平成28年）]&lt;/ref&gt;
+|-
+|2016年（平成28年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2016_02.html 各駅の乗車人員（2016年度）] - JR東日本&lt;/ref&gt;16,733
+|7,774
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h29/index.html#a11 千葉県統計年鑑（平成29年）]&lt;/ref&gt;
+|-
+|2017年（平成29年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2017_02.html 各駅の乗車人員（2017年度）] - JR東日本&lt;/ref&gt;17,052
+|8,047
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-h30/index.html#a11 千葉県統計年鑑（平成30年）]&lt;/ref&gt;
+|-
+|2018年（平成30年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2018_02.html 各駅の乗車人員（2018年度）] - JR東日本&lt;/ref&gt;17,191
+|8,264
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-r1/index.html#a11 千葉県統計年鑑（令和元年）]&lt;/ref&gt;
+|-
+|2019年（令和元年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2019_02.html 各駅の乗車人員（2019年度）] - JR東日本&lt;/ref&gt;17,199
+|8,467
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-r02/index.html#unyutuusin 千葉県統計年鑑（令和2年）]&lt;/ref&gt;
+|-
+|2020年（令和{{0}}2年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2020_02.html 各駅の乗車人員（2020年度）] - JR東日本&lt;/ref&gt;13,501
+|6,340
+|&lt;ref group="*"&gt;[https://www.pref.chiba.lg.jp/toukei/toukeidata/nenkan/nenkan-r03/index.html#unyutuusin 千葉県統計年鑑（令和3年）]&lt;/ref&gt;
+|-
+|2021年（令和{{0}}3年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2021_02.html 各駅の乗車人員（2021年度）] - JR東日本&lt;/ref&gt;14,158
+|
+|
+|}
+; 備考
+{{Reflist|group="備考"}}
+
+== 駅周辺 ==
+{{columns-list|2|
+* [[千葉市役所]]
+* [[千葉市議会]]
+* 千葉市中央コミュニティセンター
+** 中央区役所市役所前市民センター
+** 千葉CCプラザ内郵便局
+* [[千葉銀行]]本店
+* [[京葉銀行]]千葉みなと本部
+* [[千葉興業銀行]]本店
+* [[千葉中央警察署|千葉県千葉中央警察署]]
+* 千葉市中央消防署臨港出張所
+* [[千葉中央郵便局]]
+** [[かんぽ生命保険]]千葉支店
+* 千葉新宿郵便局
+* 千葉第一地方合同庁舎
+** [[管区行政評価局|関東管区行政評価局]] 千葉行政評価事務所
+** [[東京法務局#千葉地方法務局|千葉地方法務局]]
+** [[保護観察所|千葉保護観察所]]
+** [[公安調査局|関東公安調査局]]千葉公安調査事務所
+* 千葉港湾合同庁舎
+** [[横浜税関]]千葉税関支署
+** [[検疫所#組織体制|東京検疫所]]千葉支所
+** [[検疫所#組織体制|横浜植物防疫所]]東京支所千葉出張所
+** [[東京管区気象台#管内地方気象台|銚子地方気象台]]千葉[[特別地域気象観測所]]
+** [[第三管区海上保安本部]]千葉海上保安部
+* [[関東地方整備局]]千葉港湾事務所
+* 千葉県千葉地域整備センター千葉港湾事務所
+* 千葉市総合保健医療センター
+* [[NHK千葉放送局]]
+* [[千葉県立美術館]]
+* [[千葉ポートパーク]]
+* [[千葉ポートタワー]]
+* みなと公園
+* [[千葉港]]
+* [[千葉中央港旅客船桟橋]]
+* [[ケーズハーバー]]（旅客船ターミナル）
+* [[東横イン]] 千葉みなと駅前
+* [[ホテルオークラ#国内チェーン|オークラ千葉ホテル]]
+* ホテルポートプラザちば
+* ホテルニューツカモト
+* [[千葉ポートスクエア]]
+** [[千葉ポートアリーナ]]
+** [[千葉ポートサイドタワー]]
+** カンデオホテルズ千葉
+* ライオンズマンション千葉グランドタワー
+* 千葉マリンコート
+* [[NTTドコモ]]千葉ビル
+* [[損害保険ジャパン|損保ジャパン]]千葉ビル
+* [[日本電信電話|NTT]]千葉ビル
+* 一般社団法人[[千葉県建設業協会]]
+|}}
+
+&lt;gallery&gt;
+View from Chiba Port-Tower East.jpg|[[千葉ポートスクエア]]周辺
+Chibaportship.jpg|[[千葉中央港旅客船桟橋]]
+Okura Chiba Hotel.jpg|[[ホテルオークラ#国内チェーン|オークラ千葉ホテル]]
+千葉ポートタワー - panoramio.jpg|[[千葉ポートタワー]]
+Chiba Prefectural Museum of Art 2010.jpg|[[千葉県立美術館]]
+&lt;/gallery&gt;
+
+== バス路線 ==
+&lt;!--[[プロジェクト:鉄道#バス路線の記述法]]に基づき、経由地については省略して記載しています。--&gt;
+{| class="wikitable" style="font-size:80%;"
+!のりば!!運行事業者!!系統・行先
+|-
+!colspan="3"|東口
+|-
+!rowspan="2"|1
+|style="text-align:center;"|[[小湊鉄道]]
+|[[小湊鉄道塩田営業所#塩田本所 3|'''千62''']]：[[蘇我駅]]東口
+|-
+|style="text-align:center;"|[[千葉中央バス]]
+|[[千葉駅]]西口
+|-
+!rowspan="2"|2
+|style="text-align:center;"|小湊鉄道
+|'''千41'''・'''千42'''：千葉駅
+|-
+|style="text-align:center;"|[[千葉海浜交通]]
+|千葉駅
+|-
+!rowspan="2"|3
+|style="text-align:center;"|{{Unbulleted list|[[ちばシティバス]]|[[日東交通 (千葉県)|日東交通]]}}
+|[[ちばシティバス#館山線（南総里見号）|'''高速 南総里見号''']]：[[館山駅]]・[[安房白浜駅]]
+|-
+|style="text-align:center;"|[[千葉内陸バス]]
+|[[千葉内陸バス#現行路線（高速路線）|'''高速''']]：[[成田国際空港|成田空港]]
+|-
+!rowspan="2"|4
+|style="text-align:center;"|小湊鉄道
+|'''千62'''：[[千葉ポートタワー]]
+|-
+|style="text-align:center;"|千葉中央バス
+|千葉ポートタワー
+|-
+!rowspan="2"|5&lt;ref group="注"&gt;京葉線通り沿いの路上に設置。&lt;/ref&gt;
+|style="text-align:center;"|小湊鉄道
+|{{Unbulleted list|'''千41'''：幸町団地|'''千42'''：[[稲毛海岸駅]]}}
+|-
+|style="text-align:center;"|千葉海浜交通
+|'''千01'''：稲毛海岸駅 / 高浜車庫 / [[千葉市立海浜病院|海浜病院]]
+|-
+!rowspan="4"|6&lt;ref group="注"&gt;ポートプラザちば前の路上に設置。&lt;/ref&gt;
+|style="text-align:center;"|小湊鉄道
+|'''千71'''：新港中央市場
+|-
+|style="text-align:center;"|ちばシティバス
+|{{Unbulleted list|[[ちばシティバス#幸町団地線、幸町循環線|'''稲61''']]：稲毛駅|'''稲63'''：幸町団地}}
+|-
+|style="text-align:center;"|{{Unbulleted list|[[京成バス]]|[[京浜急行バス]]|ちばシティバス|[[東京空港交通]]}}
+|[[京成バス#羽田空港発着便|'''高速''']]：[[東京国際空港|羽田空港]]
+|-
+|style="text-align:center;"|{{Unbulleted list|京成バス|千葉内陸バス}}
+|[[京成バス#成田空港発着便|'''高速''']]：成田空港
+|-
+!rowspan="2"|7&lt;ref group="注"&gt;千葉みなとガーデンパーク前の路上に設置。&lt;/ref&gt;
+|style="text-align:center;"|小湊鉄道
+|'''千71'''：千葉駅西口
+|-
+|style="text-align:center;"|ちばシティバス
+|'''稲61'''・'''稲63'''：千葉駅西口
+|-
+!colspan="3"|西口
+|-
+!1
+|style="text-align:center;"|[[ちばシティバス]]
+|{{Unbulleted list|[[ちばシティバス#新港線|'''千38''']]：新港車庫前 / 千葉駅西口|'''千39'''：新港イースト / 千葉駅西口}}
+|-
+!rowspan="2"|2
+|style="text-align:center;"|[[小湊鉄道]]
+|'''千82'''：千葉ポートタワー / 千葉駅西口
+|-
+|style="text-align:center;"|[[九十九里鉄道|九十九里鐡道]]
+|'''[[アリオ蘇我]]シャトルバス'''：[[千葉寺駅|京成千葉寺駅]]
+|}
+
+== 隣の駅 ==
+; 東日本旅客鉄道（JR東日本）
+: [[File:JR JE line symbol.svg|15px|JE]] 京葉線
+:: {{Color|#ff0066|■}}通勤快速
+:::; 通過
+:: {{Color|#339966|■}}快速・{{Color|#0099ff|■}}各駅停車
+::: [[稲毛海岸駅]] (JE 16) - （[[新港信号場]]〔旧：[[千葉貨物ターミナル駅]]〕） - '''千葉みなと駅 (JE 17)''' - [[蘇我駅]]
+; 千葉都市モノレール
+: [[File:Number prefix Chiba monorail.svg|15px|千葉都市モノレール]] 1号線（2号線直通含む）
+::: '''千葉みなと駅 (CM01)''' - [[市役所前駅 (千葉県)|市役所前駅]] (CM02)
+
+== 脚注 ==
+{{脚注ヘルプ}}
+
+=== 記事本文 ===
+==== 注釈 ====
+{{Reflist|group="注"}}
+
+==== 出典 ====
+{{Reflist|2}}
+
+===== 広報資料・プレスリリースなど一次資料 =====
+{{Reflist|group="広報"}}
+
+=== 利用状況 ===
+{{Reflist|group="統計"}}
+; JR東日本の2000年度以降の乗車人員
+{{Reflist|group="JR"|22em}}
+; 千葉県統計年鑑
+{{Reflist|group="*"|22em}}
+
+== 関連項目 ==
+{{commonscat|Chiba-Minato Station}}
+* [[日本の鉄道駅一覧]]
+
+== 外部リンク ==
+* {{外部リンク/JR東日本駅|filename=990|name=千葉みなと}}
+* [https://chiba-monorail.co.jp/index.php/info-timetable/station-info/chibaminato-station/ 千葉都市モノレール 千葉みなと駅]
+
+{{京葉線}}
+{{千葉都市モノレール}}
+{{リダイレクトの所属カテゴリ
+|redirect1 = 千葉港駅
+|1-1 = 日本の鉄道駅 ち
+|1-2 = 日本国有鉄道の鉄道駅
+}}
+
+{{DEFAULTSORT:ちはみなと}}
+
+[[Category:千葉市中央区の鉄道駅]]
+[[Category:日本の鉄道駅 ち|はみなと]]
+[[Category:東日本旅客鉄道の鉄道駅]]
+[[Category:千葉都市モノレールの鉄道駅]]
+[[Category:1986年開業の鉄道駅]]
+[[Category:京葉線]]</text>
+      <sha1>f6b5x2ejnix928bc2s9srw2w8r051rx</sha1>
+    </revision>
+  </page>
+  

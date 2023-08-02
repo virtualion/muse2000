@@ -1,0 +1,199 @@
+<page>
+    <title>軍事用ロボット</title>
+    <ns>0</ns>
+    <id>845113</id>
+    <revision>
+      <id>95132805</id>
+      <parentid>95066128</parentid>
+      <timestamp>2023-05-09T13:45:49Z</timestamp>
+      <contributor>
+        <username>Bcxfubot</username>
+        <id>291984</id>
+      </contributor>
+      <minor />
+      <comment>外部リンクの修正 http:// -&gt; https:// (www.recordchina.co.jp) ([[Wikipedia:Bot|Bot]]による編集)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42599" xml:space="preserve">[[File:MQ-1_Lethal_Presence.jpg|thumb|250px|right|[[ヘルファイア (ミサイル)|ヘルファイアミサイル]]を搭載した[[RQ-1 プレデター|MQ-1 プレデター]]]]
+[[File:X-45A underside with weapons bay door open.jpg|thumb|250px|[[UCAV|UCAV（無人戦闘機）]][[X-45 (航空機)|X-45]]。下部のウェポンベイ（爆弾倉）を開いた状態。]]
+[[File:РОК Берсерк робот ПВО.jpg|thumb|250px|[[ベラルーシ]]のロボット兵器。4連装の[[機関銃]]GShG-7.62も装備しており、小型ドローンを自動的に破壊する。（2020年）]]
+'''軍事用ロボット'''（ぐんじようロボット）とは、[[軍事]]的な活動に利用される[[機械]]（[[ロボット]]）である。'''軍用ロボット'''（ぐんようロボット）、'''軍事ロボット'''（ぐんじロボット）ともいう。
+
+本項では、関連する以下に類されるものについて説明する。
+*'''戦闘ロボット'''（せんとうロボット）ないし'''戦闘用ロボット'''（せんとうようロボット） - 直接的な[[戦闘]]行為に参加するロボット
+*'''ロボット兵器'''（ロボットへいき）や'''無人兵器'''（むじんへいき） - 高度化を経て自動化・知能化された[[兵器]]
+
+なお、[[サイエンス・フィクション]] (SF)に登場する「'''人形ロボット兵器'''」に関しては、「[[リアルロボット]]」「[[スーパーロボット]]」を参照。本項においてロボットとは「自律的に動作する機械」を指し、主に実在の技術ないし兵器や研究分野の存在する技術について解説を行う。
+
+== 概要 ==
+{{see also|無人地上車両}}
+2015年以降に[[AI]]（[[人工知能]]）、その中でも特に[[ディープラーニング]]や[[マシンラーニング]]の技術が発展し、実現できる機能が急速に増え、実戦投入される分野が次第に増えてきている。
+
+なお[[ミサイル]]（[[巡航ミサイル]]）などにも、単純な[[組み込みシステム]]だけでなく一部で高度なAIが搭載されるようになってきており、表面的な形状はミサイルだが実質的には自律型ロボットである。
+
+;メリット
+軍事用ロボットで戦争を行えば、少なくとも自国の兵士の死の数は減らすことができると予想できる。
+
+[[軍人]]はいざという時は自国のために戦うことが任務ではあるが、だからといって死にたいと思っているわけではない。ロボットが人間の代わりに戦ってくれて、死者を出さずに自軍が勝利することができるのなら、それに越したことはないと、どこの国の軍人でも考える。兵士だけでなく軍の上層部もそう考えている。
+またタカ派で戦争をしたがる政府などにとっても、[[マスメディア]]が発達した現代の[[戦争]]では、[[ベトナム戦争]]や[[モガディシュの戦闘]]などに見られるように、[[戦場]]で兵士が[[戦死]]すると、その兵士の家族が[[遺族]]となり悲しむ姿もテレビ画面に映し出され、国内世論は厭戦（戦争を嫌がる状態）に大きく傾き、戦争の継続が困難になるが、ロボット兵器ならば仮に敵からの攻撃で破壊されても、人間の兵士の死ほどは世論に影響を与えないわけなので戦争を続行できる、という論理になる。
+
+戦時の兵士の仕事には、前線で射撃・砲撃・爆撃などを行うことだけでなく、[[偵察]]・[[哨戒]]・[[警備]]などの仕事も大量にあるので、そうした仕事をこなしてくれるロボット兵器も大いに役に立つ。
+
+また[[地雷]]の除去などをしてくれるロボットも非常に役に立つ。これなどはロボットの平和利用の一種である。
+
+&lt;!--
+なお日本では2011年の[[福島第一原子力発電所事故]]に際して、被曝や二次災害の危険が伴う箇所を調査するために、稼動実績のある偵察用ロボットが投入されており、日本国内では[[レスキューロボット]]の分野に重なる危険箇所調査への転用という可能性も示されている。
+--&gt;
+
+== 歴史 ==
+ロボットを軍事活動に利用しようという着想は、[[ゴーレム]]や[[タロース (ギリシア神話)|タロース]]のような[[神話]]上、[[フィクション]]上の存在まで含めれば、古代から存在したと言える。「ロボット」という語が登場する以前からあったと考えられるわけである。
+{{節スタブ|date=2021年10月}}
+
+
+{{Gallery|width=250px
+|Mini-tanks-p012953.jpg|[[イギリス軍]]に[[鹵獲]]された[[ゴリアテ (兵器)|ゴリアテ]]（[[第二次世界大戦]]）
+|Bio-inspired Big Dog quadruped robot is being developed as a mule that can traverse difficult terrain.tiff|2005年に開発された、試験中の[[ビッグドッグ]]。180kgの荷物を搭載し30kmを走破できるものだったが、「動作音があまりに大きすぎ、ビッグドッグがいると敵に気付かれ、（部隊ごと）攻撃されてしまう」という理由で、実戦への採用は結局却下された。
+}}
+
+== 現用兵器 ==
+{{See|ロボット兵器の運用}}
+現在、世界の先進国では人的被害を避けるために無人兵器・ロボット兵器の類が数多く研究・開発されている。代表的なものとしては、[[無人航空機]]、地雷処理車、爆弾処理車、無人潜航艇などで、いずれも危険度の高い任務を人間に代わってこなすことを求められている。
+
+特に、[[アメリカ合衆国]]では、[[ベトナム戦争]]の人的被害の大きさから国民に厭戦気分が蔓延し、最終的に撤退してしまったという教訓から、この分野に熱心である。[[アメリカのアフガニスタン侵攻|アフガニスタン攻撃]]や[[イラク戦争]]、その後の治安安定化作戦に於いて、数々の無人兵器を実戦投入し、効果を挙げている。
+
+人間が無線で操縦するものが多いが、無人偵察機[[RQ-4|グローバルホーク]]のように、高度な[[人工知能]]（AI）を搭載し、自律行動するものもある。
+
+その一方で、戦場等での物資・人員輸送も無人化が研究されており、[[アメリカ合衆国国防総省]][[国防高等研究計画局]]（DARPA）主催の[[ロボットカーレース]]が行われているほか、[[ビッグドッグ]]と呼ばれる四足歩行ロボットは、かつて[[軍馬]]が担っていた不整地での物資輸送に期待が持たれている。
+
+=== 無人機による攻撃 ===
+[[画像:SWORDS robot.jpg|thumb|180px|SWORDS。[[遠隔操作|リモートコントロール]]で偵察や攻撃が可能。]]
+[[ファイル:MQ-9 Reaper taxis.jpg|thumb|200px|[[MQ-9 リーパー]]。近年の対テロ戦争で大きな戦果を上げている。]]
+MQ-1 プレデターなど武装した[[無人攻撃機]]が世界で数多く登場しており、[[アフガニスタン紛争 (2001年-) |アフガニスタン紛争]]、[[イラク戦争]]などで実戦投入されている。主な任務は対地攻撃だが、2002年12月に[[スティンガーミサイル|スティンガー]]で武装した[[RQ-1 プレデター|MQ-1 プレデター]]がイラク戦争で[[イラク軍]]の[[MiG-25]]と交戦し、互いに[[対空兵器]]を装備した有人機と無人機の史上初の[[ドッグファイト|空中戦]]となった&lt;ref&gt;Krane, Jim. "Pilotless Warriors Soar To Success." CBS News, 25 April 2003.&lt;/ref&gt;&lt;ref&gt;Paul J. Springer, Military Robots and Drones: A Reference Handbook (Santa Barbara, CA: ABC-CLIO, 2013), p.23&lt;/ref&gt;。
+
+攻撃能力を持つ武装無人機がアフガニスタンと[[パキスタン]]での[[ターリバーン]]、[[アルカーイダ]]攻撃に参加しており、2009年8月に[[パキスタン・ターリバーン運動]]の[[バイトゥッラー・マフスード]]司令官の殺害に成功しているが、誤爆や巻き添えによる[[民間人]]の犠牲者が多いことが問題となっている&lt;ref&gt;[http://www.jiji.com/jc/v2?id=20100324unmanned_aerial_vehicle_02 無人機プレデター＆リーパー【2】死者1000人、巻き添え多数] - [[時事ドットコム]] &lt;/ref&gt;&lt;ref&gt;[http://jp.reuters.com/article/idJPTYE99I00R20131019 「米無人機攻撃、パキスタンでは市民400人超が犠牲に＝国連調査」][[ロイター]]（2013年10月19日13:28[[日本標準時|JST]]配信）&lt;/ref&gt;。これは無人機操縦員の誤認や地上部隊の誤報、ヘルファイアミサイルの威力が大きすぎることなどが原因となっている&lt;ref&gt;[http://mainichi.jp/select/world/news/20100501ddm007030129000c.html 【テロとの戦いと米国：第4部】オバマの無人機戦争/2 「情報」が招く誤爆]『[[毎日新聞]]』2010年5月1日&lt;/ref&gt;&lt;ref name="uav01"&gt;[http://www.yomiuri.co.jp/world/news/20100427-OYT1T00388.htm 「巻き添え減らせ、CIAが対テロ新型ミサイル」]『[[読売新聞]]』2010年4月27日&lt;/ref&gt;。ヘルファイアミサイルの問題に関してはより小型で精密なスコーピオンミサイルを採用して対処することになっている&lt;ref name="uav01"/&gt;。また、世界最大の武装無人機輸出国&lt;ref&gt;{{cite news |url=https://nationalinterest.org/blog/buzz/really-big-deal-china-drone-superpower-47692 |title=A Really Big Deal: China is a Drone Superpower |publisher=[[ナショナル・インタレスト]] |date=2019-03-16|accessdate=2019-03-22}}&lt;/ref&gt;となった[[中華人民共和国|中国]]は「[[翼竜 (航空機)|翼竜]]」「[[彩虹 (航空機)|彩虹]]」といった武装無人機を[[アフリカ]]や[[アジア]]の[[発展途上国]]に積極的に輸出して、[[イラク軍]]や[[エジプト軍]]の[[ISIL]]への攻撃&lt;ref&gt;{{Cite web|author=|url=http://www.defenseworld.net/news/23535/Egyptian_Air_Force_Shows_off_Chinese_made_Wing_Loong_Attack_Drones|title=Egyptian Air Force Shows-Off Chinese-Made Wing Loong Attack Drones|publisher=Defence Web|date=2018-10-19|accessdate=2018-11-06}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|author=|url=http://english.alarabiya.net/en/features/2017/02/27/The-story-of-the-Wing-Loong-drone-and-the-Egyptian-battle-against-ISIS-in-Sinai.html|title=The story of the Wing Loong drone and the Egyptian battle against ISIS in Sinai|publisher=[[アル＝アラビーヤ]]|accessdate=2017-04-15}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|author=|url=https://www.recordchina.co.jp/b125510-s0-c70-d0000.html|title=中国製無人機がイスラム国拠点を破壊＝低価格高性能の新型機―イラク|publisher=[[Record China]]|date=2015-12-21|accessdate=2017-04-15}}&lt;/ref&gt;、[[ナイジェリア軍]]の[[ボコ・ハラム]]攻撃&lt;ref&gt;{{Cite web|author=|url=http://www.defenceweb.co.za/index.php?option=com_content&amp;view=article&amp;id=53613:algeria-egypt-unveil-chinese-uavs|title=Algeria, Egypt unveil Chinese UAVs|publisher=Defence Web|date=2018-11-02|accessdate=2018-11-06}}&lt;/ref&gt;、[[サウジアラビア軍]]と[[アラブ首長国連邦軍]]の[[2015年イエメン内戦|イエメン内戦]]への軍事介入などで使用されており&lt;ref&gt;{{Cite web|author=|date=2015-12-17|url=http://militaryedge.org/articles/uae-saudi-arabia-operating-chinese-uavs-yemen/|title=UAE, Saudi Arabia Operating Chinese UAVs Over Yemen|publisher=Military Edge|accessdate=2018-04-06}}&lt;/ref&gt;&lt;ref&gt;http://foreignpolicy.com/2018/04/27/drone-wars-how-the-uaes-chinese-made-drone-is-changing-the-war-in-yemen/&lt;/ref&gt;、[[先進国]]に輸出を限定していた米国もこれに規制緩和で対抗し&lt;ref&gt;{{Cite web|author=|date=2018-04-20|url=https://mainichi.jp/articles/20180421/k00/00m/030/042000c|title=無人機輸出の規制緩和 武器売却拡大へ方針|accessdate=2018-06-18}}&lt;/ref&gt;、武装無人機の拡散による紛争拡大が懸念されている&lt;ref&gt;{{Cite web|author=|date=2016-04-24|url=http://www.cnn.co.jp/world/35081142.html|title=無人機市場で存在感増す中国、兵器拡散で紛争拡大の懸念も|publisher=[[CNN]]|accessdate=2019-04-20}}&lt;/ref&gt;。
+
+[[イラン]]も武装無人機の{{仮リンク|シャヘド129|en|Shahed 129}}によって[[シリア内戦]]における反政府勢力を攻撃し&lt;ref&gt;Gettinger, Dan (December 2016). "Drones Operating in Syria and Iraq" . Center for the Study of the Drone at Bard College.&lt;/ref&gt;、市販の中国製エンジンを搭載した{{仮リンク|アバビール|en|HESA Ababil}}のような武装無人機を中東の[[シーア派]][[民兵]]組織に拡散させて問題になっており&lt;ref&gt;{{Cite web|author=|date=2019-10-07|url=https://wired.me/technology/killer-drone-middle-east-online/|title=The killer-drone parts available online for less than $600|publisher=[[WIRED]]|accessdate=2019-12-17}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|author=|date=2019-09|url=https://www3.nhk.or.jp/news/special/new-middle-east/drone-warfare/|title=拡散する“現代のカラシニコフ” 中東ドローン戦争|publisher=[[NHK]]|accessdate=2019-09-10}}&lt;/ref&gt;、[[2015年イエメン内戦|イエメン]]の[[フーシ]]が自前化したアバビール（カセフ1）や{{仮リンク|サマド3|en|Samad (UAV)}}などで[[サウジ石油施設攻撃]]を起こして世界経済に大きな影響を与えた&lt;ref&gt;{{Cite web|author=|date=2019-09-19|url=https://jp.reuters.com/article/saudi-attack-brirf-idJPKBN1W329C|title=サウジ、攻撃使用の無人機残骸を公表　イラン関与「疑いない」|publisher=ロイター|accessdate=2019-11-18}}&lt;/ref&gt;。[[2014年リビア内戦]]では暫定政府の[[トルコ]]製無人攻撃機の[[バイラクタル TB2]]と[[リビア国民軍]]の中国製無人攻撃機の翼竜が互いに破壊し合う無人機戦争が起きている&lt;ref&gt;{{Cite web|author=|date=2019-09|url=https://www.scmp.com/news/world/middle-east/article/3030823/chinese-drones-hunt-turkish-drones-libya-air-war|title=Chinese drones hunt Turkish drones in Libya air war|publisher=[[サウスチャイナ・モーニング・ポスト]]|accessdate=2019-09-10}}&lt;/ref&gt;。
+
+テロ組織側でもISILは、自動識別や自動運航が可能で[[滑走路]]での離着陸を必要としない[[DJI (会社)|DJI]]や[[スカイウォーカー・テクノロジー]]などの廉価な中国製の商用無人機に爆発物を搭載して武装化させており&lt;ref&gt;{{Cite web|author=|date=2017-12-10|url=https://www.ft.com/content/82a29f96-c9e7-11e7-ab18-7a9fb7d6163e|title=Isis use of hobby drones as weapons tests Chinese makers|publisher=[[ファイナンシャル・タイムズ]]|accessdate=2019-04-20}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|author=|date=2016-10-11|url=http://gizmodo.com/isis-is-now-turning-hobby-drones-into-makeshift-smart-b-1787687168|title=ISIS Is Now Using Hobby Drones to Kill People|publisher=[[ギズモード]]|accessdate=2019-04-20}}&lt;/ref&gt;、2017年のシリア・イラクにおける紛争で、ISは手榴弾や迫撃砲弾、たる爆弾などを搭載した民生用ドローンを投入して政府軍に多くの死傷者を出している。構造は単純で、真下に爆弾を落とすだけの簡素なものだが、誤差数メートルという驚異的な精度で攻撃できた。小型のドローンは被発見性も低く、騒音も軍用機に比べてはるかに小さいため、直下の兵士が全く気付かないまま攻撃を受けることもあった。[[戦車]]に対する攻撃にも使用されており、撃破の事例はまだないが、対戦車[[榴弾]]や対戦車ロケットによる攻撃が試みられている。少なくともこの攻撃で乗員が殺傷されたことがISの連日投稿する動画で確認されており、脅威度の高さを裏付けるものとなった。民生用ドローンを攻撃用途に用いる場合、防護が一切ないので小銃弾を受けるだけで簡単に撃墜されてしまうが、十分な高度があれば攻撃後の退避は容易である。赤外線をほとんど出さない上にRCSも低いので、SAMによる対処は不可能である。軍用機として見れば極めて安価であり、歩兵が直接運用し自前で近接航空支援が可能なことから、テロリストから見れば理想的な航空兵器であり、懸念が高まっている。イラクで充電不足で自動帰還した自らのドローンにISILの戦闘員が誤爆されるという事故が起きた際は商用無人機の高性能化の脅威をむしろ示すものと報じられた&lt;ref&gt;{{Cite web|author=|date=2019-08-25|url=https://www.thesun.co.uk/news/9797095/isis-fighter-killed-by-drone-bomb/|title=JIHADI KARMA ISIS fighter killed by drone bomb he was operating after it ran low on battery and flew back|publisher=[[ザ・サン]]|accessdate=2019-09-10}}&lt;/ref&gt;。アメリカやイスラエルなどの正規軍でも廉価で使い勝手が良いことから民生用無人機は使用されており&lt;ref&gt;{{Cite web|author=|date=2017-08-06|url=http://www.jpost.com/Israel-News/US-Army-order-troops-to-stop-using-Chinese-made-DJI-drones-501741|title=IDF to continue using drones that US army deemed unsafe|publisher=[[エルサレム・ポスト]]|accessdate=2019-12-06}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|author=|date=2017-06-04|url=http://www.jpost.com/Israel-News/US-Army-order-troops-to-stop-using-Chinese-made-DJI-drones-501741|title=WATCH: THE NEW DRONE EVERY IDF OFFICER WANTS IN THE BATTLEFIELD|publisher=エルサレム・ポスト|accessdate=2019-12-06}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|author=|date=2017-08-04|url=https://www.reuters.com/article/us-usa-army-drones-idUSKBN1AK2C0|title=US Army halts use of Chinese-made drones over cyber concerns|publisher=ロイター|accessdate=2019-12-06}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|author=|date=2019-09-17|url=https://www.voanews.com/usa/us-military-still-buying-chinese-made-drones-despite-spying-concerns|title=US Military Still Buying Chinese-Made Drones Despite Spying Concerns|publisher=[[ボイス・オブ・アメリカ]]|accessdate=2019-12-06}}&lt;/ref&gt;&lt;ref name=slate1708&gt;{{Cite web|author=|date=2017-08-16|url=http://www.slate.com/articles/technology/future_tense/2017/08/the_u_s_military_shouldn_t_use_commercial_drones.html|title=The U.S. military shouldn't use commercial drones|publisher=Slate|accessdate=2019-12-06}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|author=|date=2018-09-26|url=https://www.defenseworld.net/news/23420/US_Air_Force_Requisitions_Chinese_Origin_DJI_Drones|title=US Air Force Requisitions Chinese Origin DJI Drones|publisher=DefenseWorld|accessdate=2019-12-06}}&lt;/ref&gt;、イスラエル軍はDJIの無人機に[[催涙弾]]を搭載して2018年3月に[[ガザ地区]]のデモ隊に使用して死傷者を出した&lt;ref&gt;{{cite news |title=Drones Don’t Wear Uniforms. They Should|url=https://foreignpolicy.com/2018/05/22/drones-dont-wear-uniforms-they-should/ |accessdate=2018-12-08 |work=フォーリン・ポリシー |date=2019-12-06}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date= 2018年3月31日|url= https://www.afpbb.com/articles/-/3169477|title= ガザ大規模衝突で15人死亡、1400人負傷 デモに住民数万人|publisher= [[フランス通信社|AFP]]|accessdate=2019-12-06}}&lt;/ref&gt;。
+
+=== 自律型致死兵器システム ===
+{{main|自律型致死兵器システム}}
+将来的には高度な[[人工知能]]（AI）により、人間の直接的な命令無しに敵味方を識別して攻撃を行う「[[自律型致死兵器システム]]（LAWS）」の登場が予想されている。既に2020年、リビア内戦において、トルコ企業STMが開発した「Kargu-2」が自動的な追尾・攻撃を行った可能性が[[国連安全保障理事会]]専門家パネルで報告されている&lt;ref&gt;[https://mainichi.jp/articles/20210623/ddm/012/030/102000c 「殺人AI兵器、世界初使用か 昨春、内戦下のリビア トルコ製無人機、国連報告書」]『毎日新聞』朝刊2021年6月23日（国際面）2021年7月25日閲覧&lt;/ref&gt;。
+現状では、敵味方の識別が困難であったり、登録された味方兵士以外（非武装な市民を含む）に攻撃しかねないといった理由で、開発、導入が難航することも懸念され&lt;ref&gt;[http://www.nids.mod.go.jp/publication/kiyo/pdf/bulletin_j19_1_8.pdf 「今後の軍事科学技術の進展と軍備管理等に係る一考察]」『[[防衛研究所]]紀要』&lt;/ref&gt;、2017年11月には[[国際連合]]で自律型致死兵器システムに関する初の公式専門家会議が[[特定通常兵器使用禁止制限条約]]の枠組みで行われ&lt;ref&gt;{{cite news|date=2017-11-18|url=https://www.sankei.com/world/news/171118/wor1711180027-n1.html|title=殺人ロボット兵器、規制めぐる議論継続へ 国連、初の専門家会議終了|publisher=[[産経デジタル|産経ニュース]]|accessdate=2019-11-13}}&lt;/ref&gt;、2019年8月に同会議は人工知能を搭載したロボット兵器の運用をめぐる事実上初の国際ルールを採択するも法的拘束力は盛り込まれず&lt;ref&gt;『「AI兵器」国際ルール合意も法的拘束力なく懸念』NHK2019年8月22日&lt;/ref&gt;、同年11月にアメリカの[[マーク・エスパー]][[アメリカ合衆国国防長官|国防長官]]は中国が完全に自律的に攻撃できるドローンも販売していると述べた&lt;ref&gt;{{cite web|title=SecDef: China Is Exporting Killer Robots to the Mideast|url=https://www.defenseone.com/technology/2019/11/secdef-china-exporting-killer-robots-mideast/161100/|website=Defense One|accessdate=2019-11-05|date=2019-11-10}}&lt;/ref&gt;。
+
+有人兵器でも現代の航空機では[[レーダー]]や目視で敵味方の識別を行い難い関係から、攻撃判断をある程度は司令部側に求めることが[[航空戦|航空機戦闘]]では一般的であるが、無人航空機の場合は現実的なプランとして、実際の攻撃に際して攻撃許可をオペレーターを介して司令部側に求める様式が現状の主要方針である。開発途上の[[UCAV]]でも巡回（パトロール）中や作戦地点までの移動は自動運航でも、実際の兵器使用はリアルタイムでの遠隔操作が基本方針となっている。将来的には通信妨害に対応して、所定攻撃目標を予めプログラミングされ、[[レーダーサイト]]など防御が厚く危険度の高い所定目標に攻撃を加える[[攻撃機]]の開発が進められているが、偶発的な航空機との遭遇に伴う交戦には、やはり戦闘許可を求める様式となることも予測される。
+
+[[File:Боевой многофункциональный робототехнический комплекс Уран-9 - Международного военно-технического форума АРМИЯ-2016 01.jpg|thumb|200px|[[ロシア連邦軍]]のウラン-9]]
+地上兵器では国境警備で[[イスラエル]]の[[ガーディアム]]のような[[オートパイロット|自動運転]]の成功例はあるが、想定される認識対象が多過ぎることから攻撃の自動化への困難が予測される。現状の地上軍事用ロボットの場合では、ある程度精度の良い[[固体撮像素子|イメージセンサー]]を備え、遠隔操縦者が送信されてきた映像から状況を判断したり攻撃対象を識別する様式が、主要な運用手段となっている。戦場では2007年にアメリカ軍が「SWORDS」と呼ばれる[[M249軽機関銃]]を搭載した小型の無人武装ロボット車両を[[イラク]]に配備しており、2016年にイラク軍も[[モスル]]でのISILとの戦いで中国製の{{仮リンク|77式重機関銃|en|Type 77 heavy machine gun}}&lt;ref&gt;{{cite web |url=http://www.bestchinanews.com/Military/2113.html |title=This Chinese weapons and hit play a leading role in Iraq on unmanned combat vehicles |publisher=Best China News |date=2016-08-25 |accessdate=2019-11-17}}&lt;/ref&gt;と[[ロシア]]製のロケットランチャーを装備した「Alrobot」と呼ばれる中型の無人武装ロボット車両を投入し、2018年には[[ロシア軍]]が{{仮リンク|ウラン-9|en|Uran-9}}と呼ばれる大型の無人重武装ロボット車両をシリアに配備するもこれらは誤作動や障害物が影響して信号が途絶えるなど様々な問題が生じた&lt;ref&gt;{{Cite web|author=|date=2008-04-20|url=https://www.gizmodo.jp/2008/04/swords.html|title=殺人ロボット｢SWORDS｣活躍前にリコールされちゃた|publisher=[[ギズモード]]|accessdate=2019-04-20}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|author=|date=2016-08-23|url=https://www.popularmechanics.com/military/weapons/a22515/iraqs-homebrewed-combat-robot/|title=Say Hello to Alrobot, Iraq's Homeuilt War Robot|publisher=Popularmechanics|accessdate=2019-11-17}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|author=|date=2019-01-06|url=https://nationalinterest.org/blog/buzz/russias-uran-9-robot-tank-went-war-syria-it-didnt-go-very-well-40677|title=Russia's Uran-9 Robot Tank Went to War in Syria (It Didn't Go Very Well)|publisher=[[ナショナル・インタレスト]]|accessdate=2019-04-20}}&lt;/ref&gt;。
+
+=== 危険物の処理 ===
+[[File:Bundeswehr manipulator 04.jpg|thumb|200px|[[ドイツ軍]]の爆発物処理用ロボット]]
+[[爆発物処理|爆弾処理]]の分野では、[[1980年代]]には既に対テロ用として、英国が安全地帯まで爆弾を運搬する為に、リモートコントロール式のロボットを運用、必要とあらば、取り付けられた[[散弾銃]]で、[[爆弾]]を爆破処理したケースもある。イスラエルでも、そのような爆弾処理ロボットが運用されている他、[[2006 FIFAワールドカップ]]では、ドイツでも同種ロボットが警備で運用され、爆発物特有の揮発物の匂い（[[爆発物マーカー]]）を探すことで、テロ防止に努めた。「[[爆発物探知機]]」も参照。
+
+日本では[[文部科学省]]の呼びかけ&lt;ref&gt;[http://www.mext.go.jp/a_menu/kagaku/jirai/ 地雷除去プロジェクト]&lt;/ref&gt;で、[[地雷|対人地雷]]撤去用のロボット開発が進められており、大学の研究室レベルから、機械メーカー、大手企業まで、様々な研究者・開発者が参加している。これ等には、多脚ロボットや、クローラー（無限軌道式の自走式ロボット）、更には、地雷探知用の無人小型ヘリコプター（産業用ラジコンヘリの発展型）の他、地雷処理車両（→[[地雷処理戦車]]）の無人運用まで視野に入れられており、[[川崎重工]]による&lt;!--デッドリンク：[http://210.166.238.187/news/c20148427.html--&gt;実証実験という話も聞かれる&lt;ref&gt;[http://www.khi.co.jp/khi_news/2006data/c3060621-1.htm 川崎重工プレスリリース]&lt;/ref&gt;。
+
+またイラク戦争以降アメリカ軍が展開しているイラクでは、いまなお幹線道路脇などに仕掛けられた[[即席爆発装置]]などによる被害もあり、[[MRAP]]など従来の軍事車両では防ぎきれない爆発に耐える車両の導入も進められるが、その一方で路肩に不審物（人工物や不自然に詰まれた土砂の山など）があった場合に、停車して偵察用の遠隔操作による軍事用ロボット（[[ドラゴンランナー]]など）を先行・接近させ、不審物の撤去などに利用している。爆発に巻き込まれるロボットも少なくないが、確実に人的損害を軽減した事例であるとも言える。イラクにおける軍事ロボットはこういった危険な罠の撤去にも有効性が認められ、ロボット掃除機[[ルンバ (掃除機)|ルンバ]]も製造している[[iRobot]]のほか[[:en:QinetiQ|QinetiQ]]など複数のメーカーがこういった偵察用のロボットを開発し「市場」に投入している。
+
+== インターフェース ==
+軍事用ロボットの[[マンマシンインタフェース]]は様々なものが利用されている。
+
+=== 目視操作 ===
+[[ファイル:Tt-26.jpg|thumb|200px|[[ソ連軍]]のテレタンク TT-26（1940年2月）]]
+古く[[遠隔操作|リモートコントロール]]を行うロボットでは、操作者が目視で[[アーケードゲーム]]などにみるような[[ジョイスティック]]を組み込んだ[[コントローラー]]を操作しながら動作状況を確認、動きを加減するというもので、現在でも[[建設機械]]などで使われる単純な操作系が利用された。
+
+この中で、記録に残っているもっとも古い使用例は[[ソビエト連邦]]のテレタンク（[[:en:Teletank|Teletank]]、1930年代-1940年代前半）とされる。この[[T-18 (戦車)|T-18]]、[[T-26 (戦車)|T-26]]、[[T-38 (戦車)|T-38]]、[[BT-5]]、および[[BT-7]]といった既存戦車を元にした[[ラジコン|ラジオコントロール]]の兵器は[[冬戦争]]に投入された。また、[[ドイツ国防軍|ナチス・ドイツ軍]]は[[第二次世界大戦]]に[[ゴリアテ (兵器)|ゴリアテ]]を投入、遠くから兵士が目視で有線誘導し、目的の場所で[[自爆]]させている、まだは[[ボルクヴァルトIV#バリエーション|ボルクヴァルトB IV C型]]に[[パンツァーシュレック]]を搭載した[[対戦車車両]]としても運用された。日本軍も[[遠隔操縦器材い号]]を開発していたが実戦には使われなかった。これら遠隔操作兵器は、現代の軍事用ロボットの原型ともいえる構造をしていた。
+
+しかしこの方法は、ロボットが操作者から見える位置に居なければならず、必然的に距離に制限が生じ、ロボットを発見した敵対勢力からもロボット操作者が見えかねないことを意味する。このため爆発物処理では問題がなくとも、[[偵察]]はできないし、兵器発射プラットフォームを遠隔操作するなどの場合にも不都合が存在する。
+
+=== ビデオカメラ・遠隔操作 ===
+[[ファイル:Kongsberg Protector RWS on M1126.jpg|thumb|200px|[[ストライカー装甲車]]に装備されているM151RWS。]]
+この直接的に操作するロボットに次いでよく見られるものとしては、[[ビデオカメラ]]を搭載し、これを有線や無線で映像を操作者に伝え、これを見た操作者がジョイスティックを操作してロボットを操縦するという方法である。
+
+これはビデオカメラの向きを変えれば様々な方向をロボットの視点で見ることができ、2000年代に実用化されている偵察型の軍事用ロボットでも大きく変わることは無い。この映像の伝達方法は従来は[[アナログ]]のビデオ映像で送信していたが、後に[[デジタルビデオ]]映像にとって変わられ、これと平行してロボットと操作者間の通信は[[デジタル]]通信が利用されるようになってきている。
+
+2000年代になって急速に発展を見せた軍事用ロボットでは、こういったビデオ映像以外にも様々な[[センサ]]からの情報が操作者に送信され、より詳しくロボットの周辺状況を知ることができるようになってきている。映像面でも、地上偵察では通常のビデオ映像に加え[[ナイトビジョン|暗視カメラ]]などが利用されている。
+
+無人航空機ではレーダーは勿論、[[グローバル・ポジショニング・システム|GPS]]などを利用して現在位置を測定・把握するものもみられる。こういった方向性は誘導兵器にも見られ、[[湾岸戦争]]では兵器側の映像が盛んにテレビにも出たため、米国内では「[[任天堂|ニンテンドー]]ウォー（意訳：テレビゲーム的な戦争）」とも呼ばれた。
+
+最近の軍用[[装甲車]]や軍用船舶には[[RWS]]（Remote Weapon Station/System）と呼ばれる遠隔操作式のロボット銃座が備えられている物があり、乗員が車外に身を晒す事無く、車内で搭載カメラの映像を見ながら銃器を操作して攻撃できるようになっている。さらに敵の攻撃を感知して自律的に反撃を行うシステムも研究開発されている。
+
+=== コントロールとコンピュータ ===
+[[File:Future Force Warrior 2007.jpg|thumb|200px|アメリカ陸軍のフューチャー・フォース・ウォーリア。]]
+[[File:TALON-3.jpg|thumb|200px|[[:en:Foster-Miller_TALON|Foster-Miller TALON]]の制御ステーション]]
+
+遠隔操作対象が高度化する一方で、この軍事用ロボットから送られてくる様々なデータを処理するため、操作者側のコントローラーも[[コンピュータ]]で自動化・効率化が為されており、[[オートパイロット|自動操縦]]の指示などはこのコンピュータに予めデータを与えることで運用可能であり、特に実用化されている軍事用ロボットでも地上偵察用では、戸外でも使えるよう[[防水]]・[[防塵]]仕様の[[ノートパソコン]]程度のコンピュータに無線送受信機を接続して利用する形態が見られる。
+
+また[[歩兵]]の将来像として[[ウェアラブルコンピューティング]]により高度に情報化された歩兵が想定されており、この歩兵が備えるであろう[[ヘッドマウントディスプレイ]]を介して偵察ロボットを操作することも実際の方向性として進められており、この場合においてロボットのオペレーターは[[コンシューマーゲーム|家庭用ゲーム機]]の[[ゲームコントローラ]]のようなものを操作することが考えられている。すでに実用化された無人偵察機の場合では、複数の[[ディスプレイ (コンピュータ)|モニタ]]を備えた操作席に座ったオペレータが、衛星回線経由で米国の軍オフィス内から遠隔地のロボットを直接操作することも可能となっている。
+
+ただこういった遠隔操作では、いくらかコンピュータの補助があるとはいえ、操作者は目や耳を介して得た情報を元に判断し、手を使ってコントローラーを操作するため、見落としや操作ミスといった面で確実性に限界が存在し、これは高度化しつづける航空機などの兵器操作でも同種の問題を含んでいる。特に前線では悠長にコントローラーを取り出して操作しにくい状況などから、やや後方から操作したり、軍事用ロボット操作中の兵士を他の兵士が援護したりしなければならない。
+
+=== サイバネティックスの可能性 ===
+このコントローラーを操作するために無防備となり易い問題において、ユーザーインターフェースの次のステップとして[[サイボーグ]]技術や[[脳]]と[[コンピュータ]]を直接繋げるという、[[ブレイン・マシン・インタフェース]]技術などもSFから現実のものとして研究開発がすすんでいる。軍事用ロボットの操作でも、兵士の頭脳にコンピュータを埋め込み、偵察ロボットや攻撃ロボットを「自分の分身や体の延長」のように、無人兵器を直接遠隔操作出来るようになる可能性も存在する。
+
+だがこのアプローチは人体への侵襲（人為的に傷付けることなど）を伴うため、医学面での技術的ハードルと同時に、倫理面等での問題も予測されるため、実用化は21世紀初頭の段階では未知数である。
+
+== AI搭載ロボット兵士 ==
+2000年ころまではロボット兵士は夢物語だと考えられていた。だが2010年代後半以降（2015年以降）に急速に状況が変わってきており、実戦配備は目前に迫っている。
+
+;アメリカ、ボストン・ダイナミクスがすでに実現
+1990年代や2000年代（2010年以前は）歩兵に[[ボディアーマー]]や[[パワードスーツ]]を着用させるアイディアが現実的だと考えられてきた。2010年以前はAIの実現が困難だと考えられていたのである。だが、その後にAIのなかでも[[ディープラーニング]]や[[マシンラーニング]]の技術が急速に進展し、自律的に動作するロボットの能力が急速に伸び、2010年代後半ころからAI搭載の自律型ロボットが実現可能になってきた。
+
+&lt;u&gt;2021年の現在すでに、アメリカの[[ボストン・ダイナミクス]]社がすでにAI搭載の[[二足歩行ロボット]]で、敵・味方を瞬時に識別して射撃するロボットを開発済み&lt;/u&gt;である。AIロボットが敵・味方を判別する速度のほうが、人間よりも速く、動きも人間よりもすばやい。ボストン・ダイナミックスのロボット兵士のデモ動画は[[YouTube]]などにすでにアップロードされている。
+
+なおボストンダイナミックス社のこの兵士ロボットは、Atlas（アトラス。[[:en:Atlas (robot)]]）という人間型の、機敏な動作ができるロボットの技術も利用している。
+Atlas（アトラス）は、歩いたり走ったりするだけでなく[[宙返り|バック宙返り]]などもできるくらいに運動能力が高い。[[パルクール]]もできる。転んでも、もちろん起き上がる。ボストンダイナミックス社が開発したロボットは、2021年時点ですでに、平凡な人間よりもずっと運動能力が高いのである。
+
+2000年ころまでは「地上戦では人間の兵士が兵器や銃器を操作するのが当たり前」などと考えられていた。その状況が変化する時期も、もう目前に迫っており、2020年代のうちに、一部で実戦配備が始まると考えられている。
+
+なおロシアの技術開発はベールに包まれがちだが、少なくとも2017年時点で宇宙空間なら2丁の拳銃で精確に射撃を行う「[[FEDOR]]」と呼ばれる人型ロボットを開発していた&lt;ref&gt;{{Cite web|author=|date=2017-11-28|url=https://www.discoverychannel.jp/0000005177/|title=銃が撃てるロシア製人型ロボット「FEDOR」…人類の味方となるか？|publisher=[[ディスカバリー・チャンネル]]|accessdate=2019-04-20}}&lt;/ref&gt;。ロシア（プーチン大統領が後押しする兵器開発会社）もAI兵器の開発に力を注いでおり、すでに戦車型で瞬時に敵を判別して攻撃するロボット戦車は開発しているので、兵士型についてもロシアがどこまで開発するか、アメリカ側は警戒している。結局AI兵器を先に開発し先に実戦配備したほうが、戦略的に見て圧倒的に有利な状況になることは目に見えているので、アメリカ側もロボット兵士の完成度を早く高めるように力を注いでいる。
+&lt;!--
+急病や負傷した人間の反応を模したロボット（一種のダミー人形）などは[[救急救命士]]や[[衛生兵]]の[[救急処置]]教育に用いられる場合がある&lt;ref&gt;[http://edition.cnn.com/2010/TECH/innovation/12/11/military.simulation/ 「High-tech war games help save lives」][[CNN]]&lt;/ref&gt;。これは全く別の意味で、また間接的ではあるにせよ「歩兵の命を救っている人間型ロボット」と呼べるかもしれない。--&gt;
+
+&lt;!--
+すでにロボット兵器は実戦投入されているのだから、架空のものをこの記事で語る必要は無い。空想上のものは別記事で説明すればよい。
+
+== 架空の軍事用ロボット ==
+これらロボット兵器の行き着く先は、完全に自動化されて[[索敵]]から攻撃までをも自己判断するロボット歩兵が挙げられ、人命損失を防げると考えられている。また、[[レーション]]などの食料を必要としないロボットは、人間の歩兵よりも補給が簡略化できることも予測される。
+
+その一方、[[ロボットアニメ]]などに見られるようにSFの分野では戦闘用ロボットに一定の人気があり、こういったロボットは様々な作品中に見出せる。これらでは、人が乗るものから完全自動化したものまで様々であり、一種の[[ヒーロー]]的な側面も見出せる。
+--&gt;
+
+== ギャラリー ==
+&lt;gallery&gt;
+File:FCS-MULE-ARV-2007.jpg|XM1219 Armed Robotic Vehicle
+File:Foster-Miller_TALON_SWORDS.jpg|SWORDSは[[遠隔操作|リモートコントロール]]で偵察や攻撃が可能。[[:en:Foster-Miller_TALON|Foster-Miller TALON]]の軍事用ロボット（2006年）
+File:UGV_TALON.jpg|[[:en:Foster-Miller_TALON|Foster-Miller TALON]]、UGV TALON Gen. IV（[[米国]]）
+File:PIRANYA_UGV.jpg|UGV "PIRANYA" （[[ウクライナ]]）
+File:DragonRunlo.jpg| [[ドラゴンランナー]]（市街戦用に作られた軍用ロボット）
+&lt;/gallery&gt;
+
+== 軍事用ロボットの主な種類 ==
+*[[無人機]]
+*[[無人航空機]]
+**[[UCAV]] - 直訳すると無人戦闘航空機。
+*[[無人機#軍用の無人潜水艦|無人潜水艦]] ([[:en:Category:Robotic submarines|en:Robotic submarines]])
+
+== 脚注 ==
+{{脚注ヘルプ}}
+&lt;references /&gt;
+
+== 関連項目 ==
+*[[自律型致死兵器システム]]（LAWS）
+*[[警備ロボット]] - 民間向けのロボットだが、警備に関しては分野が重なる。
+*[[レスキューロボット]] - 人命救助のためのロボットだが、偵察に関しては分野が重なる。
+*[[パワードスーツ]]
+*[[オートパイロット]]
+*[[ロボット兵器の運用]]
+*[[遠隔操縦器材い号]]
+* [[テレロボティクス]]
+* [[結合全ドメイン指揮統制]]
+
+{{ロボティクス}}
+{{無人機}}
+{{Normdaten}}
+{{DEFAULTSORT:くんしようろほつと}}
+[[Category:軍用ロボット|*]]</text>
+      <sha1>61cid7hycpc38wnf2ldacomrzmm050n</sha1>
+    </revision>
+  </page>
+  

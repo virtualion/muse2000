@@ -1,0 +1,471 @@
+<page>
+    <title>トルコ国鉄</title>
+    <ns>0</ns>
+    <id>1226717</id>
+    <revision>
+      <id>91554909</id>
+      <parentid>89626994</parentid>
+      <timestamp>2022-09-20T10:41:39Z</timestamp>
+      <contributor>
+        <username>Anothercat</username>
+        <id>1069109</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26071" xml:space="preserve">{{Infobox rail
+|railroad_name     = トルコ国鉄&lt;br&gt;Türkiye Cumhuriyeti Devlet Demiryolları
+|logo_filename     =
+|logo_size         = 100
+|system_map        = Rail transport map of Turkey.png
+|map_caption       = トルコ国鉄路線図
+|map_size          = 300
+|marks             = TCDD 
+|image             = Ankara Express Turkey 2006.jpg
+|image_size        = 300
+|image_caption     = E43型電気機関車牽引の列車
+|locale            = {{TUR}}
+|start_year        = 1927
+|end_year          = 現役
+|predecessor_line  = [[:en:Chemins de fer Orientaux|Oriental Railway]]&lt;br&gt;[[:en:Oriental Railway Company|Oriental Railway Company]]&lt;br&gt;[[:en:Smyrna Cassaba Railway|Smyrna Cassaba Railway]]&lt;br&gt;[[:en:Chemins de Fer Ottomans d'Anatolie|Anatolian Railway]]&lt;br&gt;[[:en:Chemin de Fer Moudania Brousse|Bursa Mudanya Railway]]&lt;br&gt;[[:en:Transcaucasus Railway|Transcaucasus Railway]]&lt;br&gt;[[:en:Cenup Demiryolları|Cenup Railway]]
+|successor_line    = 
+|gauge             = {{RailGauge|sg}}
+|old_gauge         = 
+|electrification   = [[交流電化]] 25,000V 50Hz&lt;br /&gt;[[架空電車線方式]]
+|length            = {{convert|10991|km|mi|0}}&lt;ref name=InvestinTurkey&gt;[http://www.invest.gov.tr/en-US/sectors/Pages/TransportationAndLogistics.aspx Invest in Turkey: Transportation and logistics]&lt;/ref&gt;
+|hq_city           = トルコ、[[アンカラ]]
+|website           = [http://www.tcdd.gov.tr Turkish State Railways]
+}}
+
+'''トルコ国鉄'''（トルコこくてつ、{{lang-tr|Türkiye Cumhuriyeti Devlet Demiryolları}}, '''TCDD'''）は、[[トルコ]]の公共鉄道システムを運営する[[国鉄|国営鉄道]]である。[[1927年]]に創立され、[[オスマン帝国]]崩壊後トルコ共和国内に残された私営の会社により運営されていた鉄道の運行を引き継いだ。
+
+総延長10991kmを超える鉄道路線を運営し、[[インターレイルパス]]の一員となっている。
+
+国内外の発着を含め、トルコ国鉄はトルコ全体の鉄道運営者として、すべての旅客・貨物・郊外鉄道を運営する。以前は[[トラキア]]と[[アナトリア]]、2つの鉄道網はイスタンブールの[[ボスポラス鉄道フェリー]]を利用してのみ接続されていたが、[[マルマライ]]（[[ボスポラス海峡]]の海底鉄道トンネル）の開通により地下鉄での接続が可能になった。
+
+== 運行 ==
+[[ファイル:Sirkeci-station_Orient_Express.JPG|thumb|200px|[[イスタンブール]]のヨーロッパ側にある[[シルケジ駅]]は[[オリエント急行]]のターミナル駅として1890年に開業した。]]
+[[ファイル:Haydarpasha train station istanbul.jpg|thumb|200px|[[イスタンブール]]のアジア側である[[ハイダルパシャ駅]]は[[バグダード鉄道]]と[[ヒジャーズ鉄道]]のターミナル駅として1908年に開業した。]]
+=== 国際的な接続 ===
+==== ヨーロッパ方面 ====
+* ボスフォル急行 (イスタンブール - [[ブカレスト]])
+* バルカン急行 （ブカレスト - [[ブダペスト]]）
+* プリエテニエ急行 （ブカレスト - [[キシナウ]]）
+* バルカン急行 （[[ソフィア (ブルガリア)|ソフィア]] - [[ベオグラード]]）
+* ドストルク/フィリア急行 (イスタンブール - [[テッサロニキ]]) 
+* IC 90 / 91 （ピティオン [[:en:Pythio]] - テッサロニキ）
+
+==== コーカサス方面 ====
+* [[バクー＝トビリシ＝カルス鉄道]]
+* 寝台急行{{仮リンク|Doğu Ekspresi|en|Eastern Express}}
+1936年から、イスタンブール＝カルス間1,944kmを約32時間かけて結ぶ寝台急行列車が運行されていたが[[トルコ高速鉄道#アンカラ・イスタンブール|アンカラ＝イスタンブール間の高速鉄道]]の開業に伴い Doğu Ekspresi の運行区間はアンカラ＝カルス間に変更されている。
+
+==== 中東方面 ====
+* トランスアジア鉄道 （イスタンブール - [[テヘラン]]）
+* [[ヴァン]] - [[タブリーズ]]
+* トロス急行 （イスタンブール - [[ガズィアンテプ]] - [[ダマスカス]]）
+* イスタンブール - ガズィアンテプ - [[バグダード]] （運転停止中）
+
+=== 郊外鉄道 ===
+トルコには、イスタンブールに2つ、アンカラに1つ、イズミルに1つ、計4系統のトルコ国鉄が運営するコミューターサービスが存在する。すべての系統で、[[トルコ国鉄E8000系電車|E8000系電車]]または[[トルコ国鉄E14000系電車|E14000系電車]]、あるいはその両方が使用されている。最短15分間隔で運行されているが、各都市の他の都市鉄道システムとはそれほどよく連携している訳ではない。
+
+== 歴史==
+=== オスマン帝国時代 ===
+トルコの鉄道の歴史は[[1856年の鉄道|1856年]]にさかのぼる。トルコにおける最初の鉄道線は、[[イギリス帝国|イギリス]]の会社に任せられた 130km の[[イズミル]] - [[アイドゥン]]線であった。この区間が選ばれたのは偶然ではなく、イズミル - アイドゥン間の路線に商業上の高い潜在性が認められたためである。また、別の理由としては、イギリスの産業に必要な原材料がこの地域にあったことが挙げられる。この地域は[[中東]]をコントロールするために地政学上重要だったこともあり、イギリスが最初に鉄道敷設の免許を受けたのに続いて、&lt;!--原文は at that time of the オスマン帝国 after the English were given the first license, --&gt;[[フランス]]と[[ドイツ帝国|ドイツ]]がその影響力が行使されるそれぞれ異なった場所で鉄道の建設を始めた。これらの国々は自国の産業のために必要な、オスマン帝国から購入した物資をできるだけ速く[[港]]へ運ぼうとした。鉄道は、この目的にとってできるだけ効率的になるように建設され、戦略的に、例えば[[鉱山]]の約 20km 以内に建設された。そのためトルコにおける鉄道は、それら外国の政策に従って敷設された。
+
+[[1856年]]から[[1922年]]にかけて以下の路線がオスマン帝国の領内で建設された。
+* [[ルメリ]]鉄道 2383km [[標準軌]]
+* [[アナトリア]] - [[バグダード]]鉄道 2424km　標準軌 （[[バグダード鉄道]]）
+* [[イズミル]] - [[カサバ]]([[:en:Kasaba]]) 695km 標準軌
+* イズミル - アイドゥンとその支線 610km  標準軌
+* [[ダマスカス]] - [[ハマー (都市)|ハマー]] 
+* [[ヤッファ]] - [[エルサレム]] 86km 標準軌
+* [[ブルサ]] - [[ムダニヤ]] 42km 狭軌
+* [[アンカラ]] - [[ヤフシハン]]([[:en:Yahşihan]]) 80km 狭軌
+* ダマスカス - [[マディーナ|メディナ]] 1300km 狭軌 （[[ヒジャーズ鉄道]]）
+計 9,919km
+
+トルコで[[トルコの歴史|共和国の建国宣言]]後、国内には外国の会社により建設された鉄道路線の4,000kmだけが残された。より具体的に言うと、新生トルコ共和国がオスマン帝国から継承したのは、外国の会社が所有していた2,282km の標準軌線と 70km の狭軌線、そしてオスマン帝国自らが所有し運営していた1,378km の標準軌線であった。
+
+=== 共和国建国後 ===
+==== 1923年から1950年まで ====
+共和国成立前、鉄道路線は外国の会社の利益のために建設が宣言されていたが、共和国の成立後は、自国のための鉄道路線が建設された。これは鉄や石炭などを基礎とした1932年から1936年までの間に公表された工業化計画に明確に見ることができる。これらの鉱石などを輸送する最も安価で最も効率的な方法が鉄道建設であった。この間交通に関する財政上の資産は鉄道に向けられた。
+
+期間が短かったため鉄道建設はハイスピードで続けられた。[[第二次世界大戦]]の間は建設のスピードが低下した。1923年から1950年までの間に3,578kmが建設されたが、そのうちの3,208kmは1940年以前に完成した。
+
+そうした頃に鉄道は国民経済計画に組み込まれた。鉄道建設の目的は以下のように表明されている。
+
+* 潜在的な生産拠点と天然資源を結びつけること。
+* 生産拠点と消費地、特に港とを結びつけ、農村部とのコミュニケーションを円滑にすること。
+* 国の経済発展の速度を上げるため、商業的に未開発の地域を接続すること。この政策により、1927年に[[カイセリ]]、1930年に[[スィヴァス]]、1931年に[[マラティア]]、1933年に[[ニーデ]]、1934年に[[エラズー]]、1935年に[[ディヤルバクル]]、1939年に[[エルズルム]]が鉄道網に接続された。
+* 国の安全度を高めること。したがって、鉄道を含めた国内の総合的なコミュニケーション網を作り出すこと。
+
+これらの目的を達成するため、鉄道政策&lt;!--politics--&gt;は2段階に集約&lt;!--lead--&gt;された。
+
+# 財政的問題にもかかわらず、外国の会社にされていた鉄道は買収されて国有化された。その一部は合意の上で行われた。
+# それまでの鉄道路線のほとんどがトルコ西部に集中していたため、中央部と東部を貿易拠点や海岸に接続することが目的となった。この期間に新たに建設された区間は、アンカラ - カイセリ - スィヴァス, スィヴァス - エルズルム（[[コーカサス]]ルート）、サムスン - カルン（スィヴァスルート）、ウルマック - フィリヨス（ゾングルダク[[石炭]]ルート）、アダナ - フェヴズィパシャ - ディヤルバクル（[[銅]]ルート）、スィヴァス - [[チェティンカヤ]]（[[鉄]]ルート）である。共和国成立以前は、アンカラ - コンヤ間より西側に全体の70%の線路網が広がっていたが、成立後の建設区間は東側が78.6%を占め東西間比率は54%:46%に達した。
+
+1935年から1945年の間にそれらの鉄道が結ばれ、それらが結合されたことにより環状部分が形成され、例えばアンカラ - ディヤルバクル間の距離は1,324kmから1,116kmへ短縮された。
+
+==== 1950年以降 ====
+オスマン帝国より残された道路網は、全長13,885kmの荒廃した道路と全長4,450kmのそうでない道路、計18,335kmの道路と94の橋であった。1950年まで道路網は鉄道網を助けるものとして見られていた。しかし、[[マーシャルプラン]]により鉄道網を強化する代わりに自動車道が広げられた。
+
+1960年以降でさえ鉄道の延伸を目的とする対象は存在したものの、財政上の資産のほとんどは道路に振り向けられた。これらの政策のため、1950年から1980年までの間、鉄道は年平均で30kmしか建設されなかった。
+
+1980年代半ば、トルコにおけるモータリゼーション&lt;!--mobilization うまい訳が見つからないので別の語に置換--&gt;は[[アウトバーン]]の建設で始まった。アウトバーンプロジェクトは[[南東アナトリアプロジェクト]] (GAP)と観光事業プロジェクトの次の第3の巨大プロジェクトであった。これらのプロジェクトのために、1990年代半ばまでに約20億[[アメリカ合衆国ドル|USD]]が投資された。この間鉄道への投資はなされず、何の計画も開始されなかった。ほとんどの鉄道（それらのほとんどは建設後50年以上経過していた）はどうにもならないかのような不運が残されていた。
+
+トルコでは、物資の94%は道路で運ばれ、鉄道では4%しか運ばれていない。物資輸送の鉄道シェアは50年間で60%減少した。
+
+=== 電化 ===
+トルコは伝統的な25 kV、50 Hzの[[交流電化]]を選択した。トルコ国内で最初に電化されたのは、[[1955年]][[12月4日]]で、イスタンブールのヨーロッパ側の郊外路線の[[シルケジ駅|シルケジ]] - &lt;!--[[ソウックス駅|--&gt;ソウックス&lt;!--]]--&gt;間であった。同時に、[[トルコ国鉄E8000系電車|E8000系電車]]の使用が開始された。イスタンブールのアジア側の郊外路線では、[[1969年]]に[[ハイダルパシャ駅|ハイダルパシャ]] - &lt;!--[[ゲブゼ駅|--&gt;ゲブゼ&lt;!--]]--&gt;間が電化された。アンカラの郊外路線では1972年にスィンジャン([[:en:Sincan]]) - カヤシュ(Kayaş) 間が電化された。
+
+[[1977年]][[2月6日]]には、ゲブゼ - [[アダパザル]]間が複線電化され、電力で走る編成が幹線で運行されるようになった。1989年には更にアダパザルの付近のアリフィエと[[エスキシェヒール]]の間が、1993年にはシンジャンまで電化され、イスタンブール - アンカラ間で電化区間が繋がった。1994年には、イスタンブールから[[エディルネ]] - [[カプクレ]]（[[ブルガリア]]国境）間のヨーロッパ線も電化された。同年、中部の[[ディヴリーイ]] ([[:en:Divriği]]) - [[イスケンデルン]]([[:en:Iskenderun]])間が他の電化ネットワークとは孤立した形で電化された。2006年にはイズミルの郊外路線も電化された。
+
+=== マルマライ ===
+{{main|マルマライ}}
+&lt;!--
+ボスポラス海峡トンネルの方が通りが良いかもしれません。
+--&gt;
+マルマライは[[ボスポラス海峡]]の下でイスタンブールのヨーロッパ側とアジア側を鉄道路線で接続する地下[[トンネル]]システムである。[[2004年]][[5月24日]]に着工したが、工事現場から遺物が多く出土し完成予定は延び延びになっていた。[[2013年]][[8月4日]]、試験運転が行われ&lt;ref&gt;{{Cite web |author= 小佐野カゲトシ|authorlink= |coauthors= |date= 2013-08-08|url=http://response.jp/article/2013/08/08/203955.html |title= トルコ・イスタンブールで海底鉄道トンネルの試運転始まる…アジアと欧州つなぐ|format= |doi= |work= |publisher=Response |page= |pages= |language= |archiveurl= |archivedate= |accessdate=2013-11-02 |quote= |ref=}}&lt;/ref&gt;、トルコ共和国宣言記念日の同年[[10月29日]]に開業した&lt;ref&gt;{{Cite web |author= 小佐野カゲトシ|authorlink= |coauthors= |date= 2013-11-01|url=http://response.jp/article/2013/11/01/209793.html |title= 欧州とアジアを結ぶトルコの海底トンネル開業…開業早々トラブルも|format= |doi= |work= |publisher=Response |page= |pages= |language= |archiveurl= |archivedate= |accessdate=2013-11-02 |quote= |ref=}}&lt;/ref&gt;。開業すると中東とアジアの鉄道網がヨーロッパの鉄道網に接続される。さらに、市内交通における重要な役割も持ち、多くの人々が住んでいるイスタンブール都市圏の東西の鉄道路線を形成することになっている。公共交通における鉄道利用が3.6%から27.7%に上昇することにより、公共交通問題を軽減させることが見込まれている。そのように上昇すれば、公共輸送機関の利用に関してイスタンブールは東京 (60%) 、ニューヨーク (31%) に次いで世界第3位になるとされている。
+
+== 鉄道建設の年表 ==
+トルコ国鉄の沿革について以下に記載する&lt;ref&gt;出典:{{Cite web|url=http://www.tcdd.gov.tr/genel/acilistarihleri.htm|title=トルコ共和国成立以前の鉄道|format=|doi=|work=|publisher=|page=|pages=|language=トルコ語|archiveurl=https://web.archive.org/web/20060504060138/http://www.tcdd.gov.tr/genel/acilistarihleri.htm|archivedate=2006年5月4日|accessdate=2013-09-22|quote=|ref=|deadlinkdate=2017年9月}}&lt;/ref&gt;。
+=== 共和国建国前 ===
+==== 現在も運行中 ====
+{| class="wikitable" style="width:30em; text-align:center;"
+! style="background-color:#f00"|経路 !! style="background-color:#f00"|開業年 !! style="background-color:#f00"|距離 (m)
+|-
+! colspan="3" style="background-color:#ccc"| イズミル - アイドゥン鉄道
+|-
+| シリンイェル - ブジャ
+| 1860
+| style="text-align:right"| 2,452
+|-
+| イズミル - ストラッチ
+| 1860
+| style="text-align:right"| 356,505
+|-
+| トルバル - ティレ
+| 1883
+| style="text-align:right"| 47,541
+|-
+| ガズィエミル - セイディキョイ
+| 1886
+| style="text-align:right"| 1,088
+|-
+| アラシェヒル - ウシャク
+| 1887
+| style="text-align:right"| 117,810
+|-
+| チャタル - オデミシュ
+| 1888
+| style="text-align:right"| 26,452
+|-
+| ゴンジャル - デニズリ
+| 1889
+| style="text-align:right"| 9,430
+|-
+| スュトラチ - チヴリル
+| 1889
+| style="text-align:right"| 30,224
+|-
+| オルタクラル - ソョケ
+| 1890
+| style="text-align:right"| 22,012
+|-
+| スュトラチ - エイルディル
+| 1912
+| style="text-align:right"| 113,795
+|-
+! colspan="3" style="background-color:#ccc"| イズミル - トゥルグトル鉄道
+|-
+| バスマネ駅（イズミル） - メネメン
+| 1865
+| style="text-align:right"| 31,680
+|-
+| ハルカプナル - ボルノヴァ
+| 1865
+| style="text-align:right"| 4,878
+|-
+| メネメン - マニサ - トゥルグトル
+| 1865
+| style="text-align:right"| 61,500
+|-
+| トゥルグトル - アラシェヒル
+| 1875
+| style="text-align:right"| 75,790
+|-
+| ウシャク - アフィヨン
+| 1890
+| style="text-align:right"| 134,946
+|-
+| マニサ - クルクアーチ
+| 1890
+| style="text-align:right"| 80,853
+|-
+| クルクアーチ – バンドゥルマ
+| 1912
+| style="text-align:right"| 195,244
+|-
+! colspan="3" style="background-color:#ccc"| 東方鉄道
+|-
+| シルケジ駅 - イェニカプ
+| 1872
+| style="text-align:right"| 4,756
+|-
+| イェニカプ - フロリヤ
+| 1871
+| style="text-align:right"| 16,372
+|-
+| フロリヤ - ハドゥムキョイ
+| 1872
+| style="text-align:right"| 30,325
+|-
+| ハドゥムキョイ - チャタルジャ
+| 1873
+| style="text-align:right"| 19,610
+|-
+| チャタルジャ - 国境
+| 1873
+| style="text-align:right"| 209,899
+|-
+| カラアーチ&lt;ref&gt;現在は経路変更に伴い廃駅。&lt;/ref&gt; - 国境
+| 1873
+| style="text-align:right"| 7,137
+|-
+| マンドゥラ - クルクラーレリ
+| 1912
+| style="text-align:right"| 45,594
+|-
+! colspan="3" style="background-color:#ccc"| アナトリア鉄道
+|-
+| ハイダルパシャ駅 - フェネルヨル
+| 1872
+| style="text-align:right"| 5,088
+|-
+| フェネルヨル - ペンディク
+| 1872
+| style="text-align:right"| 21,162
+|-
+| ペンディク - ゲブゼ
+| 1873
+| style="text-align:right"| 19,681
+|-
+| ゲブゼ - イズミト
+| 1873
+| style="text-align:right"| 47,096
+|-
+| イズミト - ビュユクデルベント
+| 1890
+| style="text-align:right"| 18,312
+|-
+| ビュユクデルベント - メケジェ
+| 1891
+| style="text-align:right"| 71,709
+|-
+| メケジェ - ヴェズィルハン
+| 1891
+| style="text-align:right"| 32,831
+|-
+| ヴェズィルハン - イニョニュ
+| 1892
+| style="text-align:right"| 65,980
+|-
+| イニョニュ - アープナル
+| 1892
+| style="text-align:right"| 55,823
+|-
+| アープナル - ヤルンル
+| 1892
+| style="text-align:right"| 54,954
+|-
+| ヤルンル - サズラル
+| 1892
+| style="text-align:right"| 61,902
+|-
+| サズラル - ベイリキョプリュ
+| 1892
+| style="text-align:right"| 14,317
+|-
+| ベイリキョプリュ - アンカラ
+| 1892
+| style="text-align:right"| 109,516
+|-
+| エスキシェヒール - キュタヒヤ
+| 1894
+| style="text-align:right"| 76,984
+|-
+| アラユント - チョウルレル
+| 1895
+| style="text-align:right"| 19,631
+|-
+| チョウルレル - アフィヨン
+| 1895
+| style="text-align:right"| 74,615
+|-
+| アフィヨン - アクシェヒル
+| 1895
+| style="text-align:right"| 98,128
+|-
+| アクシェヒル - ウルグン
+| 1896
+| style="text-align:right"| 57,641
+|-
+| ウルグン - コンヤ
+| 1896
+| style="text-align:right"| 116,796
+|-
+| アリフィエ - アダパザル
+| 1899
+| style="text-align:right"| 8,491
+|-
+! colspan="3" style="background-color:#ccc"| バグダード鉄道
+|-
+| コンヤ - ブルグルル
+| 1904
+| style="text-align:right"| 198,892
+|-
+| ブルグルル - ウルクシュラ
+| 1911
+| style="text-align:right"| 38,733
+|-
+| ウルクシュラ - ドゥラク
+| 1912
+| style="text-align:right"| 90,469
+|-
+| ドゥラク - イェニジェ
+| 1912
+| style="text-align:right"| 17,915
+|-
+! colspan="3" style="background-color:#ccc"| 南方鉄道
+|-
+| フェヴズィパシャ - メイダンエクベズ
+| 1912
+| style="text-align:right"| 35,411
+|-
+| シリア国境 - チョバンキョイ - ヌサイビン
+| 1917
+| style="text-align:right"| 382,106
+|-
+| デルベスィエ - マルディン
+| 1917
+| style="text-align:right"| 24,340
+|-
+| トプラッカレ - イスケンデルン
+| 1912
+| style="text-align:right"| 59,220
+|-
+! colspan="3" style="background-color:#ccc"| メルシン-タルスス-アダナ鉄道
+|-
+| メルスィン - イェニジェ
+| 1882
+| style="text-align:right"| 43,209
+|-
+| イェニジェ - アダナ
+| 1886
+| style="text-align:right"| 23,949
+|-
+! colspan="3" style="background-color:#ccc"| サルカムシュ-カルス-国境鉄道
+|-
+| サルカムシュ - カルス - ロシア（現アルメニア）国境&lt;br /&gt;（広軌、後に標準軌へ改軌）
+| 1913
+| style="text-align:right"| 
+|-
+! colspan="2" style="background-color:#ccc"| 幹線
+| style="background-color:#ccc; text-align:right"| 3,714,280
+|-
+! colspan="2" style="background-color:#ccc"| 支線
+| style="background-color:#ccc; text-align:right"| 844,995
+|-
+! colspan="2" style="background-color:#ccc"| 総計
+| style="background-color:#ccc; text-align:right"| 4,559,275
+|}
+{{clear}}
+
+==== 廃止された狭軌路線 ====
+{| class="wikitable" style="width:20em; text-align:center"
+! style="background-color:#f00"| 区間 !! style="background-color:#f00"| 距離 (m)
+|-
+| ムダニヤ – ブルサ
+| style="text-align:right"| 41,110
+|-
+| ウルジャ - パラムトルク
+| style="text-align:right"| 28,391
+|-
+| サムスン - チャルシャンバ
+| style="text-align:right"| 39,465
+|-
+| マーデン - サルカムシュ
+| style="text-align:right"| 231,940
+|-
+| style="background-color:#ccc"| '''総延長'''
+| style="background-color:#ccc; text-align:right"| 340,906
+|}
+{{clear}}
+
+== 進行中の計画 ==
+=== 高速化計画 ===
+{{main|トルコ高速鉄道}}
+[[Image:HızlıtrenEsk.jpg|right|thumb|250px|スペインの[[CAF (企業)|CAF]]に発注した高速鉄道用車両&lt;!--[[TCDD CAF]]--&gt;]]
+
+==== アンカラ・イスタンブール高速線 ====
+[[エスキシェヒール]]経由で[[アンカラ]]と[[イスタンブール]]を結ぶトルコ最初の高速鉄道である。イスタンブールからアンカラへは約3時間（最高速度 250km/h）で到着する。この区間用の車両はスペインの[[CAF (企業)|CAF]]に発注している。
+
+==== アンカラ・コンヤ高速線 ====
+この新線は[[ポラトル]]([[:en:Polatlı]])でアンカラ・イスタンブール高速線と接続し、アンカラ - [[コンヤ]]間を70分に短縮する予定である。アンカラ・イスタンブール高速線と同種の車両が使用される。
+
+==== 将来の構想路線 ====
+* 「アンカラ・イズミル高速線」
+: アンカラ - [[アフィヨン]] - [[ウシャク]] - [[イズミル]]（ポラトルの約25km南でアンカラ・コンヤ高速線に接続。）
+* 「アンカラ・スィヴァス高速線」
+: アンカラ - [[ヨズガト]] - [[スィヴァス]]
+* 「アンカラ・[[カイセリ]]高速線」
+: [[:en:Şefaatli|シェファアトリ]]でアンカラ・スィヴァス高速線に接続。
+*「イスタンブール・[[ブルサ]] / アンカラ・ブルサ高速線」
+: [[:en:Osmaneli|オスマネリ]]でアンカラ・イスタンブール高速線に接続。
+* 「スィヴァス・カルス高速線」
+: スィヴァス - [[エルズィンジャン]] - [[エルズルム]] - [[カルス (都市)|カルス]]
+* 「エスキシェヒール・アンタルヤ高速線」
+: [[エスキシェヒール]] - [[アンタルヤ]]
+* 「コンヤ・メルスィン高速線」 
+: [[コンヤ]] - [[メルスィン]]（ - [[アダナ]]方面）
+* 「イスタンブール・エディルネ高速線」
+: イスタンブール - [[エディルネ県]][[カプクレ]]（ - [[ブルガリア]]・[[ソフィア (ブルガリア)|ソフィア]]方面）
+
+== 参考 ==
+* [[アンカラ駅]]
+* [[シルケジ駅]]
+* [[ハイダルパシャ駅]]
+* [[オリエント急行]]
+* [[バグダード鉄道]]
+* [[ヒジャーズ鉄道]]
+* [[トルコ高速鉄道]]
+* [[バクー＝トビリシ＝カルス鉄道]]
+
+== 隣接国との鉄道接続状況 ==
+* {{Flagicon|GEO}} [[ジョージアの鉄道|ジョージア]] - 接続あり
+
+== 脚注 ==
+&lt;references /&gt;
+
+== 外部リンク ==
+* [http://www.tcdd.gov.tr/ Turkish Republic Railways Company Website]
+* [http://www.tuvasas.com.tr/ Turkish Railway Company (TÜVASAŞ) Website]
+* [http://www.trainsofturkey.com/w/pmwiki.php/History.History A Short History of Turkish Railways including maps]
+* [http://www.decev.org.tr/ Turkish Republic Railways Company Workers and Retired Personnel Social Aid Foundation]
+* [http://www.kulturturizm.gov.tr/portal/arkeoloji_en.asp?belgeno=3858 Republic of Turkey Ministry of Culture - Ankara Railway Museum]
+* [http://www.ubak.gov.tr/ Republic of Turkey Ministry of Transport]
+
+{{アジアの題材|国鉄||鉄道|mode=3}}
+{{ヨーロッパの題材|国鉄||鉄道|mode=3}}
+
+{{Turkey-stub}}
+{{rail-stub}}
+{{authority control}}
+{{DEFAULTSORT:とるここくてつ}}
+[[Category:トルコの鉄道]]
+[[Category:ヨーロッパの鉄道事業者]]
+[[Category:国有鉄道]]</text>
+      <sha1>5yodozy0apjsvyx01ni2xux0fiqgjql</sha1>
+    </revision>
+  </page>
+  

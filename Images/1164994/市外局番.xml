@@ -1,0 +1,119 @@
+<page>
+    <title>市外局番</title>
+    <ns>0</ns>
+    <id>1164994</id>
+    <revision>
+      <id>95631008</id>
+      <parentid>88971413</parentid>
+      <timestamp>2023-06-15T15:38:22Z</timestamp>
+      <contributor>
+        <username>そらみみ</username>
+        <id>407465</id>
+      </contributor>
+      <comment>/* 韓国 */ 江原特別自治道</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9097" xml:space="preserve">{{出典の明記|date=2018年12月}}
+'''市外局番'''（しがいきょくばん）とは、[[電話番号]]の最初の部分として、[[政府]]通信当局またはそれに類する組織によって、同一[[国際電話番号の一覧|国番号]]地域内（多くの場合「国内」だが例外もある）の各エリアに割り当てられた番号である。英語では {{en|area code}}（エリアコード）&lt;ref&gt;『リーダーズ英和辞典』area code&lt;/ref&gt;。「市外にかけるときに必要な局番」であり、原則として同一エリア内では省略できる。ただし、エリア境界は必ずしも市町村境ではない。
+
+電話番号の最初の「0」（一部諸国では異なる）は、国内電話であることを示す「{{仮リンク|国内プレフィックス|en|Trunk prefix}}」であり、市外局番の1桁目ではない。市外局番は電話番号の2桁目から始まる。しかし、しばしばプレフィックスと市外局番はセットで扱われるため、ここでは誤解を避けるため、市外局番を記すとき必要に応じ「(0)」を前置する。
+
+== 対象 ==
+多くの国では[[固定電話]]や[[無線呼び出し]]に用いられる。[[北米電話番号計画]] (NANP) のもと国際番号や地域番号と同じ扱いとなる[[アメリカ合衆国]]や[[カナダ]]では、[[携帯電話]]や[[IP電話]]にも用いられている。
+
+== 市外局番の省略 ==
+一般的に、同一地域の閉域番号ダイヤルでは省略できる。
+
+ただし[[イギリス]]には、同一[[単位料金区域]]でない閉域番号ダイヤル区域がある。また北米電話番号計画のもとアメリカやカナダなどでは、同一地域に複数の地域番号が割り当てられることがあるため同一地域間でもこれを省略できない場合が多い。日本においても同じ市外局番内は原則同じ単位料金区域（MA）とされているが例外も存在し、同じ市外局番であっても局番の省略ができない地域がある。
+
+== 桁数 ==
+市外局番には固定桁数の地域と可変桁数の地域がある。可変桁数の場合、加入者数の多い[[電話加入区域]]には短いものが割り当てられて、市内局番+加入者番号の桁数を多くしている。
+
+&lt;!--各行ごとに人口順--&gt;
+; 3桁 ABC
+: [[北米電話番号計画|NANP]]諸国（{{USA}}、{{CAN}}、{{DOM}}、{{PRI}}、{{JAM}} など）
+; 2桁 (0)AB
+: {{BRA}}
+; 1桁 (0)A
+: {{AUS}}、{{NZL}}
+; 2桁 (0)AB ～5桁 (0)ABCDE
+: {{DEU}}、{{GBR}}、{{ARG}}、{{AUT}}
+; 1桁 (0)A ～ 4桁 (0)ABCD
+: {{JPN}}
+; 1桁 (0)A ～ 2桁 (0)AB
+: {{PER}}、{{SYR}}、{{ROK}}
+
+== 各国 ==
+{{節スタブ}}
+
+=== NANP諸国 ===
+[[File:NANP_countries.svg|thumb|right|300px|NANP諸国]]
+{{Main|en:List of North American Numbering Plan area codes}}
+3桁固定。「1」が国内プレフィックスのため、「1」で始まる番号は使われない（「0」は国内プレフィックスではないが、[[電話交換手|交換手]]につながる番号のため、「0」で始まる番号も使われない）。なお、プレフィックスと市外局番を合わせた4桁をセットで扱うことは少ない。
+
+国ごとの割り当ては以下のとおり：
+*{{Flag|United States}} - 多数（省略）
+*{{Flag|Canada}} - 多数（省略）
+*{{Flag|Dominican Republic}} - [[:en:Area code 809|809]], [[:en:Area code 829|829]], [[:en:Area code 849|849]]
+*{{Flag|Puerto Rico}} - [[:en:Area code 787|787]], [[:en:Area code 939|939]]
+*{{Flag|American Samoa}} - [[:en:Area code 684|684]]
+*{{Flag|Anguilla}} - [[:en:Area code 264|264]]
+*{{Flag|Antigua and Barbuda}} - [[:en:Area code 268|268]]
+*{{Flag|Bahamas}} - [[:en:Area code 242|242]]
+*{{Flag|Barbados}} - [[:en:Area code 246|246]]
+*{{Flag|Bermuda}} - [[:en:Area code 441|441]]
+*{{Flag|British Virgin Islands}} - [[:en:Area code 284|284]]
+*{{Flag|Cayman Islands}} - [[:en:Area code 345|345]]
+*{{Flag|Dominica}} - [[:en:Area code 767|767]]
+*{{Flag|Grenada}} - [[:en:Area code 473|473]]
+*{{Flag|Guam}} - [[:en:Area code 671|671]]
+*{{Flag|Jamaica}} - [[:en:Area code 876|876]]
+*{{Flag|Montserrat}} - [[:en:Area code 664|664]]
+*{{Flag|Northern Mariana Islands}} - [[:en:Area code 670|670]]
+*{{Flag|Saint Kitts and Nevis}} - [[:en:Area code 869|869]]
+*{{Flag|Saint Lucia}} - [[:en:Area code 758|758]]
+*{{Flag|Saint Vincent and the Grenadines}} - [[:en:Area code 784|784]]
+*{{Flag|Sint Maarten}} - [[:en:Area code 721|721]]
+*{{Flag|Trinidad and Tobago}} - [[:en:Area code 868|868]]
+*{{Flag|Turks and Caicos Islands}} - [[:en:Area code 649|649]]
+*{{Flag|United States Virgin Islands}} - [[:en:Area code 340|340]]
+
+アメリカ、カナダ、ドミニカ共和国、プエルトリコ以外の国は、市外局番が1つだけ割り当てられている。そのため、たとえばバハマの場合、国番号が「+1242」で市外局番がないかのようにダイヤルすることができるが、国番号は「+1」だけであり「242」は市外局番である。
+
+[[シント・マールテン]]は[[2011年]]に、旧[[オランダ領アンティル]]の国番号「[[:en:Telephone numbers in Curaçao and the Caribbean Netherlands|+599]]」から離脱してNANPに加盟し、エリアコード「721」を割り当てられた&lt;ref name="Sint Maarten delay"&gt;{{cite web|url=http://www.nanpa.com/pdf/PL_418.pdf |title=PL-418: Introduction of NPA 721 (Sint Maarten) |publisher=North American Numbering Plan Administration |date=2011-01-05 |accessdate=2011-08-08}} Updated by: {{cite web|url=http://www.nanpa.com/pdf/PL_423.pdf |title=PL-423: Updated Information - Introduction of NPA 721 (Sint Maarten) |publisher=North American Numbering Plan Administration |date=2011-07-27 |accessdate=2011-08-08}}&lt;/ref&gt;。
+
+=== 日本 ===
+{{Main|日本の市外局番}}
+[[東京都区部|東京]]の「(0)3」、[[埼玉県]]（[[所沢市|所沢]]、[[狭山市|狭山]]、[[入間市|入間]]）と[[千葉県]]（[[鴨川市|鴨川]]、[[野田市|野田]]、[[流山市|流山]]、[[柏市|柏]]、[[我孫子市|我孫子]]）の一部で採用されている「(0)4」、[[大阪市|大阪]]と[[兵庫県]]（[[尼崎市|尼崎]]）の「(0)6」が最短の1桁である。{{要出典範囲|最長は、かつて5桁局番が[[2002年]]時点で[[北海道]]に5局番、[[広島県]]に3局番が存在したが、[[2006年]][[3月1日]]に最後の5桁局番「[[滝上町|(0)15829]]」が廃止され、4桁が最長になった。|date=2022-4}}
+
+地域ごとに[[総務省]]告示で規定している。
+
+=== ドイツ ===
+[[File:Karte Telefonvorwahlen Deutschland.png|thumb|right|200px|ドイツの市外局番の1桁目]]
+{{Main|ドイツの市外局番}}
+[[ベルリン]]「(0)30」、[[ハンブルク]]「(0)40」、[[フランクフルト]]「(0)69」、[[ミュンヘン]]「(0)89」の4都市が最短の2桁である。
+
+以前は最長4桁だったが、[[ドイツ再統一]]にともない国番号も統一（[[ドイツ民主共和国|東ドイツ]]の+37が廃止され[[西ドイツ]]の+49に編入）されたため、旧東ドイツの市外局番の先頭（0の次）に3が追加され、最長5桁になった。
+
+=== 韓国 ===
+[[大韓民国|韓国]]の市外局番は「地域番号（{{lang|ko|지역번호}}、チヨ&lt;small&gt;ク&lt;/small&gt;ボノ）」と呼ばれる。首都[[ソウル特別市]]および[[京畿道]]の一部に割り当てられている「(0)2」が最短の1桁である。このほかの地域は、[[道 (行政区画)|各道]]および[[広域市]]・[[世宗特別自治市|特別自治市]]ごとに「(0)3X」から「(0)6X」の2桁局番となっている。かつては広域市のみが2桁局番、他地域は[[市#韓国|市]]・[[郡#大韓民国の郡|郡]]単位の3桁局番だったが、[[2000年]][[7月2日]]に道単位で2桁局番に統一された。「(0)7X」以降の地域番号は使用されていないが、韓国は[[大韓民国憲法|憲法]]上は[[朝鮮民主主義人民共和国|北朝鮮]]を含む[[朝鮮半島]]全域をその領土と定めていることから、南北統一後のために未使用のまま空けている。
+*「(0)3X」：(0)31 - 京畿道（[[果川市]]および[[光明市]]は(0)2、[[富川市]]は(0)32）、(0)32 - [[仁川広域市]]、(0)33 - [[江原特別自治道]]
+*「(0)4X」：(0)41 - [[忠清南道]]、(0)42 - [[大田広域市]]、(0)43 - [[忠清北道]]、(0)44 - [[世宗特別自治市]]
+*「(0)5X」：(0)51 - [[釜山広域市]]、(0)52 - [[蔚山広域市]]、(0)53 - [[大邱広域市]]、(0)54 - [[慶尚北道]]（[[慶山市]]は(0)53）、(0)55 - [[慶尚南道]]
+*「(0)6X」：(0)61 - [[全羅南道]]、(0)62 - [[光州広域市]]、(0)63 - [[全羅北道]]、(0)64 - [[済州特別自治道]]
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 関連項目 ==
+* [[電話番号計画]]
+* [[電話番号逼迫対策]]
+
+{{DEFAULTSORT:しかいきよくはん}}
+[[Category:電話番号]]
+[[Category:地方区分]]</text>
+      <sha1>0cevqxmhnrgm6zbpo86un7z5spja57l</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,75 @@
+<page>
+    <title>鬲部</title>
+    <ns>0</ns>
+    <id>1150861</id>
+    <revision>
+      <id>88328898</id>
+      <parentid>80801082</parentid>
+      <timestamp>2022-03-03T01:36:00Z</timestamp>
+      <contributor>
+        <username>シェン,アーナリー,ン,アーバァ.</username>
+        <id>1337999</id>
+      </contributor>
+      <minor />
+      <comment>文法を修正</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2731" xml:space="preserve">{{特殊文字|special=、[[JIS X 0212]]-1990 で規定されている文字}}{{wtp|鬲部}}{{部首|部首=鬲|[[鬯部]]|[[鬼部]]}}
+
+[[画像:Li with animal mask.jpg|thumb|left|鬲]]
+
+{{読み仮名|'''鬲部'''|れきぶ}}は、[[漢字]]を[[部首]]により分類したグループの一つ。
+[[康熙字典]]214部首では193番目に置かれる（10画の7番目、亥集の7番目）。
+
+==概要==
+「[[鬲]]」字は中国古代の炊具。
+
+火でくべることができるように三足になっており、「[[鼎]]」に似る。その字形は側面から見た形で、腹部分に紋様があり、三本の足がある様子に象る。
+
+[[偏旁]]の意符としては炊具や煮炊き・飲食に関することを示す。
+
+鬲部はこのような意符を構成要素に持つ漢字を収める。
+{{Clearleft}}
+
+== 字体のデザイン差 ==
+「鬲」字は地域によって標準字体のデザインに差異がある。
+
+「鬲」字の三本足の上にあたる腹部分を小篆では交差した紋様「×」で書いている。これを『[[康熙字典]]』では「鬲」のように儿形としており、日本の印刷標準字体もこれに従う。一方、中国の[[新字形]]・台湾の[[国字標準字体]]・香港の[[常用字字形表]]はこれを「{{lang|zh|鬲}}」のようにソの字の形とする。
+{| class="wikitable"
+!康熙字典・日本!!台湾・香港・中国
+|- style="font-size:6em;font-family:serif;line-height:100%;"
+|鬲
+|lang="zh-cn"|鬲
+|}
+== 部首の通称 ==
+*日本：かなえ・れき
+*韓国：{{lang|ko|다리굽은솥력부}}（dari gubeun sot ryeok bu、足が曲がった釜の鬲部）
+*英米：Radical cauldron
+
+== 部首字 ==
+鬲
+*[[中古音]]
+**[[広韻]] - 郎撃[[反切|切]]、錫韻、[[入声]]
+**[[詩韻]] - 錫韻、入声
+**[[三十六字母]] - 来母
+*[[中国語|現代音]]
+**[[普通話]] - {{Smaller|[[ピンイン]]}}：{{zh|lì}} {{Smaller|[[注音符号|注音]]}}：{{lang|zh-tw|ㄌㄧˋ}} {{Smaller|[[ウェード式]]}}：li4
+**[[広東語]] - {{Smaller|[[香港語言学学会エツ語ピン音方案|Jyutping]]}}:lik6 {{Smaller|[[イェール式]]}}:lik6
+*[[日本語]] - {{Smaller|[[音読み|音]]}}：レキ（[[漢音]]） {{Smaller|[[訓読み|訓]]}}：かなえ
+*[[朝鮮語]] - {{Smaller|音}}：{{lang|ko|력}}(ryeok) {{Smaller|訓}}：{{lang|ko|다리 굽은 솥}}（dari gubeun sot、足が曲がった釜）
+&lt;gallery&gt;
+画像:鬲-oracle.svg|甲骨文
+画像:鬲-bronze.svg|金文
+画像:鬲-bigseal.svg|大篆
+画像:鬲-seal.svg|小篆
+&lt;/gallery&gt;
+== 例字 ==
+{{Main|wikt:Wiktionary:漢字索引 部首 鬲}}
+*鬲
+**7:{{補助漢字フォント|鬴}}、12:鬻
+
+[[Category:部首|+193]]</text>
+      <sha1>c4ulhyuxw3u5h14cr029es3w1grei1a</sha1>
+    </revision>
+  </page>
+  
