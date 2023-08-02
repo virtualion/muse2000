@@ -1,0 +1,68 @@
+<page>
+    <title>ヒトヒフバエ</title>
+    <ns>0</ns>
+    <id>4796896</id>
+    <revision>
+      <id>95841858</id>
+      <parentid>95841833</parentid>
+      <timestamp>2023-07-01T12:54:44Z</timestamp>
+      <contributor>
+        <username>ねこの森には帰れない</username>
+        <id>1400852</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5747" xml:space="preserve">{{生物分類表
+| 名称 = ヒトヒフバエ
+| 画像 = 
+| 画像キャプション = 
+|省略 = 昆虫綱
+| 目 = [[ハエ目]]（双翅目） [[:w:Diptera|Diptera]]
+| 亜目 = [[ハエ亜目]]（短角亜目） [[:w:Brachycera|Brachycera]]
+| 下目 = [[ハエ下目]] [[:w:Muscomorpha|Muscomorpha]]
+| 上科 = [[ヒツジバエ上科]] [[:w:Oestroidea|Oestroidea]]
+| 科 = [[ヒツジバエ科]] [[:w:Oestridae|Oestridae]]
+| 亜科 = [[:w:Cuterebrinae|Cuterebrinae]]
+| 属 = [[:w:Dermatobia|Dermatobia]]
+| 種 = '''ヒトヒフバエ''' 
+| 学名 = [[:w:Dermatobia hominis|''Dermatobia hominis'']]
+| 英名 = human botfly
+}}
+
+[[File:D. hominis larva.png|thumb|幼虫。矢印先端は口器]]
+'''ヒトヒフバエ'''（''Dermatobia hominis'', {{lang-en-short|human botfly}}, {{lang-de-short|amerikanische Dasselfliege}}, {{lang-fr-short|ver macaque}}, {{lang-zh-short|人皮蠅}}）は、[[ハエ目]][[ヒツジバエ科]]の昆虫。幼虫はヒト（および[[霊長目]]を含む広範囲の動物{{Sfn|Defense Centers for Public Health|2023}}）に寄生して[[蠅蛆症]]を引き起こす。成虫は体長10から20ミリ{{Sfn|西田|2012|p=158}}。原産地は[[メキシコ]]・[[ベラクルス州]]から[[アルゼンチン]]および[[チリ]]の北部、[[ウルグアイ]]にかけて{{Sfn|Defense Centers for Public Health|2023}}。
+
+英語では'''torsalo'''または'''American warble fly'''とも呼ばれる{{Sfn|Defense Centers for Public Health|2023}}。『南山堂医学大辞典』はウマバエの[[学名]]として''Dermatobia hominis''を挙げる&lt;ref&gt;{{Cite book|和書|date=2015-04-01|title=南山堂医学大辞典|publisher=南山堂|page=1946|isbn=978-4-525-01080-5}}&lt;/ref&gt;が、他の文献によるとウマバエの学名は''Gastrophilus intestinalis''である&lt;ref&gt;{{Cite book|和書|others=内田亨(監修)|date=1972-04-05|title=動物系統分類学(全10巻）第7巻(下Ｃ) 昆虫類(下)|publisher=中山書店|page=172}}&lt;/ref&gt;&lt;ref&gt;{{Cite book|和書|date=2009-02-25|title=昆虫2.8万名前大辞典|publisher=日外アソシエーツ|page=164|isbn=978-4-8169-2164-3}}&lt;/ref&gt;。ここでは、''D. hominis''の和名としてヒトヒフバエを採用する&lt;ref&gt;{{Cite book|和書|author1=加納六郎|author2=篠永哲|year=2003|title=日本の有害節足動物|publisher=東海大学出版会|page=233|isbn=4-486-01633-5}}&lt;/ref&gt;。
+== 生態 ==
+''Dermatobia''属の卵は40種以上の[[蚊]]・イエバエ上科の[[ハエ]]のほか、1種の[[マダニ科]]の[[ダニ]]によって媒介されることが観察されている&lt;ref&gt;{{cite book|author=Ross Piper|chapter=Human Botfly|title=Extraordinary Animals: An Encyclopedia of Curious and Unusual Animals|publisher=Greenwood Publishing Group|location=Westport, Connecticut USA|year=2007|pages=192-194|isbn=978-0-313-33922-6}}&lt;/ref&gt;。本種のメスは飛行中の蚊に産卵し、蚊が吸血している間に幼虫はヒトの皮下組織に潜り込む{{Sfn|西田|2012|p=158-159}}。ヒトの[[リンパ液]]を食べて成長する{{Sfn|西田|2012|p=160}}。約8週間成長すると皮膚から脱出し、少なくとも1週間[[蛹]]として過ごす。成虫は[[口器]]を持たない。
+[[File:Dermatobia Hominis (Human Botfly) Region (cropped).png|thumb|分布地域]]
+
+== 蠅蛆症と対策 ==
+Venom extractor syringeと呼ばれる毒抜き用の器機により、幼虫がどの成長段階にあっても容易に吸い出せる&lt;ref&gt;{{cite journal|author1=Andrea K. Boggild|author2=Jay S. Keystone|author3=Kevin C. Kain|year=2002|title=Furuncular myiasis: a simple and rapid method for extraction of intact ''Dermatobia hominis''|journal=Clinical Infectious Diseases|volume=35|issue=3|pages=336–338|doi=10.1086/341493}}&lt;/ref&gt;。また、幼虫の入っている穴にマニキュアを何層か塗り、部分的に窒息させることで幼虫を弱らせ駆除に成功した例もある{{Sfn|Bhandari et al.|2007}}。剥がす際に幼虫がちぎれて取り残されてしまうため、粘着テープをその場所に貼ることは推奨されない{{Sfn|Bhandari et al.|2007}}。
+
+[[抗寄生虫薬]]の[[イベルメクチン]]の経口使用により、非侵襲的に幼虫の自然排出を促す。幼虫が目頭の内側のような手の届かない場所にいる場合に特に有効である&lt;ref&gt;{{cite journal|author1=Tais Hitomi Wakamatsu|author2=P. T. P. Pierre-Filho|year=2005|title=Ophthalmomyiasis externa caused by ''Dermatobia hominis'': a successful treatment with oral ivermectin|journal=Eye|volume=20|issue=9|pages=1088–90|doi=10.1038/sj.eye.6702120}}&lt;/ref&gt;。
+== 出典 ==
+{{Reflist}}
+== 参考文献 ==
+* {{Cite web|ref={{SfnRef|Defense Centers for Public Health|2023}}|title=Human Bot Fly Myiasis|url=https://web.archive.org/https://phc.amedd.army.mil/PHC%20Resource%20Library/HumanBotFlyMyiasis_FS_18-052-0618.pdf
+|format=PDF|website=APHC|publisher=Defense Centers for Public Health|accessdate=2023-06-30}}
+* {{Cite book|和書|ref={{SfnRef|西田|2012}}|author=西田賢司|title=探検昆虫学者の珍虫ファイル わっ！へんな虫|edition=第1刷|publisher=徳間書店|isbn=978-4-19-863219-9}}
+* {{cite journal|ref={{SfnRef|Bhandari et al.|2007}}|author1=Ramanath Bhandari|author2=David P. Janos|author3=Photini Sinnis|year=2007|title=Furuncular myiasis caused by ''Dermatobia hominis'' in a returning traveler|journal=The American Journal of Tropical Medicine and Hygiene|volume=76|issue=3|pages=598–9|doi=10.4269/ajtmh.2007.76.598}}
+
+== 関連項目 ==
+* [[ヒツジバエ科]]
+* [[蠅蛆症]]
+
+{{双翅目}}
+{{Taxonbar|from=Q941965}}
+
+{{Normdaten}}
+{{DEFAULTSORT:ひとひふはえ}}
+[[Category:ハエ目]]
+[[Category:寄生虫]]
+[[Category:害虫]]</text>
+      <sha1>6o9roq9ynafz8ypnvaeayvvw6px6gfr</sha1>
+    </revision>
+  </page>
+  

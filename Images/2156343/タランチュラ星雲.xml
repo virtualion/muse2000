@@ -1,0 +1,198 @@
+<page>
+    <title>タランチュラ星雲</title>
+    <ns>0</ns>
+    <id>2156343</id>
+    <revision>
+      <id>94579284</id>
+      <parentid>93866523</parentid>
+      <timestamp>2023-03-31T23:51:12Z</timestamp>
+      <contributor>
+        <username>Bcxfubot</username>
+        <id>291984</id>
+      </contributor>
+      <minor />
+      <comment>外部リンクの修正 http:// -&gt; https:// (adsabs.harvard.edu) ([[Wikipedia:Bot|Bot]]による編集)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17898" xml:space="preserve">{{天体 基本
+| 色 = nebula
+| 和名 = タランチュラ星雲{{R|jiten}}
+| 英名 = TARANTULA NEBULA{{R|simbad}}
+| 画像ファイル = Tarantula Nebula TRAPPIST.jpg
+| 画像サイズ = 300px
+| 画像説明 = &lt;small&gt;ラ・シヤ天文台のTRAPPIST望遠鏡の初めての画像&lt;/small&gt;
+| 星座 = [[かじき座]]
+| 視等級 = +8{{R|seds}}
+| 視直径 = 40.0' × 25.0'{{R|simbad|seds}}
+| 分類 = [[輝線星雲]]
+}}
+{{天体 発見
+| 色 = nebula
+| 発見日 = 1751年12月5日{{R|seds}}
+| 発見者 = [[ニコラ＝ルイ・ド・ラカーユ]]{{R|seds}}
+| 発見場所 = [[喜望峰]]
+| 発見方法 =
+}}
+{{天体 位置
+| 色 = nebula
+| 元期 = [[J2000.0]]{{R|simbad}}
+| 赤経 = {{RA|05|38|36.0}}{{R|simbad}}
+| 赤緯 = {{DEC|-69|05|11}}{{R|simbad}}
+| 視線速度 = 
+| 絶対等級 = ~ -11.7{{要出典|date=2020-04}}
+| 距離 = 16万 ± 1万 [[光年]]&lt;br /&gt;(49000 ± 3000パーセク{{R|seds|Lebouteilleretal2008}})
+}}
+{{天体 物理
+| 色 = nebula
+| 半径 = 931光年{{要出典|date=2020-04}}
+}}
+{{天体 別名称
+| 色 = nebula
+| 別名称 = 30 Doradus Nebula{{R|simbad}}, 30 Dor Nebula{{R|simbad}}
+}}
+{{天体 終了
+| 色 = nebula
+}}
+'''タランチュラ星雲'''（タランチュラせいうん、''Tarantula Nebula''、別名'''かじき座30'''(''30 Doradus'')&lt;ref name="sorae2022"&gt;{{Cite web |url=https://sorae.info/astronomy/20220617-tarantula-nebula.html |title=電波＆赤外線で観測された大マゼラン雲の「タランチュラ星雲」|website=sorae|author=松村武宏 |publisher=株式会社sorae |date=2022-06-17 |access-date=2022-06-19}}&lt;/ref&gt;）は、[[大マゼラン雲]]の[[HII領域]]の[[輝線星雲]]である&lt;ref name="sorae2022"/&gt;。中心には太陽の150倍以上にもなる大質量星が複数存在しており、[[星形成]]の過程を研究するのに最適な場所と言える&lt;ref name="sorae2022"/&gt;。これまでタランチュラ星雲では、80万個以上の星の形成があったと試算されている&lt;ref name="sorae2022"/&gt;。[[欧州宇宙機関]](ESA)の研究者''Guido De Marchi''は、タランチュラ星雲は多くの星々が誕生した100億年前の宇宙の特性を備えていると話しており、[[イリノイ大学アーバナ・シャンペーン校]]の教授''Tony Wong''は、タランチュラ星雲が今日においても星形成活動を行えているのは天文学における大きな謎のひとつとしている&lt;ref name="sorae2022"/&gt;。
+
+== 発見 ==
+[[File:Hubble WFC3 30 Doradus Zoom.ogv|thumb|right|upright=1.2|タランチュラ星雲にある恒星は莫大な量の紫外線や恒星風を放出している。]]
+この星雲は[[ニコラ＝ルイ・ド・ラカーユ]]が[[喜望峰]]へ遠征した1751年12月5日に初めて発見された{{R|seds}}。彼はこの星雲を最上級の星雲のうち2番目であり、2フィート望遠鏡で見える恒星を伴わない星雲としてカタログに入れた。また、20[[分 (角度)|']]にもまたがる星雲と描写された{{R|lacaille}}。
+
+[[ヨハン・ボーデ]]は1801年に自身の『Uranographia』という恒星の地図にタランチュラ星雲を入れた。また、彼は『Allgemeine Beschreibung und Nachweisung der Gestirne』においてはXiphiasという星座(現在の[[かじき座]])の30番目の天体として捉えた。彼は等級を与えず、星雲状のものしてNを与えた{{R|bode}}。
+
+反射望遠鏡から得たこの星雲の写真ではその複雑な内部構造が見られ、20世紀半ば頃からタランチュラ星雲と呼ばれるようになった{{R|Feast1961}}。
+
+タランチュラ星雲は「かじき座30番星」のように恒星のように扱われることもあり{{R|Pickering1897|Burnham1893}}、かつてはタランチュラ星雲の中心にある[[散開星団]]の[[NGC 2070]]として扱われることもあった{{R|Anderson2009}}が、一般的にはNGC 2070などを含めた全体を表す{{R|Walborn1984|Aguirre2003}}。
+
+== 特徴 ==
+恒星以外の天体としては非常に光度が大きく、距離は49kpcであるが、[[視等級]]は+8もある{{R|seds}}。その明るさは、もし地球から[[オリオン大星雲]]ほどの距離に来たならば、影を生じるほどである（ただしタランチュラ星雲は巨大なため視直径は約90°に達し、空の一点に光源があるような光景にはならない）{{R|NOAO}}。実際に、[[局所銀河群]]で知られている最も活発な[[スターバースト]]領域である。また局所銀河群の最大級の[[HII領域]]としては直径200パーセクと最も大きいことで知られる{{R|seds|Lebouteilleretal2008}}。さらにその大きさからHII領域最大とも言われるが、[[さんかく座銀河]]にある[[NGC 604]]の方が大きい可能性がある{{R|Lebouteilleretal2008}}。星雲は大マゼラン雲の最先端に位置し、そこでは{{仮リンク|ラム圧|en|ram pressure}}がなくなり、[[星間物質]]の圧縮が最大限に達する{{要出典|date=2020-04}}。
+
+== NGC 2070 ==
+中心部には直径約35光年の小さな星団[[R136]]を含む[[ニュージェネラルカタログ|NGC]] 2070（[[カルドウェルカタログ|Caldwell]] 103）という[[散開星団]]が存在し{{R|Massey}}、星雲のエネルギーの大部分を生産している。[[R136]]の質量は推定45万 [[太陽質量|''M''&lt;sub&gt;☉&lt;/sub&gt;]]であり、将来は[[球状星団]]になると推測されている{{R|Bosch2009}}。
+
+タランチュラ星雲にはR136の他にも、2000万歳から2500万歳と古い星団である[[ホッジ301]]もある。この星団中の最も質量の大きい恒星はすでに[[超新星]]として爆発している{{R|Grebel2000}}。
+
+== 超新星SN 1987A ==
+望遠鏡が発明されて以来、直近で観測された超新星爆発は、タランチュラ星雲の外縁部で生じた[[SN 1987A]]である{{R|space2011|Couper2009}}。中に散開星団が含まれている有名な[[超新星残骸]]には[[NGC 2060]]などがあるが、多くの超新星残骸では星雲の内部構造の複雑さから発見するのは難しい{{R|lazendic2003}}。
+
+== ブラックホール VFT S243 ==
+タランチュラ星雲には天の川銀河の外としては初となる強い放射をしない(X線放出の少ない)タイプの[[ブラックホール]]が発見されている。
+このブラックホールは最低で9太陽質量の質量があり、25太陽質量の伴星の青色巨星と円軌道をとる&lt;ref&gt;{{cite journal |doi=10.1038/s41550-022-01730-y |title=An X-ray-quiet black hole born with a negligible kick in a massive binary within the Large Magellanic Cloud |year=2022 |last1=Shenar |first1=Tomer |last2=Sana |first2=Hugues |last3=Mahy |first3=Laurent |last4=El-Badry |first4=Kareem |last5=Marchant |first5=Pablo |last6=Langer |first6=Norbert |last7=Hawcroft |first7=Calum |last8=Fabry |first8=Matthias |last9=Sen |first9=Koushik |last10=Almeida |first10=Leonardo A. |last11=Abdul-Masih |first11=Michael |last12=Bodensteiner |first12=Julia |last13=Crowther |first13=Paul A. |last14=Gieles |first14=Mark |last15=Gromadzki |first15=Mariusz |last16=Hénault-Brunet |first16=Vincent |last17=Herrero |first17=Artemio |last18=Koter |first18=Alex de |last19=Iwanek |first19=Patryk |last20=Kozłowski |first20=Szymon |last21=Lennon |first21=Daniel J. |last22=Apellániz |first22=Jesús Maíz |last23=Mróz |first23=Przemysław |last24=Moffat |first24=Anthony F. J. |last25=Picco |first25=Annachiara |last26=Pietrukowicz |first26=Paweł |last27=Poleski |first27=Radosław |last28=Rybicki |first28=Krzysztof |last29=Schneider |first29=Fabian R. N. |last30=Skowron |first30=Dorota M. |journal=Nature Astronomy |arxiv=2207.07675 |s2cid=250626810 |display-authors=1 }}&lt;/ref&gt;。
+
+== 画像 ==
+&lt;center&gt;&lt;gallery&gt;
+ファイル:The rich region around the Tarantula Nebula in the Large Magellanic Cloud.jpg|タランチュラ星雲の星団、ガス星雲、超新星残骸{{R|ESO1}}
+ファイル:The Tarantula Nebula region imaged with HAWK-I with the Adaptive Optics Facility.jpg|ESOのHAWK-1によるタランチュラ星雲{{R|ESO2}}
+ファイル:30 Doradus, Tarantula Nebula.jpg|[[ハッブル宇宙望遠鏡]]によるR136の[[星形成]]領域の全景
+ファイル:The brilliant star VFTS 682 in the Large Magellanic Cloud.jpg|大マゼラン雲内にある{{仮リンク|VFTS 682|en|VFTS 682}}
+ファイル:Close-up Tarantula Nebula.jpg|タランチュラ星雲の拡大写真
+ファイル:ESO - Eso1030a (by).jpg|若い星団のRMC 136a
+ファイル:Tarantula Nebula - Hubble.jpg|タランチュラ星雲の中心領域
+ファイル:ESO-Ring-shaped-Nebula-phot-34a-04-fullres.jpg|タランチュラ星雲に近い大マゼラン雲の領域
+ファイル:Tarantula_Nebula.jpg|タランチュラ星雲の中心部にR136が位置する。白いホッジ301も右上に見える。{{small|credit: ESO}}
+ファイル:Tarantula Nebula and its surroundings.jpg|タランチュラ星雲とその周辺{{small|credit: ESO}}
+ファイル:ESO-Filaments in the Tarantula Nebula-phot-34b-04-fullres.jpg|タランチュラ星雲のフィラメント{{small|credit: ESO}}
+ファイル:ESO 2.2-m WFI Image of the Tarantula Nebula (4598317299).jpg|画像の中心に星雲が見える
+ファイル:Tarantula nebula WISE.jpg|[[広域赤外線探査衛星]]で観測したタランチュラ星雲
+ファイル:PIA23646-TarantulaNebula-PAHs-SpitzerST-20200127.jpg|2020年1月に[[スピッツァー宇宙望遠鏡]]が撮影したタランチュラ星雲
+ファイル:Heic2004a.jpg|タランチュラ星雲全体
+ファイル:タランチュラ星雲のハッブルとウェッブの比較.jpg|タランチュラ星雲のハッブルとウェッブの比較
+&lt;/gallery&gt;&lt;/center&gt;
+
+== 脚注 ==
+{{脚注ヘルプ}}
+
+=== 出典 ===
+{{reflist |refs=
+
+&lt;ref name="jiten"&gt;沼澤茂美・脇屋奈々代『星座の事典』ナツメ社 2007年。ISBN 978-4-8163-4364-3&lt;/ref&gt;
+
+&lt;ref name="Massey"&gt;{{Cite journal
+ | url = https://ui.adsabs.harvard.edu/abs/1998ApJ...493..180M/abstract
+ | title = Star Formation in R136: A Cluster of O3 Stars Revealed by Hubble Space Telescope Spectroscopy
+ | date = January 1998
+ | journal = The Astrophysical Journal
+ | volume = 493
+ | issue = 1
+ | pages = 180
+ | doi = 10.1086/306503
+ | author = Massey, P ; Hunter, D.
+ | postscript = &lt;!--None--&gt;
+}}&lt;/ref&gt;
+
+&lt;ref name="seds"&gt;{{cite web |title=SEDS Students for the Exploration and Development of Space | work=Results for Tarantula Nebula  |url=http://www.messier.seds.org/xtra/ngc/n2070.html |archiveurl=https://web.archive.org/web/20131104111050/http://messier.seds.org/xtra/ngc/n2070.html |archivedate=2013-11-03 |accessdate=2020-04-23 }}&lt;/ref&gt;
+
+&lt;ref name="Lebouteilleretal2008"&gt;{{Cite journal
+ | url = https://ui.adsabs.harvard.edu/abs/2008ApJ...680..398L/abstract
+ | title = Chemical Composition and Mixing in Giant H II Regions: NGC 3603, 30 Doradus, and N66
+ | year = 2008
+ | date = June 2008
+ | journal = The Astrophysical Journal
+ | volume = 680
+ | issue = 1
+ | pages = 398&amp;ndash;419
+ | doi = 10.1086/587503
+ | author = Lebouteiller, V.; Bernard-Salas, J.; Brandl, B.; Whelan, D. G.; Wu, Yanling; Charmandaris, V.; Devost, D.; Houck, J. R.
+}}&lt;/ref&gt;
+
+&lt;ref name="simbad"&gt;{{cite web
+  | title=SIMBAD Astronomical Database
+  | work=Results for Tarantula Nebula
+  | url=https://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Tarantula+Nebula
+  | accessdate=2020-04-23 }}&lt;/ref&gt;
+
+&lt;ref name=Bosch2009&gt;{{cite journal | last=Bosch | first=Guillermo | coauthors=Terlevich, Elena; Terlevich, Roberto | title=Gemini/GMOS Search for Massive Binaries in the Ionizing Cluster of 30 Dor | journal=Astronomical Journal | volume=137 |issue=2 | pages=3437&amp;ndash;3441 | year=2009 | url=https://ui.adsabs.harvard.edu/abs/2009AJ....137.3437B/abstract | doi=10.1088/0004-6256/137/2/3437}}&lt;/ref&gt;
+
+&lt;ref name=Grebel2000&gt;{{cite journal |last=Grebel | first= Eva K. | coauthors=Chu, You-Hua | title=Hubble Space Telescope Photometry of Hodge 301: An "Old" Star Cluster in 30 Doradus | year=2000 | journal=Astronomical Journal | volume=119 | issue=2 | pages=787&amp;ndash;799 | url=https://ui.adsabs.harvard.edu/abs/2000AJ....119..787G/abstract | doi=10.1086/301218}}&lt;/ref&gt;
+
+&lt;ref name=lacaille&gt;{{cite journal|bibcode=1969JBAA...79..213J|title=The search for the nebulae - VI|journal=Journal of the British Astronomical Association|volume=79|pages=213|last1=Jones|first1=K. G.|year=1969}}&lt;/ref&gt;
+
+&lt;ref name=bode&gt;{{cite book|author=Johann Elert Bode|title=Allgemeine Beschreibung und Nachweisung der Gestirne: Nebst Verzeichniss der geraden Aufsteigung und Abweichung von 17240 Sternen, Doppelsternen, Nebelflecken und Sternhaufen:(zu dessen Uranographie gehörig)|url=https://books.google.com/books?id=NUlRAAAAcAAJ&amp;pg=PA1 |year=1801 |publisher=Selbstverl.|pages=90 }}&lt;/ref&gt;
+
+&lt;ref name=Feast1961&gt;{{cite journal|doi=10.1093/mnras/122.1.1|title=A Study of the 30 Doradus Region of the Large Magellanic Cloud|journal=Monthly Notices of the Royal Astronomical Society|volume=122|pages=1–16|year=1961|last1=Feast|first1=M. W.|bibcode=1961MNRAS.122....1F}}&lt;/ref&gt;
+
+&lt;ref name=Pickering1897&gt;{{cite journal|bibcode=1897ApJ.....6..459P |title=Large Magellanic Cloud|journal=Astrophysical Journal |volume=6 |pages=459 |last1=Pickering |first1=E. C. |last2=Fleming |first2=W. P. |year=1897 |doi=10.1086/140426 }}&lt;/ref&gt;
+
+&lt;ref name=Burnham1893&gt;{{cite journal|bibcode=1893MNRAS..53..273B |title=New Double Stars, discovered in 1892, and measures |journal=Monthly Notices of the Royal Astronomical Society|volume=53 |pages=273 |last1=Burnham |first1=S. W. |year=1893 |doi=10.1093/mnras/53.4.273 |doi-broken-date=2020-01-22 }}&lt;/ref&gt;
+
+&lt;ref name=Anderson2009&gt;{{cite journal|doi=10.1088/0004-637X/707/2/1347 |title=The Low-Mass Initial Mass Function in the 30 Doradus Starburst Cluster |journal=[[アストロフィジカル・ジャーナル|The Astrophysical Journal]] |volume=707 |issue=2 |pages=1347–1360 |year=2009 |last1=Andersen |first1=M. |last2=Zinnecker |first2=H. |last3=Moneti |first3=A. |last4=McCaughrean |first4=M. J. |last5=Brandl |first5=B. |last6=Brandner |first6=W. |last7=Meylan |first7=G. |last8=Hunter |first8=D. |bibcode=2009ApJ...707.1347A |arxiv = 0911.2755 }}&lt;/ref&gt;
+
+&lt;ref name=Walborn1984&gt;{{cite book |title=The stellar content of 30 Doradus |journal=IN: Structure and Evolution of the Magellanic Clouds; Proceedings of the Symposium |volume=108 |pages=243–253 |last1=Walborn |first1=N. R. |year=1984 |bibcode=1984IAUS..108..243W |doi=10.1007/978-94-010-9801-4_59 |isbn=978-90-277-1723-8 }}&lt;/ref&gt;
+
+&lt;ref name=Aguirre2003&gt;{{cite journal |title=The Spectrum of Integrated Millimeter Flux of the Magellanic Clouds and 30 Doradus from Top ''Hat'' and DIRBE Data |journal=The Astrophysical Journal |volume=596 |issue=1|pages=273–286 |year=2003 |last1=Aguirre |first1=J. E. |last2=Bezaire |first2=J. J. |last3=Cheng |first3=E. S. |last4=Cottingham |first4=D. A. |last5=Cordone |first5=S. S. |last6=Crawford |first6=T. M. |last7=Fixsen |first7=D. J. |last8=Knox |first8=L. |last9=Meyer |first9=S. S. |last10=Norgaard‐Nielsen |first10=H. U. |last11=Silverberg |first11=R. F. |last12=Timbie |first12=P. |last13=Wilson |first13=G. W. |display-authors=1 |bibcode=2003ApJ...596..273A |doi=10.1086/377601 |arxiv = astro-ph/0306425 }}&lt;/ref&gt;
+
+&lt;ref name=NOAO&gt;{{Cite web | url=http://www.noao.edu/news/2011/pr1102.php | title=National Optical Astronomy Observatory Press Release: NEIGHBOR GALAXY CAUGHT STEALING STARS |accessdate=2020-04-23}}&lt;/ref&gt;
+
+&lt;ref name=space2011&gt;{{cite web|title=Tarantula Nebula's Cosmic Web a Thing of Beauty |url=http://www.space.com/11180-hubble-telescope-photos-tarantula-nebula.html |publisher=Space.com |accessdate=2011-03-26 |date=2020-04-23 }}&lt;/ref&gt;
+
+&lt;ref name=Couper2009&gt;{{cite book |last1=Couper |first1=Heather |last2=Henbest |first2=Nigel |title=Encyclopedia of Space |url=https://books.google.com/books?id=xGraFRhwutUC&amp;pg=PA299 |year=2009 |publisher=DK Publishing |isbn=978-0-7566-5600-3 |page=299 }}&lt;/ref&gt;
+
+&lt;ref name=lazendic2003&gt;{{Cite journal |doi=10.1086/377630 |title=Supernova Remnant Candidates in the 30 Doradus Nebula |journal=The Astrophysical Journal |volume=596 |issue=1 |pages=287 |year=2003 |last1=Lazendic |first1=J. S. |last2=Dickel |first2=J. R. |last3=Jones |first3=P. A. |bibcode=2003ApJ...596..287L }}&lt;/ref&gt;
+
+&lt;!-- 以下はギャラリーの画像の出典となっている。出典が多いため編集者向けとしてコメントアウト。 --&gt;
+&lt;ref name=ESO1&gt;{{cite web |title=A Crowded Neighbourhood |url=https://www.eso.org/public/news/eso1816/ |website=www.eso.org |accessdate=2020-04-23}}&lt;/ref&gt;
+
+&lt;ref name=ESO2&gt;{{cite web|title=Sharper Images for VLT Infrared Camera - Adaptive optics facility extended to HAWK-I instrument|url=https://www.eso.org/public/announcements/ann18006/|website=www.eso.org|accessdate=2020-04-23 }}&lt;/ref&gt;
+
+}}
+
+== 外部リンク ==
+{{Commons|Category:NGC 2070|Tarantula Nebula}}
+* [[:en:Astronomy Picture of the Day|APOD Images:]] [https://apod.nasa.gov/apod/ap030823.html 2003 August 23] &amp; [https://apod.nasa.gov/apod/astropix.html 2010 May 18]
+* [[Students for the Exploration and Development of Space|SEDS Data:]] [http://www.messier.seds.org/xtra/ngc/n2070.html NGC 7020, The Tarantula Nebula]
+* [[ハッブル宇宙望遠鏡|Hubble Space Telescope]] Images of: [https://esahubble.org/images/?search=The+Tarantula+Nebula The Tarantula Nebula]
+* [[ヨーロッパ南天天文台|European Southern Observatory]] Image of: [https://www.eso.org/public/images/?search=The+Tarantula+Nebula The Tarantula Nebula]
+
+{{カルドウェル天体}}
+{{デフォルトソート:たらんちゆらせいうん}}
+[[Category:かじき座]]
+[[Category:散光星雲]]
+[[Category:NGC天体|2070]]
+[[Category:カルドウェル天体|103]]
+[[Category:天文学に関する記事]]
+[[Category:18世紀発見の天体]]</text>
+      <sha1>hgcxyk4tlci7l6ufm8h1aesvsgvgp5k</sha1>
+    </revision>
+  </page>
+  

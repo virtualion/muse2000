@@ -1,0 +1,57 @@
+<page>
+    <title>サンプルインジェクター</title>
+    <ns>0</ns>
+    <id>3852432</id>
+    <revision>
+      <id>70254359</id>
+      <parentid>70247180</parentid>
+      <timestamp>2018-10-12T14:28:32Z</timestamp>
+      <contributor>
+        <username>Charlesy</username>
+        <id>137799</id>
+      </contributor>
+      <comment>/* 構造 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3509" xml:space="preserve">{{No footnotes|date=2018-10-12}}
+'''サンプルインジェクター'''（{{lang-en-short|Sample injector}}、'''インジェクタ'''とも）は、[[高速液体クロマトグラフィー]] (HPLC) または同様の[[クロマトグラフィー]]装置において{{仮リンク|試料|en|Sample (material)|label=サンプル}}を注入するに当たって用いられる装置である。
+
+== 構造 ==
+HPLCインジェクションバルブはHPLCシステムのポンプとカラムの間に位置する。出回っているインジェクションバルブにいくつかの種類がある。これらは利用可能なポートの数（4から14）が異なっている。以下の情報は6ポートバルブである。この種類は1本のカラムを用いる試料注入において最も一般的である。
+
+=== 6ポートバルブ ===
+[[File:6portvalveknob.JPG|thumb|ノブ]]
+[[File:6portvalveback.JPG|thumb|6ポートバルブの背面]]
+
+この種類にはいくつかのモデルが存在する。注入ポートはノブ側またはポート側に位置する。
+
+少量の試料の場合はノブ側に注入口を持つモデルが好まれる。例えば、試料がループにより近く注入されるほど、損失は少なくなる。ノブを回すことで、インジェクタは「ロード」と「インジェクト」の2つの位置に切り替わる。
+
+ループはロードモードにおける試料の貯蔵場所であり、メスシリンダーとしての機能を有する。ループ内にある量のみがカラムへ送られ、余分な試料はウェイストポートから排出される。5 μLから5 mLの容量のループが利用可能であり、これらは交換可能である。
+
+前面から注入する種類の好例はレオダイン (Rheodyne) モデル7125である。背面から注入する種類の好例はレオダインモデル7010である。
+
+[[File:Exploded view.JPG|thumb|left|200px|レオダインモデル7125HPLCインジェクタの分解組立図]]
+
+== 操作 ==
+インジェクタがロード状態にあるとすると、ポンプとカラムは直接連結されている。溶離液は試料なしでカラムを通過する。そのうえ、試料ポートから排出ポートへはループを通して連結される。したがって、注入されている試料はこの間には留まっている。このため、試料の量が正確に決定できるようにループの容量（大抵は5から100 μL）を選ばなければならない。分析用途の場合は大抵、ループが常に試料溶液で満たされるように超過量が注入される（余分な量は排出ポートから出てくる）。
+
+試料が注入された後、インジェクタをインジェクトポジションにセットできる。インジェクタ内ではポンプとカラムの直接連結が切断され、ループを介した間接的連結が形成される。このようにして試料はカラムへ入り、クロマトグラフ分離過程が始まる。
+&lt;!--
+== 出典 ==
+{{reflist}}
+--&gt;
+== 参考文献 ==
+* Francis Rouessac en Annick Rouessac (2007), ''Chemical Analysis''
+* Rheodyne 7125 HPLC injector - manual
+
+== 外部リンク ==
+* [https://web.archive.org/web/20110205105523/http://weather.nmsu.edu/teaching_material/soil698/Student_Material/hplchp1090/hplcinj.htm HPLC injector]
+
+{{Chem-stub}}
+{{DEFAULTSORT:さんふるいんしえくたあ}}
+[[Category:クロマトグラフィー]]</text>
+      <sha1>ck5iz1vhdp8xqme6tkzvp7q61u1jo14</sha1>
+    </revision>
+  </page>
+  

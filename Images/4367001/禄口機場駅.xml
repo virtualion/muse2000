@@ -1,0 +1,109 @@
+<page>
+    <title>禄口機場駅</title>
+    <ns>0</ns>
+    <id>4367001</id>
+    <revision>
+      <id>94430660</id>
+      <parentid>94430384</parentid>
+      <timestamp>2023-03-22T09:59:06Z</timestamp>
+      <contributor>
+        <username>NIHONMETRO</username>
+        <id>1620234</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3696" xml:space="preserve">{{複数の問題
+| 出典の明記 = 2022年9月
+| ソートキー = 駅
+| 特筆性 = 2022年9月
+}}{{駅情報
+|社色=#4BBBB4
+|文字色=
+|駅名=禄口機場駅
+|画像= 201712 Entrance to Lukou International Airport Station.jpg
+|pxl=
+|画像説明= 駅入口
+|よみがな=ろくこうきじょう-えき
+|ローマ字=Lukou International Airport
+|前の駅= [[翔宇路南駅|翔宇路南]]
+|駅間A= 7.926
+|駅間B= 1.583
+|次の駅= [[空港新城江寧駅|空港新城江寧]]
+|所属事業者=[[南京地下鉄]]
+|所在地={{CHN}}[[南京市]][[江寧区]][[南京禄口国際空港]]第一タミナールと第二タミナールの間
+|座標=
+|所属路線={{color|#4BBBB4|■}}[[寧高城際軌道交通|S1号線(機場線)]]
+|キロ程= 34.734
+|起点駅=[[南京南駅]]
+|駅構造=[[地下駅]]
+|ホーム= 島式1面2線
+|開業年月日=[[2014年]][[7月1日]] 
+|乗車人員=
+|乗降人員=
+|統計年度=
+|備考=
+|地図 = {{Infobox mapframe|zoom=14|frame-width=300|type=point|marker=rail-metro}}
+}}
+{{中華圏の事物
+|簡体字=禄口机场站
+|繁体字=禄口機場站
+|ピン音=
+|カタカナ=
+|広東語= Luk6 Hau2 Gei1 Coeng4
+|漢音読み=
+|英文=Lukou International Airport
+}}
+'''禄口機場駅'''（ろくこうきじょう-えき）は[[中華人民共和国]][[南京市]][[江寧区]][[南京禄口国際空港]]第一タミナールと第二タミナールの間に位置する[[南京地下鉄]][[寧高城際軌道交通|S1号線(機場線)]]の駅。[[南京禄口国際空港]]のターミナルに直結している。
+== 駅名 ==
+駅名については、日本語の'''空港'''は中国語の'''機場'''を意味する。
+== 歴史 ==
+*2014年7月1日[[寧高城際軌道交通|S1号線]]の駅として開業。
+== 駅構造 ==
+[[ファイル:201712 Concourse of Lukou International Airport Station.jpg|thumb|改札口]]
+[[ファイル: 201712 Platform of Lukou International Airport Station.jpg|thumb|ホーム]]
+[[島式ホーム]]1面2線の地下2層構造の[[地下駅|駅]]である。
+{{駅構造|
+{{駅構造/駅舎|floor=地下1|label=コンコース|contents=改札口、自動券売機、サービスセンター、駅商店、駅警備室、セキュリティ}}
+{{駅構造/駅舎|floor=地下2|same-floor=1|track=1|label={{color|#00B2A9|●}}S1号線|contents=  [[南京南駅]] 行き&lt;small&gt;（[[翔宇路南駅|翔宇路南]]・[[正方中路駅|正方中路]]・[[翠屏山駅|翠屏山]] 方面）&lt;/small&gt;|arrow=L}}
+{{駅構造/島式/ホーム|same-floor=1|contents=[[島式ホーム]]、左側の扉が開く}}
+{{駅構造/駅舎||label={{color|#00B2A9|●}}S1号線|contents=  [[空港新城江寧駅|空港新城江寧]] 行き&lt;small&gt;（[[空港新城江寧駅|空港新城江寧]] 方面）&lt;/small&gt;|arrow=R}}
+}}   
+=== のりば ===
+{| class="wikitable"
+!番線&lt;!--事業者側による呼称--&gt;
+!路線
+!方面
+!行先
+|-
+!
+| rowspan="2" |[[南京地下鉄]][[寧高城際軌道交通|S1号線]]
+|[[翔宇路南駅|翔宇路南]]・[[正方中路駅|正方中路]]・[[翠屏山駅|翠屏山]] 方面
+|[[南京南駅]]行き
+|-
+!
+|[[空港新城江寧駅|空港新城江寧]] 方面
+|[[空港新城江寧駅|空港新城江寧]]行き
+|}
+=== 改札・出入口 ===
+*
+
+== 利用状況 ==
+== 駅周辺 ==
+*[[南京禄口国際空港]]
+== 隣の駅 ==
+; 南京地下鉄
+: {{color|#00B2A9|■}}S1号線
+:: [[翔宇路南駅]]- '''禄口機場駅''' - [[空港新城江寧駅]]
+== 脚注 ==
+{{Reflist}}
+== 外部リンク ==
+{{南京地下鉄S1号線}}
+{{DEFAULTSORT:ろくこうきしようえき}}
+[[Category:南京の交通]]
+[[Category:江蘇省の鉄道駅]]
+[[Category:江寧区]]
+[[Category:2014年開業の鉄道駅]]</text>
+      <sha1>o2amz4qa6jq1k4oejmoty31njz69cl3</sha1>
+    </revision>
+  </page>
+  

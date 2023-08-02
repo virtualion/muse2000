@@ -1,0 +1,86 @@
+<page>
+    <title>完全変態亜節</title>
+    <ns>0</ns>
+    <id>4641169</id>
+    <revision>
+      <id>93476545</id>
+      <parentid>91971215</parentid>
+      <timestamp>2023-01-20T00:41:09Z</timestamp>
+      <contributor>
+        <username>Ltsc2335</username>
+        <id>492827</id>
+      </contributor>
+      <comment>cat,cl</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3853" xml:space="preserve">{{生物分類表
+|省略 = 昆虫綱
+|名称 = 完全変態亜節
+|画像 =
+|画像キャプション = 
+|下綱=[[有翅下綱]] {{Sname||Pterygota}}
+|下綱階級なしlabel = [[節 (分類学)|節]]
+|下綱階級なし = [[新翅節]] {{Sname||Neoptera}}
+|準綱階級なし = [[新生類]] {{Sname||Eumetabola}}
+|小綱階級なしlabel = 亜節
+|小綱階級なし = '''完全変態亜節''' {{Sname||Endopterygota|Holometabola}}
+|和名 = 完全変態亜節&lt;ref name=理科年表&gt; 国立天文台 『理科年表 令和４年』 (2022) 918頁&lt;/ref&gt;&lt;ref name=岩波&gt;『岩波生物学辞典 第5版』(2013) pp.1599-1600 &lt;/ref&gt;
+}}
+'''完全変態亜節'''（かんぜんへんたいあせつ、Holometabola）または'''内翅類'''（ないしるい、Endopterygota）は、[[昆虫類]]のうち[[完全変態]]をする[[系統群]]である。完全変態は進化史上一度だけ獲得され、この分類群を特徴付ける形質となっている。幼虫はイモムシ状など成虫とは異なる姿であり、[[蛹]]を経て、[[成虫]]となる。
+
+== 系統 ==
+昆虫全体の系統における完全変態亜節の系統的位置については[[昆虫の分類#下位分類]]を参照。
+完全変態亜節内の系統は下図のとおり&lt;ref name=Kjer&gt;{{Cite journal |last1=Kjer |first1=Karl M. |last2=Simon |first2=Chris|author2-link=Chris Simon (biologist) |last3=Yavorskaya |first3=Margarita |last4=Beutel |first4=Rolf G. |date=2016 |title=Progress, pitfalls and parallel universes: a history of insect phylogenetics |journal=Journal of the Royal Society Interface |volume=13 |issue=121 |page=121 |doi=10.1098/rsif.2016.0363 |pmid=27558853 |name-list-style=amp |pmc=5014063 }}&lt;/ref&gt;。
+
+{{clade
+|label1='''完全変態亜節''' '''Holometabola''' |sublabel1=（内翅類 Endopterygota）
+|1={{clade
+   |1=[[ハチ目]] {{Sname||Hymenoptera}} [[File:European wasp white bg.jpg|70px]]
+   |2={{clade
+      |1={{clade
+         |label1=[[脈翅上目]] |sublabel1={{Sname||Neuropterida}}
+         |1={{clade
+            |1=[[ラクダムシ目]] {{Sname||Raphidioptera}} [[File:Raphidia icon.png|70px]]
+            |label2=
+            |2={{clade
+               |1=[[ヘビトンボ目]] {{Sname||Megaloptera}}  [[File:Corydalus cornutus illustration (rotated).png|70px]]
+               |2=[[アミメカゲロウ目]] {{Sname||Neuroptera}}  [[File:Osmylus_(white_background).jpg|70px]]
+               }}
+            }}
+         |label2=[[鞘翅上目]] |sublabel2={{Sname||Coleopterida}}
+         |2={{clade
+            |1=[[コウチュウ目]] {{Sname||Coleoptera}} [[File:Pseudacrossus przewalskyi (Reitter, 1887).jpg|50px]]
+            |2=[[ネジレバネ目]] {{Sname||Strepsiptera}} [[File:Elenchus koebelei.jpg|70px]]
+            }}
+         }}
+      |label2=[[長節上目]] |sublabel2={{Sname||Panorpida}}
+      |2={{clade
+         |label1=[[飾翅類]] |sublabel1={{Sname||Amphiesmenoptera}}
+         |1={{clade
+            |1=[[トビケラ目]] {{Sname||Trichoptera}} [[File:RHYACOPHILA DORSALIS Male Pont Forge de Sailly Watigny 02 MHNT.jpg|70px]] 
+            |2=[[チョウ目]] {{Sname||Lepidoptera}} [[File:Arctia villica SLU.JPG|70px]]
+            }}
+         |label2=注管類 |sublabel2=Antliophora
+         |2={{clade 
+            |1=[[ハエ目]] {{Sname||Diptera}} [[File:Common house fly, Musca domestica.jpg|70px]] 
+            |2={{clade
+               |1=[[シリアゲムシ目]] {{Sname||Mecoptera}}  [[File:Scorpionfly (white background).jpg|70px]]
+               |2=[[ノミ目]] {{Sname||Siphonaptera}} [[File:Pulex irritans female ZSM (white background).jpg|40px]]
+               }}
+            }}
+         }}
+      }}
+   }}
+}}
+
+== 出典 ==
+{{Reflist}}
+{{昆虫}}
+{{Taxonbar|from=Q304358}}
+{{Insect-stub}}
+{{DEFAULTSORT:かんせんへんたいあせつ}}
+[[Category:完全変態類|*]]</text>
+      <sha1>dn0f1md1tj0gm2904ld8sbvgazvvm0y</sha1>
+    </revision>
+  </page>
+  

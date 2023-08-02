@@ -1,0 +1,766 @@
+<page>
+    <title>木星の大気</title>
+    <ns>0</ns>
+    <id>2684971</id>
+    <revision>
+      <id>95269340</id>
+      <parentid>94304210</parentid>
+      <timestamp>2023-05-19T12:38:41Z</timestamp>
+      <contributor>
+        <username>キュアサマー</username>
+        <id>1695894</id>
+      </contributor>
+      <minor />
+      <comment>曖昧さ回避ページ[[ATM]]へのリンクを解消、リンク先を[[気圧#単位としての気圧]]に変更([[User:ネイ/DisamAssist|DisamAssist]]使用)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="89667" xml:space="preserve">[[ガス惑星]]である'''[[木星]]の[[大気圏|大気]]'''は、[[岩石惑星]]が持つ大気とは異なり、惑星本体と大気との間に明確な境界が存在しない。ただ、約1 [[気圧#単位としての気圧|atm]]になっている高度を木星の地表と定義した時、大気の厚さは約5千 kmに及ぶ。なお大気上層と宇宙との境界が明確でない点は他の大気を持つ太陽系の惑星と同様である。木星の大気は[[水素|水素分子]]を主成分としている。ただし大気は全球に渡って均一ではなく、宇宙から見ると帯状の構造や渦が見られ、さらに、雷のような気象現象も観測されている。しかしながら、これらの成因などは21世紀初頭においても完全には解明できずにいる。
+
+== 概要 ==
+[[File:Jupiter Belt System.svg|thumb|300px|2000年の木星の雲景]]
+[[File:RATTLING JET STREAM ON JUPITER.ogv|thumb|300px|木星のジェット]]
+
+ほとんどが[[水素]]分子と[[ヘリウム]]から構成され、大気における両者の比率は[[太陽]]とほぼ同じである。[[メタン]]、[[アンモニア]]、[[硫化水素]]、[[水]]等のその他の化学物質も少量存在する。水は大気の深くにあると考えられているが、直接測定される量は非常に少ない。[[酸素]]、[[窒素]]、[[硫黄]]、[[希ガス]]の量は、太陽より3倍程度多い。
+
+木星には[[地殻]]がなく、大気は明確な境界なく徐々に液体状の木星の内部に遷移していく&lt;ref name=Guillot1999/&gt;。下限から上限に向けて、大気の層は、[[対流圏]]、[[成層圏]]、[[熱圏]]、[[外気圏]]に分けられる。それぞれの層は、[[温度勾配]]によって特徴付けられる&lt;ref name=Sieff1998/&gt;。最下層の対流圏は、複雑な[[雲]]のシステムを持ち、アンモニア、[[硫化水素アンモニウム]]、水の層で構成される{{sfn|Atreya|Wong|2005}}。木星の地表から見える上層のアンモニアの雲は、[[赤道]]に平行な数十の帯状であり、''ジェット''として知られる赤道に平行な強い風によって区切られている。帯は色が異なり、暗い帯は''ベルト''、明るい帯は''ゾーン''と呼ばれる。ベルトよりも冷たいゾーンは[[上昇気流]]、ベルトは[[下降気流]]に相当する&lt;ref name=Ingersoll1/&gt;。ゾーンの明るい色は、アンモニアの氷のためであると考えられているが、ベルトの暗い色の原因は分かっていない&lt;ref name=Ingersoll1/&gt;。帯状構造とジェットの起源は良く分かっていないが、2つのモデルが提案されている。浅灘モデルでは、これらは、安定な惑星内部を覆う表面の現象であるとし、深層モデルでは、バンドやジェットは、水素分子から構成される木星の円筒状の[[マントル]]の深層循環が表面に表れているものであるとする&lt;ref name=1942Vasavada/&gt;。
+
+木星の大気は、[[低気圧]]や[[嵐]]、[[雷]]等の様々な活発な現象を見せる&lt;ref name=1974Vasavada/&gt;。低気圧や[[高気圧]]による渦巻きは、赤色、白色、茶色等の大きな楕円形の斑点を形成する。そのうち最大のものは、[[大赤斑]]&lt;ref name=1978bVasavada/&gt;と[[オーバルBA]]&lt;ref name=1980Vasavada/&gt;で、どちらも赤色である。これら2つやその他の大きな斑点のほとんどは、高気圧である。より小さな高気圧は、白色になる傾向がある。このような渦巻きは、深さ数100kmを超えない比較的浅い構造であると考えられている。南半球に位置する大赤斑は、太陽系で既知の最も大きな渦巻きである。地球をいくつか飲み込むほどの大きさであり、少なくとも300年は存在し続けてきた。大赤斑の南にあるオーバルBAは、大赤斑の3分の1程度の赤い斑点で、2つの白いオーバルが融合して2000年に形成された&lt;ref name=1976Vasavada/&gt;。
+
+木星には、常に雷を伴う強力な嵐が吹いている。この嵐は大気中の水分の対流と、水の蒸発と凝縮の結果である。大気が強く上昇する場所では、明るく濃い雲が形成される。嵐は、主にベルトの領域で発生する。木星の雷は、地球のものよりも強力であるが、回数は少なく、平均的な雷の活動レベルは、地球と同程度である&lt;ref name=1982Vasavada/&gt;。
+
+==垂直構造==
+[[ファイル:Structure of Jovian atmosphere.png|thumb|400px|
+木星の大気の垂直構造。圧力は緯度とともに小さくなる。ガリレオは、気圧1バールの木星の「表面」から132km下の深さで送信を停止した&lt;ref name=Sieff1998/&gt;。]]
+木星の大気は、4つの層に分類され、高度が高くなるにつれて、対流圏、成層圏、熱圏、外気圏となる。[[地球の大気]]とは異なり、木星には[[中間圏]]はない&lt;ref name=Ingersoll7/&gt;。木星には、固体の表面はなく、大気の最下層である対流圏は、惑星の液状の内部構造に滑らかに繋がっていく&lt;ref name=Guillot1999/&gt;。これは、温度や気圧が水素とヘリウムの[[臨界点]]よりも上であるためであり、気相と液相との間に明瞭な境界がないことを意味する。水素は、12[[バール (単位)|バール]]前後では、[[超臨界流体]]の状態になる&lt;ref name=Guillot1999&gt;[[#Guillot|Guillot (1999)]]&lt;/ref&gt;。
+
+大気の下限がはっきりしないため、気圧1バールの高さより90km程度下にあり気温が340Kである、気圧10バールの高度が一般的に対流圏の底として扱われている&lt;ref name=Sieff1998/&gt;。ただし科学においては、1バールの気圧が通常、高度0、つまり木星の「地表」として選ばれる&lt;ref name=Guillot1999/&gt;。地球と同様に、大気の最上層である外気圏の上限は曖昧である&lt;ref name=Yelle1&gt;[[#Yelle|Yelle (2004)]], p. 1&lt;/ref&gt;。密度は徐々に低下し、「地表」から約5,000km上空で、[[惑星間空間]]に滑らかに繋がる{{sfn|Miller Aylward et al.|2005|p=}}
+。
+
+木星の大気の垂直方向の温度変化は、地球の大気の温度変化と似ている。対流圏の温度は、高度とともに徐々に低下し、成層圏との境界である[[対流圏界面]]で最低となる&lt;ref name=Ingersoll4/&gt;。木星では、対流圏界面は雲の観測される1バールの高さよりも約50km高く、気圧は約0.1バール、気温は110Kである&lt;ref name=Sieff1998/&gt;&lt;ref name=Ingersoll3/&gt;。成層圏では、高度約320km、気圧1マイクロバールの熱圏との境界までに気温は約200Kまで上昇する&lt;ref name=Sieff1998&gt;[[#Sieff|Sieff ''et al.'' (1998)]]&lt;/ref&gt;。熱圏では、温度は上昇し続け、最終的には、高度1,000km、気圧1ナノバール程度の地点で、温度は1,000Kに達する&lt;ref name=Yelle3/&gt;。
+
+木星の対流圏には、複雑な雲のシステムが存在する{{sfn|Atreya Wong Baines et al.|2005}}。上層の雲は、気圧が0.6から0.9バールの高度にあり、アンモニアの氷でできている{{sfn|Atreya Wong Owen et al.|1999}}。このようなアンモニアの雲の下に、硫化水素アンモニウムや[[硫化アンモニウム]]（1-2気圧）、水（3-7気圧）でできたより濃い雲が存在すると考えられている&lt;ref name=West20&gt;[[#West|West ''et al.'' (2004)]], pp. 9-10, 20-23&lt;/ref&gt;&lt;ref name=1937Vasavada/&gt;。凝縮するには温度が高すぎるため、メタンの雲は存在しない{{sfn|Atreya Wong Baines et al.|2005}}。水の雲は最も密度の濃い層を形成し、大気の動きに最も強い影響を与えている。これは、アンモニアや[[硫化水素]]と比べて、水の高い[[蒸発熱]]と豊富さによる（酸素は、窒素や硫黄と比べてより豊富に存在している）&lt;ref name=Ingersoll7&gt;[[#Ingersoll|Ingersoll (2004)]], pp. 13-14&lt;/ref&gt;。対流圏（200-500ミリバール）や成層圏（10-100ミリバール）の様々なもやの層は、雲の層のさらに上にある&lt;ref name=West20/&gt;&lt;ref name=Ingersoll8&gt;[[#Ingersoll|Ingersoll (2004)]], p. 8&lt;/ref&gt;。後者は、凝縮した重い[[多環芳香族炭化水素]]や[[ヒドラジン]]で構成されており、成層圏上層（1-100マイクロバール）で、太陽の紫外線の影響を受けたメタンから生成される{{sfn|Atreya Wong Baines et al.|2005}}。成層圏におけるメタンの水素分子に対する存在量の比は、約10&lt;sup&gt;-4&lt;/sup&gt;であり{{sfn|Miller Aylward et al.|2005|p=}}、また[[エタン]]や[[アセチレン]]等のその他の軽い[[炭化水素]]の水素分子に対する存在量の比は、約10&lt;sup&gt;-6&lt;/sup&gt;である{{sfn|Miller Aylward et al.|2005|p=}}。
+
+木星の熱圏は、気圧が1マイクロバールより低く、[[大気光]]、[[オーロラ (代表的なトピック)|オーロラ]]、[[X線]]放射等が行われる領域である&lt;ref name=Yelle2&gt;[[#Yelle|Yelle (2004)]], pp. 1-12&lt;/ref&gt;。この層では、[[電子]]や[[イオン]]の密度が上昇し、[[電離層]]を形成する。モデルでは、400Kを超えないのに対し{{sfn|Miller Aylward et al.|2005|p=}}、熱圏の温度は全体的に800Kから1,000Kと高い。これについては完全に説明が付いていないが&lt;ref name=Yelle3&gt;[[#Yelle|Yelle (2004)]], pp. 15-16&lt;/ref&gt;、太陽からの高エネルギーの放射（紫外線、X線）を吸収していること、[[木星の磁気圏]]の荷電粒子からの加熱、上向きの[[重力波 (流体力学)|重力波]]の消失等が原因であると考えられている&lt;ref name=Yelle4&gt;[[#Yelle|Yelle (2004)]], pp. 22-27&lt;/ref&gt;。極付近と赤道付近の熱圏と外気圏は、X線を放出しており、これは1983年に[[HEAO-2]]によって初めて観測された{{sfn|Bhardwaj|Gladstone|2000|pp=299-302}}。木星の磁気圏からの高エネルギー粒子は、明るい楕円形のオーロラを形成し、極の周りを取り囲む。[[磁気嵐]]の間しか見えない地球のオーロラとは異なり、木星のオーロラは常に見られる{{sfn|Bhardwaj|Gladstone|2000|pp=299-302}}。木星の熱圏では、地球以外で初めて[[プロトン化水素分子]]が発見された{{sfn|Miller Aylward et al.|2005|p=}}。このイオンは、波長3-5μmの中赤外線領域に強い放射を出し、これが熱圏の主な冷却機構となっている&lt;ref name=Yelle2/&gt;。
+
+==化学組成==
+&lt;div style="float: right; margin-left: 1em; width: 25em;"&gt;
+{| class="wikitable" style="text-align: center; margin-right: 0; width: 100%;"
+|+ 水素と比較した元素の存在量 &lt;br /&gt; 木星と太陽{{sfn|Atreya Mahaffy Niemann et al.|2003}}
+|-
+| 元素||太陽||木星/太陽
+|-
+| [[ヘリウム|He]]/[[水素|H]] || 0.0975 || 0.807&amp;nbsp;±&amp;nbsp;0.02
+|-
+| [[ネオン|Ne]]/H || 1.23{{Esp|-4}} || 0.10&amp;nbsp;±&amp;nbsp;0.01
+|-
+| [[アルゴン|Ar]]/H || 3.62{{Esp|-6}} || 2.5&amp;nbsp;±&amp;nbsp;0.5
+|-
+| [[クリプトン|Kr]]/H || 1.61{{Esp|-9}} || 2.7&amp;nbsp;±&amp;nbsp;0.5
+|-
+| [[キセノン|Xe]]/H || 1.68{{Esp|-10}} || 2.6&amp;nbsp;±&amp;nbsp;0.5
+|-
+| [[炭素|C]]/H || 3.62{{Esp|-4}} || 2.9&amp;nbsp;±&amp;nbsp;0.5
+|-
+| [[窒素|N]]/H || 1.12{{Esp|-4}}
+| 3.6&amp;nbsp;±&amp;nbsp;0.5 (8&amp;nbsp;bar)
+3.2&amp;nbsp;±&amp;nbsp;1.4 (9-12&amp;nbsp;bar)
+|-
+| [[酸素|O]]/H || 8.51{{Esp|-4}}
+| 0.033&amp;nbsp;±&amp;nbsp;0.015 (12&amp;nbsp;bar)
+0.19-0.58 (19&amp;nbsp;bar)
+|-
+| [[リン|P]]/H || 3.73{{Esp|-7}} || 0.82
+|-
+| {[[硫黄|S]]/H || 1.62{{Esp|-5}} || 2.5&amp;nbsp;±&amp;nbsp;0.15
+|}
+{| class="wikitable" style="text-align: center; margin-right: 0; width: 100%;"
+|+ 木星と太陽の同位体存在比{{sfn|Atreya Mahaffy Niemann et al.|2003}}
+|-
+| 比 || 太陽 || 木星
+|-
+| [[炭素13|&lt;sup&gt;13&lt;/sup&gt;C]]/[[炭素12|&lt;sup&gt;12&lt;/sup&gt;C]] || 0.011|| 0.0108&amp;nbsp;±&amp;nbsp;0.0005
+|-
+| [[窒素15|&lt;sup&gt;15&lt;/sup&gt;N]]/[[窒素14|&lt;sup&gt;14&lt;/sup&gt;N]] || &lt;2.8{{Esp|-3}} || 2.3&amp;nbsp;±&amp;nbsp;0.3{{Esp|-3}}
+(0.08-2.8&amp;nbsp;bar)
+|-
+| [[アルゴン36|&lt;sup&gt;36&lt;/sup&gt;Ar]]/[[アルゴン38|&lt;sup&gt;38&lt;/sup&gt;Ar]] || 5.77&amp;nbsp;±&amp;nbsp;0.08|| 5.6&amp;nbsp;±&amp;nbsp;0.25
+|-
+| [[ネオン20|&lt;sup&gt;20&lt;/sup&gt;Ne]]/[[ネオン22|&lt;sup&gt;22&lt;/sup&gt;Ne]] || 13.81&amp;nbsp;±&amp;nbsp;0.08 || 13&amp;nbsp;±&amp;nbsp;2
+|-
+| [[ヘリウム3|&lt;sup&gt;3&lt;/sup&gt;He]]/[[ヘリウム4|&lt;sup&gt;4&lt;/sup&gt;He]] || 1.5&amp;nbsp;±&amp;nbsp;0.3{{Esp|-4}} || 1.66&amp;nbsp;±&amp;nbsp;0.05{{Esp|-4}}
+|-
+| [[重水素|D]]/[[水素|H]] || 3.0&amp;nbsp;±&amp;nbsp;0.17{{Esp|-5}} || 2.25&amp;nbsp;±&amp;nbsp;0.35{{Esp|-5}}
+|}
+&lt;/div&gt;
+木星の大気の化学組成は、木星全体の組成と似ている{{sfn|Atreya Mahaffy Niemann et al.|2003}}。[[ガリレオ (探査機)|ガリレオ]]が1995年12月7日に木星の大気圏に突入した際に、大気プローブで直接観測を行っているため、木星の大気は、全ての[[木星型惑星]]の大気の中で最も良く理解されている&lt;ref&gt;{{cite web|url=http://www.planet4589.org/space/jsr/back/news.267|title=Jonathan's Space Report, No. 267|first=Jonathan|last=McDowell|publisher=Harvard-Smithsonian Center for Astrophysics |date=1995-12-08|accessdate=2007-05-06}}&lt;/ref&gt;。木星の大気についてのその他の情報源には、地上の天文台{{sfn|Atreya Mahaffy Niemann et al.|2003}}や[[赤外線宇宙天文台]]、[[カッシーニ (探査機)|カッシーニ]]等がある&lt;ref name=Kunde2004&gt;[[#Kunde|Kunde ''et al.'' (2004)]]&lt;/ref&gt;。
+
+木星の大気の2つの主な構成成分は、水素分子とヘリウムである{{sfn|Atreya Mahaffy Niemann et al.|2003}}。ヘリウムの存在量は、水素分子と比べて分子数で0.157 ± 0.0036、質量で0.234 ± 0.005であり、原初太陽系の存在比よりも若干小さい{{sfn|Atreya Mahaffy Niemann et al.|2003}}。この理由は完全には理解されていないが、ヘリウムの一部が木星の核に凝縮したと考えられている{{sfn|Atreya Wong Owen et al.|1999}}。この凝縮は、ヘリウムの雨の形であったと考えられている。水素が10,000km以上の深さで[[金属水素]]の状態に変わると、ヘリウムはそこから分離して小滴を形成し、金属水素よりも濃縮されて核に沈み込む。[[ネオン]]はヘリウム小滴に容易に溶け込み、一緒に核に移行するため、木星大気にネオンが存在しないことも説明可能である&lt;ref name=Sanders2010&gt;{{cite web|last=Sanders|first=Robert|title=Helium rain on Jupiter explains lack of neon in atmosphere|url=http://newscenter.berkeley.edu/2010/03/22/helium_rain/|publisher=University of Berkeley|accessdate=24 July 2012|date=22 March 2010}}&lt;/ref&gt;。
+
+木星の大気には、水、メタン、硫化水素、アンモニア、[[ホスフィン]]等の様々な単純な化合物が含まれる{{sfn|Atreya Mahaffy Niemann et al.|2003}}。対流圏深く（10バール以下）の存在量は、木星の大気には炭素、窒素、硫黄、そして恐らく酸素{{ref label|B|b|none}}の存在量が、太陽と比べて2倍から4倍豊富であることを示唆している{{ref label|C|c|none}}{{sfn|Atreya Mahaffy Niemann et al.|2003}}。[[アルゴン]]、[[クリプトン]]、[[キセノン]]等の希ガスも太陽より多いと考えられるが、ネオンは少ない{{sfn|Atreya Mahaffy Niemann et al.|2003}}。[[アルシン]]や[[ゲルマン (化合物)|ゲルマン]]等の化合物の存在は、痕跡量である{{sfn|Atreya Mahaffy Niemann et al.|2003}}。木星の大気の上層には、メタンから形成されるエタン、アセチレン、[[ジアセチレン]]等の単純な炭化水素が少量含まれる。上層大気中の[[二酸化炭素]]、[[一酸化炭素]]、水の存在は、[[シューメーカー・レヴィ第9彗星]]のような衝突した[[彗星]]によってもたらされたと考えられている。冷たい対流圏界面が[[コールドトラップ]]として働くため、この水は、対流圏から上昇してきたものではあり得ない{{sfn|Atreya Mahaffy Niemann et al.|2003}}
+。
+
+地上の天文台や探査機による観測により、木星の大気の同位体存在比についてより詳しいことが分かった。2003年7月時点で、[[重水素]]の存在比について受け入れられた値は、2.25 ± 0.35 × 10&lt;sup&gt;-5&lt;/sup&gt;であり{{sfn|Atreya Mahaffy Niemann et al.|2003}}、恐らく太陽系を生み出した[[原始惑星状星雲]]の存在比を表していると考えられている{{sfn|Encrenaz|2003}}。[[窒素の同位体]]の存在比は[[窒素15]]/[[窒素14]]が2.3 × 10&lt;sup&gt;-3&lt;/sup&gt;で、地球の大気（3.5 × 10&lt;sup&gt;-3&lt;/sup&gt;）よりも3分の1程度小さい{{sfn|Atreya Mahaffy Niemann et al.|2003}}。[[太陽系の形成と進化]]のこれまでの理論では、[[地球型惑星]]の窒素の同位体存在比を太陽系原初のものとして考えていたため、後者の発見は特に重要である{{sfn|Encrenaz|2003}}。
+
+==ゾーン、ベルト、ジェット==
+[[ファイル:Map of Jupiter.jpg|thumb|left|カッシーニにより撮影されたこれまでで最も詳細な木星のマップ]]
+観測される木星の表面は、赤道に平行ないくつかの帯で分けられているように見える。帯には、明るい色のゾーンと比較的暗い色のベルトの2つの種類がある&lt;ref name=Ingersoll1&gt;[[#Ingersoll|Ingersoll (2004)]], pp. 2-5&lt;/ref&gt;。幅の広い赤道ゾーン(EZ)は、おおよそ南緯7°から北緯7°まで広がっている。EZの上下には、南北赤道ベルト(NEB,SEB)が、それぞれ南緯18°、北緯18°まで広がっている。さらに赤道から離れると、南北熱帯ゾーン(NtrZ,StrZ)がある&lt;ref name=Ingersoll1/&gt;。ベルトとゾーンの交互のパターンは、緯度約50°の極地方まで続く&lt;ref name="Rogers1"&gt;[[#Rogers|Rogers (1995)]], p. 81.&lt;/ref&gt;。ベルトとゾーンの基本的な構造は、恐らく極に向かって広がったものであり、少なくとも80°まで達したと考えられる&lt;ref name=Ingersoll1/&gt;。
+
+ゾーンとベルトの見かけの違いは、雲の不透明度の差に依っている。アンモニアの濃度はゾーンで高く、アンモニアの氷の濃い雲が高層に形成されて、明るい色に見える&lt;ref name=Ingersoll4/&gt;。一方、ベルトの雲は薄く、低い層にある&lt;ref name=Ingersoll4&gt;[[#Ingersoll|Ingersoll (2004)]], pp. 5-7&lt;/ref&gt;。対流圏高層の温度は、ゾーンで冷たく、ベルトで暖かい&lt;ref name=Ingersoll1/&gt;。木星のゾーンとベルトの色をこれほど鮮やかにしている化合物については、よく分かっていないが、硫黄、リン、炭素からなる複雑な化合物が含まれると考えられている&lt;ref name=Ingersoll1/&gt;。
+
+木星のバンドは、ジェットと呼ばれるゾーンを吹く風によって区切られる。東向き（逆行）のジェットはゾーンからベルトに遷移する過程で見られ、西向き（順行）のジェットはベルトからゾーンに遷移する過程で見られる&lt;ref name=Ingersoll1/&gt;。その速さは、赤道から極の方向に、ベルトでは遅くなり、ゾーンでは速くなる。そのため、ベルトの[[ウインド・シア]]はサイクロン、ゾーンでは高気圧となる&lt;ref name=1937Vasavada&gt;[[#Vasavada|Vasavada (2005)]], p. 1937&lt;/ref&gt;。EZはこの規則の例外であり、強い東向きのジェットの速度は、ちょうど赤道上で極小となる。ジェットの速度は、100m/s以上にも達する&lt;ref name=Ingersoll1/&gt;。この速度は、0.7から1バールに位置するアンモニアの雲の速度に相当する。逆行のジェットは、通常順行のジェットよりも強力である&lt;ref name=Ingersoll1/&gt;。ジェットの垂直の広がりは分かっていない。雲の上では、2から3[[スケールハイト]]低下し{{ref label|A|a|none}}、雲の下では風は少し強くなって、少なくとも22バールまで下がると一定になる。これは、ガリレオ探査機が運用されていた最大の深さである&lt;ref name=Ingersoll3&gt;[[#Ingersoll|Ingersoll (2004)]], p. 12&lt;/ref&gt;。
+
+[[ファイル:Wind speeds on Jupiter.png|thumb|left|木星のゾーンでの風の速度]]
+木星の帯状構造の起源は完全に分かっていないが、地球の[[ハドレー循環]]と同じ原理かもしれない。最も単純な解釈は、ゾーンでは上昇気流、ベルトでは下降気流が発生していると見ることである&lt;ref name=Ingersoll2&gt;[[#Ingersoll|Ingersoll (2004)]], p. 5&lt;/ref&gt;。大気にアンモニアが多く含まれると上昇し、膨張して冷え、高層に高密度の雲を形成する。ベルトでは大気は下降し、[[断熱過程]]で暖められ、白いアンモニアの雲は蒸発し、下層の暗い雲が露呈する。バンドの位置や幅、ジェットの位置や速度はかなり安定しており、1980年から2000年にかけてほんのわずかしか変化していない。変化の一例は北緯23°の北熱帯ゾーンと北温帯ベルトの境界の最も強い東向きのジェットの速度が低下したことである&lt;ref name=1942Vasavada&gt;[[#Vasavada|Vasavada (2005)]], p. 1942&lt;/ref&gt;&lt;ref name=Ingersoll2/&gt;。しかし、帯の色相や彩度は時間を経るごとに変化している。
+
+===特定の帯===
+[[ファイル:Jupiter cloud bands.svg|thumb|300px|木星の雲の帯。ゾーンの名前は右、ベルトの名前は左に示している。大赤斑とオーバルBAは、それぞれSTZとSTBに見える。]]
+木星の大気を分割するベルトとゾーンのそれぞれは、固有の名前と性質を持っている。極地域の下から始まり、おおよそ40°から48°まで広がっている。この青味がかった灰色の領域は、通常特徴がない&lt;ref name="Rogers1" /&gt;。
+
+北北温帯地域は、[[周辺減光]]、短縮遠近、光の拡散等のために、極地域と比べて詳細がはっきり見えない。とは言っても、北北温帯ベルト(NNTB)は、時々「消える」ことがあるが、最も北のはっきり区別できるベルトである。擾乱は通常小規模ですぐに終わる。北北温帯ゾーン(NNTZ)は、恐らくよりはっきりしているが、静穏である。この地域の他の小規模なベルトやゾーンも時々観測されることがある&lt;ref&gt;[[#Rogers|Rogers (1995)]], pp. 85, 91-4.&lt;/ref&gt;。
+
+北温帯地域は、地球から容易に観測できる緯度にあり、そのため素晴らしい観測記録が得られている&lt;ref name="Rogers2"&gt;[[#Rogers|Rogers (1995)]], pp. 101-105.&lt;/ref&gt;。また、最も強い逆行のジェットがあり、北温帯ベルト(NTB)の南の境界となっている&lt;ref name="Rogers2" /&gt;。NTBは、だいたい10年に1度消失し（ボイジャーが接近した時がそうだった）、北温帯ゾーン(NTZ)が北熱帯ゾーン(NTropZ)と融合したように見える&lt;ref name="Rogers2" /&gt;。その他の時は、NTZは狭いベルトによって、北と南に分けられている&lt;ref name="Rogers2" /&gt;。
+
+北熱帯地域は、NTropZと北赤道ベルト(NEB)から構成されている。NTropZは色相が安定しており、NEBの南のジェットの活動に合わせてわずかに変わるだけである。NTZと同様に、時々狭いバンドNTropBによって分けられることがある。また稀に、NTropZの中に小赤斑が現れることがある。名前が示すとおり、これは北半球で大赤斑に相当するものである。ただし大赤斑とは異なり、対で現れることが多く、常に短命で平均1年程度しか続かない。[[パイオニア10号]]の接近の際には、これが現れていた&lt;ref&gt;[[#Rogers|Rogers (1995)]], pp.113-117.&lt;/ref&gt;。
+
+NEBは、木星で最も活動的なベルトの1つである。高気圧の白い楕円とサイクロンの「バルジ」があり、前者はいつも後者より北にある。NTropZのように、これらの特徴の多くは比較的短命である。また、南赤道ベルト(SEB)と同様に、NEBは時々劇的に消失し、「復活する」。これらの変化のタイムスケールは、約25年である&lt;ref&gt;[[#Rogers|Rogers (1995)]], pp. 125-130.&lt;/ref&gt;。
+
+[[ファイル:PIA02863 - Jupiter surface motion animation.gif|thumb|500px|木星のゾーン、ベルトと渦。広い赤道ゾーン(EZ)が中央に見え、両端を暗い赤道ベルト(SEB, NEB)に囲まれている。不規則な形の大きな灰青色の「ホットスポット」が、白いEZの北端に見え、東向きに移動している。大赤斑はSEBの南にある。北半球のオーバルの周りでは小さな嵐が回転している。ランダムに表れる小さく非常に明るいものは恐らく雷嵐である。赤道に見える最も小さな構造は、直径約600kmである。この14フレームのアニメーションは、24木星日、即ち約10地球日を表している。時間経過は60万倍になっている。]]
+赤道地域(EZ)は、最も安定な地域の1つである。EZの北端には壮大な噴煙がある。NEBから南西方向に尾を引いており、フェストーンとして知られる暗く暖かい大気で囲まれている&lt;ref name=1987Vasavada/&gt;。EZの南端は通常不活発であるが、19世紀末から20世紀初頭の観測は、このパターンが今日と比べて逆であったことを示している。EZの色相は、青白色から黄土色、銅色までかなり変化し、また赤道バンド(EB)によって分割されることがある&lt;ref&gt;[[#Rogers|Rogers (1995)]], pp. 133, 145-147.&lt;/ref&gt;。EZの特徴的な構造は、他の緯度と比較しておよそ390km/hの速度で移動している&lt;ref&gt;[[#Rogers|Rogers (1995)]], p. 133.&lt;/ref&gt;&lt;ref&gt;[[#Beebe|Beebe (1997)]], p. 24.&lt;/ref&gt;。
+
+南熱帯地域には、南赤道ベルト(SEB)と南熱帯ゾーンが含まれる。惑星で最も活動的な地域であり、最も強い逆行のジェットが吹いている。SEBは通常最も広く最も暗いベルトであるが、ゾーン(SEBZ)で分割されることもあり、3年から15年ごとに消滅、復活を繰り返している。ベルトの消失後、数週間から数ヶ月で白いスポットが形成され、暗茶色の物質を噴き出し、それは木星の風によって広がり、新しいベルトとなる。このベルトの最新のものは、2010年5月に消滅した&lt;ref&gt;{{cite web|title=Jupiter, It Is A-Changing|author=Nancy Atkinson|publisher=Universe Today|url=http://www.universetoday.com/2010/05/13/jupiter-it-is-a-changing/|year=2010|accessdate=2010-12-24}}&lt;/ref&gt;。SEBのその他の特徴は、大赤斑から続く低気圧による擾乱の長い列である。NTropZと同様に、STropZは最も目立つゾーンの1つであり、大赤斑を含むだけではなく、南熱帯擾乱(STropD)によって分割されることがある。南熱帯擾乱は非常に長持ちし、最も有名なものは、1901年から1939年まで続いた&lt;ref&gt;[[#Rogers|Rogers (1995)]], pp. 159-160&lt;/ref&gt;。
+
+南温帯地域または南温帯ベルト(STB)は、もう一つの暗く目立つベルトであり、2000年3月まではNTB以上であった。最も有名な特徴は、長命の白いオーバルBC、DE、FAを持つことであり、これらは融合してオーバルBA（レッドジュニア）となった。オーバルは実際は南温帯ゾーンの一部であるが、STBの中まで及んできた&lt;ref name=Ingersoll1/&gt;。STBは、恐らくオーバルと大赤斑の複雑な相互作用のために、時々消滅することがある。オーバルが生まれた南温帯ゾーン(STZ)の見かけは、かなり変化する&lt;ref&gt;[[#Rogers|Rogers (1995)]], pp. 219-221, 223, 228-229.&lt;/ref&gt;。
+
+木星には、一時的なものや地球から観測しにくい多くの特徴的な構造がある。南南温帯地域は、NNTRよりも識別が難しく、その詳細は捕らえにくく、大きな望遠鏡や探査機でなければ観測できない&lt;ref&gt;[[#Rogers|Rogers (1995)]], p. 235.&lt;/ref&gt;。多くのゾーンやベルトは遷移的なもので、常に見えるものではない。この中には、赤道バンド(EB)&lt;ref name=Rogers2003&gt;[[#Rogers2003|Rogers ''et al.'' (2003)]]&lt;/ref&gt;、北赤道ベルトゾーン(NEBZ)、南赤道ベルトゾーン(SEBZ)&lt;ref name=Rogers2001&gt;[[#Rogers2001|Rogers and Metig (2001)]]&lt;/ref&gt;等がある。またベルトは、突然の擾乱で一時的に分裂することがある。擾乱が通常は1つのベルトやゾーンを分割すると、例えばNEB(N)やNEB(S)のように、それらを区別して表すために、(N)または(S)の符号が加えられる&lt;ref&gt;[[#Ridpath|Ridpath (1998)]]&lt;/ref&gt;。
+
+==ダイナミクス==
+{{multiple image|direction=horizontal|align=right|image1=Jupiter on 2009-07-23 (captured by the Hubble Space Telescope).jpg|image2=Jupiter on 2010-06-07 (captured by the Hubble Space Telescope).jpg|width=200|caption1=&lt;center&gt;2009年&lt;/center&gt; |caption2=&lt;center&gt;2010年&lt;/center&gt; &lt;!--initial images for this came from Hubble WFC3--&gt;}}
+木星の大気の循環は、地球の大気の循環とはかなり異なっている。木星の内部は液体であり、固体の表面を持たない。そのため、惑星の外層全体で対流が起こる。2008年現在で、木星の大気のダイナミクスに関する包括理論は未だできていない。そのような理論は、以下の事実を説明できることが必要である：木星の赤道を中心に対称で狭く安定なバンドやジェットの存在、赤道の強い順行ジェット、ゾーンとベルトの差異、大赤斑のような巨大な渦の起源と持続&lt;ref name=1942-1974Vasavada&gt;[[#Vasavada|Vasavada (2005)]], p. 1942-1974&lt;/ref&gt;。
+
+木星の大気のダイナミクスに関する理論は、浅灘モデルと深層モデルの大きく2つに分類される。前者は、観測される循環は、安定した内部を覆う惑星の薄い外層に限定されると考えるもので、後者は、観測される大気の流れは、惑星の深層の根源的な循環が表層に表れたものに過ぎないと考えるものである&lt;ref name=1943Vasavada&gt;[[#Vasavada|Vasavada (2005)]], pp. 1943-1945&lt;/ref&gt;。どちらの理論も長所と短所があり、多くの惑星科学者は、真の理論は両モデルの要素を含むものであると考えている&lt;ref name=Heimpel2005&gt;[[#Hiempel2005|Hiempel ''et al.'' (2005)]]&lt;/ref&gt;。
+
+===浅灘モデル===
+木星の大気のダイナミクスを説明しようとする最初の試みは、1960年代に遡る&lt;ref name=1943Vasavada/&gt;&lt;ref name=Ingersoll1969&gt;See, e. g., [[#Ingersoll1969|Ingersoll ''et al.'' (1969)]]&lt;/ref&gt;。それは、当時から発展していた地球の[[気象学]]に部分的に基づくものであった。この浅灘モデルでは、ジェットは小規模の[[乱流]]によって発生し、その後は水の雲より上層の水蒸気の対流によって維持されると推定する&lt;ref name=1947Vasavada/&gt;&lt;ref name=Ingersoll5&gt;[[#Ingersoll|Ingersoll (2004)]], pp. 16-17&lt;/ref&gt;。水蒸気の対流は、水の蒸発と凝結に関連する現象で、地球の気象の主な原因の1つでもある&lt;ref name=Ingersoll6&gt;[[#Ingersoll|Ingersoll (2004)]], pp. 14-15&lt;/ref&gt;。このモデルでのジェットの発生は、いわゆる逆カスケードと呼ばれる、小さな乱流が融合して大きくなるという、二次元的な乱流のよく知られた性質に関係する&lt;ref name=1947Vasavada&gt;[[#Vasavada|Vasavada (2005)]], pp. 1947-1958&lt;/ref&gt;。惑星の有限な大きさは、このカスケードによりある特定の大きさ以上の構造は生まれないことを意味する。木星ではこの大きさは、リネススケールと呼ばれ、[[ロスビー波]]の生成と関連する。この過程は、次のようになる。最大の乱流構造がある大きさに達すると、エネルギーが大きな構造の代わりにロスビー波に流れ始め、逆カスケードが停止する&lt;ref name=1949Vasavada&gt;[[#Vasavada|Vasavada (2005)]], p. 1949&lt;/ref&gt;。球状で高速自転する惑星では、ロスビー波の[[分散関係]]は[[等方的と異方的|異方的]]で、赤道と平行な方向のリネススケールは、それに垂直な方向よりも大きい&lt;ref name=1949Vasavada/&gt;。上述の過程の最終的な結果は、赤道に平行な大規模で細長い構造の生成である。それらの経度方向の広がりは、実際のジェットの幅と合致する&lt;ref name=1947Vasavada/&gt;。そのため、浅灘モデルでは、渦はジェットに飲み込まれ、融合して消失する。
+
+このようなモデルでは、幅の狭いジェットがいくつも存在することを説明できるが&lt;ref name=1947Vasavada/&gt;、深刻な問題も抱える。このモデルの目に付く欠点は、順行の赤道ジェットについてである。稀な例外はあるが、浅灘モデルは、観測とは矛盾する強い逆光ジェットを予測する。さらに、実際のジェットは不安定で、時間を経ると消失することもある&lt;ref name=1947Vasavada/&gt;。浅灘モデルは、観測される大気の流れがどのようにして安定基準を破るのかを説明できない&lt;ref name=1945Vasavada&gt;[[#Vasavada|Vasavada (2005)]], pp. 1945-1947&lt;/ref&gt;。さらに複雑な多層の浅灘モデルでは、循環はさらに安定になるが、多くの問題は残ったままである&lt;ref name=1962Vasavada&gt;[[#Vasavada|Vasavada (2005)]], pp. 1962-1966&lt;/ref&gt;。ガリレオは、木星の風は水の氷の下、気圧5から7バールのところでも吹いていることを観測したが、これは木星の大気の循環が実はかなり深いことを示唆しているのかもしれない&lt;ref name=Ingersoll3/&gt;。
+
+===深層モデル===
+深層モデルは、1976年にBusseによって初めて提唱された&lt;ref name=1966Vasavada&gt;[[#Vasavada|Vasavada (2005)]], p. 1966&lt;/ref&gt;&lt;ref name=Busse1976&gt;[[#Busse|Busse (1976)]]&lt;/ref&gt;。彼のモデルは、[[流体力学]]における[[テイラー＝プラウドマン理論]]に基づいている。高速自転する理想的な[[順圧]]流体では、流れは回転軸に平行な一連の円筒として組織される。理論の条件は、恐らく木星内部の流体と合致している。そのため、恐らく木星の水素マントルは多数の円筒に分かれており、それぞれの円筒内で独立した循環が行われている&lt;ref name=1966-1Vasavada&gt;[[#Vasavada|Vasavada (2005)]], pp. 1966-1972&lt;/ref&gt;。円筒の外側と内側の境界の緯度は、表面のジェットと対応し、円筒自体はゾーン及びベルトと対応する。
+
+[[ファイル:Thermal emission of Jupiter.jpg|thumb|木星の熱画像]]
+深層モデルを用いれば、赤道上で観測される強い順行ジェットの存在が容易に説明できる&lt;ref name=1966-1Vasavada/&gt;。しかし、このモデルにも大きな問題点がある。このモデルでは、幅の広いごく少数のジェットしか生み出されず、2008年現在では、現実にあった三次元のシミュレーションが不可能である。これは、深層循環を正当化するためのモデルの単純化が木星内の流体ダイナミクスの重要な面を捕らえ切れていないことを意味する&lt;ref name=1966-1Vasavada/&gt;。2004年に発表されたあるモデルでは、木星のバンドとジェットの構造を再現することに成功した&lt;ref name=Heimpel2005/&gt;。このモデルでは、水素分子のマントルを他のモデルよりも薄く、[[木星半径]]の外側のわずか10%と仮定した。木星内部の標準モデルでは、マントルは外側の20%から30%を占めると仮定される&lt;ref name=1970Vasavada&gt;[[#Vasavada|Vasavada (2005)]], p. 1970&lt;/ref&gt;。深層循環の駆動はもう1つの問題である。実際に、深層流は、浅い部分の力（例えば水蒸気の対流）と、木星内部の熱を外に運ぶ惑星規模の対流のどちらにも由来しうる&lt;ref name=1947Vasavada/&gt;。このどちらの機構がより重要であるかは明らかになっていない。
+
+===内部の熱===
+1966年から知られていたことであるが&lt;ref name=Low&gt;[[#Low|Low (1966)]]&lt;/ref&gt;、木星は、太陽から受けるよりも多くの熱を放射している。木星から放出される熱と太陽から受ける熱の比は、1.67 ± 0.09と推定されている。木星の内部の[[熱流束]]は5.44 ± 0.43 W/m&lt;sup&gt;2&lt;/sup&gt;であるのに対し、合計の放射熱は335 ± 26ペタワットである。後者の値は、太陽から放射される熱の約10億分の1に相当する。この過剰な熱は、主に木星の形成の初期段階の熱であるが、一部はヘリウムの核への降下による熱である可能性がある{{sfn|Pearl Conrath et al.|1990|pp=12, 26}}。
+
+内部の熱は、木星の大気のダイナミクスに重要な役割を果たしている可能性がある。木星の傾斜度は約3°と小さく、極は赤道よりも太陽から受ける放射が少ないが、対流圏の気温は赤道から極までかなり均一である。この説明の1つは、木星の内部の対流が[[サーモスタット]]のように働き、赤道地域よりも極地域で多くの熱を放出しているとするものである。熱は、地球では大気の循環により赤道から極まで運ばれるが、木星では深層対流によって[[熱力学的平衡]]に達する。木星内部の対流は、主に内部の熱により駆動されると考えられている&lt;ref name=Ingersoll9&gt;[[#Ingersoll|Ingersoll (2004)]], pp. 11, 17-18&lt;/ref&gt;。
+
+==個々の特徴==
+===渦===
+木星の大気には、数百の渦が存在し、地球の大気と同様に低気圧と高気圧の2種類に分けることができる&lt;ref name=1974Vasavada&gt;[[#Vasavada|Vasavada (2005)]], p. 1974&lt;/ref&gt;。低気圧は惑星の自転と同方向（北半球では反時計回り）に回転し、高気圧は反対方向に回転する。地球の大気との主な違いは、木星の大気では、低気圧と比べて高気圧が圧倒的に多く、直径2,000kmを超える渦の90%以上が高気圧だということである&lt;ref name=1978Vasavada&gt;[[#Vasavada|Vasavada (2005)]], p. 1978&lt;/ref&gt;。渦の寿命は、その大きさに依り、数日間から数百年間まで様々である。例えば、直径1,000kmから6,000kmの高気圧の平均的な寿命は、1年から3年である&lt;ref name=1977Vasavada&gt;[[#Vasavada|Vasavada (2005)]], p. 1977&lt;/ref&gt;。木星の赤道地域（緯度10°以内）では、渦が観測されたことはない&lt;ref name=1976Vasavada&gt;[[#Vasavada|Vasavada (2005)]], p. 1976&lt;/ref&gt;。木星は高速で自転しているため、木星の高気圧の中心の気圧は高く、低気圧では低い&lt;ref name=1987Vasavada&gt;[[#Vasavada|Vasavada (2005)]], pp. 1987-1989&lt;/ref&gt;。
+
+[[ファイル:NH Jupiter IR (contrast enhanced).jpg|thumb|left|[[ニュー・ホライズンズ]]による木星の大気の赤外線画像]]
+木星の高気圧は、常に、赤道から極の方向に風の速度が増加するゾーン内で見られる&lt;ref name=1977Vasavada/&gt;。通常は明るく、白い楕円に見える&lt;ref name=1974Vasavada/&gt;。経度方向に動きうるが、ゾーンからは抜け出せないため、緯度はほぼ一定である&lt;ref name=1976Vasavada/&gt;。高気圧周辺の風の速度は、約100m/sである&lt;ref name=1980Vasavada/&gt;。同じゾーンに発生した複数の高気圧は、近づくとしばしば融合する&lt;ref&gt;[[#Vasavada|Vasavada (2005)]], p. 1975&lt;/ref&gt;。しかし、木星は、他とは区別される2つの高気圧を持つ。それは、大赤斑&lt;ref name=1978bVasavada&gt;[[#Vasavada|Vasavada (2005)]], pp. 1978-1980&lt;/ref&gt;とオーバルBA&lt;ref name=1980Vasavada&gt;[[#Vasavada|Vasavada (2005)]], pp. 1980-1982&lt;/ref&gt;であり、後者は2000年に形成されたばかりである。白いオーバルとは異なり、この2つは、恐らく深層から赤い物質を掘り出しているために赤く見える&lt;ref name=1978bVasavada/&gt;。木星では、高気圧は通常、対流嵐等の小さな構造を融合して形成されるが&lt;ref name=1977Vasavada/&gt;、大きなオーバルは、ジェットの不安定性の結果としても形成される。後者は1938年から1940年に、南温帯ゾーンが不安定になった結果として白いオーバルが形成されたのが観測され、後にこれが融合してオーバルBAを形成した&lt;ref name=1980Vasavada/&gt;&lt;ref name=1977Vasavada/&gt;。
+
+高気圧とは対照的に、木星の低気圧は小さく、暗く、不規則な構造であることが多い。より暗く規則的な形のものは、バルジとして知られる&lt;ref name=1978Vasavada/&gt;。小規模な低気圧に加え、木星にはいくつかの巨大で不規則なフィラメント状の低気圧と同様の回転をする構造もある&lt;ref name=1974Vasavada/&gt;。その1つが、南赤道ベルト内の大赤斑の西（波紋領域）に位置し&lt;ref name=1979Vasavada&gt;[[#Vasavada|Vasavada (2005)]], p. 1979&lt;/ref&gt;、これらは低気圧地域(CR)と呼ばれる。低気圧は常にベルト内に存在し、互いに接近すると、高気圧と同様に融合する&lt;ref name=1977Vasavada/&gt;。
+
+渦の深層構造については完全に明らかになっていない。これらは500kmを超える厚さになると不安定になるため、比較的薄いと考えられている。大きな高気圧は、観測可能な雲からわずか数10km上空にまでしか広がっていないことが知られている。渦は深層の対流プリュームであるとする初期の説は、2008年現在、惑星科学者の大半には受け入れられていない&lt;ref name=1976Vasavada/&gt;。
+
+====大赤斑====
+{{main|大赤斑}}
+大赤斑は、南緯22°の地点にある永続性の[[高気圧嵐]]である。2012年現在で、地上での観測から、発生してから最低でも182年、恐らくは347年になる&lt;ref&gt;{{cite web
+ |author       = Staff
+ |year         = 2007
+ |url          = http://www.space.com/scienceastronomy/solarsystem/jupiter-ez.html
+ |title        = Jupiter Data Sheet&amp;nbsp;- SPACE.com
+ |publisher    = Imaginova
+ |accessdate   = 2008-06-03
+ |archiveurl   = https://web.archive.org/web/20080511205433/http://www.space.com/scienceastronomy/solarsystem/jupiter-ez.html
+ |archivedate  = 2008年5月11日
+ |deadurl      = no
+ |deadlinkdate = 2017年10月
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+ |author       = Anonymous
+ |date         = August 10, 2000
+ |url          = http://csep10.phys.utk.edu/astr161/lect/jupiter/redspot.html
+ |title        = The Solar System&amp;nbsp;- The Planet Jupiter&amp;nbsp;- The Great Red Spot
+ |publisher    = Dept. Physics &amp; Astronomy&amp;nbsp;- University of Tennessee
+ |accessdate   = 2008-06-03
+ |archiveurl   = https://web.archive.org/web/20080607102754/http://csep10.phys.utk.edu/astr161/lect/jupiter/redspot.html
+ |archivedate  = 2008年6月7日
+ |deadurl      = no
+ |deadlinkdate = 2017年10月
+}}&lt;/ref&gt;。この嵐は地球上の望遠鏡でも観測できるほど大きく、[[ハインリッヒ・シュワーベ]]によって1831年に初めて記述されたが、恐らくはもっと早く、1665年から1713年の間に[[ジョヴァンニ・カッシーニ]]によって観測されている。1878年にCarr Walter Pritchettが開始して以来、継続的に観測、描写されている&lt;ref&gt;[http://www.britannica.com/EBchecked/topic/243638/Great-Red-Spot Great Red Spot Article Free Pass]&lt;/ref&gt;。
+
+[[ファイル:GRS in far infrared.jpg|thumb|[[超大型望遠鏡VLT]]によって撮影された大赤斑（上）とオーバルBA（右下）の赤外線画像。下はハッブル宇宙望遠鏡による画像。]]
+大赤斑は、約6地球日（14木星日）の周期で反時計回りに回転している&lt;ref&gt;[[#Smith|Smith ''et al.'' (1979)]], p. 954.&lt;/ref&gt;。直径は東西方向に24-40,000km、南北方向に12-14,000kmであり、地球が2、3個入る大きさである。2004年初め、大赤斑の経度方向の幅は、1世紀前の40,000kmと比べて約半分になった。現在の減少速度からすると、2040年までには円に近くなるはずだが、近隣のジェットによる歪み効果のため、円になることはないと考えられている&lt;ref name=Irwin171&gt;[[#Irwin2003|Irwin]], 2003, p. 171&lt;/ref&gt;。大赤斑がいつまで続くかや、大赤斑の形の変化が通常の変動の結果であるのかは分かっていない&lt;ref&gt;[[#Beatty|Beatty (2002)]]&lt;/ref&gt;。
+
+[[カリフォルニア大学バークレー校]]で1996年から2006年まで行われた観測によると、この間に大赤斑の直径は、その長軸に沿って約15%小さくなった。研究チームの一員であったXylar Asay-Davisはこの研究を総括し、大赤斑は消失しないと述べた&lt;ref&gt;{{cite web|last = Britt|first = Robert Roy|title = Jupiter's Great Red Spot Is Shrinking|publisher = Space.com|date = 2009-03-09|url = http://www.space.com/scienceastronomy/090309-mm-jupiter-great-red-spot.html|accessdate = 2009-02-04|archiveurl = https://web.archive.org/web/20090311235511/http://www.space.com/scienceastronomy/090309-mm-jupiter-great-red-spot.html|archivedate = 2009年3月11日|deadurl = no|deadlinkdate = 2017年10月}}&lt;/ref&gt;。
+
+赤外線データによって、大赤斑は周りの雲よりも冷たく、高い高度にあることが示唆された&lt;ref&gt;[[#Rogers|Rogers (1995)]], p. 191.&lt;/ref&gt;。大赤斑の雲頂は、周りの雲よりも約8km上にあると考えられている。さらに、大気の追跡により、大赤斑の反時計回りの回転は1966年まで遡り、ボイジャーのフライバイの際の映像より確認された&lt;ref&gt;[[#Rogers|Rogers (1995)]], pp. 194-196.&lt;/ref&gt;。大赤斑は、空間的には、南端を東向きの穏やかなジェット、北端を西向きの非常に強力なジェットに囲まれている&lt;ref&gt;[[#Beebe|Beebe (1997)]], p. 35.&lt;/ref&gt;。周りのジェットの速度は約432km/hにもなるものの、内部にはほとんど流れはない&lt;ref&gt;[[#Rogers|Rogers (1995)]], p. 195.&lt;/ref&gt;。大赤斑の回転周期は、恐らく大きさの減少に伴って、時間を経る毎に減少している&lt;ref&gt;{{cite web|last=Rogers|first=John|date =July 30, 2006|url=http://www.britastro.org/jupiter/2006report09.htm|title=Interim reports on STB (Oval BA passing GRS), STropB, GRS (internal rotation measured), EZ(S. Eq. Disturbance; dramatic darkening; NEB interactions), &amp; NNTB|publisher=British Astronomical Association|accessdate=2007-06-15}}&lt;/ref&gt;。2010年、これまでにない解像度で遠赤外線写真が撮影され、中央の最も赤い領域は周囲よりも3から4K暖かいことが発見された。暖かい気団は、気圧200から500ミリバールの範囲の対流圏上層に位置する。この暖かい中心領域は、恐らくは空気の弱い沈降のため、ゆっくりと時計回りに回転している&lt;ref name=Fletcher2010&gt;[[#Flecther2010|Fletcher (2010)]], p.306&lt;/ref&gt;。
+
+[[ファイル:Jupiter, Earth size comparison.jpg|thumb|left|
+地球と2000年12月29日の大赤斑のおおよその大きさの比較]]
+大赤斑の緯度は、観測記録が残っている期間を通じて安定しており、約1°しか変化していない。しかし、経度は常に変化している&lt;ref&gt;[[#Reese|Reese and Gordon (1966)]]&lt;/ref&gt;&lt;ref&gt;[[#Rogers|Rogers (1995)]], 192-193.&lt;/ref&gt;。木星は均一に自転していないため、天文学者は経度を定めるため、3つの異なる系を定義した。系IIは、緯度10°を超える部分で使われ、9h 55m 42sの大赤斑の平均回転速度を元にしたものである&lt;ref&gt;[[#Stone|Stone (1974)]]&lt;/ref&gt;&lt;ref&gt;[[#Rogers|Rogers (1995)]], pp. 48, 193.&lt;/ref&gt;。これに関わらず、大赤斑は19世紀初頭から、少なくとも惑星を10周している。この速度は年によって大きく異なり、南赤道ベルトの明るさ及び南熱帯擾乱の有無と関連している&lt;ref&gt;[[#Rogers|Rogers (1995)]], p. 193.&lt;/ref&gt;。
+
+大赤斑の赤色の起源については、正確に分かっていない。実験室内での実験によって指示される理論によると、この色は複雑な有機分子、[[赤リン]]、その他の硫黄化合物によるものであると説明される。大赤斑の色相は、れんが色から淡いサーモン色までかなり変化する。最も赤い中心領域は、周りよりも若干暖かく、これは大赤斑の色が環境因子に影響されることの初めての証拠となった&lt;ref name=Fletcher2010/&gt;。大赤斑は、可視光領域で見えなくなることもあり、南赤道ベルト(SEB)に空いた隙間、赤斑孔となる。大赤斑の可視性はSEBの色相と関連しているように見え、ベルトが明るい白色の時は大赤斑は暗くなり、ベルトが暗い時は大赤斑は明るくなる傾向がある。大赤斑の明暗が変化する周期は不規則であり、1997年までの50年間で、1961年から1966年、1968年から1975年、1989年から1990年、1992年から1993年の期間に最も暗くなった&lt;ref name="Beebe1"&gt;[[#Beebe|Beebe (1997)]], pp. 38-41.&lt;/ref&gt;。
+
+大赤斑と似たものに、2000年にカッシーニによって木星の北極付近に観測された大暗斑がある&lt;ref&gt;{{cite news|first=Tony|last=Phillips|title=The Great Dark Spot|publisher=Science at NASA|date=March 12, 2003|url=http://science.nasa.gov/headlines/y2003/12mar_darkspot.htm|accessdate=2007-06-20|archiveurl=https://web.archive.org/web/20070615100054/http://science.nasa.gov/headlines/y2003/12mar_darkspot.htm|archivedate=2007年6月15日|deadurl=no|deadlinkdate=2017年10月}}&lt;/ref&gt;。また[[海王星の大気]]の中にも[[大暗斑]]と呼ばれる構造がある。後者は1989年に[[ボイジャー2号]]によって撮影され、嵐というよりは大気の穴であると考えられている。1994年には存在しなくなったが、似たような小さな穴がより北側に表れた&lt;ref&gt;[[#Hammel|Hammel ''et al.'' (1995)]], p. 1740&lt;/ref&gt;。
+
+====オーバルBA====
+[[ファイル:Redjunior.jpg|thumb|オーバルBA（左）]]
+オーバルBAは、木星の南半球に現れた大赤斑と同様のより小さな赤い嵐に与えられた公式の名称である。レッドジュニアや中赤斑等とも呼ばれることもある。南温帯ベルトに存在するオーバルBAは、2000年に3つの小さな白い嵐が衝突し、勢力が強まって形成された&lt;ref name="Sanchez-Lavega 2001"&gt;[[#Sanchez2001|Sanchez-Lavega ''et al.'' (2001)]]&lt;/ref&gt;。
+
+後に融合してオーバルBAとなる3つの白い嵐の形成は、南温帯ゾーンが暗い領域によって3つの長い部分に引き裂かれた1939年まで遡ることができる。木星観測者のElmer J. Reeseは、暗い領域をAB、CD、EFと名付けた。この裂け目は拡張し、STZの残りの部分を収縮させて、白いオーバルFA、BC、DEが形成された。オーバルBCとDEは1998年に融合してオーバルBEとなり&lt;ref&gt;[[#Rogers|Rogers (1995)]], p. 223.&lt;/ref&gt;、その後、2000年3月にオーバルBEとFAが融合してオーバルBAが形成された&lt;ref name="Sanchez-Lavega 2001" /&gt;。
+
+[[ファイル:Oval BA (Hubble).jpg|thumb|白い3つのオーバルからのオーバルBAの形成]]
+[[ファイル:Three Red Spots Mix it Up on Jupiter.jpg|thumb|2008年6月にすれ違ったオーバルBA（下）、大赤斑（上）と小赤斑（中央）]]
+オーバルBAは、2005年8月頃からゆっくりと赤くなり始めた&lt;ref name=go&gt;[[#Go|Go ''et al.'' (2006)]]&lt;/ref&gt;。2006年2月24日、フィリピンのアマチュア天文学者のChristopher Goが色の変化を発見し、大赤斑と同じくらいになったと記録した&lt;ref name=go/&gt;。これを受け、NASAの作家Tony Phillipsはこれを「レッドジュニア」と呼ぶことを提案した&lt;ref&gt;{{cite web|title=Jupiter's New Red Spot|author=Phillips, Tony|publisher=NASA|date=March 3, 2006|url=http://science.nasa.gov/headlines/y2006/02mar_redjr.htm|accessdate=2008-10-16|archiveurl=https://web.archive.org/web/20081019024917/http://science.nasa.gov/headlines/y2006/02mar_redjr.htm|archivedate=2008年10月19日|deadurl=no|deadlinkdate=2017年10月}}&lt;/ref&gt;。
+
+2006年4月、年内にオーバルBAが大赤斑に収斂されると信じる天文学者のチームが[[ハッブル宇宙望遠鏡]]を用いてこの嵐を観測した&lt;ref name=Tony&gt;{{cite web|last=Phillips|first=Tony|date=June 5, 2006|url=http://science.nasa.gov/headlines/y2006/05jun_redperil.htm|title=Huge Storms Converge|publisher=Science@NASA|accessdate=2007-01-08|archiveurl=https://web.archive.org/web/20070202190145/http://science.nasa.gov/headlines/y2006/05jun_redperil.htm|archivedate=2007年2月2日|deadurl=no|deadlinkdate=2017年10月}}&lt;/ref&gt;。嵐は2年毎にすれ違っていたが、2002年と2004年のすれ違いでは興味深い出来事は起こらなかった。[[ゴダード宇宙飛行センター]]のAmy Simon-Millerは、2006年7月4日に2つの嵐が再接近すると予測した&lt;ref name=Tony/&gt;。7月20日、2つの嵐がすれ違う様子が[[ジェミニ天文台]]で撮影されたが、融合は起こらなかった&lt;ref&gt;{{cite news|first=Peter|last=Michaud|title=Gemini Captures Close Encounter of Jupiter's Red Spots|publisher=Gemini Observatory|date=July 20, 2006|url=http://www.gemini.edu/index.php?option=content&amp;task=view&amp;id=196|accessdate=2007-06-15}}&lt;/ref&gt;。
+
+オーバルBAの色がなぜ赤色に変わったのかは分かっていない。2008年の[[バスク大学]]のSantiago Perez-Hoyosの研究によると、最も確からしい機構は、着色化合物が、オーバルBAの上層で太陽からの高エネルギー[[光子]]と相互作用した結果だとされる&lt;ref name=basque&gt;{{cite web|title=Diffusion Caused Jupiter's Red Spot Junior To Color Up|date=September 26, 2008|publisher=ScienceDaily|url=http://www.sciencedaily.com/releases/2008/09/080922100452.htm|accessdate=2008-10-16|archiveurl=https://web.archive.org/web/20080930054916/http://www.sciencedaily.com/releases/2008/09/080922100452.htm|archivedate=2008年9月30日|deadurl=no|deadlinkdate=2017年10月}}&lt;/ref&gt;。風が深層からある種の気体を吹き飛ばすほど強まり、それが日光に晒されると色が変わると考える者もいる&lt;ref name=NYTimes&gt;{{cite web| first=Henry|last=Fountain|title=On Jupiter, a Battle of the Red Spots, With the Baby Losing|publisher=The New York Times|date=July 22, 2008|url=http://www.nytimes.com/2008/07/22/science/space/22obspot.html|accessdate=2010-06-18}}&lt;/ref&gt;。
+
+オーバルBAは、2007年にハッブル宇宙望遠鏡によって行われた観測によると、徐々に強くなっている。風速は大赤斑に匹敵し、その他の嵐よりも遙かに速い618km/hに達した&lt;ref&gt;{{cite web|title=Storm Winds Blow in Jupiter’s Little Red Spot|author=Buckley, M.|url=http://www.jhuapl.edu/newscenter/pressreleases/2008/080520.asp|date=May 20, 2008|publisher=Johns Hopkins Applied Physics Laboratory|accessdate=2008-10-16}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Jupiter's Little Red Spot Growing Stronger|author=Steigerwald , Bill|publisher=NASA Goddard Space Center|date=October 10, 2006|url=http://www.nasa.gov/centers/goddard/news/topstory/2006/little_red_spot.html|accessdate=2008-10-16|archiveurl=https://web.archive.org/web/20081101075527/http://www.nasa.gov/centers/goddard/news/topstory/2006/little_red_spot.html|archivedate=2008年11月1日|deadurl=no|deadlinkdate=2017年10月}}&lt;/ref&gt;。2008年7月時点で、その大きさは地球程度の直径となり、大赤斑の約半分となった&lt;ref name=basque/&gt;。
+
+オーバルBAと似たものには、大赤斑に破壊された&lt;ref name=NYTimes/&gt;[[小赤斑]]がある（NASAはこれに「ベビー・レッド・スポット」という渾名を付けた&lt;ref name=Rogers2008&gt;{{cite web|title=The collision of the Little Red Spot and Great Red Spot: Part 2|publisher=British Astronomical Association|date=August 8, 2008|author=Rogers, John H.| url=http://www.britastro.org/jupiter/2008report05.htm|accessdate=2008-11-29}}&lt;/ref&gt;）。元々はハッブル宇宙望遠鏡によって撮影された白いスポットだったものが2008年5月に赤くなり、カリフォルニア大学バークレー校のImke de Paterらにより観測が行われた&lt;ref&gt;{{cite web |first=David |last=Shiga |title=Third red spot erupts on Jupiter |publisher=New Scientist |date=May 22, 2008 |url=http://space.newscientist.com/article/dn13963-third-red-spot-erupts-on-jupiter.html |accessdate=2008-05-23 |archiveurl=https://web.archive.org/web/20080705223517/http://space.newscientist.com/article/dn13963-third-red-spot-erupts-on-jupiter.html |archivedate=2008年7月5日 |deadurl=no |deadlinkdate=2017年10月 }}&lt;/ref&gt;。小赤斑は2008年6月末から7月初めに大赤斑と衝突し、小片になって飲み込まれた。残っていた赤色の残骸も7月中旬には再び大赤斑と衝突して消え、2008年8月までには完全に無くなった&lt;ref name=Rogers2008/&gt;。この衝突の間、オーバルBAも近くにあったが、小赤斑の破壊には関わっていないように見えた&lt;ref name=Rogers2008/&gt;。
+
+==== 北極の渦 ====
+[[File:Cyclone_storms_encircle_Jupiter's_North_Pole,_captured_in_infrared_light_by_NASA's_Juno_spacecraft.png|thumb|right|木星北極の渦]]
+{{See also|:en:Jupiter's North Pole}}
+木星の北極には渦が見られる。詳細は解明されていない。
+
+===嵐と雷===
+[[ファイル:Jupiter lightnings.jpg|thumb|1997年にガリレオによって撮影された木星の夜半球の雷]]
+木星上の嵐は、地球の[[雷雨]]と似ている。ベルトの低気圧、特に強い西向きのジェットの中に地域に時々現れる大きさ約1,000kmの塊状の雲として見える&lt;ref name=1982Vasavada&gt;[[#Vasavada|Vasavada (2005)]], pp. 1982, 1985-1987&lt;/ref&gt;。渦とは異なって嵐は短命な現象であり、最も強いものは数ヶ月続くが、平均は3日から4日で消滅する&lt;ref name=1982Vasavada/&gt;。対流圏における水蒸気の対流が主な原因で発生すると考えられている。嵐は実際は縦長の円柱状の対流（プリューム）で、湿った空気を対流圏の深層から上層に運び、凝結して雲を形成させる。典型的な木星の嵐の垂直方向の高さは約100kmであり、気圧5から7バールの高さから、水の雲の層の底である気圧0.2から0.5バールの高さまで広がる&lt;ref name=Sanchez-Lavega2008-437&gt;[[#Sanchez2008|Sanchez-Lavega ''et al.'' (2008)]], pp. 437-438&lt;/ref&gt;。
+
+木星の嵐は、常に雷を伴う。ガリレオとカッシーニによる木星の夜半球の画像は、ベルトや西向きジェットの中で、特に北緯51°、南緯56°、南緯14°の地点で恒常的に雷が発生していることを明らかとした&lt;ref name=1983Vasavada&gt;[[#Vasavada|Vasavada (2005)]], pp. 1983-1985&lt;/ref&gt;。木星では、雷は地球より平均で何倍か強力である。しかし、頻度は少なく、面積当たりで放出されるエネルギーは地球と同程度である&lt;ref name=1983Vasavada/&gt;。極地方では雷は少ないが、木星は極での雷が観測された地球以外で最初の惑星となった{{sfn|Baines Simon-Miller et al.|2007|p=226}}
+。
+
+15年から17年ごとに、木星では特に大規模な嵐が発生する。これは、150m/sにも達する最も強い西向きジェットの吹く北緯23°の地点で発生する。直近でこのような嵐が発生したのは、2007年3月から6月にかけてである&lt;ref name=Sanchez-Lavega2008-437/&gt;。2つの嵐が北半球の55°のベルトの異なった経度の地点に現れた。これらはベルトを多いに乱し、嵐によって巻き上げられた暗い物質が雲と混ざってベルトの色を変えた。嵐はジェットそのものよりも若干速い170m/sもの速度で移動し、大気深層での強い風の存在を示唆した&lt;ref name=Sanchez-Lavega2008-437/&gt;。
+
+===擾乱===
+バンドやゾーンの通常のパターンは一次的に乱されることがある。顕著な1例は、南熱帯ゾーンの長期間に及ぶ暗化であり、「南熱帯擾乱(STD)」と呼ばれる。記録に残る最も長く続いたSTDは、1901年から1939年まで続いたもので、1901年2月28日に[[パーシー・モールズワース]]が初めて観測した。この時には、通常は明るい南熱帯ゾーンの一部が暗くなった。この時以降、南熱帯ゾーンの同様の擾乱が何度か記録されている&lt;ref&gt;[[#McKim|McKim (1997)]]&lt;/ref&gt;。
+
+===ホットスポット===
+[[ファイル:Jupiter equatorial hot spot.jpg|thumb|left|赤道のホットスポットの擬色画像]]
+木星の大気の最も謎の多い特徴の1つがホットスポットである。ホットスポットの中では、雲が比較的少なく、熱が吸収を受けずに深層から逃げ出すことができる。約5μmの波長で撮影した赤外線画像では、明るいスポットとして見える&lt;ref name=1987Vasavada/&gt;。ベルトに多く発生するが、赤道ゾーンの北端には、一列に繋がった顕著なホットスポットがある。ガリレオは、この赤道ゾーンのホットスポットの1つに降下した。各々の赤道ゾーンのホットスポットは、すぐ西側にある明るい雲のプリュームと関係があり、大きさは10,000kmにもなる&lt;ref name=Ingersoll1/&gt;。ホットスポットは通常丸い形をしているが、渦とは似ていない&lt;ref name=1987Vasavada/&gt;。
+
+ホットスポットの起源はよく分かっていない。下降する空気が断熱状態で加熱乾燥する下降気流でも、惑星規模の波が表れたものでも、どちらでもあり得る。後者の仮説は、赤道上のスポットの周期的なパターンについて説明できる&lt;ref name=Ingersoll1/&gt;&lt;ref name=1987Vasavada/&gt;。
+
+==観測の歴史==
+{{main|木星探査}}
+[[ファイル:790106-0203 Voyager 58M to 31M reduced.gif|thumb|ボイジャー1号の木星への接近]]
+小さな望遠鏡を用いる初期の天文学者は、木星の大気の見かけの変化を記録した&lt;ref name=Ingersoll8/&gt;。彼らが使った、ベルト、ゾーン、スポット（斑）、プリューム、バージ、フェストーン、嵐等の用語は、現在でも使用されている&lt;ref name=Ingersollp2&gt;[[#Ingersoll|Ingersoll (2004)]], p. 2&lt;/ref&gt;。渦、垂直運動、雲高等の用語は、20世紀になってから使われ始めた&lt;ref name=Ingersoll8/&gt;。
+
+地上の望遠鏡よりも高い解像度で初めて木星の大気を観測したのは、[[パイオニア10号]]と[[パイオニア11号]]であった。木星の大気に関する最初の真に詳細な画像は、[[ボイジャー計画]]によってもたらされた&lt;ref name=Ingersoll8/&gt;。2機の探査機が、様々なスペクトルで5kmの解像度の詳細な写真を撮影し、また動きながらの「接近映像」も作製することができた&lt;ref name=Ingersoll8/&gt;。ガリレオは、木星の大気をそれほど観測した訳ではないが、より高い解像度で、より幅広いスペクトルでの観測を行うことができた&lt;ref name=Ingersoll8/&gt;。
+
+今日では、ハッブル宇宙望遠鏡のような望遠鏡のおかげで、天文学者は継続的な木星の大気の記録を手に入れることができる。これらの記録は、木星の大気は時々、大規模な擾乱によって乱されることがあるが、全体としてはかなり安定していることを示した&lt;ref name=Ingersoll8/&gt;。木星の大気の垂直運動は、地上からの観測による痕跡ガスの同定で、かなり特定された&lt;ref name=Ingersoll8/&gt;。シューメーカー・レヴィ第9彗星の衝突後の分光学的研究で、雲頂の下の化学組成について概観することができた。アンモニア、硫化水素等とともに二原子硫黄や[[二硫化炭素]]の存在も記録され、これは木星上からの初めての検出であった。また、二原子硫黄については、天体からの二例目の検出であった。一方、[[二酸化硫黄]]等の酸素含有分子は検出されず、天文学者を驚かせた&lt;ref name="Noll1995"&gt;[[#Noll1995|Noll (1995)]], p. 1307&lt;/ref&gt;。
+
+木星に突入したガリレオは、気圧22バールの高度までの風、温度、組成、雲、放射レベル等を測定した&lt;ref name=Ingersoll8/&gt;。
+
+===大赤斑の観測===
+[[ファイル:Great Red Spot From Voyager 1.jpg|thumb|1979年にボイジャー1号によって撮影された木星と大赤斑]]
+大赤斑を最初に観測したのは、1664年5月にこれを記述した[[ロバート・フック]]であると言われるが、フックのスポットは別のベルトのスポットであった可能性がある。より確からしいのは、翌年のジョヴァンニ・カッシーニによる「永続的なスポット」との記述である&lt;ref&gt;[[#Rogers|Rogers (1995)]], p. 6.&lt;/ref&gt;。可視性の変動により、カッシーニのスポットは1665年から1713年まで観測された&lt;ref name=2008Rogers111-112&gt;[[#Rogers2008|Rogers (2008)]], pp.111-112&lt;/ref&gt;。
+
+
+1700年頃、[[ドナート・クレーティ]]によって描かれ、[[バチカン]]に展示された絵画が、木星のスポットに関する小さな謎となっている&lt;ref name=Rogers188&gt;[[#Rogers|Rogers (1995)]], p. 188&lt;/ref&gt;&lt;ref name="Hockey1"&gt;[[#Hockey1999|Hockey, 1999]], pp. 40-41.&lt;/ref&gt;。これは、様々なイタリアの風景の背景として拡大された天体が描かれた一連の作品の一つで、その全ての作品の監修を天文学者のユースタキオ・マンフレディが務めた。クレーティの絵画は、これまで知られている中で、大赤斑を初めて赤色に描いているが、19世紀末になるまで、木星上の構造が公式に赤色とされたことはなかった&lt;ref name="Hockey1" /&gt;。
+
+現在の大赤斑は、1830年以降に初めて観測されたものであり、1879年に顕著になってから詳細に研究されるようになった。17世紀の発見から、1830年までの118年間の長いギャップの間、元々のスポットが消えて新たに形成されたのか、一時的に見えにくくなったのか、観測記録が単に欠けているだけなのかは不明である&lt;ref name="Beebe1" /&gt;。より古いスポットは現在のものに比べ、観測の歴史が短く、ゆっくり動いているが、その理由は分かっていない&lt;ref name=Rogers188/&gt;。
+
+1979年2月25日、[[ボイジャー1号]]が、木星から920万kmの地点から大赤斑の最初の詳細な画像を地球に伝送した。直径160kmまでの雲の詳細を見ることができた。大赤斑の西（左）に見える色彩豊かで波打った雲のパターンは、スポットの波紋領域で、ここでは非常に複雑な雲の動きが観測される&lt;ref&gt;[[#Smith|Smith ''et al.'' (1979)]], pp. 951-972.&lt;/ref&gt;。
+
+===白いオーバル===
+[[ファイル:whiteovals.jpg|thumb|1997年にガリレオにより撮影された後にオーバルBAとなる白いオーバル]]
+後にオーバルBAとなった白いオーバルは1939年に発見された。形成直後に経度のほとんど90°を覆ったが、最初の10年間で急速に収縮し、1965年以降はその長さは10°以下で安定した&lt;ref name="Rogers3"&gt;[[#Rogers|Rogers (1995)]], pp. 224-5.&lt;/ref&gt;。STZの一部を組織するようになったが、その後北に動き、南温帯ベルトの隙間を「掘って」、完全に飲み込まれた&lt;ref&gt;[[#Rogers|Rogers (1995)]], p. 226-227.&lt;/ref&gt;。実際に、大赤斑と同様に、その流れは南北の境界の2つの逆方向のジェットに囲まれた&lt;ref name="Rogers3" /&gt;。
+
+オーバルの経度方向の動きは、軌道上の木星の位置（遠日点で速くなる）及び大赤斑との距離（50°以内だと速くなる）の2つの要因に影響されているように見える&lt;ref&gt;[[#Rogers|Rogers (1995)]], p. 226.&lt;/ref&gt;。白いオーバルの漂流速度は、全体的な傾向として遅くなっており、1940年から1990年の間に約半分になった&lt;ref&gt;[[#Rogers|Rogers (1995)]], p. 225.&lt;/ref&gt;。
+
+ボイジャーのフライバイの間に、このオーバルは東から西に約9,000km、北から南に約5,000km広がり、（この時点で、大赤斑の回転周期が6日間だったのに対して）5日間の周期で回転していた&lt;ref&gt;[[#Beebe|Beebe (1997)]], p. 43.&lt;/ref&gt;。
+
+==関連項目==
+*[[太陽系外惑星]]（木星型のものも多数、発見されている）
+*[[ガリレオ (探査機)|ガリレオ]]
+*[[ジュノー (探査機)|ジュノー]]
+*[[ユリシーズ (探査機)|ユリシーズ]]
+*[[ボイジャー1号]]、[[ボイジャー2号]]
+*[[シューメーカー・レヴィ第9彗星]]
+*[[2009年の木星への衝突]]
+*[[2010年の木星への衝突]]
+
+==備考==
+&lt;div class="references-small"&gt;
+&lt;ol type="a"&gt;
+&lt;li&gt;{{note label|A|a|none}} スケールハイト''sh''は、次の式で定義される。{{nowrap|1=''sh'' = ''RT''/(''Mg&lt;sub&gt;j&lt;/sub&gt;'')}}ここで{{nowrap|1=''R'' = 8.31 J/mol/K}}は[[気体定数]]、{{nowrap|1=''M'' ? 0.0023 kg/mol}}は木星の大気の平均分子量&lt;ref name=Sieff1998/&gt;、''T''は温度、{{nowrap|1=g&lt;sub&gt;j&lt;/sub&gt; ? 25 m/s&lt;sup&gt;2&lt;/sup&gt;}}は木星表面での[[重力加速度]]である。温度は、対流圏での110Kから熱圏での1000Kまで変化し&lt;ref name=Sieff1998/&gt;、スケールハイトは15から150kmと推定される。
+&lt;li&gt;{{note label|B|b|none}}運用を停止する22バールまで、気圧の低下につれ、水の含量が増加し続けたため、ガリレオで大気深層の酸素の存在量を測定することはできなかった。酸素の存在量の測定値は太陽の値よりも小さいが、観測される大気中の水の深さ方向の急速な増加は、深層での酸素の存在量は、他の元素と同様に太陽の約3倍になるということが強く推測されている{{sfn|Atreya Mahaffy Niemann et al.|2003}}。
+&lt;li&gt;{{note label|C|c|none}}炭素、酸素、窒素、その他の元素の過剰な存在について、多数の説明が提案されてきた。最も指示されるものは、木星が降着の後期段階で多数の氷[[微惑星]]を捕獲したというものである。希ガスのような揮発元素は、水の氷の中に[[包接水和物]]の形で取り込まれたと考えられている{{sfn|Atreya Mahaffy Niemann et al.|2003}}。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+==脚注==
+{{脚注ヘルプ}}{{reflist|colwidth=25em}}
+
+==参考文献==
+{{refbegin|30em}}
+*Atreya, Sushil K.; Wong, M. H.; Owen, T. C.; Mahaffy, P. R.; Niemann, H. B.; de Pater, I.; Drossart, P.; Encrenaz, T. (October–November 1999). "A comparison of the atmospheres of Jupiter and Saturn: Deep atmospheric composition, cloud structure, vertical mixing, and origin". ''Planetary and Space Science'' '''47''' (10–11): 1243–1262. Bibcode 1999P&amp;SS...47.1243A. doi:10.1016/S0032-0633(99)00047-1. ISSN 0032-0633. PMID 11543193.
+*Atreya, Sushil K.; Mahaffy, P. R.; Niemann, H. B.; Wong, M. H.; Owen, T. C. (February 2003). "Composition and origin of the atmosphere of Jupiter—an update, and implications for the extrasolar giant planets". ''Planetary and Space Science'' '''51''' (2): 105–112. Bibcode 2003P&amp;SS...51..105A. doi:10.1016/S0032-0633(02)00144-7. ISSN 0032-0633.
+*Atreya, Sushil K.; Wong, Ah-San (2005). "Coupled Clouds and Chemistry of the Giant Planets — A Case for Multiprobes" (PDF). ''Space Science Reviews'' '''116''': 121–136. Bibcode 2005SSRv..116..121A. doi:10.1007/s11214-005-1951-5. ISSN 0032-0633.
+*Atreya, Sushil K.; Wong, Ah-San; Baines, K. H.; Wong, M. H.; Owen, T. C. (2005). "Jupiter's ammonia clouds—localized or ubiquitous?" (PDF). ''Planetary and Space Science'' '''53''' (5): 498–507. Bibcode 2005P&amp;SS...53..498A. doi:10.1016/j.pss.2004.04.002. ISSN 0032-0633.
+*Baines, Kevin H.; Simon-Miller, Amy A; Orton, Glenn S.; Weaver, Harold A.; Lunsford, Allen; Momary, Thomas W.; Spencer, John; Cheng, Andrew F. et al. (12 October 2007). "Polar Lightning and Decadal-Scale Cloud Variability on Jupiter". ''Science'' '''318''' (5848): 226–229. Bibcode 2007Sci...318..226B. doi:10.1126/science.1147912. PMID 17932285.
+* {{cite journal
+ |last=Beatty |first=J.K.
+ |year=2002
+ |title=Jupiter's Shrinking Red Spot
+ |journal=Sky and Telescope
+ |volume=103 |issue=4 |pages=24
+ |doi=
+ |url=http://www.saburchill.com/HOS/astronomy/034.html
+ |ref=Beatty
+}}
+* {{cite book
+ |last=Beebe |first=R.
+ |year=1997 |edition=2nd
+ |title=Jupiter the Giant Planet
+ |location=Washington |publisher=Smithsonian Books
+ |isbn=1-56098-685-9
+ |oclc=224014042
+ |ref=Beebe
+}}
+*Bhardwaj, Anil; Gladstone, G. Randall (2000). "Auroral emissions of the giant planets" (PDF). ''Reviews of Geophysics'' '''38''' (3): 295–353. Bibcode 2000RvGeo..38..295B. doi:10.1029/1998RG000046
+* {{cite journal
+ |last=Busse |first=F.H.
+ |year=1976
+ |title=A simple model of convection in the Jovian atmosphere
+ |journal=Icarus
+ |volume=29
+ |issue=2 |pages=255-260
+ |doi=10.1016/0019-1035(76)90053-1
+ |bibcode=1976Icar...29..255B
+ |ref=Busse
+}}
+*Encrenaz, Thérèse (February 2003). "ISO observations of the giant planets and Titan: what have we learnt?". ''Planetary and Space Science'' '''51''' (2): 89–103. Bibcode 2003P&amp;SS...51...89E. doi:10.1016/S0032-0633(02)00145-9
+* {{cite journal|first=Leigh N.|last=Fletcher |first2=G.S.|last2=Orton,|first3=O.|last3=Mousis ''et. al''|journal=Icarus|volume=208|last4=Yanamandra-Fisher|issue=1|pages=306-328|first4=P. |doi=10.1016/j.icarus.2010.01.005|last5=Parrish|first5=P.D.|last6=Irwin|first6=P.G.J.|last7=Fisher|first7=B.M.|last8=Vanzi|first8=L.|last9=Fujiyoshi|first9=T.|title=Thermal structure and composition of Jupiter's Great Red Spot from high-resolution thermal imaging|year=2010|format=PDF|url=http://www.eso.org/public/archives/releases/sciencepapers/eso1010/eso1010.pdf|ref=Fletcher2010|bibcode=2010Icar..208..306F}}
+* {{cite journal
+ |last=Go |first=C.Y.
+ |coauthor=de Pater, I.; Wong M. et al.
+ |year=2006
+ |title=Evolution Of The Oval Ba During 2004-2005
+ |journal=Bulletin of the American Astronomical Society
+ |volume=38 |pages=495
+ |doi=
+ |bibcode=2006DPS....38.1102G
+ |ref=Go
+ |last2=De Pater
+ |last3=Wong
+ |last4=Lockwood
+ |last5=Marcus
+ |last6=Asay-Davis
+ |last7=Shetty
+}}
+* {{cite journal
+ |last=Guillot |first=T.
+ |year=1999
+ |title=A comparison of the interiors of Jupiter and Saturn
+ |journal=Planetary and Space Science
+ |volume=47
+ |issue=10-11 |pages=1183-1200
+ |doi=10.1016/S0032-0633(99)00043-4
+ |bibcode=1999P&amp;SS...47.1183G
+ |ref=Guillot
+|arxiv = astro-ph/9907402 }}
+* {{cite journal
+ |last=Hammel |first=H.B.
+ |coauthors=Lockwood, G.W.; Mills, J.R.; Barnet, C.D.
+ |year=1995
+ |title=Hubble Space Telescope Imaging of Neptune's Cloud Structure in 1994
+ |journal=Science
+ |volume=268 |issue=5218 |pages=1740-1742
+ |doi=10.1126/science.268.5218.1740
+ |bibcode=1995Sci...268.1740H
+ |pmid=17834994
+ |ref=Hammel
+}}
+* {{cite journal
+ |last=Heimpel |first=M.
+ |coauthors=Aurnou, J.; Wicht, J.
+ |year=2005
+ |title=Simulation of equatorial and high-latitude jets on Jupiter in a deep convection model
+ |journal=Nature
+ |volume=438 |pages=193-196
+ |doi=10.1038/nature04208
+ |url=http://www.nature.com/nature/journal/v438/n7065/pdf/nature04208.pdf
+ |format=PDF
+ |ref=Hiempel2005
+ |pmid=16281029
+ |issue=7065
+|bibcode = 2005Natur.438..193H }}
+* {{cite book
+ |last=Hockey |first=T.
+ |year=1999
+ |title=Galileo's Planet: Observing Jupiter Before Photography
+ |location=Bristol, Philadelphia |publisher=Institute of Physics Publishing
+ |isbn=0-7503-0448-0
+ |oclc=39733730
+ |ref=Hockey1999
+}}
+* {{cite encyclopedia2
+ |last=Ingersoll |first=A.P.
+ |last2=Dowling |first2=T.E.
+ |last3=Gierasch |first3=P.J.
+ |display-authors=etal
+ |title=Dynamics of Jupiter's Atmosphere
+ |year=2004
+ |editor=Bagenal, F.|editor2=Dowling, T.E.|editor3=McKinnon, W.B.
+ |encyclopedia=Jupiter: The Planet, Satellites and Magnetosphere
+ |location=Cambridge |publisher=[[ケンブリッジ大学出版局|Cambridge University Press]]
+ |isbn=0-521-81808-7
+ |url=http://www.lpl.arizona.edu/~showman/publications/ingersolletal-2004.pdf
+ |ref=Ingersoll
+}}
+* {{cite journal
+ |last=Ingersoll |first=A.P.
+ |coauthors=Cuzzi, J.N.
+ |year=1969
+ |title=Dynamics of Jupiter's cloud bands
+ |journal=Journal of the Atmospheric Sciences
+ |volume=26
+ |issue=5 |pages=981-985
+ |doi=10.1175/1520-0469(1969)026&lt;0981:DOJCB&gt;2.0.CO;2
+ |bibcode=1969JAtS...26..981I
+ |ref=Ingersoll1969
+}}
+* {{cite book
+ |last=Irwin |first=P.
+ |year=2003
+ |title=Giant Planets of Our Solar System. Atmospheres, Composition, and Structure
+ |publisher=Springer and Praxis Publishing
+ |isbn=978-3-540-00681-7
+ |ref=Irwin2003
+}}
+* {{cite journal
+ |last=Kunde |first=V.G.
+ |coauthors=Flasar, F.M.; Jennings, D.E. et al.
+ |year=2004
+ |title=Jupiter's Atmospheric Composition from the Cassini Thermal Infrared Spectroscopy Experiment
+ |journal=Science
+ |volume=305 |pages=1582-1586
+ |doi=10.1126/science.1100240
+ |bibcode=2004Sci...305.1582K
+ |pmid=15319491
+ |issue=5690
+ |ref=Kunde
+}}
+* {{cite journal
+ |last=Low |first=F.J.
+ |title=Observations of Venus, Jupiter, and Saturn at λ20 μ
+ |year=1966
+ |journal=Astronomical Journal
+ |volume=71 |page=391
+ |doi=10.1086/110110
+ |bibcode=1966AJ.....71R.391L
+ |ref=Low
+}}
+* {{cite journal
+ |last=McKim |first=R.J.
+ |year=1997
+ |title=P. B. Molesworth's discovery of the great South Tropical Disturbance on Jupiter, 1901
+ |journal=Journal of the British Astronomical Association
+ |volume=107 |issue=5 |pages=239-245
+ |doi=
+ |bibcode=1997JBAA..107..239M
+ |ref=McKim
+}}
+*Miller, Steve; Aylward, Alan; Millward, George (January 2005). "Giant Planet Ionospheres and Thermospheres: The Importance of Ion-Neutral Coupling". ''Space Science Reviews'' '''116''' (1–2): 319–343. Bibcode 2005SSRv..116..319M. doi:10.1007/s11214-005-1960-4
+* {{cite journal |last=Noll |first=K.S.|coauthors=McGrath, M.A.; Weaver, H.A.; Yelle, R.V.; Trafton, L.M.; Atreya, S.K.; Caldwell, J.J.; Barnet, C.; Edgington, S. |year=1995 |title=HST Spectroscopic Observations of Jupiter Following the Impact of Comet Shoemaker-Levy 9 |journal=Science |volume=267 |issue=5202 |pages=1307-1313 |doi=10.1126/science.7871428 |url=http://www.sciencemag.org/cgi/content/abstract/267/5202/1307|pmid=7871428|ref=Noll1995|bibcode = 1995Sci...267.1307N }}
+*Pearl, J. C.; Conrath, B. J.; Hanel, R. A.; Pirraglia, J. A.; Coustenis, A. (March 1990). "The albedo, effective temperature, and energy balance of Uranus, as determined from Voyager IRIS data". ''Icarus'' '''84''' (1): 12–28. Bibcode 1990Icar...84...12P. doi:10.1016/0019-1035(90)90155-3. ISSN 0019-1035
+* {{cite journal
+ |last=Reese |first=E.J.
+ |coauthor=Solberg, H.G.
+ |year=1966
+ |title=Recent measures of the latitude and longitude of Jupiter's red spot
+ |journal=Icarus
+ |volume=5 |issue=1-6 |pages=266-273
+ |doi=10.1016/0019-1035(66)90036-4
+ |bibcode=1966Icar....5..266R
+ |ref=Reese
+}}
+* {{cite book
+ |last=Ridpath |first=I.
+ |year=1998 |edition=19th
+ |title=Norton's Star Atlas and Reference Handbook
+ |page=107
+ |location=Harlow |publisher=Addison Wesley Longman
+ |isbn=0-582-35655-5
+ |ref=Ridpath
+}}
+* {{cite book
+ |last=Rogers |first=J.H.
+ |year=1995
+ |title=The Giant Planet Jupiter
+ |location=Cambridge |publisher=Cambridge University Press
+ |isbn=0-521-41008-8
+ |oclc=219591510
+ |ref=Rogers
+}}
+* {{cite journal
+ |last=Rogers |first=J.H.
+ |coauthors=Metig, H.J.
+ |year=2001
+ |title=Jupiter in 1998/99
+ |journal=Journal of the British Astronomical Association
+ |volume=111 |issue=6 |pages=321-332
+ |doi=
+ |url=http://www.britastro.org/jupiter/JBAA111_Jup98.pdf
+ |ref=Rogers2001
+|bibcode = 2001JBAA..111..321R
+ |last2=Mettig }}
+* {{cite journal
+ |last=Rogers|first=J.H.
+ |year=2003
+ |title=Jupiter in 1999/2000. II: Infrared wavelengths
+ |journal=Journal of the British Astronomical Association
+ |volume=113 |issue=3 |pages=136-140
+ |doi=
+ |url=http://www.britastro.org/jupiter/JBAA113-Jup9900_II-IR.pdf
+ |ref=Rogers2003
+|bibcode = 2003JBAA..113..136R }}
+* {{cite journal
+ |last=Rogers |first=J.H.
+ |year=2008
+ |title=The accelerating circulation of Jupiter's Great Red Spot
+ |journal=Journal of the British Astronomical Association
+ |volume=118 |issue=1 |pages=14-20
+ |doi=
+ |url=http://www.britastro.org/jupiter/JBAA-118-1_GRS-paper.pdf
+ |ref=Rogers2008
+|bibcode = 2008JBAA..118...14R }}
+* {{cite journal
+ |last=Sanchez-Lavega |first=A.
+ |coauthors=Orton, G.S.; Morales R. et al.
+ |year=2001
+ |title=The Merger of Two Giant Anticyclones in the Atmosphere of Jupiter
+ |journal=Icarus
+ |volume=149 |issue=2 |pages=491-495
+ |doi=10.1006/icar.2000.6548
+ |ref=Sanchez2001
+|bibcode=2001Icar..149..491S
+}}
+* {{cite journal
+ |last=Sanchez-Lavega |first=A.
+ |coauthors=Orton, G.S.; Hueso, S. et al.
+ |year=2008
+ |title=Depth of the strong Jovian jet from a planetary scale disturbance driven by storms
+ |journal=Nature
+ |volume=451 |pages=437-440
+ |doi=10.1038/nature06533
+ |bibcode=2008Natur.451..437S
+ |ref=Sanchez2008
+ |pmid=18216848
+ |issue=7177
+}}
+* {{cite journal
+ |last=Seiff |first=A.
+ |coauthors=Kirk, D.B.; Knight, T.C.D. et al.
+ |year=1998
+ |title=Thermal structure of Jupiter's atmosphere near the edge of a 5-μm hot spot in the north equatorial belt
+ |journal=Journal of Geophysical Research
+ |volume=103
+ |issue=E10 |pages=22857-22889
+ |doi=10.1029/98JE01766
+ |bibcode=1998JGR...10322857S
+ |ref=Sieff
+}}
+* {{cite journal
+ |last=Smith |first=B.A. |author-link=ブラッドフォード・A・スミス
+ |coauthor=Soderblom, L.A.; Johnson, T.V. et al.
+ |year=1979
+ |title=The Jupiter system through the eyes of Voyager 1
+ |journal=Science
+ |volume=204 |pages=951-957, 960-972
+ |doi=10.1126/science.204.4396.951
+ |bibcode=1979Sci...204..951S
+ |pmid=17800430
+ |issue=4396
+ |ref=Smith
+}}
+* {{cite journal
+ |last=Stone |first=P.H.
+ |year=1974
+ |title=On Jupiter's Rate of Rotation
+ |journal=Journal of Atmospheric Sciences
+ |volume=31
+ |issue=5 |pages=1471-1472
+ |doi=10.1175/1520-0469(1974)031&lt;1471:OJROR&gt;2.0.CO;2
+ |url=http://journals.ametsoc.org/doi/pdf/10.1175/1520-0469%281974%29031%3C1471%3AOJROR%3E2.0.CO%3B2
+ |ref=Stone
+ |format=PDF
+ |bibcode = 1974JAtS...31.1471S }}
+* {{cite journal
+ |last=Vasavada |first=A.R.
+ |coauthors=Showman, A.
+ |title=Jovian atmospheric dynamics: An update after Galileo and Cassini
+ |year=2005
+ |journal=Reports on Progress in Physics
+ |volume=68
+ |issue=8 |pages=1935-1996
+ |doi=10.1088/0034-4885/68/8/R06
+ |bibcode=2005RPPh...68.1935V
+ |ref=Vasavada
+}}
+* {{cite book2
+ |last=West |first=R.A.
+ |author2=Baines, K.H.|author3=Friedson, A.J.|display-authors=etal
+ |chapter=Jovian Clouds and Haze
+ |year=2004
+ |editor=Bagenal, F.|editor2=Dowling, T.E.|editor3=McKinnon, W.B.
+ |title=Jupiter: The Planet, Satellites and Magnetosphere
+ |location=Cambridge |publisher=Cambridge University Press
+ |isbn=
+ |url=http://www.gps.caltech.edu/~ulyana/www_papers/west_Ch5_us.pdf
+ |format=PDF
+ |ref=West
+}}
+* {{cite encyclopedia2
+ |last=Yelle |first=R.V.
+ |author2=Miller, S.
+ |year=2004
+ |editor=Bagenal, F.|editor2=Dowling, T.E.|editor3=McKinnon, W.B.
+ |title=Jupiter's Thermosphere and Ionosphere
+ |page=
+ |encyclopedia=Jupiter: The Planet, Satellites and Magnetosphere
+ |location=Cambridge |publisher=[[ケンブリッジ大学出版局|Cambridge University Press]]
+ |isbn=
+ |url=http://www.lpl.arizona.edu/~yelle/eprints/Yelle04c.pdf
+ |ref=Yelle
+}}
+{{refend}}
+
+==関連文献==
+* {{cite book
+|author=[Numerous authors]
+|editor=Beatty, Kelly J.; Peterson, Carolyn Collins; Chaiki, Andrew
+|year=1999|title=The New Solar System
+|edition=4th
+|publisher=Sky Publishing Corporation
+|location=Massachusetts|isbn=0-933346-86-7
+|oclc=39464951}}
+* {{cite book
+|first=Bertrand M.| last=Peek
+|year=1981
+|title=The Planet Jupiter: The Observer's Handbook
+|edition=Revised| publisher=Faber and Faber Limited
+|location=London|isbn=0-571-18026-4
+|oclc=8318939}}
+* {{cite news
+ |first        = Sarah
+ |last         = Yang
+ |title        = Researcher predicts global climate change on Jupiter as giant planet's spots disappear
+ |publisher    = UC Berkeley News
+ |date         = April 21, 2004
+ |url          = http://www.berkeley.edu/news/media/releases/2004/04/21_jupiter.shtml
+ |accessdate   = 2007-06-14
+ |archiveurl   = https://web.archive.org/web/20070609214744/http://www.berkeley.edu/news/media/releases/2004/04/21_jupiter.shtml
+ |archivedate  = 2007年6月9日
+ |deadurl      = no
+ |deadlinkdate = 2017年10月
+}}
+* {{cite journal
+|author=Youssef, Ashraf; Marcus, Philip S.
+|title=The dynamics of jovian white ovals from formation to merger
+|journal=Icarus|year=2003|volume=162
+|issue=1|pages=74-93
+|bibcode=2003Icar..162...74Y
+|doi = 10.1016/S0019-1035(02)00060-X
+}}
+* {{cite journal
+|author=Williams, Gareth P.
+|title=Jupiter's atmospheric circulation
+|journal=Nature|year=1975|volume=257 |issue=5529|pages=778
+|url=http://www.gfdl.noaa.gov/bibliography/related_files/gw7501.pdf
+|doi=10.1038/257778a0
+|bibcode = 1975Natur.257..778W }}
+* {{cite journal
+|author=Williams, Gareth P.
+|title=Planetary Circulations: 1. Barotropic representation of Jovian and terrestrial turbulence
+|journal=Journal of the Atmospheric Sciences|year=1978|volume=35
+|issue=8|pages=1399-1426|url=http://www.gfdl.noaa.gov/bibliography/related_files/gw7801.pdf
+|doi=10.1175/1520-0469(1978)035&lt;1399:PCBROJ&gt;2.0.CO;2
+|bibcode = 1978JAtS...35.1399W }}
+* {{cite journal
+|author=Williams, Gareth P.
+|title=Jovian and comparative atmospheric modeling
+|journal=Advances in Geophysics|year=1985|volume=28A|pages=381-429
+|url=http://www.gfdl.noaa.gov/bibliography/related_files/gw8502.pdf
+|bibcode = 1985AdGeo..28..381W }}
+* {{cite journal
+|author=Williams, Gareth P.
+|title=Planetary vortices and Jupiter's vertical structure
+|journal=Journal of Geophysical Research|year=1997|volume=102|issue=E4|pages=9303-9308
+|url=http://www.gfdl.noaa.gov/bibliography/related_files/gw9701.pdf
+|doi=10.1029/97JE00520|bibcode=1997JGR...102.9303W
+}}
+* {{cite journal
+|author=Williams, Gareth P.
+|title=Jovian Dynamics. Part I: Vortex stability, structure, and genesis
+|journal=Journal of the Atmospheric Sciences,|year=1996|volume=53|issue=18|pages=2685-2734.
+|url=http://www.gfdl.noaa.gov/bibliography/related_files/gw9601.pdf
+|doi=10.1175/1520-0469(1996)053&lt;2685:JDPVSS&gt;2.0.CO;2
+|bibcode = 1996JAtS...53.2685W }}
+* {{cite journal
+|author=Williams, Gareth P.
+|title=Jovian Dynamics.Part II: The genesis and equilibration of vortex sets
+|journal=Journal of the Atmospheric Sciences,|year=2002|volume=59
+|issue=8| pages=1356-1370
+|url=http://www.gfdl.noaa.gov/bibliography/related_files/gpw0201.pdf
+|doi=10.1175/1520-0469(2002)059&lt;1356:JDPITG&gt;2.0.CO;2
+|bibcode = 2002JAtS...59.1356W }}
+* {{cite journal
+|author=Williams, Gareth P.
+|title=Jovian Dynamics, Part III: Multiple, migrating, and equatorial jets
+|journal=Journal of the Atmospheric Sciences,|year=2003|volume=60 |issue=10|pages=1270-1296
+|url=http://www.gfdl.noaa.gov/bibliography/related_files/gw0301.pdf
+|doi=10.1175/1520-0469(2003)60&lt;1270:JDPIMM&gt;2.0.CO;2
+|bibcode = 2003JAtS...60.1270W }}
+* {{cite journal
+|author=Williams, Gareth P.
+|title= Super Circulations
+|journal=Bulletin of the American Meteorological Society|year=2003 |volume=84|issue=9|pages=1190
+|url=http://www.gfdl.noaa.gov/bibliography/related_files/gw0304.pdf
+}}
+* {{cite journal
+|author=Williams, Gareth P.
+|title=Barotropic instability and equatorial superrotation
+|journal=Journal of the Atmospheric Sciences|year=2003|volume=60 |issue=17|pages=2136-2152
+|url=http://www.gfdl.noaa.gov/bibliography/related_files/gw0303.pdf
+|doi=10.1175/1520-0469(2003)060&lt;2136:BIAES&gt;2.0.CO;2
+|bibcode = 2003JAtS...60.2136W }}
+* {{cite journal
+|author=Williams, Gareth P.
+|title=Jet sets
+|journal=Journal of the Meteorological Society of Japan|year=2003|volume=81|issue=3|pages=439-476
+|url=http://www.gfdl.noaa.gov/bibliography/related_files/gw0302.pdf
+|doi=10.2151/jmsj.81.439
+}}
+* {{cite journal
+|author=Williams, Gareth P.
+|title=Equatorial Superrotation and Barotropic Instability: Static Stability Variants
+|journal=Journal of the Atmospheric Sciences|year=2006|volume=63|issue=5|pages=1548-1557
+|url=http://www.gfdl.noaa.gov/bibliography/related_files/gw0601.pdf
+|doi=10.1175/JAS3711.1
+|bibcode = 2006JAtS...63.1548W }}
+
+== 外部リンク ==
+* {{Commons category-inline|Jupiter (atmosphere)}}
+
+{{木星}}
+{{大気圏}}
+{{Good article}}
+{{Normdaten}}
+{{DEFAULTSORT:もくせいのたいき}}
+[[Category:木星|たいき]]
+[[Category:地球外天体の大気|もくせい]]</text>
+      <sha1>cipdph8pivqfajf1yd2v9ea3ke0ibl0</sha1>
+    </revision>
+  </page>
+  

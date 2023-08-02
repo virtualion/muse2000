@@ -1,0 +1,175 @@
+<page>
+    <title>カンコノキ属</title>
+    <ns>0</ns>
+    <id>3044803</id>
+    <revision>
+      <id>94953783</id>
+      <parentid>92276111</parentid>
+      <timestamp>2023-04-26T22:29:18Z</timestamp>
+      <contributor>
+        <username>エリック・キィ</username>
+        <id>120481</id>
+      </contributor>
+      <comment>/* 参考文献 */ 参照: [[Special:PermaLink/94941646#『植物研究雑誌』のPDFリンクが切れました]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14624" xml:space="preserve">{{生物分類表
+| 名称 = カンコノキ属
+| 画像 = [[画像:Glochidion zeylanicum kakibaknknk01.jpg|250px]]
+| 画像キャプション = カキバカンコノキ
+| 色 = lightgreen
+|分類体系 = [[APG IV]]
+|界 = [[植物|植物界]] {{Sname||Plantae}}
+|門階級なし = [[被子植物]] {{Sname||Angiosperms}}
+|綱階級なし = [[真正双子葉類]] {{Sname||core eudicots}}
+|亜綱階級なし = [[真正双子葉類]] {{Sname||eudicots}}
+|下綱階級なし = [[バラ上群]] {{Sname||superrosids}}
+|団階級なし = [[バラ類]] {{Sname||rosids}}
+|上目階級なし = {{Sname||rosid I}} / {{Sname||Fabidae}}
+|目 = [[キントラノオ目]] {{Sname||Malpighiales}}
+|科 = [[コミカンソウ科]] {{Sname||Phyllanthaceae}}
+| 属 = '''カンコノキ属 {{Snamei||Glochidion}}'''
+|下位分類名 = [[種 (分類学)|種]]
+|下位分類 = 本文参照
+| 学名 = {{Snamei|Glochidion}} &lt;br&gt;{{AU|J.R. Forst.}} &amp; {{AU|G. Forst.}}
+| 和名 = カンコノキ属
+| 英名 = 
+Cheese trees&lt;br&gt;
+Buttonwood&lt;br&gt;
+Leafflower trees
+}}
+'''カンコノキ属''' ({{Snamei|Glochidion}} {{small|{{AU|J.R. Forst.}} &amp; {{AU|G. Forst.}}}}) は[[コミカンソウ科]]の分類群。[[木本]]で、[[羽状複葉]]のように並んだ葉の付け根から小さな[[花序]]を着ける。
+
+本属は21世紀に入ってから[[コミカンソウ属]]（{{Snamei|Phyllanthus}}）に統合する動きが見られる（参照: [[#分類]]）。
+
+== 特徴 ==
+[[高木]]または[[低木]]&lt;ref&gt;以下、主として北村、村田(1971),p.339&lt;/ref&gt;。葉はやや大きく、互生で二列生&lt;ref name="#1"&gt;初島(1975),p.371&lt;/ref&gt;。花は小さくて葉腋から束生する。雌雄同株または異株だが、花は性別があり、雄花雌花共に[[花弁]]はなく、花盤もない。雄花では[[萼片]]は6で、内外2列に配置し、蕾の時、瓦を重ねたように配置する&lt;ref&gt;佐竹他(1989),p.257&lt;/ref&gt;。[[雄蘂]]は2-8、円柱状に寄り合い、基部は互いにくっつき合う。退化[[雌蘂]]はないかとても小さい。雌花の萼片は6で時にくっつき合う。[[子房]]は3から数心皮あってそれぞれに2個の[[胚珠]]を収める。[[花柱]]は太短くて基部でくっつきあっている。果実は[[蒴果]]で種子に仮種皮はない。
+
+== 分布と種類 ==
+新旧熱帯域に200種がある。ただし[[アフリカ]]、[[マダガスカル]]には産しない。熱帯アメリカには十数種のみで、多様性の中心は[[インド]]から[[マレーシア]]にかけての地域である&lt;ref name="#1"/&gt;。
+
+== 分類 ==
+かつては[[トウダイグサ科]]に含め、現在ではコミカンソウ科に含める。[[コミカンソウ属]]とよく似ているが、コミカンソウ属は高木もあるがほとんどは低木から草本でずっと小柄である。また花には花盤があり、種子には仮種皮がある。
+
+しかし[[分子系統学]]的研究論文である {{Harvcoltxt|Kathriarachchi|Samuel|Hoffmann|Mlinarec|2006}} ではカンコノキ属や同じコミカンソウ科の[[オオシマコバンノキ属]]（{{Snamei||Breynia}}）、{{Snamei|Reverchonia}}属、[[アマメシバ属]]（{{Snamei||Sauropus}}）は[[コミカンソウ属]]（{{Snamei|Phyllanthus}}）の派生的な1系統に含まれるという学説が発表され、[[側系統群]]である旧来のオオシマコバンノキ属やカンコノキ属などを依然認め続けたり旧来のコミカンソウ属を20を超える[[系統群|クレード]]に分割したりするぐらいであれば、これらをコミカンソウ属に含めた方がましであろうという見解が示された。[[福島大学]]共生システム理工学類の[[黒沢高秀]]は左記の論文等を受けてカンコノキ属、オオシマコバンノキ属、アマメシバ属をコミカンソウ属に含めることは広く受容されていると判断し、また将来的な『日本の野生植物』（[[平凡社]]）改訂も見据え、日本産のカンコノキ属やオオシマコバンノキ属植物の分類名をコミカンソウ属下のものとするよう見直し、一部の種に関しては新たな分類名を発表した&lt;ref&gt;{{Harvcoltxt|Kurosawa|2016}}.&lt;/ref&gt;。[[キュー植物園]]の World Checklist of Selected Plant Families の分類に関する見解を受けてまとめられたデータベースである Govaerts (2019) においては依然カンコノキ属はコミカンソウ科の属として認められているが、日本産の種に関しては[[ウラジロカンコノキ]]・[[カンコノキ]]・[[ツシマカンコノキ]]の3種に限り黒沢による新たな分類名が受容、もしくは黒沢と同じく既存のコミカンソウ属に置かれた分類名が受容されている（詳細は[[#代表的な種]]を参照）。
+
+== 生態など ==
+カンコノキ属は、その花粉媒介を[[ホソガ科]][[ハナホソガ属]] ''Epicephala'' の[[ガ]]に依存していることが明らかとなっている。しかも、カンコノキ属の各種は、それぞれ特異的に1種のハナホソガ属の種と絶対送粉[[共生]]関係にある。このガが活動する夜間、カンコノキ属の花は特定の匂いを出し、それを頼りの対応するハナホソガが花に飛来する。このガの[[幼虫]]は種子食で、該当のカンコノキ属の種子を食べる。更にガの雌成虫は幼虫の餌を確保するために、その口吻を用いて雄花では能動的に[[花粉]]を集め、雌花では[[受粉]]させるように振る舞うという。つまりハナホソガは餌をカンコノキのみに依存し、カンコノキはハナホソガだけに受粉を依存する。ガの幼虫は必ず種子の半分以上を食べ残し、これによってカンコノキも種子を残すことが出来る&lt;ref&gt;川北(2010),p.8&lt;/ref&gt;。
+
+== 代表的な種 ==
+日本に産する種を挙げておく。日本本土ではカンコノキが南日本に広く見られる。それ以外の種は[[九州]]にわずかに分布があるものもあるが、ほとんどが[[南西諸島]]に分布し、更に南に分布域を持つ。
+
+以下、複数の文献における和名と学名の対応関係である。同じマスに学名が2つ以上あるものは、Govaerts (2019) で[[シノニム]]の関係にあると認められていることを意味する。前に★が置かれた学名は Govaerts (2019) で正名として受容されているものである。
+{| class="wikitable"
+! rowspan="2" | 和名（大場1999 および Kurosawa 2016）
+! colspan="5" | 学名〔左記の和名と異なる場合は括弧内にその和名〕
+! rowspan="2" | 備考
+|-
+! {{Harvcoltxt|Kawakami|1910}}
+! {{Harvcoltxt|牧野|1940}}
+! {{Harvcoltxt|コーナー|渡辺|1969}}
+! 大場 (1999)
+! {{Harvcoltxt|Kurosawa|2016}}
+|-
+! [[ウラジロカンコノキ]]
+| &lt;ref group="注"&gt;Kawakami は「ウラジロカンコノキ」として {{Snamei|Glochidion bicolor}} {{AU|Muell. Arg.}} を掲載しているが、Govaerts (2019) には同じ学名で命名者が {{AU|Hayata}} のもののみが登録されており、これは {{Snamei|Phyllanthus meghalayensis}} {{AU|Chakrab.}} &amp; {{AU|N.P.Balakr.}} のシノニムとされている。&lt;/ref&gt;
+| style="text-align:center;" | -
+| style="text-align:center;" | -
+| &lt;ref group="注"&gt;大場は「ウラジロカンコノキ」として {{Snamei|sv|Glochidion acuminatum}} Muell. Arg.、そのシノニムとして {{Snamei|G. hayatae}} {{AU|Croizat}} et {{AU|Hara}} を掲載しているが、Govaerts (2019) は両者とも {{Snamei|Phyllanthus meghalayensis}} Chakrab. &amp; N.P.Balakr. のシノニムとしている。&lt;/ref&gt;
+| ★{{Snamei|sv|Phyllanthus triandrus}} ({{AU|Blanco}}) {{AU|Müll. Arg.}}
+|
+|-
+! [[カキバカンコノキ]]
+| ★{{Snamei|Glochidion Zeylanicum}} {{AU|A. Juss.}}&lt;ref group="注"&gt;ほかにも Kawakami は「[[ホンコンカンコノキ]]」として {{Snamei|Glochidion hongkongenense}} {{AU|Muell. Arg.}} を掲載している。&lt;/ref&gt;
+| style="text-align:center;" | -
+| style="text-align:center;" | -
+|
+* ★{{Snamei|Glochidion zeylanicum}} ({{AU|Gaertn.}}) A. Juss.
+* {{Snamei|G. hongkongense}} {{AU|Muell. Arg.}}
+| {{Snamei|Phyllanthus gaertneri}} {{AU|T. Kuros.}}
+| {{Snamei|Phyllanthus zeylanicus}} {{AU|Müll.Arg.}} は同属の別種 {{Snamei|P. anabaptizatus}} Müll.Arg. の[[シノニム]]
+|-
+! [[カンコノキ]]
+| {{Snamei|sv|Glochidion obovatum}} S. et. Z.
+| {{Snamei|Glochidion obovatum}} {{AU|Sieb.}} et {{AU|Zucc.}}
+| style="text-align:center;" | -
+| {{Snamei|Glochidion obovatum}} {{AU|Sieb.}} et {{AU|Zucc.}}
+| ★{{Snamei|Phyllanthus sieboldianus}} T. Kuros.
+| {{Snamei|Phyllanthus obovatus}} {{AU|Muhl.}} ex {{AU|Willd.}} は同属の別種 {{Snamei|en|Phyllanthus caroliniensis|P. caroliniensis}} {{AU|Walter}} subsp. {{Snamei|caroliniensis}} のシノニム
+|-
+! [[キールンカンコノキ]]
+| ★{{Snamei|Glochidion lanceolatum}} {{AU|Hay.}}
+| style="text-align:center;" | -
+| style="text-align:center;" | -
+| ★{{Snamei|Glochidion lanceolatum}} {{AU|Hayata}}
+| {{Snamei|Phyllanthus keelungensis}} T. Kuros.
+| {{Snamei|Phyllanthus lanceolatus}} {{AU|Poir.}} は同属の別種
+|-
+! [[ケカンコノキ]]（[[オオバケカンコノキ]]）
+| {{Snamei|Glochidion Arnottianum}} Muell. Arg.〔[[アカカンコ]]〕&lt;ref group="注"&gt;ほかにも Kawakami は「オホバノケカンコノキ」として {{Snamei|Glochidion hirsutum}} Muell. Arg. を掲載しているが、Govaerts (2019) に同じ学名で登録されている分類名の命名者は ({{AU|Roxb.}}) {{AU|Voigt}} で、これも {{Snamei|G. zeylanicum}} var. {{Snamei|tomentosum}} ({{AU|Dalzell}}) {{AU|Trimen}} のシノニムとされている。また、Kawakami が「ケカンコノキ」として掲載している {{Snamei|Glochidion formosanum}} Hay. は Govaerts (2019) では {{Snamei|sv|Glochidion philippicum}} ({{AU|Cav.}}) {{AU|C.B.Rob.}} のシノニム扱いとされている。&lt;/ref&gt;
+| style="text-align:center;" | -
+| style="text-align:center;" | -
+| 
+* ★{{Snamei|Glochidion zeylanicum}} var. {{Snamei|tomentosum}} {{AU|Trim.}}
+* {{Snamei|G. dasyphyllum}} {{AU|K. Koch}} var. {{Snamei|iriomotense}} {{AU|Hurusawa}}
+| {{Snamei|Phyllanthus hirsutus}} (Roxb.) Müll. Arg.
+|
+|-
+! [[ツシマカンコノキ]]
+| style="text-align:center;" | -
+| style="text-align:center;" | -
+| style="text-align:center;" | -
+|
+* {{Snamei|en|Glochidion puberum}} {{AU|Hutchison}}
+* {{Snamei|G. hayatae}} {{AU|Croizat}} et {{AU|Hara}} var. {{Snamei|tsushimense}} Hurusawa
+| ★{{Snamei|Phyllanthus puberus}} ({{AU|L.}}) Müll. Arg.
+|
+|-
+! [[ヒラミカンコノキ]]
+| {{Snamei|Glochidion Fortunei}} {{AU|Hance}}.
+| style="text-align:center;" | -
+|
+* {{Snamei|Glochidion coronatum}} {{AU|Hook.f.}}〔[[ウラゲベニカンコノキ]]〕
+* {{Snamei|sv|Glochidion rubrum}} {{AU|BL.}}〔[[ベニカンコノキ]]〕
+| {{Snamei|Glochidion rubrum}} {{AU|Blume}}
+| {{Snamei|Phyllanthus rubrus}} (Blume) T. Kuros.
+| 黒沢の提案した学名は1826年発表の別種 {{Snamei|sv|Phyllanthus ruber}} ({{AU|Lour.}}) {{AU|Spreng.}} と被っており非合法名と判定され、{{Snamei|Phyllanthus subscandens}} ({{AU|Zoll.}} &amp; {{AU|Moritzi}}) Müll.Arg. var. {{Snamei|subscandens}} が受容されている&lt;ref name="rg"&gt;Govaerts (2019).&lt;/ref&gt;。
+|}
+
+&lt;gallery&gt;
+File:Glochidion ellipticum 04.JPG|{{Snamei|Phyllanthus assamicus}}（syn. {{Snamei|fr|Glochidion ellipticum}}）の花
+File:Glochidion ellipticum 04a.JPG|{{Snamei|P. assamicus}} の果実
+File:Glochidion obovatum - Miyajima Natural Botanical Garden - DSC02302.JPG|カンコノキの樹姿
+&lt;/gallery&gt;
+
+== 脚注 ==
+{{脚注ヘルプ}}
+
+=== 注釈 ===
+&lt;references group="注" /&gt;
+
+== 出典 ==
+&lt;references /&gt;
+
+== 参考文献 ==
+英語・日本語:
+* {{Cite book|和書|first=E. J . H.|last=コーナー|last2=渡辺|first2=清彦|authorlink1=:en:E. J. H. Corner|authorlink2=渡辺清彦 (植物学者)|title=図説熱帯植物集成|publisher=廣川書店|year=1969|page=354-6|ref=harv}}
+* {{Cite journal|last=Kurosawa|first=Takahide|authorlink=黒沢高秀|year=2016|title=Transfer of Japanese {{Snamei|Breynia}} and {{Snamei|Glochidion}} to {{Snamei|Phyllanthus}} ({{Snamei|Phyllanthaceae}}) [日本産オオシマコバンノキ属とカンコノキ属のコミカンソウ属 (ミカンソウ科) への合一]|doi=10.51033/jjapbot.91_2_10656|journal=The Journal of Japanese Botany [植物研究雑誌]|volume=91|issue=2|pages=118&amp;ndash;121|ref=harv}}
+英語:
+* [[:es:Rafaël Herman Anna Govaerts|Govaerts, R.]] (2019). World Checklist of Phyllanthaceae. Facilitated by the Royal Botanic Gardens, Kew. Published on the Internet; http://wcsp.science.kew.org/ Retrieved 28 June 2019
+* {{Cite journal|last=Kathriarachchi|first=Hashendra|first2=Rosabelle|last2=Samuel|first3=Petra|last3=Hoffmann|first4=Jelena|last4=Mlinarec|first5=Kenneth J.|last5=Wurdack|first6=Hélène|last6=Ralimanana|first7=Tod F.|last7=Stuessy|first8=Mark W.|last8=Chase|authorlink8=:en:Mark Wayne Chase|year=2006|title=Phylogenetics of tribe Phyllantheae (Phyllanthaceae; Euphorbiaceae sensu lato) based on nrITS and plastid ''matK'' DNA sequence data|journal=American Journal of Botany|volume=93|issue=4|pages=637–655|doi=10.3732/ajb.93.4.637|ref=harv}}
+日本語:
+*[[大場秀章]]「トウダイグサ科 EUPHORBIACEAE」 [[佐竹義輔]]、[[原寛]]、[[亘理俊次]]、[[冨成忠夫]] 編『日本の野生植物 木本I』平凡社、1999年、257-271頁。{{ISBN2|4-582-53504-6}}
+* {{Cite book|和書|authorlink=川上瀧彌|last=Kawakami|first=Takiya|year=1910|url=https://books.google.co.jp/books?id=nbdAJGx_CyEC&amp;dq=&amp;hl=ja&amp;source=gbs_navlinks_s A List of Plants of Formosa|title=臺灣植物目錄|location=臺北|publisher=[[台湾総督府民政部|臺灣總督府民政部]]殖産局|page=101|ref=harv}}
+*川北篤、(2010)、「植物の「本来の姿」をたずねて」：京都大学生態学研究センターニュース、No.110
+*[[北村四郎]]・[[村田源]]、『原色日本植物図鑑・木本編 I』、(1971)、保育社
+*[[佐竹義輔]]他編著、『日本の野生植物　木本 I』、(1989)、平凡社
+*[[初島住彦]] 『琉球植物誌』 沖縄生物教育研究会、1975年、追加・訂正版
+* {{Cite book|last=牧野|first=富太郎|authorlink=牧野富太郎|title=牧野日本植物圖鑑|publisher=北隆館|year=1940|page=381|ref=harv}}
+
+{{デフォルトソート:かんこのきそく}}
+[[Category:コミカンソウ科]]</text>
+      <sha1>4rb6gjq2r733lb0xoatnqr2wyyh3pe0</sha1>
+    </revision>
+  </page>
+  

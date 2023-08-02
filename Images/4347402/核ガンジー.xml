@@ -1,0 +1,112 @@
+<page>
+    <title>核ガンジー</title>
+    <ns>0</ns>
+    <id>4347402</id>
+    <revision>
+      <id>93845510</id>
+      <parentid>90403049</parentid>
+      <timestamp>2023-02-13T02:22:51Z</timestamp>
+      <contributor>
+        <username>Cewbot</username>
+        <id>1094317</id>
+      </contributor>
+      <minor />
+      <comment>[[Special:Diff/93844864#「イースター・エッグ (コンピュータ)」の記事名の改名に伴うリンク修正依頼|Bot作業依頼]]: [[ノート:イースター・エッグ (おまけ要素)|「イースター・エッグ (コンピュータ)」の記事名の改名に伴うリンク修正依頼]] - [[User:Cewbot/log/20190913|log]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22968" xml:space="preserve">[[File:Nuclear Gandhi.png|thumb|核ガンジーの[[インターネット・ミーム]]の例
+
+（はじめに彼等は無視し、次に笑い、&lt;s&gt;そして挑みかかるだろう&lt;/s&gt;。&lt;ref&gt;{{Cite web|title=マハトマ・ガンジー - Wikiquote|url=https://ja.wikiquote.org/wiki/%E3%83%9E%E3%83%8F%E3%83%88%E3%83%9E%E3%83%BB%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%BC|website=ja.wikiquote.org|accessdate=2021-11-21|language=ja}}&lt;/ref&gt;そして我々が核攻撃するだろう。そうして我々は勝つのだ。）]]
+'''核ガンジー'''&lt;ref name="AUTOMATON"&gt;{{Cite web|url=https://automaton-media.com/articles/newsjp/civilization-vi-first-look-india/|title=『Civilization VI』、非暴力主義＆宗教に強みを持つインド文明の紹介動画公開。率いるのは毎度おなじみのガンジー|website=AUTOMATON|publisher=[[アクティブゲーミングメディア|株式会社アクティブゲーミングメディア]]|date=2016-8-31|accessdate=2021-4-6}}&lt;/ref&gt;&lt;ref name="Game*Spark"&gt;{{Cite web|url=https://www.gamespark.jp/article/2020/09/09/102009.html|title=ガンディーの核投下バグの真相をシド・マイヤーが語る回想録『Sid Meier’s Memoir!』が海外で発売|website=Game*Spark|publisher=[[イード (企業)|株式会社イード]]|date=2020-9-9|accessdate=2021-4-6}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.ccs1981.jp/blog/buffer-overflow-463/|title=セキュア de GO! #9 バッファオーバーフロー|publisher=中央コンピューターサービス株式会社|date=2020-5-15|accessdate=2021-4-6}}&lt;/ref&gt;（かくガンジー、{{En|Nuclear Gandhi}}）は、コンピュータシミュレーションゲーム『[[シヴィライゼーション#シヴィライゼーション|シヴィライゼーション]]』に関する[[インターネット・ミーム]]であり、[[都市伝説]]。ミームによれば、初代『シヴィライゼーション』（[[1991年]]）には[[バグ]]があり、平和主義者の指導者である[[マハトマ・ガンディー|マハトマ・ガンジー]]がパラメータの[[算術オーバーフロー]]によって非常に攻撃的になり、[[核兵器]]を多用するようになるという&lt;ref name="AUTOMATON"/&gt;&lt;ref name="Game*Spark"/&gt;。
+
+同シリーズのプレイヤー間でまことしやかに囁かれていたこのバグは、『[[シヴィライゼーション#シヴィライゼーションV|シヴィライゼーションV]]』（[[2010年]]）にて、ジョーク、[[イースター・エッグ (おまけ要素)|イースター・エッグ]]として初めて公式に実装された。『V』発売から2年後の[[2012年]]にインターネット・ミームとして流布され、最終的に最も知られているコンピュータゲームのバグの1つとなった。
+
+[[2020年]]、『シヴィライゼーション』の開発者[[シド・マイヤー]]はこの都市伝説について初めて公式に否定し、元の[[1991年]]のゲームにはこの種のバグは存在しなかったと述べた&lt;ref name="Game*Spark"/&gt;。
+
+== バグの説明 ==
+[[File:Odometer rollover.jpg|thumb|[[算術オーバーフロー]]は[[オドメーター]]で説明できる。6桁のオドメーターでは0の前は999999となり、8ビットの整数型変数では0の前は255となる。]]
+
+伝説によれば、『[[シヴィライゼーション#シヴィライゼーション|シヴィライゼーション]]』における各指導者の[[コンピュータゲームにおける人工知能|AI]]には攻撃性を1から10のスケールで表すパラメータがあり、1が最も攻撃性が低く、10が最も攻撃性が高かった&lt;ref name="screenrant"&gt;{{cite web |url=https://screenrant.com/civilization-gandhi-evil-civ-6-glitch-nukes-why/ |title=Why Gandhi Is So Violent In Civilization Games |author=Ethan Maurice |website=[[Screen Rant]] |date=2020-06-30 |accessdate=2020-09-18 |lang=en }}&lt;/ref&gt;&lt;ref name="dtf myth history" /&gt;。
+他の情報源によれば、1から12のスケールがあった&lt;ref name="memoir"&gt;{{cite book| author = [[Sid Meier|Meier, Sid]] | chapter = Funny Business| chapter-url = | format = | url =  | title = Sid Meier's Memoir!: A Life in Computer Games | orig-year = | agency =  | edition =   |location=  |date = 2020 |publisher= [[W. W. Norton &amp; Company|W. W. Norton]] |at=  |volume=  |issue = | pages = 261—266| page =  | series =  | isbn = 978-1-324-00587-2| ref = }}&lt;/ref&gt;。
+[[インド]]の指導者[[マハトマ・ガンディー|マハトマ・ガンジー]]は攻撃性の評価が最も低い1を持つゲーム中唯一の指導者であり&lt;ref name="pcgamesn"&gt;{{cite web |url=https://www.pcgamesn.com/civilization-gandhi-nukes |title=Sid Meier says Civilization’s nuclear Gandhi bug isn’t real |author=Dustin Bailey |website=[[PCGamesN]] |date=2020-09-08 |accessdate=2020-09-18 |lang=en }}&lt;/ref&gt;、その結果、防衛戦争しか行えなかった&lt;ref name="dtf probably myth"&gt;{{cite web |url=https://dtf.ru/games/67979-pochemu-istoriya-o-bage-s-yadernym-gandi-v-civilization-skoree-vsego-vydumana |title=Почему история о баге с «ядерным Ганди» в Civilization, скорее всего, выдумана |author=Артемий Леонов |website=[[DTF (website)|DTF]] |date=2019-09-05 |lang=ru |accessdate=2020-09-18 }}&lt;/ref&gt;。
+AIが政治体制をインドなどの平和な国が好む[[民主主義]]&lt;ref name="dtf myth history" /&gt;に変更すると、攻撃性が2減少する。
+ガンジーの場合、これは負の攻撃性である-1に繋がる&lt;ref name="kotaku bug"&gt;{{cite web |url=https://kotaku.com/why-gandhi-is-such-an-asshole-in-civilization-1653818245 |title=Why Gandhi Is Such An Asshole In Civilization |author=Luke Plunkett |website=[[Kotaku]] |date=2016-02-03 |accessdate=2020-09-18 |lang=en }}&lt;/ref&gt;。
+しかし、攻撃性は0から255の範囲の値しか格納できない[[整数型|8ビットの符号なし整数型変数]]として格納されていた。
+そのため、負の値は[[算術オーバーフロー]]を引き起こし、値は255&lt;ref name="kotaku bug" /&gt;として格納され、ガンジーは最も攻撃性の高い指導者の25.5倍の攻撃性を持つようになった&lt;ref name="dtf probably myth" /&gt;。
+『シヴィライゼーション』の技術ツリーでは、一般的に[[核兵器]]は民主主義の後にアンロックされるため、インドが核武装するころには既にガンジーの攻撃性は急上昇していた。
+これによってインドは突然核ミサイルで他の文明を攻撃するようになった&lt;ref name="screenrant" /&gt;。
+このバグは後のバージョンで修正されたとされているが&lt;ref name="geek"&gt;{{cite web |url=http://www.geek.com/games/why-gandhi-is-always-a-warmongering-jerk-in-civilization-1608515/ |title=What caused Gandhi’s insatiable bloodlust in Civilization |author=James Plafke |website=[[Geek.com]] |date=2014-11-03 |accessdate=2020-09-18 |lang=en |archiveurl=https://web.archive.org/web/20160722112142/http://www.geek.com/games/why-gandhi-is-always-a-warmongering-jerk-in-civilization-1608515/ |archivedate=2016-07-22 }}&lt;/ref&gt;、開発者はこのバグをとても気に入ったので、[[イースター・エッグ (おまけ要素)|イースター・エッグ]]やジョークとして後のゲームに再実装することにした&lt;ref name="screenrant" /&gt;&lt;ref name="cambridge"&gt;{{cite journal |last1=Mol |first1=Angus A. A. |last2=Politopoulos |first2=Aris |last3=Ariese-Vandemeulebroucke |first3=Csilla E. |title='From the Stone Age to the Information Age': History and Heritage in Sid Meier's Civilization VI |journal=[[Advances in Archaeological Practice]] |date=2017 |volume=5 |issue=2 |pages=214–219 |doi=10.1017/aap.2017.9|doi-access=free }}&lt;/ref&gt;&lt;ref name="geek" /&gt;。
+他の情報源によれば、このバグは『[[シヴィライゼーション#シヴィライゼーションII|シヴィライゼーションII]]』で最初に現れた&lt;ref name="memoir" /&gt;。
+
+実際には、『シヴィライゼーションII』のリード[[ゲームクリエイター|ゲームデザイナー]]である{{仮リンク|ブライアン・レイノルズ (ゲームデザイナー)|en|Brian Reynolds (game designer)|label=ブライアン・レイノルズ}}によれば、『シヴィライゼーション』の攻撃性は3段階しかなく、ガンジーのAIは最も低い攻撃性だったが、それは全指導者の3分の1と同じだった。
+さらに、レイノルズは『シヴィライゼーション』のソースコードの記憶に基づいて、コードのこの部分には符号なし変数はなく、攻撃性が255の指導者は攻撃性が3の指導者と同じように行動するため、指導者は最も攻撃性の高い指導者より攻撃的に行動することはないと述べた&lt;ref name="dtf probably myth" /&gt;。
+[[シド・マイヤー]]によれば、『シヴィライゼーション』と『シヴィライゼーションII』のプログラミング言語である[[C言語|C]]と[[C++]]では全ての整数型変数はデフォルトで符号ありのため、ガンジーの攻撃性が-1に設定されていてもオーバーフローは発生しなかった。
+また、政治体制はAIの攻撃性に全く影響を与えないため、ガンジーの攻撃性はゲーム中ずっと同じままだった&lt;ref name="memoir" /&gt;。
+戦争中、インドは他の文明と同じように核兵器を使用することができたが、ガンジーが[[エイブラハム・リンカーン]]や他の平和的な指導者よりも頻繁に核兵器を使用することはなかった&lt;ref name="dtf myth history"&gt;{{cite web |url=https://dtf.ru/games/210957-istoriya-poyavleniya-mifa-o-yadernom-gandi-po-versii-samogo-sida-meyera |title=История появления мифа о «Ядерном Ганди» — по версии самого Сида Мейера |author=Алексей Афанасьев |website=[[DTF (website)|DTF]] |date=2020-09-16 |lang=ru |accessdate=2020-09-18 }}&lt;/ref&gt;&lt;ref name="memoir" /&gt;。
+この伝説の由来の1つとして考えられるのは、インドは平和的かつ科学的性質の文明のためほとんどの敵よりも前に核兵器を発見する傾向があることだ&lt;ref name="dtf myth history" /&gt;&lt;ref name="memoir" /&gt;。
+
+== ゲーム内での実装 ==
+[[File:Jon Shafer 2012.jpg|thumb|{{仮リンク|ジョン・シェーファー|en|Jon Shafer}}は『[[シヴィライゼーション#シヴィライゼーションV|シヴィライゼーションV]]』でガンジーを核兵器愛好家にした。]]
+『シヴィライゼーションIV』では、イースター・エッグとしてガンジーが核兵器を使用する傾向で「まだ」プログラムされているという誤解が広まっていたが、[[フィラクシス・ゲームズ|フィラクシス]]は意図してゲームにそのような動作を追加しなかった。
+最初に意図して核ガンジーを含ませたのは『[[シヴィライゼーション#シヴィライゼーションV|シヴィライゼーションV]]』だった。
+『シヴィライゼーションV』のリード[[ゲームデザイナー]]である{{仮リンク|ジョン・シェーファー|en|Jon Shafer}}はガンジーの「Build Nuke」と「Use Nuke」のパラメータを可能な限り高い値である12に設定した。
+シェーファーはジョークとしてこれを行ったと語った。「[[サティヤーグラハ]]を奨励するインドの政治家が隣人を核攻撃したいと思っているのではないかと想像するのは楽しい」。
+2010年にゲームがリリースされた後、プレイヤーはガンジーの似合わない行動に気づき、それは『[[ジ・エスケイピスト]]』のコミック『Critical Miss』で取り上げられた&lt;ref name="dtf myth history" /&gt;。
+プレイヤーは『シヴィライゼーションV』のガンジーを「サーモニュークリア」、「[[ロバート・オッペンハイマー|世界の破壊者]]」、「[[イーゴリ・クルチャトフ|クルチャトフ]]」と呼んだ&lt;ref&gt;{{cite web |url=https://overclockers.ru/softnews/show/78766/-razrushitel-mirov-gandi-vozglavlyaet-indiju-v-civilization-vi |title=«Разрушитель миров» Ганди возглавляет Индию в Civilization VI |author=Михаил Андреев |website=Overclockers.ru |date=2016-08-30 |lang=ru |accessdate=2020-09-21 }}&lt;/ref&gt;。
+
+[[File:Civilization V AI Chart.png|thumb|『[[シヴィライゼーション#シヴィライゼーションV|シヴィライゼーションV]]』のAI設定。ガンジーの「Build Nuke」と「Use Nuke」の支持が高くなっているのがよくわかる。]]
+ガンジーは実際に『シヴィライゼーションV』で最も平和的な指導者の一人だが、核兵器の製造と使用を管理する彼の[[コンピュータゲームにおける人工知能|AI]]のパラメータの値は12であり、これは指導者の中で最も高い値となっている。
+次に高い3人の指導者の値は8であり、ほとんどの指導者の値は4から6となっている&lt;ref name="kotaku bug" /&gt;。
+ゲームプレイに多様性を持たせるため、『シヴィライゼーションV』では各ゲームの開始時にそれぞれ-2から+2の間のランダムな値を加えてパラメータを調整する。ガンジーの場合、これは「Build Nuke」と「Use Nuke」のパラメータが最大の評価である10を下回ることは決してないことを意味する&lt;ref name="rappler"&gt;{{cite web |url=https://rappler.com/technology/features/civilization-vi-gandhi-nuke-tendencies-playthrough |title=In 'Civilization VI,' Gandhi might not be as nuke-happy anymore |author=Anton Dizon |website=[[Rappler]] |date=2016-11-14 |accessdate=2020-09-18 |lang=en }}&lt;/ref&gt;。
+
+『[[シヴィライゼーション#シヴィライゼーションVI|シヴィライゼーションVI]]』では、AIの挙動を調節する隠しアジェンダメカニズムを導入した。各リーダーには2つのアジェンダがあり、1つ目の各文明の歴史に基づいた一定のもので、2つ目は各ゲームの開始時にランダムで選択される。
+ガンジーの固定アジェンダは「平和の守り手」で、彼が戦争を始める可能性はとても低い。しかし、彼は2つ目のアジェンダとして「ニュークハッピー」を獲得する確率が高くなっている&lt;ref&gt;{{cite web |url=https://kotaku.com/gandhi-is-still-an-asshole-in-civilization-vi-1788710568 |title=Gandhi Is Still An Asshole In Civilization VI |author=Gita Jackson |website=[[Kotaku]] |date=2016-08-11  |accessdate=2020-09-21 |lang=en }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://overclockers.ru/softnews/show/105447/sid-mejer-oproverg-glavnyj-mif-serii-civilization |title=Сид Мейер опроверг главный миф серии Civilization |author=Михаил Андреев |website=Overclockers.ru |date=2020-09-09 |lang=ru |accessdate=2020-09-21 }}&lt;/ref&gt;。
+
+== ミームとしての成長 ==
+初代『シヴィライゼーション』が発売されてから21年後の2012年初頭、[[TV Tropes]]でTunafishという名前のユーザーが『シヴィライゼーション』にはガンジーを攻撃的にするバグが存在すると主張した。
+Tunafishが根拠を示すことはなかったものの{{R|memoir|dtf myth history}}、11月には同じ情報が[[ファンダム (会社)|Wikia]]に追加された&lt;ref name="memoir" /&gt;。
+[[シド・マイヤー]]によれば、その後の2年間でこの話はインターネット中に広がり、誰かがそれを疑うたびにwikiへのリンクが証拠として使われた&lt;ref name="dtf myth history" /&gt;。
+
+2014年には、[[Reddit]]のコメント欄にて、再投稿されたウェブコミック『Critical Miss』でなぜガンジーが攻撃的な人物として描かれているのかという議論を引き起こし、大きな注目を集めた&lt;ref name="dtf myth history" /&gt;。
+その10日後、ゲームニュースサイト『[[Kotaku]]』が「Why Gandhi Is Such An Asshole In Civilization」という記事を投稿し&lt;ref name="kotaku bug" /&gt;、他のニュースサイトやブログはこの情報を再掲載した{{R|memoir|dtf myth history}}。
+こうしたマスメディアや[[ブロゴスフィア]]の関心の高さから多くのシリーズファンがこの話を知り、「核ガンジー」はゲームの[[インターネット・ミーム]]やジョークとして一般的になった&lt;ref name="dtf myth history" /&gt;。
+また、[[マンデラ効果]]によって、多くの人が『シヴィライゼーション』シリーズの最初のゲームでインドに特に悩まされたことを思い出した&lt;ref name="dtf myth history" /&gt;。
+後に「核ガンジー」の情報が[[Know Your Meme]]に追加され、このバグは『[[シヴィライゼーション#シヴィライゼーションII|シヴィライゼーションII]]』で最初に現れたと記載された&lt;ref name="memoir" /&gt;。
+
+2019年6月18日、[[フィラクシス・ゲームズ]]のマーケティングマネージャーであるケビン・シュルツは中国への出張のため2週間オフラインになるという[[Twitter|ツイート]]を投稿し、「もし広く共有され再投稿されている、初代『シヴィライゼーション』でガンジーがバグによって核兵器を愛したという話が全くの嘘だったらどうする？」という問いについて考えることを提案した。
+これを受けて、元[[Eurogamer]]のコラムニストであるクリス・ブラットが[[調査報道]]を開始した&lt;ref name="dtf probably myth" /&gt;。
+
+ブラットは[[2K Games|2K]]の広報担当者に連絡を取り、[[フィラクシス・ゲームズ|フィラクシス]]の代表者とのインタビューを求めたが拒否された。その後、ブラットは元フィラクシスのゲームデザイナーである{{仮リンク|ブルース・シェリー|en|Bruce Shelley}}に連絡を取ったところ、彼は『シヴィライゼーション』の開発は30年前だったのでグリッチがあるかどうかは覚えていないと述べた。「ガンジーの問題はなんとなく覚えているが、話すべきなのはシド（マイヤー）だ」。
+次に、ブラットは『[[シヴィライゼーション#シヴィライゼーションII|シヴィライゼーションII]]』のリードゲームデザイナーである{{仮リンク|ブライアン・レイノルズ (ゲームデザイナー)|en|Brian Reynolds (game designer)|label=ブライアン・レイノルズ}}に連絡を取り、「Civ1のコードを見てから20年以上経っているが、それでもガンジーのバグは完全な作り話だと99.99%確信できる」という回答を得た。
+ブラットはもう一度2Kとシド・マイヤーに連絡を取ったが、直接的な反論はなかった。マイヤーは正解はわからないと述べたつつも、都市伝説については肯定的に受け止めており、「当時の限られた技術を考えると、オリジナルのCivは多くの点でプレイヤーの想像力を中心に行われたゲームだった」という理由から、「私の考えをあまりにも多く広めることで、そのプレイヤーが想像できることを制限するのは気が進まない」と述べている。
+ブラットは調査結果をYouTubeに投稿した&lt;ref name="dtf probably myth" /&gt;。
+
+その後、『[[Ars Technica]]』のインタビューでシド・マイヤーはガンジーのソフトウェアバグについての話は捏造されたものだと述べた&lt;ref name="dtf myth history" /&gt;。
+2020年9月8日、シド・マイヤーの自伝『Sid Meier's Memoir! A Life in Computer Games』が発売され、同著ではこの[[都市伝説]]ができるまでに至った背景が記されている&lt;ref name="dtf myth history" /&gt;&lt;ref name="pcgamesn" /&gt;&lt;ref name="ddd"&gt;{{cite web |url=https://3dnews.ru/1020272 |title=Создатель Sid Meier's Civilization развенчал миф о происхождении «ядерного» Ганди |author=Дмитрий Рудь |website=[[3DNews Daily Digital Digest|3DNews]] |date=2020-09-10 |lang=ru |accessdate=2020-09-18 }}&lt;/ref&gt;。
+
+== 影響 ==
+「核ガンジー」の都市伝説はゲームの歴史の中で最も知られている[[バグ]]の1つ&lt;ref name="dtf probably myth" /&gt;であり、多くのインターネット・ミームを生み出した&lt;ref name="cambridge" /&gt;。また、[[ハーバード大学]]の[[計算機科学|コンピュータサイエンス]]コースなどで算術オーバーフローの例として使われている&lt;ref name="dtf myth history" /&gt;。
+
+== 関連項目 ==
+*[[インドの核実験]]
+*[[メタルギアソリッドV|メタルギアソリッドV ファントムペイン]]
+**2015年のステルスゲーム。プレイヤーは核を開発、保有、破棄することができるが2018年2月2日、多数保有されたままで核廃絶イベントが発生、サーバーが不正な値を受信したため核保有数が0と認識されたと発表され、原因は全プレイヤーが開発した核保有数が21億4748万3647に達しており、それは32ビット符号付整数の最大値でオーバーフローした結果、不正な値の認識によりイベントが起こり、不正な核の大量生産で7FFFFFFFになったとみられている&lt;ref&gt;{{Cite web|url=https://automaton-media.com/articles/newsjp/20180214-62821/|title=『メタルギアソリッドV』の核廃絶イベント誤発動は「不正な値の受信」が原因。核兵器オーバーフロー説がより有力に|website=AUTOMATON|publisher=株式会社アクティブゲーミングメディア|date=2018-2-14|accessdate=2021-4-10}}&lt;/ref&gt;。
+*[[パロディ放送局 UHF]] - 劇中で映画[[ガンジー (映画)|ガンジー]]の架空の続編「ガンジー2」が登場し、出演するガンジーが極めて暴力的な行動を取るため、ミームとしてよく扱われる。
+
+== 脚注 ==
+{{reflist}}
+
+== 参考文献 ==
+* {{Cite book |last=Meier |first=Sid |title=Sid Meier's Memoir!: A Life in Computer Games |publisher=[[W. W. Norton &amp; Company|W. W. Norton]], 2020 |isbn=978-1-324-00587-2 |pages=261–266 }}
+
+== 外部リンク ==
+* [https://knowyourmeme.com/memes/nuclear-gandhi Nuclear Gandhi] - [[Know Your Meme]]
+
+{{DEFAULTSORT:かくかんしい}}
+[[Category:コンピュータゲーム・ミーム]]
+[[Category:都市伝説]]
+[[Category:マハトマ・ガンディー]]</text>
+      <sha1>bwrx5rg8ldsl68hwuih3k02ou4fk34q</sha1>
+    </revision>
+  </page>
+  

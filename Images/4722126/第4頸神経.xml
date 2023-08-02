@@ -1,0 +1,55 @@
+<page>
+    <title>第4頸神経</title>
+    <ns>0</ns>
+    <id>4722126</id>
+    <revision>
+      <id>94781693</id>
+      <parentid>93938918</parentid>
+      <timestamp>2023-04-14T20:38:08Z</timestamp>
+      <contributor>
+        <username>Cewbot</username>
+        <id>1094317</id>
+      </contributor>
+      <minor />
+      <comment>解消済み仮リンク[[呼吸停止]]を内部リンクに置き換えます (今回のBot作業のうち47.4%が完了しました)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2826" xml:space="preserve">{{Infobox anatomy
+| Name        = 頸神経&lt;br /&gt;{{small|Cervical spinal nerve}}
+| Latin       = Nervi spinalis
+| Image       = Sobo 1909 702.png
+| Caption     = 頸神経叢と腕神経叢の図譜
+| Image2      = Sobo 1909 611.png
+| Caption2    = 脊髄神経と脊髄
+| System      =
+| Precursor   =
+}}
+'''第4頸神経'''（'''だい４けいしんけい'''、'''Cervical spinal nerve 4'''）は、'''C4'''とも呼ばれる、[[頸椎|頸部]]の脊髄神経の一部である。
+
+== 解説 ==
+[[頸椎|第4頸椎]]（C4）上部の[[椎間孔]]を通り、[[脊髄]]から神経が伸びる。[[横隔膜|胸腹部横隔膜]]の[[運動神経]]である[[横隔神経]]に神経線維を供給している&lt;ref name=":0" /&gt;{{Rp|page=641|pages=000–000}}。横隔膜は[[呼吸]]に必須の筋肉であり、横隔神経麻痺を合併し、なおかつそれより低位の{{仮リンク|肋間筋|en|Intercostal muscles}}(呼吸に必要)の麻痺をも伴う、C3-5以上の高位[[脊髄損傷]]は[[呼吸停止]]を生じることが多い&lt;ref&gt;{{Cite journal|last=Brown|first=Robert|last2=DiMarco|first2=Anthony F|last3=Hoit|first3=Jeannette D|last4=Garshick|first4=Eric|date=2006-8|title=Respiratory Dysfunction and Management in Spinal Cord Injury|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2495152/|journal=Respiratory care|volume=51|issue=8|pages=853–870|issn=0020-1324|pmid=16867197|pmc=2495152}}&lt;/ref&gt;。
+
+また、[[頭長筋]]や[[頸長筋]]&lt;ref name=":0" /&gt;{{Rp|page=523|pages=000–000}}、[[前斜角筋]]&lt;ref name=":0" /&gt;{{Rp|page=523|pages=000–000}}、[[中斜角筋]]&lt;ref name=":0" /&gt;{{Rp|page=524|pages=000–000}}、[[肩甲挙筋]]&lt;ref name=":0" /&gt;{{Rp|page=78|pages=000–000}}に[[運動神経]]も供給している。
+
+C4は[[鎖骨]]上の皮膚からの感覚を担う{{仮リンク|鎖骨上神経|en|supraclavicular nerves}}にいくつかの[[感覚神経|感覚線維]]を供給している&lt;ref name=":0"&gt;{{Cite book|和書 |title=解剖学講義 |date=1994-05-30 |publisher=南山堂 |page= |author=伊藤隆 |isbn=4-525-10051-6}}&lt;/ref&gt;{{Rp|page=641|pages=000–000}}。
+
+== その他の画像 ==
+&lt;gallery&gt;
+File:Slide1y.JPG|第4頸神経（Cervical spinal nerve 4）
+File:Projectional radiograph of cervical foraminal stenosis, annotated.jpg|[[うなじ|後頸部]]と左肩の痛みを訴える男性の[[単純X線撮影|単純X線写真]]。加齢による退行性変化で'''第4頸神経'''の左椎間孔の狭窄を示し、患部[[デルマトーム]]と対応している。
+&lt;/gallery&gt;
+
+== 脚注 ==
+{{reflist}}
+
+== 外部リンク ==
+[http://www.bartleby.com/107/ Gray, Henry. 1918 (グレイの解剖学1918年版、パブリックドメイン). Anatomy of the Human Body]
+
+{{DEFAULTSORT:たい4けいしんけい}}
+[[Category:脊髄神経]]
+
+[[Category:名数4]]</text>
+      <sha1>lg226f86794f168dzml14mysb30mf2i</sha1>
+    </revision>
+  </page>
+  

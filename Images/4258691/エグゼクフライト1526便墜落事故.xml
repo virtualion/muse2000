@@ -1,0 +1,117 @@
+<page>
+    <title>エグゼクフライト1526便墜落事故</title>
+    <ns>0</ns>
+    <id>4258691</id>
+    <revision>
+      <id>95541803</id>
+      <parentid>94482003</parentid>
+      <timestamp>2023-06-08T21:56:34Z</timestamp>
+      <contributor>
+        <username>Bcxfubot</username>
+        <id>291984</id>
+      </contributor>
+      <minor />
+      <comment>外部リンクの修正  (www.news24.jp) ([[Wikipedia:Bot|Bot]]による編集)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20762" xml:space="preserve">{{Infobox aircraft occurrence
+|name             = エグゼクフライト 1526便
+| image = Execuflight Flight 1526 crash site.jpg
+| alt = 
+| caption = 1526便の墜落現場
+| occurrence_type = Accident
+| date = [[2015年]][[11月10日]]
+| summary =  [[パイロットエラー]]
+| site = {{USA}}・[[オハイオ州]][[アクロン (オハイオ州)|アクロン]]{{仮リンク|アクロン・エグゼクティブ空港|en|Akron Executive Airport}}の北東3.2km地点
+| coordinates = 
+| aircraft_type = [[ホーカー・シドレー HS.125|ブリティッシュ・エアロスペース BAe-125-700A]]
+| operator ={{Flagicon|USA}} [[エグゼクフライト]]
+|aircraft_name    = 
+| tail_number = {{Airreg|N|237WR}}
+| origin ={{Flagicon|USA}} {{仮リンク|デイトン-ライト・ブラザーズ空港|en|Dayton–Wright Brothers Airport}}
+| destination ={{Flagicon|USA}} {{仮リンク|アクロン・エグゼクティブ空港|en|Akron Executive Airport}}
+| passengers = 7
+| crew = 2
+| fatalities = 9（全員）
+| injuries = 0
+| survivors = 0
+}}
+'''エグゼクフライト1526便墜落事故'''は、[[2015年]][[11月10日]]に[[アメリカ合衆国]]で発生した航空事故である。
+
+{{仮リンク|デイトン-ライト・ブラザーズ空港|en|Dayton–Wright Brothers Airport}}から{{仮リンク|アクロン・エグゼクティブ空港|en|Akron Executive Airport}}へ向かっていたエグゼクフライト1526便（[[ホーカー・シドレー HS.125|ブリティッシュ・エアロスペース BAe-125-700A]]）が着陸進入中に墜落し、乗員乗客9人全員が死亡した&lt;ref&gt;{{cite web|title=Authorities confirm 9 dead in Ohio plane crash|url=https://www.usatoday.com/story/news/nation-now/2015/11/11/akron-ohio-plane-crash-apartment-building/75563492/|publisher=[[USAトゥデイ]]|accessdate=29 November 2020}}&lt;/ref&gt;&lt;ref name="nbc1"&gt;{{cite web|title=NTSB Blames Pilot Error for Ohio Jet Crash That Killed 9|url=https://www.nbcnews.com/news/us-news/ntsb-blames-pilot-error-ohio-jet-crash-killed-9-n668531|publisher=[[NBCニュース]]|accessdate=29 November 2020}}&lt;/ref&gt;&lt;ref name="asn"&gt;{{cite web|title=Accident description Execuflight Flight 1526|url=https://aviation-safety.net/database/record.php?id=20151110-1|publisher=[[Aviation Safety Network]]|accessdate=01 November 2020}}&lt;/ref&gt;。
+
+== 飛行の詳細 ==
+=== 事故機 ===
+[[File:Execuflight British Aerospace Hawker 700A N237WR in flight.jpg|thumb|事故機のN237WR]]
+事故機の[[ホーカー・シドレー HS.125|ブリティッシュ・エアロスペース BAe-125-700A]]（N237WR）は、1979年8月16日に製造番号257072として製造された。総飛行時間は14,948時間で、11,075サイクルを経験していた。搭載されたエンジンは[[ハネウェル・エアロスペース]]社製の[[ハネウェル TFE731|TFE731-3]]であった&lt;ref name="baaa"&gt;{{cite web|title=CRASH OF A BAE 125-700A IN AKRON: 9 KILLED|url=https://www.baaa-acro.com/crash/crash-bae-125-700a-akron-9-killed|publisher=[[Bureau of Aircraft Accidents Archives]]|accessdate=27 November 2020}}&lt;/ref&gt;{{sfn|report|pp=14-16}}。
+
+=== 乗員 ===
+機長は40歳のコロンビア人男性で、2015年6月4日にエグゼクフライトに雇われた。入社以前は{{仮リンク|アビアンカ・カーゴ|en|Avianca Cargo}}や[[Heralpin USA]]などで働いていた。2014年6月21日、機長は管制官の指示を無視して飛行を行ったとして強制措置が課せられた。是正訓練は同年12月24日に修了した。総飛行時間は6,170時間で、このうち3,414時間が機長としての乗務だった。HS-125では1,020時間の経験があり、670時間が機長としての経験だった&lt;ref name="baaa"/&gt;{{sfn|report|pp=7-9}}。Heralpin USAの発行した記録によれば、機長は[[ホーカー 800]]の訓練に参加しなかったため解雇されていた{{sfn|report|p=11}}。
+
+副操縦士は50歳のイタリア人男性で、2015年6月1日にエグゼクフライトに雇われた。入社以前は{{仮リンク|ソングバード航空|label=スカイ・キング|en|Songbird Airways}}などで働いていた。総飛行時間は4,382時間で、HS-125では482時間の経験があった&lt;ref name="baaa"/&gt;{{sfn|report|pp=9-10}}。スカイ・キングでは[[ボーイング737]]の副操縦士として雇用されたが、座学で暗記項目や重量、バランスなどの問題に対して苦労していた。また、シミュレーターではコールアウトなどにも問題があったため、オブザーバーとして実機に搭乗する機会が与えられた。しかし、その後もパフォーマンスは改善せず、飛行に必要な基準を大きく下回っていると評価されていた。そのため、副操縦士は5か月ほどでスカイ・キングを解雇されていた{{sfn|report|pp=11-12}}&lt;ref name="flight"&gt;{{cite web|title=Deadly Deceleration|url=https://flightsafety.org/asw-article/deadly-deceleration/|publisher=[[Flight Safety]]|accessdate=18 November 2020}}&lt;/ref&gt;。
+
+== 事故の経緯 ==
+事故機は国内非定期旅客便として運航されており、2日間で7区間を飛行する予定だった。搭乗していたのは[[ボカラトン]]に拠点を置くペブ・エンタープライズ (Pebb Enterprises) の幹部2人と従業員5人だった&lt;ref name="CBS"&gt;{{cite web|title=Sister: Plane crash victim was "excited" about business trip|url=https://www.cbsnews.com/news/recovery-efforts-set-for-victims-of-fiery-ohio-plane-crash/#app|publisher=[[CBSニュース]]|accessdate=29 November 2020}}&lt;/ref&gt;。事故前日の[[東部標準時|EST]]6時50分ごろ、事故機は{{仮リンク|フォートローダデール・エグゼクティブ空港|en|Fort Lauderdale Executive Airport}}を離陸した。[[ミネソタ州]][[セントポール (ミネソタ州)|セントポール]]、[[ミズーリ州]][[セントルイス]]を経由して19時55分ごろに[[オハイオ州]]{{仮リンク|シンシナティ市営ランケン空港|en|Cincinnati Municipal Lunken Airport}}へ着陸した。事故当日はシンシナティ市営ランケン空港から{{仮リンク|デイトン-ライト・ブラザーズ空港|en|Dayton–Wright Brothers Airport}}、{{仮リンク|アクロン・エグゼクティブ空港|en|Akron Executive Airport}}を経由してフォートローダデールへ戻る予定だった。11時33分ごろ、事故機はデイトン-ライト・ブラザーズ空港に着陸した。着陸後、パイロットたちは1526便としてアクロン・エグゼクティブ空港へ向かう飛行準備を開始した。空港に提出された計画書ではデイトンを13時30分に出発し、[[計器飛行方式]]でアクロンへ向かう予定だった。13時49分ごろ、乗客の搭乗が完了し、14時13分ごろに滑走路20から離陸した{{sfn|report|p=1}}。
+
+離陸後、1526便は{{convert|17,000|ft|m}}までの上昇を許可された{{sfn|report|pp=1-2}}。14時26分、パイロットは[[定時飛行場実況気象通報式|ASOS]]からアクロン・エグゼクティブ空港の気象情報を得るため周波数を設定し、視程10マイル、雲低{{convert|1,100|ft|m}}という情報を入手した。しかし、この時入力された周波数は誤っており、パイロットが得たのはアクロンから西南に108マイル離れた[[オハイオ州]]{{仮リンク|ランカスター (オハイオ州)|label=ランカスター|en|Lancaster, Ohio}}の{{仮リンク|フェアフィールド・カウンティ空港|en|Fairfield County Airport (Ohio)}}の気象情報だった{{efn|アクロン・エグゼクティブ空港のASOSの周波数は126.825で、フェアフィールド・カウンティ空港のASOSの周波数は118.375であった。118.375という周波数はデイトン-ライト・ブラザーズ空港のASOSと同じものであった{{sfn|report|p=2}}。}}。14時32分、インディアナポリス管制からクリーブランド管制と交信するよう指示され、パイロットは周波数を変更した。クリーブランド管制と交信を行った後、パイロットは滑走路25への[[計器着陸装置|ローカライザー]]進入についての会話を開始した。14時33分、乗客がコックピット内に入り、進入についての会話が一時的に中断された。副操縦士は数分なら居ても大丈夫だが、気が散ってしまうため出ていくように言い、進入についての会話を再開した。最低降下高度（MDA）についての議論が行われ、機長は{{convert|473|ft|m}}だと答えた{{efn|進入チャートにはMDAは1540'（473'）と記載されていた。これはMDAが標高{{convert|1,540|ft|m}}で、接地帯標高（TDZE）より{{convert|473|ft|m}}高いことを示している{{sfn|report|p=2}}。}}{{sfn|report|p=2}}。
+
+[[File:Execuflight Flight 1526 flight path.jpg|thumb|1526便の飛行経路（緑と黒の破線がグライドスロープ、赤線が1526便の経路、黄色線が地形を示す）]]
+[[File:Execuflight Flight 1526 wreckage 6.jpg|thumb|焼け焦げた1526便の残骸]]
+
+14時37分、自動気象通報によってアクロンの気象情報が読み上げられた。同時刻、パイロットはアクロン進入管制との交信を行い、{{convert|5,000|ft|m}}まで降下する許可を与えた。14時46分、管制官は小型機が進入中であるため{{convert|170|kn|km/h}}へ減速するよう指示し、{{convert|3,000|ft|m}}までの降下を許可した。この小型機のパイロットはMDAでようやく雲の下に出られたと報告していた&lt;ref name="nbc1"/&gt;。事故当時、空港付近では小雨と霧が報告されていた&lt;ref&gt;{{cite web|title=小型機が住宅に墜落、9人死亡か 米|url=https://news.ntv.co.jp/category/international/314571|publisher=[[日テレNEWS24]]|accessdate=13 December 2020}}&lt;/ref&gt;。1526便が{{convert|3,000|ft|m}}に達した時点で飛行速度は{{convert|280|kn|km/h}}だった。副操縦士は減速するため、着陸装置と[[高揚力装置|フラップ]]を展開した。これにより速度は{{convert|125|kn|km/h}}まで低下し、ピッチ角が5度から12度まで上がった{{efn|着陸装置とフラップを展開した状態で推奨される速度は{{convert|144|kn|km/h}}であった&lt;ref name="flight"/&gt;。}}。機長は副操縦士にピッチ角に注意するよう警告し、副操縦士は推力を上げることで機首を下げた。14時49分、滑走路25へのローカライザー進入が許可され、パイロットはMDAまでの降下を開始した。機長は着陸前のチェックリストを行ったが、完了はしなかった。機体が{{convert|2,300|ft|m}}付近を通過中に、副操縦士は毎分{{convert|2,000|ft|m}}という高い降下率で降下を行った。これは、副操縦士が進入中の高度が高すぎると判断したためと推測されている。この降下に対して機長は数度に渡って警告した。14時52分13秒ごろ、1526便はMDAの{{convert|1,540|ft|m}}付近まで降下したが、機体はそのまま降下し続けた。MDAに達した時点で速度は推奨される速度より{{convert|11|kn|km/h}}遅く、[[着陸復航]]を行うべきだったがパイロットは進入を継続した。副操縦士は降下を止めるため機首を上げた。14時52分27秒、[[失速警報装置|スティックシェイカー]]が作動した。この時の対気速度は{{convert|98|kn|km/h}}で、ピッチ角は21度だった。5秒後には[[対地接近警報装置]]も作動し、さらに2秒後に最初の衝撃音が記録された。1526便は、左に傾きながら電線に接触し、空港の北東3.2km地点のアパートに衝突した。墜落により火災が発生し、アパートと車2台などに延焼した{{sfn|report|pp=2-7}}&lt;ref name="flight"/&gt;。
+
+当初、激しい火災により機体に何人が搭乗していたか確認できず、少なくとも2人が死亡したと報じられた&lt;ref&gt;{{cite web|title=7 on Business Trip Among Dead in Akron Plane Crash|url=https://www.nytimes.com/2015/11/12/us/ohio-plane-crash-deaths.html|publisher=[[ニューヨーク・タイムズ]]|accessdate=29 November 2020}}&lt;/ref&gt;&lt;ref name="ny1"&gt;{{cite web|title=Private Jet Hits Building in Ohio, Killing at Least 2|url=https://www.nytimes.com/2015/11/11/us/private-jet-hits-building-in-ohio-killing-at-least-2.html?action=click&amp;module=RelatedCoverage&amp;pgtype=Article&amp;region=Footer|publisher=[[ニューヨーク・タイムズ]]|accessdate=29 November 2020}}&lt;/ref&gt;。後に7人の乗客が搭乗していたことが確認され、死者数が9人に訂正された。搭乗者のうち乗客5人は衝撃により死亡し、他1人とパイロットは煙の吸引や火傷などで死亡した&lt;ref name="flight"/&gt;。幸い、衝突したアパートや建物は事故当時いずれも無人で、地上で事故に巻き込まれた者は居なかった&lt;ref name="cnn"&gt;{{cite web|title=Akron plane crash: Shock, horror after plane slams into apartment building|url=https://edition.cnn.com/2015/11/11/us/akron-ohio-plane-crash/index.html|publisher=[[CNN]]|accessdate=29 November 2020}}&lt;/ref&gt;。現場付近の8軒の家の住人は一時的な避難を強いられた&lt;ref name="abc"&gt;{{cite web|title=7 of 9 Killed in Akron Plane Crash From Same Florida Real Estate Firm|url=https://abcnews.go.com/US/people-confirmed-dead-akron-plane-crash/story?id=35129090|publisher=[[ABCニュース (アメリカ)|ABCニュース]]|accessdate=29 November 2020}}&lt;/ref&gt;。また、墜落時に電線が切断されたため、現場付近の地域で停電が発生し、数百世帯が影響を受けた&lt;ref name="ny1"/&gt;。[[赤十字]]は、被害を受けた世帯の人々に対して炊き出しなどの提供を行った&lt;ref name="cnn2"&gt;{{cite web|title=小型機の墜落事故、乗員乗客９人死亡を確認　米オハイオ州|url=https://www.cnn.co.jp/usa/35073410.html|publisher=[[CNN]]|accessdate=13 December 2020}}&lt;/ref&gt;。警察によれば、事故により11世帯が被害を受け、家を失った&lt;ref&gt;{{cite web|title=小型機が住宅に墜落、9人死亡 米オハイオ州|url=https://www.afpbb.com/articles/-/3066164?act=all|publisher=[[フランス通信社|AFP]]|accessdate=13 December 2020}}&lt;/ref&gt;。
+
+== 事故調査 ==
+[[国家運輸安全委員会]]（NTSB）が事故調査を行った。NTSBは当初、機械的故障が事故原因の可能性があると述べていた&lt;ref name="abc"/&gt;。
+=== 重量の計算 ===
+事故機の運航重量は{{convert|14,276.92|lbs|kg}}だったが、重量計算には{{convert|13,815|lbs|kg}}の[[空虚重量]]が用いられていた。また、乗客は1人あたり{{convert|200|lbs|kg}}の体重としており、手荷物は1人あたり{{convert|250|lbs|kg}}としていた。[[連邦航空局]]（FAA）は乗客と手荷物の重量計算には、実際に計測した値に{{convert|10|lbs|kg}}足したものを適用するよう推奨していた。エグゼクフライトの担当者は、機内に測定用の重量計が載せられていたと証言した。NTSBは離陸時の重量を再計算し、{{convert|23,786|lbs|kg}}程度だったと推測した。これは、最大離陸重量の{{convert|25,500|lbs|kg}}を下回っていた。また、着陸時の重量は{{convert|22,286|lbs|kg}}であったとされた。これは、最大着陸重量を{{convert|286|lbs|kg}}上回っていた{{sfn|report|pp=14-16}}。
+
+=== 分析 ===
+1526便の最後の瞬間を現場付近の監視カメラが捉えていた。映像には機体が左に傾きながら低空を飛行し、アパートに激突する様子が記録されていた&lt;ref name="CBS"/&gt;&lt;ref name="cnn"/&gt;&lt;ref name="cnn2"/&gt;。目撃者は、機体のエンジンは作動しており、轟音を発していたと証言した&lt;ref name="nbc2"&gt;{{cite web|title=Deaths Confirmed as Small Plane Crashes in Akron, Ohio|url=https://www.nbcnews.com/news/us-news/small-plane-crashes-akron-ohio-apartment-complex-n460891|publisher=[[NBCニュース]]|accessdate=29 November 2020}}&lt;/ref&gt;。
+
+[[連邦航空局]]（FAA）の手順では、アクロンの進入管制官はパイロットが気象情報を入手しているか確認する必要があったが、管制官はこれをしていなかった。しかし、パイロットたちは自動気象通報によってアクロンの気象情報を得ていたため、この管制官の行動は事故に寄与しなかったとNTSBは断定した{{sfn|report|p=38}}。
+
+[[File:Execuflight Flight 1526's Cockpit Voice Recorder.jpg|thumb|現場から回収されたCVR]]
+
+空港への降下中、機体は{{convert|298|kn|km/h}}という高速で飛行していた。これは、{{convert|10,000|ft|m}}以下を飛行する際に定められている上限の{{convert|250|kn|km/h}}を{{convert|48|kn|km/h}}上回っていた。[[ブラックボックス (航空)#コックピットボイスレコーダー(CVR)|コックピットボイスレコーダー]]（CVR）の記録によれば、パイロットがこのことについて話し合った様子はなく、速度超過に陥っていることに気づいていなかった可能性が指摘された。また、CVRによればパイロットは着陸進入に関するブリーフィングやチェックリストを行っていたがどちらも完了はしておらず、いくつかの重要項目の確認も怠っていた{{sfn|report|pp=38-40}}。
+
+=== 事故原因 ===
+NTSBは、パイロットが着陸進入において機体を適切に管理できなかったこと、標準的な手順を逸脱した複数の操作を行ったため、MDAを下回る高度まで降下し、機体が失速した。また、エグゼクフライトによるパイロットの雇用や訓練が不十分であったことや、FAAによるエグゼクフライトへの監視が不足していたことが事故に寄与したと結論付けた{{sfn|report|p=72}}。
+
+この事故を受けてNTSBは13の安全勧告を発行した&lt;ref name="asn"/&gt;。
+
+== 事故後 ==
+事故後、エグゼクフライトは管制官のミスが事故の要因になった可能性を指摘し、また同社の社長は管制官が飛行高度の監視を怠っていたと述べた。しかしNTSBは管制官の行動は事故に寄与しなかったと最終報告書で結論付けた&lt;ref name="ain"&gt;{{cite web|title=Lessons Learned From Execuflight Accident, Says Company President|url=https://www.ainonline.com/aviation-news/business-aviation/2017-06-05/lessons-learned-execuflight-accident-says-company-president|publisher=[[AINOnline]]|accessdate=18 November 2020}}&lt;/ref&gt;。
+
+一方、同社の元パイロットの男性がNTSBの聞き取り調査で会社から虚偽の証言をするよう要求されたと話した。この男性は、会社が重量などの飛行記録の改竄を行っていたと証言した&lt;ref name="news5"&gt;{{cite web|title=Former ExecuFlight captain says company lied, altered documents after Akron plane crash|url=https://www.news5cleveland.com/news/local-news/oh-summit/former-execuflight-captain-says-company-changed-and-destroyed-documents-after-akron-plane-crash|publisher=[[WEWS-TV]]|accessdate=18 November 2020}}&lt;/ref&gt;。
+
+エグゼクフライトの社長はNTSBの報告書に対してほとんど同意せず、実際の問題には触れられていないと述べた&lt;ref name="ain"/&gt;。
+
+== 映像化 ==
+* [[メーデー!:航空機事故の真実と真相]] 第19シーズン第2話「Playing Catch Up」
+
+== 脚注 ==
+=== 注釈 ===
+{{Reflist|group="注釈"|refs=}}
+=== 出典 ===
+{{reflist}}
+
+== 参考文献 ==
+* {{Citation|author=[[国家運輸安全委員会]]|title=Crash  During  Nonprecision  Instrument Approach  to  Landing Execuflight  Flight 1526 British  Aerospace  HS 125700A,  N237WR Akron,  Ohio November  10,  2015|url=https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1603.pdf|year=2016|language=English|format=PDF|ref={{sfnref|report}}}}
+
+{{2015年の航空事故一覧}}
+
+{{DEFAULTSORT:えくせくふらいと1526ひんついらくしこ}}
+[[Category:アメリカ合衆国で発生した航空事故]]
+[[Category:パイロットエラーによる航空事故]]
+[[Category:2015年の航空事故]]
+[[Category:2015年のアメリカ合衆国]]
+[[Category:オハイオ州の交通事故]]
+[[Category:2015年11月]]
+[[Category:アメリカ合衆国の災害 (1990年-)]]
+[[Category:アクロン (オハイオ州)]]</text>
+      <sha1>h2ea28a0kw04wqn2nre03v7h9gkq2hl</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,145 @@
+<page>
+    <title>キャプスタン方程式</title>
+    <ns>0</ns>
+    <id>3965762</id>
+    <revision>
+      <id>95111656</id>
+      <parentid>92316297</parentid>
+      <timestamp>2023-05-08T01:29:28Z</timestamp>
+      <contributor>
+        <ip>153.156.15.104</ip>
+      </contributor>
+      <comment>誤記</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9930" xml:space="preserve">[[File:Capstan equation diagram.svg|thumb|right|220px]]
+[[File:Example, no knowledge of capstan equation.png|thumb|キャプスタン方程式の知識があればよかった事例。曲がった白色の管にはカーテンを上げ下げするための紐が通っているが、管は2か所で40度ほど曲がっている。青い線のように設計すればより効率的であった。]]
+[[File:Capstans on a tall ship.png|thumb|right|トールシップで帆を揚げるのにハンドキャプスタン、パワードキャプスタンが使用されている例。]]
+
+'''キャプスタン方程式'''（キャプスタンほうていしき、{{Lang-en-short|capstan equation}}）、別称'''ベルト摩擦方程式'''（{{Lang-en-short|belt friction equation}}）、'''アイテルワインの公式'''（{{Lang-en-short|Eytelwein's formula}}）&lt;ref&gt;http://www.atp.ruhr-uni-bochum.de/rt1/currentcourse/node57.html&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=http://www.jrre.org/att_frict.pdf |title=Archived copy |access-date=2010-08-27 |archive-url=https://web.archive.org/web/20100821151812/http://www.jrre.org/att_frict.pdf |archive-date=2010-08-21 |dead-url=yes |df= }}&lt;/ref&gt;は、しなやかなロープが[[ボラード]]、[[ウインチ]]、[[キャプスタン]]等の円筒に巻き付けられているときに、荷重による張力（load-force）と巻き取りの張力（hold-force）とを結びつける等式である&lt;ref name=Johnson&gt;{{cite book | last = Johnson | first = K.L. | title = Contact Mechanics | url = http://www.knovel.com/web/portal/browse/display?_EXT_KNOVEL_DISPLAY_bookid=2685 | format = PDF | accessdate = February 14, 2011 | year = 1985}}&lt;/ref&gt;
+&lt;ref name=Attaway&gt;{{cite conference | last = Attaway | first = Stephen W. | title = The Mechanics of Friction in Rope Rescue | url = http://www.jrre.org/att_frict.pdf | format = PDF | accessdate = February 1, 2010 | conference = International Technical Rescue Symposium | year = 1999 | archive-url = https://web.archive.org/web/20100821151812/http://www.jrre.org/att_frict.pdf | archive-date = August 21, 2010 | dead-url = yes | df = mdy-all }}&lt;/ref&gt;。
+
+張力と摩擦力が作用しあうため、キャプスタンに巻かれたロープにかかる張力は両端で異なっていると考えられ、小さな張力を他端においてより大きな力に変えることができる。これがキャプスタン型の器械の原理である。
+
+手動キャプスタンはラチェット型の機構で、一方向にしか回転しない。一旦その方向へ動き出せば、ぐっと小さな力で引っ張ることができる。パワードキャプスタン（ウインチとも呼ばれる）は回転によってロープとキャプスタンの間の摩擦を増大させるものである。[[トールシップ]]では手動キャプスタンとパワードキャプスタンが併せて用いられる。小さい力で重い帆が揚げられるようにし、またパワードキャプスタンからのロープの取り外し、ロープ解きが簡単にできるようになっている。
+
+トップロープクライミングと呼ばれる[[ロッククライミング]]で、体重の軽い人間がより重い人間を支える（ビレイする）ことができるのはこの効果のためである。
+
+公式は次の通り。
+:&lt;math&gt;T_\text{load} = T_\text{hold}\   e^{  \mu \phi}&lt;/math&gt;
+ここで &lt;math&gt;T_\text{load}&lt;/math&gt; はロープに加わる張力、&lt;math&gt;T_\text{hold}&lt;/math&gt; はそれによりキャプスタンの反対側で生じる力である。&lt;math&gt;\mu&lt;/math&gt; はロープとキャプスタンの間の[[摩擦|摩擦係数]]、&lt;math&gt;\phi&lt;/math&gt; はロープが巻かれたトータルの角度（単位はラジアン、つまりちょうど1周ならば &lt;math&gt;\phi =2\pi&lt;/math&gt; ）。
+
+この公式が成り立つにはいくつかの仮定が必要である：
+# ロープは滑り落ちる寸前であるとする。つまり &lt;math&gt;T_\text{load}&lt;/math&gt; が巻き取ることのできる最大の荷重になっている。より軽い荷のときも巻き取りは可能で、その場合は「実効的」な接触角 &lt;math&gt;\phi&lt;/math&gt; がより小さくて済む。
+# ロープが剛体でないことは重要である。そのような場合、かなりの力がロープを円筒にきつく巻き付けるための折り曲げに費やされてしまう（この場合方程式を修正する必要がある）。例えば{{仮リンク|ボーデンケーブル|en|Bowden cable}}にはある程度剛性があり、キャプスタン方程式の原理には従わない。
+# ロープは非[[弾性]]的である。
+
+式から、得られる力は摩擦係数、円筒のまわりの巻き数、接触角度とともに[[指数関数的成長|指数関数的に増大]]することがわかる。「円筒の半径は得られる力に何ら関係しない」ことに注意する。
+
+次の表は巻き数と摩擦係数 ''μ'' に対する &lt;math&gt;e^{  \mu \phi} &lt;/math&gt;  の値を示す。
+{| class="wikitable" style="text-align:right;"
+|-
+! rowspan="2" | 巻き数 !! colspan="7" | 摩擦係数 ''μ''
+|-
+! scope="col" | 0.1
+! scope="col" | 0.2
+! scope="col" | 0.3
+! scope="col" | 0.4
+! scope="col" | 0.5
+! scope="col" | 0.6
+! scope="col" | 0.7
+|-
+! scope="row" | 1
+| 1.9 || 3.5 || 6.6 || 12 || 23 || 43 || 81
+|-
+! scope="row" | 2
+| 3.5 || 12 || 43 || 152 || 535 || {{gaps|1|881}} || {{gaps|6|661}}
+|-
+! scope="row" | 3
+| 6.6 || 43 || 286 || {{gaps|1|881}} ||  {{gaps|12|392}}|| {{gaps|81|612}}|| {{gaps|437|503}}
+|-
+! scope="row" | 4
+| 12 || 152 || {{gaps|1|881}} || {{gaps|23|228}} || {{gaps|286|751}} || {{gaps|3|540|026}} || {{gaps|43|702|631}}
+|-
+! scope="row" | 5
+| 23 || 535 || {{gaps|12|392}} || {{gaps|286|751}} || {{gaps|6|635|624}} || {{gaps|153|552|935}} || {{gaps|3|553|321|281}}
+|}
+
+この表から、シート（sheet, ヨット等の帆船で、セイルを調節できる側のロープを指す）が3回より多くウインチに巻き付けられているのを見ることがほとんどないのは何故か、はっきりと分かる。得られる力は急激に大きくはなるが、他方で副産物が伴う。というのも、巻き付けによって絡まりやコブができ、（テールでたゆみを作って）力を緩めてもロープが送り出されなくなるリスクがあるからである。
+
+== 導出 ==
+[[File:Capstan force diagram 4.jpg|thumb|right|ロープとキャプスタンの間の力]]
+
+最初のステップは、キャプスタンに巻き付くロープの任意の点での、半径方向の力（垂直抗力） &lt;math&gt; F &lt;/math&gt;（ニュートン毎ラジアン） を図に示すような張力 &lt;math&gt; T &lt;/math&gt;（ニュートン）と結び付けることである。キャプスタンがロープに与える y 軸上向きの力 &lt;math&gt; F &lt;/math&gt; は、ロープの張力の y 軸下向き成分 &lt;math&gt; T_\text{load} \sin(\varphi)&lt;/math&gt; と等しい。
+
+:&lt;math&gt; F  = T_\text{load} \sin (\varphi)&lt;/math&gt;
+
+&lt;math&gt; \varphi&lt;/math&gt; を0に近づけるとき（微小角度近似）、&lt;math&gt; \sin(d\varphi)= d\varphi &lt;/math&gt; となり、
+:&lt;math&gt;T_\text{hold} = T_\text{load}  = T &lt;/math&gt; 
+:&lt;math&gt; F=T d\varphi &lt;/math&gt;
+
+よって角度 &lt;math&gt; d\varphi &lt;/math&gt; の間にはたらく摩擦力は
+
+:&lt;math&gt; \mu {F}  = \mu {T} d\varphi  &lt;/math&gt; （&lt;math&gt; \mu &lt;/math&gt; は摩擦係数）
+
+となる。角度 &lt;math&gt; d\varphi &lt;/math&gt; の間の張力の増し高 &lt;math&gt; dT &lt;/math&gt; はこの区間にはたらく摩擦力に等しいから
+
+:&lt;math&gt;   dT=\mu {T} d\varphi   &lt;/math&gt;
+
+:&lt;math&gt;   \frac{1}{T}dT=\mu d\varphi   &lt;/math&gt;
+
+両辺を積分して
+
+: &lt;math&gt;\int_{T_\text{hold}}^{T_\text{load}} \frac{1}{T} \;{dT} = \int_0^\phi \mu \; {d}\varphi&lt;/math&gt;
+
+: &lt;math&gt;\ln T_\text{load} - \ln T_\text{hold} = \ln\frac{T_\text{load}}{T_\text{hold}} = \mu \phi&lt;/math&gt;
+
+両辺の指数をとって
+
+: &lt;math&gt;\frac{T_\text{load}}{T_\text{hold}}={e}^{\mu \phi}&lt;/math&gt;
+
+最終的に次式が得られる。
+
+: &lt;math&gt; T_\text{load} = T_\text{hold}{e}^{\mu \phi} &lt;/math&gt;
+
+== キャプスタン方程式のVベルトへの一般化 ==
+
+[[Vベルト]]に対するベルト摩擦方程式は
+
+: &lt;math&gt; T_\text{load} = T_\text{hold}{e}^{\mu \phi / \sin( \alpha / 2 )} &lt;/math&gt;
+
+ここで &lt;math&gt;\alpha&lt;/math&gt; はVベルトが相対する[[滑車|プーリー]]を挟む2枚のベルトがなす角（ラジアン）である&lt;ref name="moradmand"/&gt;。&lt;math&gt;\alpha = \pi&lt;/math&gt; のところで効果的になる。
+
+Vベルトや複数のVベルトが組み合わさった[[サーペンタインベルト]]では、負荷が増すにつれてベルトがプーリーの溝に食い込んでいき（wedge into, くさびのようになり）、これがトルクの伝動効率を高めている&lt;ref&gt;
+Alexander Slocum.
+[http://web.mit.edu/2.75/fundamentals/FUNdaMENTALs%20Book%20pdf/FUNdaMENTALs%20Topic%205.PDF "FUNdaMENTALS of Design"].
+2008.
+page 5-9.
+&lt;/ref&gt;。
+
+同じ力を伝動をするのに、Vベルトは平ベルトと比べて張力がより小さくて済み、軸受の寿命を長くすることができる&lt;ref name="moradmand"&gt;
+Jamshid Moradmand; Russell Marcks; Tom Looker.
+[http://statics.marcks.cc/friction/pdf/belt_friction.pdf "Belt and Wrap Friction"].
+&lt;/ref&gt;。
+
+==関連項目==
+*{{仮リンク|ベルト摩擦|en|Belt friction}}
+*{{仮リンク|摩擦接触力学|en|Frictional contact mechanics}}
+
+==脚注==
+{{reflist}}
+
+==さらに詳しく==
+* Arne Kihlberg, Kompendium i Mekanik för E1, del II, Göteborg 1980, 60–62. （アーネ・キールベルク『力学概論（E1向け、第2部）』、イェーテボリ）
+
+==外部リンク==
+* [http://www.fxsolver.com/browse/formulas/Capstan+equation+%28+belt+friction+equation%29 Capstan equation calculator]
+
+{{DEFAULTSORT:きやふすたんほうていしき}}
+[[Category:力学]]
+[[Category:力 (自然科学)]]
+[[Category:トライボロジー]]</text>
+      <sha1>k74i3xepbt40z86xcbh7vnqhhlz06zo</sha1>
+    </revision>
+  </page>
+  
