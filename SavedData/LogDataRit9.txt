@@ -1,0 +1,9 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+1	Images/3881524/sec0/sec0_01.jpg,Wooden_thin2	4	7.7	-15.6	0,11.09834,0	1.4	1	18
+2	Images/3881524/sec1/sec1_01.jpg,Wooden_thin2	4	7.7	0	0,11.09834,0	1.4	1	19
+3	Images/3881524/sec1/sec1_02.jpg,Wooden_thin2	4	7.7	15.6	0,11.09834,0	1.4	1	20
+4	Images/3881524/sec2/sec2_01.jpg,Wooden_thin2	4	7.7	-15.6	0,11.09834,0	1.4	2	21
+5	Images/3881524/sec3/sec3_01.jpg,Wooden_thin2	4	7.7	0	0,11.09834,0	1.4	2	22
+6	Images/3881524/sec4/sec4_01.jpg,Wooden_thin2	4	7.7	15.6	0,11.09834,0	1.4	2	23
+7	Images/3881524/sec5/sec5_01.jpg,Wooden_thin2	4	7.7	-15.6	0,11.09834,0	1.4	3	24
+8	Images/3881524/sec6/sec6_01.jpg,Wooden_thin2	4	7.7	0	0,11.09834,0	1.4	3	25

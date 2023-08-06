@@ -1,0 +1,2 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+4	Images/2067454/sec0/sec0_01.jpg,Metal	0	0	0	0,0,0	1	1	4
