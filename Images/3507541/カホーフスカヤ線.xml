@@ -1,0 +1,94 @@
+<page>
+    <title>カホーフスカヤ線</title>
+    <ns>0</ns>
+    <id>3507541</id>
+    <revision>
+      <id>83880786</id>
+      <parentid>77856282</parentid>
+      <timestamp>2021-06-05T22:41:08Z</timestamp>
+      <contributor>
+        <username>Rural City</username>
+        <id>1595813</id>
+      </contributor>
+      <comment>/* top */ 読み</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3108" xml:space="preserve">{{Infobox 鉄道路線
+|路線名=カホーフスカヤ線
+|路線色=#8ED1C0
+|画像=MM L11a - Kakhovskaya.png
+|画像サイズ=300px
+|画像説明=カホーフスカヤ線（赤線）
+|国={{RUS}}
+|路線網=[[モスクワ地下鉄]]
+|起点=[[カシールスカヤ駅]]
+|終点=[[カホーフスカヤ駅]]
+|駅数=3駅
+|開業=[[1969年]][[8月11日]]（移管は[[1995年]][[11月20日]]）
+|廃止=
+|所有者=
+|運行者=モスクワ市地下鉄公社
+|路線距離=3.3 km
+|軌間=1,520 mm ([[広軌]])
+|線路数=
+|電化方式=直流825V 第三軌条方式
+|最高速度=
+}}
+'''カホーフスカヤ線'''（カホーフスカヤせん、{{Lang-ru|'''Кахо́вская ли́ния'''}}）は[[モスクワ地下鉄]]の路線の一つである。[[1965年]]にモスクワ地下鉄の2号線（[[ザモスクヴォレーツカヤ線|ゴルコフスコ・ザモスクヴォレーツカヤ線]]）の一部として開通し、1995年に「[[大環状線 (モスクワ地下鉄)|11号線]]」として分離された。現在は'''モスクワ地下鉄11A号線'''として扱われ、[[カシールスカヤ駅]]（{{lang|ru|Каширская}}）と[[カホーフスカヤ駅]]（{{lang|ru|Каховская}}）を結ぶ。総延長距離は3.3km、3つの駅がある。
+[[2019年]]3月より、[[ウーリツァ・ナヴァトロフ駅]]({{lang|ru|Улица Новаторов}})への延伸工事のため休業している。
+
+== 駅 ==
+* [[カシールスカヤ駅]]（{{lang|ru|Каширская}}）
+* [[ワルシャフスカヤ駅]]（{{lang|ru|Варшавская}}）
+* [[カホーフスカヤ駅]]（{{lang|ru|Каховская}}）
+
+== 開業年次 ==
+{| class="wikitable" cellpadding="3" style="border-collapse: collapse; text-align: left;"
+|-
+!駅!!開業年!!距離
+|-
+|style="text-align: left;"|[[アフトザヴォーツカヤ駅]] - [[カホーフスカヤ駅]]
+|1969-08-11
+|9.5&amp;nbsp;km
+|-
+|style="text-align: left;"|[[アフトザヴォーツカヤ駅]] - [[カシールスカヤ駅]]
+|1995-11-20
+|&lt;nowiki&gt;-&lt;/nowiki&gt; 6.1&amp;nbsp;km &lt;ref&gt;この区間は2号線に残留&lt;/ref&gt;
+|-
+|style="text-align: left;"|'''合計'''
+|'''3駅'''
+|'''3.4&amp;nbsp;km'''
+|}
+
+== 乗換 ==
+{|class="wikitable"
+|-
+!!!接続路線!!乗換駅
+|-
+|[[File:Moskwa Metro Line 2.svg|22px|link=|alt=2|2]]
+|style="text-align: left;"|[[ザモスクヴォレーツカヤ線]]
+|[[カシールスカヤ駅]]
+|-
+|[[ロシア鉄道|ロシア国鉄]]
+|style="text-align: left;"|{{仮リンク|モスクワ・パヴェレツ鉄道|ru|Павелецкое направление Московской железной дороги}}
+|[[ワルシャフスカヤ駅]]
+|-
+|[[File:Moskwa Metro Line 9.svg|22px|link=|alt=9|9]]
+|style="text-align: left;"|[[セルプホーフスコ＝チミリャーゼフスカヤ線]]
+|[[カホーフスカヤ駅]]
+|}
+
+== 脚注 ==
+{{Reflist}}
+
+{{Commons|Kakhovskaya Line|カホーフスカヤ線}}
+
+{{モスクワ地下鉄}}
+{{大環状線 (モスクワ地下鉄)}}
+{{カホーフスカヤ線}}
+{{デフォルトソート:かほおふすかやせん}}
+[[Category:モスクワ地下鉄]]</text>
+      <sha1>l0zs1n1b0y26iri28wktzf41eedhzv1</sha1>
+    </revision>
+  </page>
+  

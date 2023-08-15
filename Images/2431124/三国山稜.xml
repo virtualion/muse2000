@@ -1,0 +1,143 @@
+<page>
+    <title>三国山稜</title>
+    <ns>0</ns>
+    <id>2431124</id>
+    <revision>
+      <id>92562526</id>
+      <parentid>80537888</parentid>
+      <timestamp>2022-11-23T12:15:29Z</timestamp>
+      <contributor>
+        <username>Cewbot</username>
+        <id>1094317</id>
+      </contributor>
+      <minor />
+      <comment>[[Special:Diff/92554215#山記事のカテゴリの貼り替え及び追加|Bot作業依頼]]: [[Category‐ノート:大陸別の山#再編提案（2022年11月）|山記事のカテゴリの貼り替え及び追加]] (Category:山岳名目録) - [[User:Cewbot/log/20190913|log]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5059" xml:space="preserve">{{混同|三国山脈}}
+{{山系
+|名称=三国山稜
+|所在地=[[神奈川県]]・[[静岡県]]・[[山梨県]]
+|画像=[[File:Mikuni Ridge and Mt.Fuji 01-2.jpg|300px]]
+&lt;imagemap&gt;
+File:Mikuni Ridge map 01.gif|300px|
+rect 624 62 770 104 [[菰釣山|菰釣山（こもつるしやま）]]
+rect 431 102 551 140 [[石割山|石割山（いしわりやま）]]
+rect 556 267 694 317 [[三国山 (神奈川県・山梨県・静岡県)|三国山（みくにやま）]]
+rect 301 305 449 359 [[籠坂峠|籠坂峠（かごさかとうげ）]]
+rect 16 390 150 436 [[富士山|富士山（ふじさん）]]
+rect 90 466 216 507 [[宝永山|宝永山（ほうえいざん）]]
+poly 403 199 374 234 378 253 442 269 485 269 537 231 528 196 495 223 450 201 [[山中湖|山中湖（やまなかこ）]]
+&lt;/imagemap&gt;
+|画像キャプション=上：[[鉄砲木ノ頭]]より見た三国山稜 （2011年11月撮影）&lt;br&gt;下：丹沢山地-富士山系における三国山稜の位置
+|上位山系 = [[丹沢山地]]
+|延長=7
+|最高峰=[[大洞山 (山梨県・静岡県)|大洞山]]
+|標高=1,383.&lt;small&gt;5&lt;/small&gt;
+}}
+'''三国山稜'''（みくにさんりょう）は、[[神奈川県]]・[[山梨県]]・[[静岡県]]の3県境にある[[三国山 (神奈川県・山梨県・静岡県)|三国山]]から[[富士山]]東麓の[[籠坂峠]]へ伸びる延長約7kmの[[尾根]]である。
+
+==概要==
+富士山と[[丹沢山地]]をつなぐ起伏の少ない尾根で、広義の丹沢山地に含まれる。標高は1,300m前後で、三国山以東は神奈川・静岡県境尾根、以北東は[[甲相国境尾根]]へと連なる。なお、富士山との境界である籠坂峠は標高1,104mであり、当尾根を介して富士山から[[ヤビツ峠]]付近の[[二ノ塔]](標高1,144m)まで標高1,000m超の稜線が続く。
+
+富士山の近くに位置する尾根であるため、過去の富士山噴火によって堆積した火山性の土壌（[[スコリア]]）が広がっている。
+
+{{multiple image
+ | align     = left
+ | image1=Mt.Mikuni (Tanzawa) 02.jpg
+ | width1 = 220
+ | caption1=鉄砲木ノ頭から見た三国山
+ | image2=Mikuni Ridge 01.jpg
+ | width2 = 220
+ | caption2=三国山稜の登山道
+}}{{clear}}
+
+==三国山稜の山・峠==
+{| class="wikitable"
+|-
+!山容
+!名称
+![[標高]]（[[メートル|m]]）
+!三国山からの&lt;br&gt;方角と[[距離]]（[[キロメートル|km]]）
+!備考
+|-
+|[[File:Mt.Mikuni (Tanzawa) 01.jpg|70px]]
+|[[三国山 (神奈川県・山梨県・静岡県)|三国山]]
+|1,340
+|{{direction|O}}　0
+|
+|- style="background-color:#eee"
+|[[File:Zunasaka Pass.jpg|70px]]
+|[[ズナ坂峠]]
+|1,320
+|{{direction|WSW}}西南西　0.7
+|「ズナ峠」・「ヅナ峠」とも呼ばれる
+|-
+|[[File:Mt.Naraki 01.jpg|70px]]
+|[[楢木山]]
+|1,353
+|{{direction|WSW}}西南西　1.1
+|ならきやま
+|-
+|[[File:Mt.Obora (Mikuni Ridge) 01.jpg|70px]]
+|[[大洞山 (山梨県・静岡県)|大洞山]]
+|1,383
+|{{direction|WSW}}西南西　2.5
+|三国山稜の最高地点&lt;br&gt;角取山（つのとりやま）とも呼ばれる
+|- 
+|[[File:Mt.Hatao 01.jpg|70px]]
+|[[畑尾山]]
+|1,360
+|{{direction|WSW}}西南西　3.9
+|
+|-
+|[[File:Mt.Tachi 01.jpg|70px]]
+|[[立山 (山梨県・静岡県)|立山]]
+|1,340
+|{{direction|WSW}}西南西　4.4
+|たちやま
+|- style="background-color:#eee"
+|[[File:Kagosaka Pass 01.jpg|70px]]
+|[[籠坂峠]]
+|1,104
+|{{direction|W}}西　4.8
+|
+|}
+&lt;div class="thumbinner"&gt;&lt;div class="overflowbugx" style="overflow:scroll;"&gt;
+&lt;imagemap&gt;
+File:Mikuni Ridge and Mt.Fuji 04-5.jpg|x220px|center
+rect 301 51 475 100 [[三国山稜]]
+rect 981 17 1137 60 [[富士山]]
+poly 125 84 261 11 286 46 146 125 127 93 [[三国峠 (山梨県・神奈川県)|三国峠]]
+poly 31 146 143 142 648 144 744 143 1153 145 1278 144 1284 151 1137 235 56 234 46 178 [[山中湖]]
+poly 1020 64 1076 96 1106 103 1143 120 1151 118 1174 128 833 126 865 111 873 115 927 90 932 91 989 65 996 65 [[富士山]]
+poly 150 138 145 123 177 112 228 105 243 108 294 102 328 113 347 107 378 107 403 102 429 108 449 108 492 113 531 107 557 112 654 127 654 138 [[三国山稜]]
+poly 122 121 81 109 46 126 47 137 127 137 [[鉄砲木ノ頭]]
+desc bottom-left
+&lt;/imagemap&gt;
+&lt;/div&gt;&lt;div class="thumbcaption"&gt;[[山中湖]]北岸より見た三国山稜と[[富士山]]。三国峠の右側に、神奈川・山梨・静岡3県境の三国山が位置する。（2011年11月撮影）&lt;/div&gt;&lt;/div&gt;
+
+== 関連項目 ==
+* [[富士山]]
+* [[丹沢山地]]
+* [[甲相国境尾根]]
+
+==参考文献==
+* 『丹沢 2011年版 (山と高原地図 28)』 [[昭文社]]、ISBN 978-4398757685
+* 『富士山 御坂・愛鷹 2011年版 (山と高原地図 31)』 [[昭文社]]、ISBN 978-4398757715
+
+{{DEFAULTSORT:みくにさんりよう}}
+{{三国山稜、神奈川・静岡県境尾根}}
+{{西丹沢}}
+{{Commonscat|Mikuni Ridge}}
+{{-}}
+{{mountain-stub|pref=神奈川県|pref2=山梨県|pref3=静岡県}}
+[[Category:山岳名目録]]
+[[Category:静岡県の山]]
+[[Category:山梨県の山]]
+[[Category:神奈川県の山]]
+[[Category:丹沢の山]]</text>
+      <sha1>7xhdoigljx0nyr3eeu1ojixmzkgc75y</sha1>
+    </revision>
+  </page>
+  

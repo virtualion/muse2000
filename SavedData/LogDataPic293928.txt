@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/293928/title_panel.png	-168.05263157894734,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/293928/word_cloud.png	-188.22631578947366,38,180.7010526315789	0,0,1	0,1,0	-1,0,0	126.49073684210522	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/293928/Elizabeth Taylor - child.JPG	-188.22631578947366,38,178.8940421052631	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/293928/caption/caption0.png	-188.22631578947366,38,178.8940421052631	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/293928/Elizabeth Taylor-1945.JPG	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	-124.91973684210524	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/293928/caption/caption1.png	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	-102.91973684210524	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/293928/Father of the bride 1950 promo.jpg	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	-38.30657894736842	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/293928/caption/caption2.png	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	-16.306578947368422	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/293928/Elizabeth Taylor-1954.JPG	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	48.30657894736842	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/293928/caption/caption3.png	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	70.30657894736842	-20	1.5	0.7	none(caption)	-1:-1	8
+9	Images/293928/table/fixed_出演作品.png	188.22631578947366,38,182.52631578947364	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	35.212500000000006	Wooden_thin	-1:-1	9

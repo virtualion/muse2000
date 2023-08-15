@@ -1,0 +1,431 @@
+<page>
+    <title>上海軌道交通9号線</title>
+    <ns>0</ns>
+    <id>1524078</id>
+    <revision>
+      <id>94842957</id>
+      <parentid>93801921</parentid>
+      <timestamp>2023-04-19T03:45:17Z</timestamp>
+      <contributor>
+        <username>あいさんさん</username>
+        <id>1552416</id>
+      </contributor>
+      <comment>/* 外部リンク */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16512" xml:space="preserve">{{出典の明記|date=2019年9月}}
+{{Infobox 鉄道路線
+|路線名   = 上海軌道交通9号線 (申松線)
+|路線色   = #78C7EB
+|ロゴ=SML9.svg
+|ロゴサイズ=100px
+|画像     = Shanghai Metro Line9 AC09.JPG
+|画像サイズ = 300px
+|画像説明 = {{仮リンク|上海地下鉄AC09型電車|label=AC09型|zh|上海轨道交通AC09型电动列车}}
+|現況=運営中
+|国={{CHN}}
+|所在地=
+|種類=[[地下鉄]]
+|路線網   = [[上海軌道交通]]
+|起点     = [[松江南駅]]
+|終点     = [[曹路駅]]
+|駅数     = 35
+|路線記号=R4 &lt;!-- 中国語版では「系統代號 R4」と、表記されているためこのように表記しました。 --&gt;
+|路線番号=9
+|路線色3={{Color|#78C7EB|■}}[[水色]]
+|開業     = 2007年12月29日
+|所有者   = 
+|運営者   = 
+|車両基地 = [[九亭車両基地]]
+|使用車両=
+|路線構造=地上区間：松江新城駅北 - 九亭駅西（高圧電線を避けるため泗涇駅 - 九亭駅間にも一部地上区間がある。）&lt;br /&gt;地下区間：松江新城駅 - 松江新城駅北、九亭駅西-曹路駅
+|路線距離 = 64.4 [[キロメートル|km]]
+|営業キロ= ? km
+|軌間     = 1,435 [[ミリメートル|mm]] ([[標準軌]])
+|線路数   = [[複線]]
+|複線区間=全区間
+|電化区間=全期間
+|電化方式 = [[直流電化|直流]] 1,500 [[ボルト (単位)|V]] [[架空電車線方式|架線集電方式]]
+|最高速度=80 [[キロメートル毎時|km/h]]
+|路線図   = Shanghai Metro Line 9.svg
+|路線図名=上海軌道交通9号線の路線図。
+}}
+{{BS-map|title=営業区間|title-bg=#78C7EB|title-color=white|collapse=yes
+|map=
+{{BS2||utKBHFa|-|[[楊高中路駅|楊高中路]]||}}
+{{BS4||utSTR+l|utKRZt|utSTRq|||{{Color|#87D300|●}}[[上海軌道交通2号線|2号線]]|}}
+{{BS4|utSTR+l|utKRZt|utKRZt|utSTRq|||{{Color|#4f1f91|●}}[[上海軌道交通4号線|4号線]]|}}
+{{BS4|utKRZt|utKRZt|utKRZt|utBHFq|O4=HUBa|||{{Color|#e00099|●}}[[上海軌道交通6号線|6号線]]|}}
+{{BS4|utBHF|O1=HUBaq|utBHF|O2=HUBq|utBHF|O3=HUBq|HUBrf|0.0|[[世紀大道駅|世紀大道]]||}}
+{{BS4|utSTR|utSTR|utBHF||-|[[商城路駅|商城路]]||}}
+{{BS4||WASSERq|utKRZW|WASSERq|||[[黄浦江]]|}}
+{{BS2||utBHF|-|[[小南門駅 (上海市)|小南門]]||}}
+{{BS4||utSTRq|utTBHFt|utSTRq|-|[[陸家浜路駅|陸家浜路]]|{{Color|#009DD9|●}}[[上海軌道交通8号線|8号線]]|}}
+{{BS4||utSTRq|utTBHFt|utSTRq|-|[[馬当路駅|馬当路]]|{{Color|#E77DAD|●}}[[上海軌道交通13号線|13号線]]|}}
+{{BS2||utBHF|-|[[打浦橋駅|打浦橋]]||}}
+{{BS4||utSTRq|utSTRq|O3=utBHF|utSTRq|-|[[嘉善路駅|嘉善路]]|{{Color|#10614A|●}}[[上海軌道交通12号線|12号線]]|}}
+{{BS4||utSTRq|utSTRq|O3=utBHF|utSTRq|-|[[肇嘉浜路駅|肇嘉浜路]]|{{Color|#FF7200|●}}[[上海軌道交通7号線|7号線]]|}}
+{{BS4||utSTRq|utSTRq|O3=utBHF|utSTRq|-|[[徐家匯駅|徐家匯]]|{{Color|#EA0437|●}}[[上海軌道交通1号線|1号線]]|}}
+{{BS4||uSTR+r|O2=uSTRq|utKRZt|utBHFq|O4=HUBa|||{{Color|#4f1f91|●}}[[上海軌道交通4号線|4号線]]|}}
+{{BS4||uSTRl|utKRZ|uBHFq|O4=HUB|||{{Color|#ffd100|●}}[[上海軌道交通3号線|3号線]]|}}
+{{BS4|||utBHF|O3=HUBaq|HUBrf|0.0|[[宜山路駅|宜山路]]||}}
+{{BS2||utBHF|1.7|[[桂林路駅|桂林路]]||}}
+{{BS2||utBHF|3.7|[[漕河涇開発区駅|漕河涇開発区]]||}}
+{{BS2||utBHF|5.1|[[合川路駅|合川路]]||}}
+{{BS2||utBHF|6.9|[[星中路駅|星中路]]||}}
+{{BS2||utBHF|8.8|[[七宝駅 (上海市)|七宝]]||}}
+{{BS2||utBHF|10.1|[[中春路駅|中春路]]||}}
+{{BS4|uSTR+l|utSTRaq|utABZgr+r|||||}}
+{{BS4|uDST||utSTR||||[[九亭車両基地]]|}}
+{{BS4|uWECHSEL||utSTR|||||}}
+{{BS4|ABZql|STRq|umtKRZ|STRq|||[[中華人民共和国鉄道部|国鉄]]南新環線|}}
+{{BS2||utBHF|12.4|[[九亭駅|九亭]]||}}
+{{BS2||utSTRe||||}}
+{{BS2||uBHF|18.6|[[泗涇駅|泗涇]]||}}
+{{BS2||uBHF|22.5|[[佘山駅|佘山]]||}}
+{{BS2||uBHF|24.7|[[洞涇駅|洞涇]]||}}
+{{BS2||uBHF|28.1|[[松江大学城駅|松江大学城]]||}}
+{{BS2||utSTRa||||}}
+{{BS2||utKBHFxe|30.7|[[松江新城駅|松江新城]]||}}
+{{BS2||uBHF|-|[[松江体育中心駅|松江体育中心]]||}}
+{{BS2||uBHF|-|[[酔白池駅|酔白池]]||}}
+{{BS2||uKBHFe|-|[[松江南駅|松江南]]||}}
+}}
+'''上海軌道交通9号線'''（シャンハイきどうこうつう9ごうせん、{{中文表記|上海轨道交通九号线}}、{{英文表記|Shanghai Metro Line 9}}）は、[[中華人民共和国]][[上海市]][[松江区]]の[[松江南駅]]と[[浦東新区]]の[[曹路駅]]を結ぶ[[上海軌道交通]]の[[鉄道路線|路線]]。別称は'''申松線'''（しんしょうせん）と言う。
+
+== 概要 ==
+[[上海市|上海市内]]を主に東西に横断する計画の路線で、計画時には"R4"と呼ばれていた。将来的には[[松江南駅]]から[[崇明島]]までを結ぶ計画である。九亭駅から泗涇駅間は{{Nowrap|6.247 km}}あり、上海地下鉄で最長区間となっている。[[2007年]]末の第1期工事区間開業時から[[2008年]]末までの約1年間は他の上海軌道交通の路線群とは直接の接続がない孤立路線であった。
+
+=== 路線データ ===
+* 路線距離：{{Nowrap|64.4 km}}
+* [[軌間]]：{{Nowrap|1,435 mm}}
+* 駅数：35駅（起終点駅含む）
+* 複線区間：全線
+* 電化区間：全線（直流 {{Nowrap|1,500 V}}）
+&lt;!--* [[閉塞 (鉄道)|閉塞方式]]：?--&gt;
+* 最高速度：{{Nowrap|80 km/h}}
+* 地下区間：[[松江南駅]] - [[松江新城駅]]北、[[九亭駅]]西 - [[曹路駅]]
+* 高架区間：[[松江新城駅]]北 - [[九亭駅]]西
+* 地上区間：[[九亭駅]]北、九亭車輌段（車両基地）
+
+== 沿革 ==
+* [[2007年]][[12月29日]]：第1期工事区間の[[松江新城駅]] - [[桂林路駅]]間{{Nowrap|29.14 km}}と連絡バス（桂林路駅 - 宜山路駅間）が開通する。当時は孤立路線であった。
+* [[2008年]][[12月28日]]：第1期工事区間未開通部分（桂林路駅 - 宜山路駅間）が開業、桂林路駅 - 宜山路駅間連絡バスが同時に撤退。孤立路線でなくなった。
+* [[2009年]][[12月31日]]：第2期工事区間（[[宜山路駅]] - [[世紀大道駅]]）が開通。
+* [[2010年]]
+** [[2月20日]]：第2期工事区間朝5時30分から夜22時30分まで運転する。
+** [[4月7日]]：[[世紀大道駅]] - [[楊高中路駅]]間が開通。
+* [[2012年]][[12月30日]]：[[松江南駅]] - [[松江新城駅]]間が開通。
+* [[2017年]][[12月30日]]：[[楊高中路駅]] - [[曹路駅]]間が開通。
+
+=== 孤立路線時代の乗り継ぎ ===
+9号線開業時、桂林路駅 - 宜山路駅間の工事が間に合わず、同区間が開業（2008年12月28日）まで[[上海大衆交通有限公司]]が同区間に連絡バスを走らせていた。このバスは3・4号線 - 9号線の乗り継ぎ客専用で、料金は通しで計算（9号線の実距離である{{Nowrap|1 km}}で計算。道路は約{{Nowrap|3 km}}）されていた。4号線 - 9号線の改札は離れており、4号線内環方向からの乗り換えは改札外か虹橋路で3号線に乗り換えるようになっていた。開業後も同様の処置になっており、交通カードを使用しない場合は料金は通算されない。
+
+=== 今後の予定 ===
+第4期工事計画区間は曹路から[[上海長江隧橋|上海長江トンネルと上海長江大橋]]を経て、[[長興島 (上海市)|長興島]]、[[崇明島]]へ至る予定。
+&lt;!--
+== 運行形態 ==
+--&gt;
+== 車両 ==
+; {{仮リンク|上海地下鉄AC04型電車|label=AC04型|zh|上海轨道交通AC04型电动列车}}
+:* 製造会社：[[長春軌道客車]]、[[ボンバルディア]]
+:* 設計時速：{{Nowrap|80 km/h}}
+:* 車両編成：6両[[編成 (鉄道)|編成]]（制御車＋4×中間電動車＋制御車（Tc＋Mp＋M＋Mp＋M＋Tc））
+:* 寸法：長さ{{Nowrap|23.54 m}}、幅{{Nowrap|3.0 m}}
+:* 定員：310人
+:* 製造時期：[[2004年|2004]]-[[2005年]]
+:* 制御方式：[[可変電圧可変周波数制御|VVVF交流制御]]
+:
+; {{仮リンク|上海地下鉄AC09型電車|label=AC09型|zh|上海轨道交通AC09型电动列车}}
+:* 製造会社：長春軌道客車
+:* 設計時速：{{Nowrap|80 km/h}}
+:* 車両編成：6両編成（制御車＋4×中間電動車＋制御車（Tc＋Mp＋M＋Mp＋M＋Tc））
+:* 寸法：長さ{{Nowrap|23.54 m}}、幅{{Nowrap|3.0 m}}
+:* 定員：310人
+:* 製造時期：[[2008年]] -
+:* 制御方式：[[可変電圧可変周波数制御|VVVF交流制御]]
+:
+&lt;gallery&gt;
+Shanghai Metro Line9 AC04.JPG|AC04型
+Shanghai Metro Line9 AC09.JPG|AC09型
+&lt;/gallery&gt;
+
+== 駅一覧 ==
+{| class="wikitable" align="left"
+|-
+! colspan=3 |駅名
+! rowspan=2 style="border-bottom:solid 3px #78C7EB;" |[[営業キロ|駅間&lt;br /&gt;キロ]]
+! rowspan=2 style="border-bottom:solid 3px #78C7EB;" |累計&lt;br /&gt;キロ
+! rowspan=2 style="border-bottom:solid 3px #78C7EB;" |接続路線・備考
+! rowspan=2 colspan=2 style="border-bottom:solid 3px #78C7EB;" |所在地
+|-
+! style="border-bottom:solid 3px #78C7EB; font-size:smaller;" |[[日本語]]
+! style="border-bottom:solid 3px #78C7EB; font-size:smaller;" |[[簡体字]][[中国語]]
+! style="border-bottom:solid 3px #78C7EB; font-size:smaller;" |[[英語]]
+|-
+|[[松江南駅]]
+|{{lang|zh|松江南站}}
+|South Songjiang Railway Station
+| style="text-align:right;" |0.000
+| style="text-align:right;" |0.000
+|[[中国鉄路総公司]]&lt;br&gt;{{Color|blue|■}}[[滬杭旅客専用線]]
+| rowspan=35 style="text-align:center;" |[[上海市]]
+| rowspan=9 style="text-align:center;" |[[松江区]]
+|-
+|[[酔白池駅]]
+|{{lang|zh|醉白池站}}
+|Zuibaichi
+| style="text-align:right;" |1.795
+| style="text-align:right;" |1.795
+|&amp;nbsp;
+|- 
+|[[松江体育中心駅]]
+|{{lang|zh|松江体育中心站}}
+|Songjiang Sports Center
+| style="text-align:right;" |1.737
+| style="text-align:right;" |3.532
+|{{仮リンク|松江有軌電車|zh|松江有轨电车}}&lt;br&gt;{{Color|red|■}}{{仮リンク|松江有軌電車1号線|label=1号線|zh|松江有轨电车1号线}}&lt;br&gt;{{Color|#007B63|■}}{{仮リンク|松江有軌電車2号線|label=2号線|zh|松江有轨电车2号线}}
+|-
+|[[松江新城駅]]
+|{{lang|zh|松江新城站}}
+|Songjiang Xincheng
+| style="text-align:right;" |1.583
+| style="text-align:right;" |5.155
+|&amp;nbsp;
+|- 
+|[[松江大学城駅]]
+|{{lang|zh|松江大学城站}}
+|Songjiang University Town
+| style="text-align:right;" |2.642
+| style="text-align:right;" |7.757
+|松江有軌電車&lt;br&gt;{{Color|#007B63|■}}{{仮リンク|松江有軌電車2号線|label=2号線|zh|松江有轨电车2号线}}
+|- 
+|[[洞涇駅]]
+|{{lang|zh|洞泾站}}
+|Dongjing
+| style="text-align:right;" |3.381
+| style="text-align:right;" |11.138
+|&amp;nbsp;
+|-
+|[[佘山駅]]
+|{{lang|zh|佘山站}}
+|Sheshan
+| style="text-align:right;" |2.205
+| style="text-align:right;" |13.343
+|&amp;nbsp;
+|-
+|[[泗涇駅]]
+|{{lang|zh|泗泾站}}
+|Sijing
+| style="text-align:right;" |3.868
+| style="text-align:right;" |17.211
+|&amp;nbsp;
+|-
+|[[九亭駅]]
+|{{lang|zh|九亭站}}
+|Jiuting
+| style="text-align:right;" |6.246
+| style="text-align:right;" |23.457
+|&amp;nbsp;
+|-
+|[[中春路駅]]
+|{{lang|zh|中春路站}}
+|Zhongchun Road
+| style="text-align:right;" |2.263
+| style="text-align:right;" |25.720
+|&amp;nbsp;
+| rowspan=4 style="text-align:center;" |[[閔行区]]
+|-
+|[[七宝駅 (上海市)|七宝駅]]
+|{{lang|zh|七宝站}}
+|Qibao
+| style="text-align:right;" |1.305
+| style="text-align:right;" |27.025
+|&amp;nbsp;
+|-
+|[[星中路駅]]
+|{{lang|zh|星中路站}}
+|Xingzhong Road
+| style="text-align:right;" |1.880
+| style="text-align:right;" |28.905
+|&amp;nbsp;
+|-
+|[[合川路駅]]
+|{{lang|zh|合川路站}}
+|Hechuan Road
+| style="text-align:right;" |1.856
+| style="text-align:right;" |30.761
+|&amp;nbsp;
+|-
+|[[漕河涇開発区駅]]
+|{{lang|zh|漕河泾开发区站}}
+|Caohejing Hi-Tech Park
+| style="text-align:right;" |1.335
+| style="text-align:right;" |32.096
+|&amp;nbsp;
+| rowspan=6 style="text-align:center;" |[[徐匯区]]
+|-
+|[[桂林路駅]]
+|{{lang|zh|桂林路站}}
+|Guilin Road
+| style="text-align:right;" |2.032
+| style="text-align:right;" |34.128
+|[[ファイル:SML15.svg|10px|15|link=]] [[上海軌道交通15号線|15号線]]
+|-
+|[[宜山路駅]]
+|{{lang|zh|宜山路站}}
+|Yishan Road
+| style="text-align:right;" |1.687
+| style="text-align:right;" |35.815
+|[[ファイル:SML3.svg|10px|3|link=]] [[上海軌道交通3号線|3号線]]&lt;br&gt;[[ファイル:SML4.svg|10px|4|link=]] [[上海軌道交通4号線|4号線]]
+|-
+|[[徐家匯駅]]
+|{{lang|zh|徐家汇站}}
+|Xujiahui
+| style="text-align:right;" |1.505
+| style="text-align:right;" |37.320
+|[[ファイル:SML1.svg|10px|1|link=]] [[上海軌道交通1号線|1号線]]&lt;br&gt;[[ファイル:SML11.svg|10px|11|link=]] [[上海軌道交通11号線|11号線]]
+|-
+|[[肇嘉浜路駅]]
+|{{lang|zh|肇嘉浜路站}}
+|Zhaojiabang Road
+| style="text-align:right;" |1.389
+| style="text-align:right;" |38.709
+|[[ファイル:SML7.svg|10px|7|link=]] [[上海軌道交通7号線|7号線]]
+|-
+|[[嘉善路駅]]
+|{{lang|zh|嘉善路站}}
+|Jiashan Road
+| style="text-align:right;" |1.063
+| style="text-align:right;" |39.772
+|[[ファイル:SML12.svg|10px|12|link=]] [[上海軌道交通12号線|12号線]]
+|-
+|[[打浦橋駅]]
+|{{lang|zh|打浦桥站}}
+|Dapuqiao
+| style="text-align:right;" |0.875
+| style="text-align:right;" |40.647
+|&amp;nbsp;
+| rowspan=4 style="text-align:center;" |[[黄浦区]]
+|-
+|[[馬当路駅]]
+|{{lang|zh|马当路站}}
+|Madang Road
+| style="text-align:right;" |0.862
+| style="text-align:right;" |41.489
+|[[ファイル:SML13.svg|10px|13|link=]] [[上海軌道交通13号線|13号線]]
+|-
+|[[陸家浜路駅]]
+|{{lang|zh|陆家浜路站}}
+|Lujiabang Road
+| style="text-align:right;" |0.945
+| style="text-align:right;" |42.434
+|[[ファイル:SML8.svg|10px|8|link=]] [[上海軌道交通8号線|8号線]]
+|-
+|[[小南門駅 (上海市)|小南門駅]]
+|{{lang|zh|小南门站}}
+|Xiaonanmen
+| style="text-align:right;" |1.475
+| style="text-align:right;" |43.909
+|&amp;nbsp;
+|-
+|[[商城路駅]]
+|{{lang|zh|商城路站}}
+|Shangcheng Road
+| style="text-align:right;" |2.398
+| style="text-align:right;" |46.307
+|&amp;nbsp;
+| rowspan=12 style="text-align:center;" |[[浦東新区]]
+|-
+|[[世紀大道駅]]
+|{{lang|zh|世纪大道站}}
+|Century Avenue
+| style="text-align:right;" |0.979
+| style="text-align:right;" |47.286
+|[[ファイル:SML2.svg|10px|2|link=]] [[上海軌道交通2号線|2号線]]&lt;br&gt;[[ファイル:SML4.svg|10px|4|link=]] [[上海軌道交通4号線|4号線]]&lt;br&gt;[[ファイル:SML6.svg|10px|6|link=]] [[上海軌道交通6号線|6号線]]
+|-
+|[[楊高中路駅]]
+|{{lang|zh|杨高中路站}}
+|Middle Yanggao Road
+| style="text-align:right;" |2.435
+| style="text-align:right;" |49.721
+|[[ファイル:SML18.svg|10px|18|link=]] ''[[上海軌道交通18号線|18号線]]（建設中）''
+|-
+|[[芳甸路駅]]
+|{{lang|zh|芳甸路站}}
+|Fangdian Road
+| style="text-align:right;" |1.065
+| style="text-align:right;" |50.786
+|&amp;nbsp;
+|- 
+|[[藍天路駅]]
+|{{lang|zh|蓝天路站}}
+|Lantian Road
+| style="text-align:right;" |2.121
+| style="text-align:right;" |52.907
+|[[ファイル:SML14.svg|10px|14|link=]] ''[[上海軌道交通14号線|14号線]]（建設中）''
+|- 
+|[[台児荘路駅]]
+|{{lang|zh|台儿庄路站}}
+|Taierzhuan Road
+| style="text-align:right;" |2.306
+| style="text-align:right;" |55.213
+|&amp;nbsp;
+|- 
+|[[金橋駅 (上海市)|金橋駅]]
+|{{lang|zh|金桥站}}
+|Jinqiao
+| style="text-align:right;" |1.545
+| style="text-align:right;" |56.758
+|&amp;nbsp;
+|- 
+|[[金吉路駅]]
+|{{lang|zh|金吉路站}}
+|Jinji Road
+| style="text-align:right;" |1.697
+| style="text-align:right;" |58.455
+|&amp;nbsp;
+|- 
+|[[金海路駅]]
+|{{lang|zh|金海路站}}
+|Jinhai Road
+| style="text-align:right;" |1.024
+| style="text-align:right;" |59.479
+|[[ファイル:SML12.svg|10px|12|link=]] [[上海軌道交通12号線|12号線]]
+|- 
+|[[顧唐路駅]]
+|{{lang|zh|顾唐路站}}
+|Gutang Road
+| style="text-align:right;" |1.710
+| style="text-align:right;" |61.190
+|&amp;nbsp;
+|- 
+|[[民雷路駅]]
+|{{lang|zh|民雷路站}}
+|Minlei Road
+| style="text-align:right;" |1.125
+| style="text-align:right;" |62.315
+|&amp;nbsp;
+|- 
+|[[曹路駅]]
+|{{lang|zh|曹路站}}
+|Caolu
+| style="text-align:right;" |1.506
+| style="text-align:right;" |63.821
+|&amp;nbsp;
+|- 
+|}
+{{-}}
+== 外部リンク ==
+{{Commons|Category:Shmetro Line 9}}
+* [[中華人民共和国の鉄道]]
+
+{{Rail-stub}}
+{{China-stub}}
+{{上海軌道交通}}
+{{DEFAULTSORT:しやんはいきとうこうつう09}}
+[[Category:上海軌道交通の路線|09]]</text>
+      <sha1>hxg5n3aiv5sx80qjt4ym2s546beluyg</sha1>
+    </revision>
+  </page>
+  

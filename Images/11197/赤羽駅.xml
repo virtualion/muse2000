@@ -1,0 +1,831 @@
+<page>
+    <title>赤羽駅</title>
+    <ns>0</ns>
+    <id>11197</id>
+    <revision>
+      <id>95573876</id>
+      <parentid>95336679</parentid>
+      <timestamp>2023-06-11T07:53:04Z</timestamp>
+      <contributor>
+        <username>Mister0124</username>
+        <id>1138348</id>
+      </contributor>
+      <comment>Templateやバス路線の表の表記を見直し（Templateも新規挿入〔Plainlist、Unbulleted list〕）。また、駅周辺などの箇条書きが多いため2段組形式に変更</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="63851" xml:space="preserve">{{Otheruses|東京都北区にある東日本旅客鉄道（JR東日本）の駅|かつて同区にあった王子電気軌道および東京都電車（都電）の同名の停留所&lt;ref group="注釈"&gt;停留所のあった場所は、当駅付近ではなく、埼玉高速鉄道線・東京メトロ南北線の赤羽岩淵駅のほぼ直上、国道122号赤羽交差点付近にあった。&lt;/ref&gt;&lt;ref&gt;『日本鉄道旅行地図帳 全線・全駅・全廃線』5号東京 p.19 , 50&lt;/ref&gt;|王子電気軌道#停留所一覧}}
+{{混同|x1=東京都港区にある都営地下鉄大江戸線の|赤羽橋駅}}
+{{駅情報
+|社色 = green
+|文字色 =
+|駅名 = 赤羽駅
+|画像 = Akabane-Sta-East.JPG
+|pxl = 300
+|画像説明 = 東口（2010年5月）
+|地図= {{Infobox mapframe|zoom=15|frame-width=300|type=point|marker=rail|coord={{coord|35|46|40.9|N|139|43|15|E}}}}
+|よみがな = あかばね
+|ローマ字 = Akabane&lt;br /&gt; {{駅番号s|black|#ffffff|ABN}}&lt;!--スリーレターコード--&gt;
+|電報略号 = アネ
+|所属事業者 = [[東日本旅客鉄道]]（JR東日本）
+|所在地 = [[東京都]][[北区 (東京都)|北区]][[赤羽]]一丁目1-1
+|座標 = {{coord|35|46|40.9|N|139|43|15|E|region:JP_type:railwaystation|display=inline,title}}
+|開業年月日 = {{Nowrap|[[1885年]]（[[明治]]18年）[[3月1日]]}}
+|駅構造 = [[高架駅]]&lt;ref name="zeneki05"&gt;{{Cite book|和書 |title =週刊 JR全駅・全車両基地 |publisher = [[朝日新聞出版]] |series=週刊朝日百科 |volume  =05号 上野駅・日光駅・下館駅ほか92駅 |date =2012-09-09 |page =22 }}&lt;/ref&gt;
+|ホーム = 4面8線{{R|zeneki05}}
+|廃止年月日 =
+|乗車人員 = 78,321
+|統計年度 = 2021年&lt;!--リンク先不要--&gt;
+|乗入路線数 = 5
+|所属路線1 = {{Color|#f68b1e|■}}[[宇都宮線]]・[[高崎線]]&lt;br /&gt;（[[東北本線]]列車線{{Refnest|group="*"|name="line-name"|線路名称上は、埼京線十条方は[[赤羽線]]、それ以外は[[東北本線]]（尾久方と北赤羽方は支線）}}）
+|前の駅1 = JU 03 [[尾久駅|尾久]]
+|駅間A1 = 5.0
+|駅間B1 = 11.0
+|次の駅1 = [[浦和駅|浦和]]{{Refnest|group="*"|name="boundary"|当駅 - 川口間に[[東日本旅客鉄道首都圏本部|首都圏本部]]と[[東日本旅客鉄道大宮支社|大宮支社]]の[[JR支社境|境界]]あり（当駅から東十条方・尾久方は首都圏本部管内）}} JU 05
+|駅番号1 = {{駅番号r|JU|04|#f68b1e|1}}
+|キロ程1 = 7.7&amp;nbsp;km（[[日暮里駅|日暮里]]起点）&lt;br /&gt;[[東京駅|東京]]から[[尾久駅|尾久]]経由で13.4
+|起点駅1 =
+|所属路線2 = {{Color|#f68b1e|■}}{{Color|#0067c0|■}}[[湘南新宿ライン]]&lt;br /&gt;（東北本線貨物線&lt;ref group="*" name="line-name" /&gt;）
+|前の駅2 = JS 21 [[池袋駅|池袋]]
+|駅間A2 = 5.5{{Refnest|group="*"|池袋 - 当駅間の営業キロは赤羽線経由で算出}}
+|駅間B2 = 11.0
+|次の駅2 = 浦和&lt;ref group="*" name="boundary" /&gt;{{Refnest|group="*"|name="takasaki-line"|高崎線直通含む。}} JS 23
+|駅番号2 = {{駅番号r|JS|22|#e21f26|1}}
+|キロ程2 =
+|起点駅2 =
+|所属路線3 = {{Color|#00b2e5|■}}[[京浜東北線]]&lt;br /&gt;（東北本線電車線&lt;ref group="*" name="line-name" /&gt;）
+|前の駅3 = JK 37 [[東十条駅|東十条]]
+|駅間A3 = 1.8
+|駅間B3 = 2.6
+|次の駅3 = [[川口駅|川口]]&lt;ref group="*" name="boundary" /&gt; JK 39
+|駅番号3 = {{駅番号r|JK|38|#00b2e5|1}}
+|キロ程3 = 13.2&amp;nbsp;km（東京起点）&lt;br /&gt;[[大宮駅 (埼玉県)|大宮]]から17.1
+|起点駅3 =
+|所属路線4 = {{Color|#00ac9a|■}}[[埼京線]]&lt;br /&gt;（[[赤羽線]]・東北本線支線&lt;ref group="*" name="line-name" /&gt;）
+|前の駅4 = JA 14 [[十条駅 (東京都)|十条]]
+|駅間A4 = 2.0
+|駅間B4 = 1.5
+|次の駅4 = [[北赤羽駅|北赤羽]] JA 16
+|駅番号4 = {{駅番号r|JA|15|#00ac9a|1}}
+|キロ程4 = 5.5&amp;nbsp;km（[[池袋駅|池袋]]起点）&lt;br /&gt;[[大崎駅|大崎]]から18.9
+|起点駅4 =
+|乗換 =
+|備考 = {{Plainlist|
+* [[日本の鉄道駅#直営駅|直営駅]]（[[日本の鉄道駅#管理駅|管理駅]]）
+* [[みどりの窓口]] 有
+* [[ファイル:JR area KU.svg|15px|区]] [[特定都区市内|東京都区内]]駅}}
+|備考全幅 = {{Reflist|group="*"}}
+}}
+[[ファイル:Akabane-sta-West.JPG|thumb|西口（2010年5月）]]
+'''赤羽駅'''（あかばねえき）は、[[東京都]][[北区 (東京都)|北区]][[赤羽]]一丁目にある、[[東日本旅客鉄道]]（JR東日本）の[[鉄道駅|駅]]である。「{{駅番号s|black|#ffffff|ABN}}」の[[駅ナンバリング#スリーレターコード|スリーレターコード]]が付与されている。
+
+== 乗り入れ路線 ==
+当駅を経由する路線は、線路名称上は[[東北本線]]と[[赤羽線]]の2路線であり（詳細は路線記事および「[[鉄道路線の名称]]」を参照）、このうち東北本線を当駅の[[日本の鉄道駅#所属線|所属線]]とし、赤羽線は[[終着駅]]としている。東北本線は、[[田端駅]]経由（本線）の電車線である[[京浜東北線]]、[[尾久駅]]経由（支線）の列車線である[[宇都宮線]]・[[高崎線]]、[[湘南新宿ライン]]が走行する[[東北貨物線]]（通称）のほか、[[武蔵浦和駅]]経由の支線（[[埼京線]]の一部）が分岐している。JR東日本公式サイトでは、赤羽駅の所属路線を「京浜東北線・根岸線 埼京線・川越線 [[高崎線]] 東北本線 湘南新宿ライン 宇都宮線 [[上野東京ライン]]」と表記している&lt;ref&gt;{{Cite web|title=駅の情報（赤羽駅）：JR東日本|url=https://www.jreast.co.jp/estation/station/info.aspx?StationCd=34|website=www.jreast.co.jp|accessdate=2019-12-22}}&lt;/ref&gt;。
+
+当駅を経由する路線名称と各運転系統名称は以下の通り。
+* 東北本線
+**[[ファイル:JR_JK_line_symbol.svg|15x15ピクセル|JK]] [[京浜東北線]]：東北本線の大宮駅以南で主に各駅停車運転する通勤電車。横浜駅から[[根岸線]]への[[直通運転]]も実施。 - 駅番号「'''JK 38'''」
+**[[ファイル:JR JU line symbol.svg|15px|JU]] [[宇都宮線]]・[[高崎線]]：宇都宮線は、[[東京駅]] - 尾久駅 - [[大宮駅 (埼玉県)|大宮駅]]を経て[[小山駅]]・[[宇都宮駅]]・[[黒磯駅]]方面を結ぶ東北本線の中距離電車。高崎線は、大宮駅から分岐して[[熊谷駅]]・[[高崎駅]]方面を結ぶ中距離電車。上野駅発着系統と、上野駅・[[東京駅]]経由で[[東海道線 (JR東日本)|東海道線]]に直通する[[上野東京ライン]]系統がある。- [[駅ナンバリング#JR東日本・東京モノレール・東京臨海高速鉄道|駅番号]]「'''JU 04'''」
+**[[ファイル:JR JS line symbol.svg|15px|JS]] [[湘南新宿ライン]]：東北本線の東北貨物線（通称）を走る中距離電車。新宿駅を経由し、大宮駅方面（北行）の[[宇都宮線]]・[[高崎線]]と[[横浜駅]]方面（南行）の[[東海道線 (JR東日本)|東海道線]]・[[横須賀線]]を相互直通運転。 - 駅番号「'''JS 22'''」
+**[[ファイル:JR JA line symbol.svg|15px|JA]] [[埼京線]]：赤羽線から当駅を経て東北本線の支線に直通運転する通勤電車。大宮駅方面（北行）の[[川越線]]と[[大崎駅]]方面（南行）の[[東京臨海高速鉄道りんかい線|りんかい線]]との相互[[直通運転]]・[[相鉄・JR直通線|相鉄線]]への片方向直通運転も実施。 - 駅番号「'''JA 15'''」
+* [[赤羽線]]
+** [[ファイル:JR JA line symbol.svg|15px|JA]] 埼京線：赤羽線から当駅を経て東北本線支線に直通運転する通勤電車。
+当駅付近の東北本線は通称[[電車線・列車線]]・貨物線（通称は東北貨物線）の3複線となっており、電車線は京浜東北線電車、列車線は宇都宮線・高崎線の上野東京ラインおよび上野駅発着列車、貨物線は貨物列車と湘南新宿ラインほか[[日光 (列車)|東武直通特急]]、他の[[新宿駅]]発着[[特別急行列車|特急]]などが走行する。当駅より上野方面は経路も異なり、電車線は田端方面、列車線は尾久方面を経由する。なお、貨物線の列車はホームがない[[さいたま新都心駅]]を通過する。
+
+=== 構想中の路線 ===
+事業着手されていないが、当駅に接続する路線として[[メトロセブン]]（当駅始点）と[[エイトライナー]]（当駅終点）が構想されている&lt;ref&gt;{{Cite web|url=https://trafficnews.jp/post/81754|archiveurl=https://web.archive.org/web/20200301225343/https://trafficnews.jp/post/81754|title=東京の環状道路「環八」「環七」の下に環状地下鉄構想 そのメリットと課題は|website=乗りものニュース|date=2018-10-25|accessdate=2021-03-19|archivedate=2020-03-01}}&lt;/ref&gt;。
+
+== 歴史 ==
+* [[1885年]]（[[明治]]18年）[[3月1日]]：[[日本鉄道]]により地上駅として開業&lt;ref name="停車場"&gt;{{Cite book|和書|author=石野哲（編）|title=停車場変遷大事典 国鉄・JR編 Ⅱ|publisher=[[JTB]]|date=1998-10-01|edition=初版|isbn=978-4-533-02980-6|page=390}}&lt;/ref&gt;。[[品川駅]]に至る路線（品川線、後の[[山手線]]）の分岐駅として設置された。
+* [[1906年]]（明治39年）[[11月1日]]：[[鉄道国有法]]により国有化{{R|停車場}}。
+* [[1909年]]（明治42年）[[10月12日]]：[[国鉄・JR線路名称一覧|線路名称]]制定により東北本線の所属となる。
+* [[1972年]]（[[昭和]]47年）[[7月15日]]：線路区間表示が改定され、山手線池袋 - 赤羽間が赤羽線として分離、改称される。
+* [[1973年]]（昭和48年）[[4月24日]]（夜）：国鉄職員による[[労働争議|順法闘争]]（当時、列車に大幅な遅延と混雑が発生）にしびれを切らした乗客らが[[暴動]]化。これをきっかけに上野駅や新宿駅などでも暴動（[[首都圏国電暴動]]）が発生したため、翌[[4月25日|25日]]いっぱいまで[[首都圏 (日本)|首都圏]]の[[日本国有鉄道|国鉄線]]が麻痺状態に陥った。
+* [[1976年]]（昭和51年）[[2月25日]]：貨物の取り扱いを廃止{{R|停車場}}。
+* [[1978年]]（昭和53年）[[10月1日]]：[[東北新幹線]]の上野駅延伸工事とそれに伴う赤羽線10両化に伴う高架化工事のため、当駅付近の東北貨物線が[[単線]]化される。その後、単線区間は[[東十条駅]]付近から[[荒川 (関東)|荒川]]橋梁付近にまで延長され、現在の5番線が完成・開通するまで単線運転が続けられた。
+* [[1983年]]（昭和58年）
+** [[3月2日]]：赤羽線の高架が完成し、同線が発着する5番線を高架（現7番線）に切り換え&lt;ref&gt;{{Cite news |title=着々すすむ赤羽線の輸送力増強 ホーム高架化近く完成 とりあえず一面一線で |newspaper=[[交通新聞]] |publisher=交通協力会 |date=1983-02-05 |page=2 }}&lt;/ref&gt;。
+** [[10月2日]]：池袋駅の新ホーム使用開始により、赤羽線の編成を8両編成から10両編成に変更。
+* [[1984年]]（昭和59年）[[2月1日]]：大宮以南で東北貨物線を経由する当駅止まりの上り中距離電車を朝[[ラッシュ時]]に運転開始。赤羽線の高架下を走る東北貨物線（当時単線）に7番線ホームが設けられる。
+* [[1985年]]（昭和60年）[[9月30日]]：東北新幹線の開業に伴い、見返りとして建設された[[武蔵浦和駅]]経由の通勤新線（東北本線支線）が開業し、当駅を介して赤羽線と一体化して列車を運行開始、運転系統名を埼京線（通称）とした。
+* [[1986年]]（昭和61年）11月1日：[[チッキ|荷物]]扱い廃止{{R|停車場}}。
+* [[1987年]]（昭和62年）[[4月1日]]：[[国鉄分割民営化]]に伴い、東日本旅客鉄道（JR東日本）の駅となる{{R|停車場}}。
+* [[1988年]]（昭和63年）[[3月30日]]：駅ビル「アルカード」が開業&lt;ref name="RP497_110"&gt;{{Cite journal|和書|author=編集部|title=3月のメモ帳|journal=[[鉄道ピクトリアル]]|date=1988-06-01|volume=38|issue=第6号（通巻第497号）|page=110|publisher=[[電気車研究会]]|issn=0040-4047}}&lt;/ref&gt;。
+* [[1990年]]（[[平成]]2年）
+** この年：駅付近の「[[開かずの踏切]]」による慢性的な交通障害を解消するため、駅の高架化工事開始。
+** [[11月21日]]：「アルカード赤羽2」が開業&lt;ref&gt;{{Cite book|和書 |date=1991-08-01 |title=JR気動車客車編成表 '91年版 |chapter=JR年表 |page=191 |publisher=ジェー・アール・アール |ISBN=4-88283-112-0}}&lt;/ref&gt;。
+* [[1998年]]（平成10年）
+** [[4月26日]]：高架化完了&lt;ref name="交通980414"&gt;{{Cite news |title=東北線を高架に移設 |newspaper=[[交通新聞]] |publisher=交通新聞社 |date=1998-04-14 |page=1 }}&lt;/ref&gt;。「開かずの踏切」が全廃された。
+** [[12月6日]]：未完成だった東北貨物線上り線用の高架が完成し、当駅付近の東北貨物線が20年ぶりに[[複線]]に復帰、現5番線の使用が開始される&lt;ref&gt;{{Cite journal|和書 |journal = [[鉄道ピクトリアル]] |date = 1999-03 |volume = 49 |issue = 3 |page = 82 |publisher = [[電気車研究会]] }}&lt;/ref&gt;。
+* [[2001年]]（平成13年）[[11月18日]]：[[ICカード]]「[[Suica]]」の利用が可能となる&lt;ref group="報道"&gt;{{Cite web|url=https://www.jreast.co.jp/press/2001_1/20010904/suica.pdf|archiveurl=https://web.archive.org/web/20190727044949/https://www.jreast.co.jp/press/2001_1/20010904/suica.pdf|title=Suicaご利用可能エリアマップ（2001年11月18日当初）|format=PDF|language=日本語|archivedate=2019-07-27|accessdate=2020-04-23|publisher=東日本旅客鉄道}}&lt;/ref&gt;。
+* [[2011年]]（平成23年）
+** [[3月26日]]：「[[エキュート]]赤羽」開業。
+** [[9月23日]]：北口[[コンコース]]のリニューアル・拡張および「エキュート赤羽」全面開業。
+* [[2017年]]（平成29年）[[3月25日]]：京浜東北線ホームで[[ホームドア]]の使用を開始&lt;ref group="報道"&gt;{{Cite press release|和書|url=https://www.jreast.co.jp/press/2016/tokyo/20160407_t01.pdf|archiveurl=https://web.archive.org/web/20190510023513/https://www.jreast.co.jp/press/2016/tokyo/20160407_t01.pdf|format=PDF|language=日本語|title=赤羽駅・上野駅・大井町駅3駅の京浜東北線ホームドア工事着手について|publisher=東日本旅客鉄道東京支社|date=2016-04-07|accessdate=2020-04-08|archivedate=2019-05-10}}&lt;/ref&gt;&lt;ref group="報道"&gt;{{Cite press release|和書|url=https://www.jreast.co.jp/press/2016/20170314_t02.pdf|archiveurl=https://web.archive.org/web/20170328231722/http://www.jreast.co.jp/press/2016/20170314_t02.pdf|format=PDF|language=日本語|title=王子駅・御徒町駅の京浜東北線ホームドア工事に着手します|publisher=東日本旅客鉄道東京支社|date=2017-03-14|accessdate=2020-04-08|archivedate=2017-03-28}}&lt;/ref&gt;。
+* [[2018年]]（平成30年）
+** [[10月16日]] - [[12月14日]]：[[人工知能]]（AI）を使った無人売店の実証実験を5・6番線ホームで実施&lt;ref group="報道"&gt;{{Cite press release|和書|url=https://www.jreast.co.jp/press/2018/20181001.pdf|archiveurl=https://web.archive.org/web/20191130151441/https://www.jreast.co.jp/press/2018/20181001.pdf|format=PDF|language=日本語|title=AIを活用した無人決済店舗の実証実験第二弾を赤羽駅で実施 〜レジで会計待ちをすることなく、スマートなお買い物体験を〜|publisher=東日本旅客鉄道／JR東日本スタートアップ|date=2018-10-02|accessdate=2020-02-01|archivedate=2019-11-30}}&lt;/ref&gt;。
+** [[11月16日]]：5・6番線の[[発車メロディ]]を[[エレファントカシマシ]]の楽曲に変更&lt;ref group="報道" name="Train-melody"&gt;{{Cite press release|和書|url=https://www.jreast.co.jp/press/2018/tokyo/20181107_t01.pdf|archiveurl=https://web.archive.org/web/20190820222746/https://www.jreast.co.jp/press/2018/tokyo/20181107_t01.pdf|format=PDF|language=日本語|title=赤羽駅の発車メロディが変わります|publisher=東日本旅客鉄道東京支社|date=2018-11-08|accessdate=2020-02-01|archivedate=2019-08-20}}&lt;/ref&gt;。
+* [[2020年]]（[[令和]]2年）
+** [[3月31日]]：[[びゅうプラザ]]の営業を終了&lt;ref&gt;{{Cite web|url=https://www.jreast.co.jp/estation/station/info.aspx?StationCD=34|title=駅の情報（赤羽駅）：JR東日本|accessdate=2020-02-01|publisher=東日本旅客鉄道|archiveurl=https://archive.ph/dQcVD|archivedate=2020-02-01}}&lt;/ref&gt;。
+** [[10月29日]]：南改札外に駅ナカシェアオフィス「STATION BOOTH」が開業&lt;ref&gt;{{Cite web|url=https://www.stationwork.jp/user/notices-before|title=お知らせ一覧 &gt; 新橋/大崎/赤羽/北千住の4駅にSTATION BOOTHが開業!|publisher=STATION WORK|date=2020-10-28|accessdate=2020-11-18|archiveurl=https://web.archive.org/web/20201118062545/https://www.stationwork.jp/user/notices-before|archivedate=2020-11-18}}&lt;/ref&gt;。
+
+== 駅構造 ==
+[[島式ホーム]]4面8線を有する[[高架駅]]である{{R|zeneki05}}。[[改札]]は北改札口と南改札口の2か所で、それぞれ西側と東側に出口がある自由通路形式となっている。一番西側の埼京線ホーム（7・8番線）の直上を[[東北新幹線]]が通過している。
+
+以前は[[地上駅]]で、京浜東北線は[[盛土]]上にホームが設置され、東北線と赤羽線は地平ホームの[[橋上駅|橋上駅舎]]などとなっていた。その後、東北新幹線の上野駅への延伸工事に伴う地下通路の新設、[[1983年]]の赤羽線ホーム（当時は5番線、現在の7番線）の高架移設などにより当駅は内部構造が入り組んでしまい、高架ホームを地下の乗り換え通路を介して[[階段]]で行き来する構造であるにもかかわらず[[エスカレーター]]なども設置されていなかった。本来は一斉に完全高架化を行うべき所を東北新幹線建設を優先し、残りの高架化が遅れたことが原因である。このような構造上の問題もあり、京浜東北線と埼京線の乗り換えなどに非常に時間が掛かっていた。また、東北線・高崎線の当時の[[池袋駅]]発着列車の経路である東北貨物線は、当駅前後が単線で、上り・下り列車とも同一ホームの発着となっていた。[[1990年]]から約8年かけて駅や付近の線路の[[高架橋|高架]]化工事および[[連続立体交差事業|立体交差化工事]]を施工して完全高架化された後、各線相互の乗り換えは容易になった。ただし、当駅は山手線の東西各方面への列車が合流する分岐駅であり、ホーム間移動する乗客が多い。
+
+赤羽営業統括センター所在駅である[[直営駅]]。埼京線[[十条駅 (東京都)|十条駅]] - [[浮間舟渡駅]]および京浜東北線[[東十条駅]]が当センターの統括範囲である&lt;ref&gt;{{Cite news |title=JR東労組東京地本No.001号 |date=2022-07-27|url=https://jreu-t.jp/wp-content/uploads/2022/07/4c51d21019cd175747fb63a13a209ad9.pdf |accessdate=2023-02-14|format=PDF |publisher=JR 東日本労働組合東京地方本部}}&lt;/ref&gt;。
+
+京浜東北線は[[ラッシュ時]]の一部に当駅発着の設定があり、埼京線もラッシュ時や昼間の一部に当駅発着の設定があるほか、早朝と深夜には「赤羽線」区間にあたる池袋駅 - 当駅間のみの運転がある。このため、両線とも大宮寄りに[[引き上げ線]]がある。
+
+各ホームの乗車位置には3つの四角形が設置されており、真ん中に北区の[[シンボルマーク]]が配されている。
+
+当駅から大宮駅へ向かう列車が数多く発着するため、駅の階段付近には各路線の所要時間が掲示されている。実際、全ての偶数番線から発車する電車は大宮方面へ続いている。
+
+[[2019年]][[11月30日]]に埼京線が[[相鉄・JR直通線|相鉄線]]と相互直通運転を開始したことで、全ての奇数番線から発着する電車に[[神奈川県]]への乗り入れが設定された&lt;ref group="注釈"&gt;[[新宿駅]]以北からの相鉄線への乗り入れは朝のみ。&lt;/ref&gt;。
+
+湘南新宿ラインが浦和駅に停車する前は、各ホームの駅名表示板の隣の駅名は全て異なっていた。また、当駅 - 浦和駅間の距離は11.0kmで、宇都宮線では最長の区間である。
+
+=== のりば ===
+&lt;!--方面表記および路線表記は、JR東日本の「駅構内図」の記載に準拠--&gt;
+{| class="wikitable"
+!番線&lt;!-- 事業者側による呼称 --&gt;!!路線!!方向!!行先
+|-
+!1
+|rowspan="2"|[[ファイル:JR JK line symbol.svg|15px|JK]] 京浜東北線
+|style="text-align:center;"|南行
+|[[上野駅|上野]]・[[東京駅|東京]]・[[横浜駅|横浜]]・[[磯子駅|磯子]]方面
+|-
+!2
+|style="text-align:center;"|北行
+|[[川口駅|川口]]・[[浦和駅|浦和]]・[[大宮駅 (埼玉県)|大宮]]方面
+|-
+!3
+|[[ファイル:JR JU line symbol.svg|15px|JU]] 上野東京ライン&lt;br /&gt;（宇都宮線・高崎線）
+|style="text-align:center;"|上り
+|上野・東京・[[品川駅|品川]]・横浜・[[小田原駅|小田原]]・[[熱海駅|熱海]]方面
+|-
+!4
+|[[ファイル:JR JU line symbol.svg|15px|JU]] 宇都宮線（東北線）・高崎線
+|style="text-align:center;"|下り
+|浦和・大宮・[[宇都宮駅|宇都宮]]・[[高崎駅|高崎]]方面
+|-
+!5
+|rowspan="2"|[[ファイル:JR JS line symbol.svg|15px|JS]] 湘南新宿ライン
+|style="text-align:center;"|南行
+|[[新宿駅|新宿]]・横浜・[[大船駅|大船]]・小田原・[[逗子駅|逗子]]方面
+|-
+!6
+|style="text-align:center;"|北行
+|大宮・宇都宮・高崎方面
+|-
+!rowspan="2"|7
+|rowspan="4"|[[ファイル:JR JA line symbol.svg|15px|JA]] 埼京線
+|style="text-align:center;"|南行 
+|rowspan="2"|[[池袋駅|池袋]]・新宿・[[大崎駅|大崎]]・[[東京臨海高速鉄道りんかい線|りんかい線]]・[[相鉄・JR直通線|相鉄線]]方面
+|-
+|style="text-align:center;"|上り
+|-
+!rowspan="2"|8
+|style="text-align:center;"|北行
+|rowspan="2"|[[武蔵浦和駅|武蔵浦和]]・大宮・[[川越駅|川越]]方面
+|-
+|style="text-align:center;"|下り
+|}
+（出典：[https://www.jreast.co.jp/estation/stations/34.html JR東日本:駅構内図]）
+* なお2013年3月16日に浦和駅に湘南新宿ライン列車が停車するようになって以降も、以前の名残で4番線への案内板にのみ「浦和・大宮・宇都宮・高崎方面」と表記される状態が続いている。
+
+&lt;gallery&gt;
+ファイル:JRE Akabane-STA North-Gate.jpg|北改札口（2022年12月）
+ファイル:JRE Akabane-STA South-Gate.jpg|南改札口（2022年12月）
+ファイル:JRE Akabane-STA Platform1-2.jpg|1・2番線ホーム（2022年9月）
+ファイル:JRE Akabane-STA Platform3-4.jpg|3・4番線ホーム（2022年9月）
+ファイル:JRE Akabane-STA Platform5-6.jpg|5・6番線ホーム（2022年9月）
+ファイル:JRE Akabane-STA Platform7-8.jpg|7・8番線ホーム（2022年9月）
+&lt;/gallery&gt;
+
+=== 発車メロディ ===
+1・3番線では[[テイチクエンタテインメント|テイチク]]、2・4・7・8番線では[[日本電音]]制作の発車メロディを使用している。
+
+5・6番線では2018年11月16日から、当地出身の[[エレファントカシマシ]]の楽曲を使用している。曲は5番線が「[[俺たちの明日]]」、6番線が「[[今宵の月のように]]」である&lt;ref name="Train-melody" group="報道" /&gt;。メロディは[[スイッチ (音楽制作会社)|スイッチ]]の制作で、編曲は[[福嶋尚哉]]が手掛けた&lt;ref&gt;{{Cite web|title=赤羽駅「エレファントカシマシ」楽曲の発車メロディ制作|url=http://www.switching.co.jp/news/430|website=株式会社スイッチオフィシャルサイト|accessdate=2019-08-23|language=ja|publisher=株式会社スイッチ}}&lt;/ref&gt;。
+{|border="1" cellspacing="0" cellpadding="3" frame="hsides" rules="rows"
+!1
+|[[File:JR JK line symbol.svg|15px|JK]]
+|Mellow time
+|-
+!2
+|[[File:JR JK line symbol.svg|15px|JK]]
+|春（強調トレモロ）
+|-
+!3
+|[[File:JR JU line symbol.svg|15px|JU]]
+|すすきの高原
+|-
+!4
+|[[File:JR JU line symbol.svg|15px|JU]]
+|高原
+|-
+!5
+|[[File:JR JS line symbol.svg|15px|JS]]
+|俺たちの明日
+|-
+!6
+|[[File:JR JS line symbol.svg|15px|JS]]
+|今宵の月のように
+|-
+!7
+|[[File:JR JA line symbol.svg|15px|JA]]
+|高原
+|-
+!8
+|[[File:JR JA line symbol.svg|15px|JA]]
+|せせらぎ
+|}
+
+=== 設備 ===
+[[ファイル:Display at Akabane Station.jpg|thumb|400px|改札内コンコースに設置されているフルカラーLED式発車標（上野東京ライン開業前・当時は浦和駅に湘南新宿ラインのホームが設置されていない）]]
+[[2007年]]2月には、改札口・駅コンコース内にフルカラー[[発光ダイオード|LED]]式[[発車標]]が設置された。
+
+駅舎は[[岩淵水門]]（通称・青水門）をイメージして造られている。
+
+南側の改札内コンコースには、[[吉野家]]とJR東日本の外食グループ会社である[[ジェイアール東日本フードビジネス]] (JEFB) との業務提携によるJR駅構内2号店「駅の牛丼 吉野家 JEFB（ジェフビー）」があったが、2012年8月末で閉店した。
+
+北側の改札内コンコースは、リニューアル工事が完了し、拡大し、後述のエキュート赤羽が開業した。
+
+=== エキュート赤羽 ===
+北改札内に2011年[[3月26日]]に開業した[[ジェイアール東日本都市開発]]が開発・運営する改札内商業施設（他の多くのエキュートは[[JR東日本リテールネット]]が運営している）。同年[[9月23日]]に南改札寄りの増設エリアの整備が完了し、全面開業した。多数の[[デザート|スイーツ]]・[[デリカテッセン|デリ]]系ショップを中核とし、[[コンビニエンスストア]]「[[NEWDAYS]]」、[[カフェ]]「[[BECK'S COFFEE SHOP]]」、[[蕎麦]]店「そばいち」、[[書店]]「BOOK EXPRESS」などのほか、雑貨店・婦人衣料店などが出店している。出店店舗の一覧・詳細情報は公式サイト「[http://www.ecute.jp/akabane/shop.html ショップ一覧]」を、営業時間は公式サイト[http://www.ecute.jp/akabane/ トップページ]を参照。
+
+=== ビーンズ赤羽 ===
+[[ファイル:Beans-Akabane.jpg|thumb|ビーンズ赤羽（2019年6月）]]
+北改札の北側改札外からの高架下、途中[[東京都道460号中十条赤羽線]]ガード下を挟み、大宮方約350メートルにわたり設置されている[[ショッピングセンター]]である。
+
+飲食店や雑貨などの販売店をはじめ、[[ビバホーム]]や[[スポーツオーソリティ]]、[[ユザワヤ]]などが出店している。[[駅ビル]]であるが、[[駐車場]]も備え、自家用車利用者も顧客として取り込んでいる（駅[[駐輪場]]も併設）。
+
+元々は、北口改札前 - 都道460号ガード下までの間が「アルカード赤羽2」、ガード下から北側が「アルカード赤羽3 生活提案館」という名前であったが、2010年、南口改札外にあった「アルカード赤羽1」を「エキュート赤羽」の用地として転用するために閉鎖し、「1」が欠けた状態で残った北口改札外の「2」「3」が存在するという状態となっていたが、4年後の2014年11月13日「ビーンズ赤羽」として統合・リニューアルした&lt;ref&gt;[http://beans.jrtk.jp/akabane/ ビーンズ赤羽]&lt;/ref&gt;。ジェイアール東日本都市開発が開発・運営している。
+
+== 利用状況 ==
+* '''JR東日本''' - 2021年度の1日平均[[乗降人員#乗車人員|'''乗車'''人員]]は'''78,321人'''である&lt;ref group="利用客数"&gt;[https://www.jreast.co.jp/passenger/index.html 各駅の乗車人員] - JR東日本&lt;/ref&gt;。
+*: JR東日本の駅では[[錦糸町駅]]に次いで第36位。他社線への乗換駅でない駅（JR東日本の路線しか通っていない駅）としては1位である。
+当駅は、[[埼玉県]][[川口市]]、[[蕨市]]、[[戸田市]]、[[さいたま市]]などや、それ以北の同県内の都市から東京都心部へ移動する際に経由する駅であり、また[[山手線]]と併走する西側の埼京線・湘南新宿ライン（池袋・新宿・[[渋谷駅]]方面）と東側の京浜東北線・宇都宮線・高崎線（上野・[[東京駅|東京]]・[[品川駅]]方面）への分岐点であることから、多くの乗り換え客が集中する。そのため、当駅ではエキュート赤羽開業とともに乗り換え経路を増加させ、乗り換え客の利便性向上を図った。川口市内からもバス等で来て利用する客が多い。特に西口は、国際興業バスのターミナルであり、各方面からのバス利用者が赤羽駅に集まる。
+
+近年1日平均'''乗車'''人員の推移は下表の通りである。
+
+=== 年度別1日平均乗車人員（1953年 - 2000年） ===
+&lt;!--東京都統計年鑑を出典にしている数値については、元データが1,000人単位で掲載されているため、*1000/365 (or 366) で計算してあります--&gt;
+{|class="wikitable" style="text-align:right"
+|+年度別1日平均乗車人員
+!年度
+!1日平均&lt;br /&gt;乗車人員
+!出典
+|-
+|1953年（昭和28年）
+|46,593
+|&lt;ref group="東京都統計"&gt;{{PDFlink|[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1953/tn53qa0009.pdf 昭和28年]}} - 13ページ&lt;/ref&gt;
+|-
+|1954年（昭和29年）
+|49,971
+|&lt;ref group="東京都統計"&gt;{{PDFlink|[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1954/tn54qa0009.pdf 昭和29年]}} - 10ページ&lt;/ref&gt;
+|-
+|1955年（昭和30年）
+|52,532
+|&lt;ref group="東京都統計"&gt;{{PDFlink|[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1955/tn55qa0009.pdf 昭和30年]}} - 10ページ&lt;/ref&gt;
+|-
+|1956年（昭和31年）
+|57,153
+|&lt;ref group="東京都統計"&gt;{{PDFlink|[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1956/tn56qa0009.pdf 昭和31年]}}&lt;/ref&gt;
+|-
+|1957年（昭和32年）
+|61,687
+|&lt;ref group="東京都統計"&gt;{{PDFlink|[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1957/tn57qa0009.pdf 昭和32年]}}&lt;/ref&gt;
+|-
+|1958年（昭和33年）
+|66,003
+|&lt;ref group="東京都統計"&gt;{{PDFlink|[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1958/tn58qa0009.pdf 昭和33年]}}&lt;/ref&gt;
+|-
+|1959年（昭和34年）
+|73,455
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1959/tn59qyti0510u.htm 昭和34年]&lt;/ref&gt;
+|-
+|1960年（昭和35年）
+|80,755
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1960/tn60qyti0510u.htm 昭和35年]&lt;/ref&gt;
+|-
+|1961年（昭和36年）
+|86,929
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1961/tn61qyti0510u.htm 昭和36年]&lt;/ref&gt;
+|-
+|1962年（昭和37年）
+|98,529
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1962/tn62qyti0510u.htm 昭和37年]&lt;/ref&gt;
+|-
+|1963年（昭和38年）
+|107,911
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1963/tn63qyti0510u.htm 昭和38年]&lt;/ref&gt;
+|-
+|1964年（昭和39年）
+|112,416
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1964/tn64qyti0510u.htm 昭和39年]&lt;/ref&gt;
+|-
+|1965年（昭和40年）
+|114,935
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1965/tn65qyti0510u.htm 昭和40年]&lt;/ref&gt;
+|-
+|1966年（昭和41年）
+|119,768
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1966/tn66qyti0510u.htm 昭和41年]&lt;/ref&gt;
+|-
+|1967年（昭和42年）
+|123,764
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1967/tn67qyti0510u.htm 昭和42年]&lt;/ref&gt;
+|-
+|1968年（昭和43年）
+|124,848
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1968/tn68qyti0510u.htm 昭和43年]&lt;/ref&gt;
+|-
+|1969年（昭和44年）
+|116,474
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1969/tn69qyti0510u.htm 昭和44年]&lt;/ref&gt;
+|-
+|1970年（昭和45年）
+|109,074
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1970/tn70qyti0510u.htm 昭和45年]&lt;/ref&gt;
+|-
+|1971年（昭和46年）
+|107,560
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1971/tn71qyti0510u.htm 昭和46年]&lt;/ref&gt;
+|-
+|1972年（昭和47年）
+|103,200
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1972/tn72qyti0510u.htm 昭和47年]&lt;/ref&gt;
+|-
+|1973年（昭和48年）
+|104,474
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1973/tn73qyti0510u.htm 昭和48年]&lt;/ref&gt;
+|-
+|1974年（昭和49年）
+|106,501
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1974/tn74qyti0510u.htm 昭和49年]&lt;/ref&gt;
+|-
+|1975年（昭和50年）
+|95,134
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1975/tn75qyti0510u.htm 昭和50年]&lt;/ref&gt;
+|-
+|1976年（昭和51年）
+|99,255
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1976/tn76qyti0510u.htm 昭和51年]&lt;/ref&gt;
+|-
+|1977年（昭和52年）
+|96,044
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1977/tn77qyti0510u.htm 昭和52年]&lt;/ref&gt;
+|-
+|1978年（昭和53年）
+|94,121
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1978/tn78qyti0510u.htm 昭和53年]&lt;/ref&gt;
+|-
+|1979年（昭和54年）
+|92,079
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1979/tn79qyti0510u.htm 昭和54年]&lt;/ref&gt;
+|-
+|1980年（昭和55年）
+|89,874
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1980/tn80qyti0510u.htm 昭和55年]&lt;/ref&gt;
+|-
+|1981年（昭和56年）
+|89,222
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1981/tn81qyti0510u.htm 昭和56年]&lt;/ref&gt;
+|-
+|1982年（昭和57年）
+|88,386
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1982/tn82qyti0510u.htm 昭和57年]&lt;/ref&gt;
+|-
+|1983年（昭和58年）
+|87,497
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1983/tn83qyti0510u.htm 昭和58年]&lt;/ref&gt;
+|-
+|1984年（昭和59年）
+|86,466
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1984/tn84qyti0510u.htm 昭和59年]&lt;/ref&gt;
+|-
+|1985年（昭和60年）
+|85,940
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1985/tn85qyti0510u.htm 昭和60年]&lt;/ref&gt;
+|-
+|1986年（昭和61年）
+|83,145
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1986/tn86qyti0510u.htm 昭和61年]&lt;/ref&gt;
+|-
+|1987年（昭和62年）
+|83,276
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1987/tn87qyti0510u.htm 昭和62年]&lt;/ref&gt;
+|-
+|1988年（昭和63年）
+|87,104
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1988/tn88qyti0510u.htm 昭和63年]&lt;/ref&gt;
+|-
+|1989年（平成元年）
+|87,068
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1989/tn89qyti0510u.htm 平成元年]&lt;/ref&gt;
+|-
+|1990年（平成{{0}}2年）
+|87,460
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1990/tn90qyti0510u.htm 平成2年]&lt;/ref&gt;
+|-
+|1991年（平成{{0}}3年）
+|88,438
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1991/tn91qyti0510u.htm 平成3年]&lt;/ref&gt;
+|-
+|1992年（平成{{0}}4年）
+|86,759
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1992/TOBB510P.HTM 平成4年]&lt;/ref&gt;
+|-
+|1993年（平成{{0}}5年）
+|87,534
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1993/TOBB510Q.HTM 平成5年]&lt;/ref&gt;
+|-
+|1994年（平成{{0}}6年）
+|86,529
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1994/TOBB510R.HTM 平成6年]&lt;/ref&gt;
+|-
+|1995年（平成{{0}}7年）
+|86,361
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1995/TOBB510S.HTM 平成7年]&lt;/ref&gt;
+|-
+|1996年（平成{{0}}8年）
+|84,896
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1996/TOBB510T.HTM 平成8年]&lt;/ref&gt;
+|-
+|1997年（平成{{0}}9年）
+|81,930
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1997/TOBB510U.HTM 平成9年]&lt;/ref&gt;
+|-
+|1998年（平成10年）
+|80,594
+|&lt;ref group="東京都統計"&gt;{{PDFlink|[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1998/TOBB510J.PDF 平成10年]}}&lt;/ref&gt;
+|-
+|1999年（平成11年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/1999.html 各駅の乗車人員（1999年度）]- JR東日本&lt;/ref&gt;80,197
+|&lt;ref group="東京都統計"&gt;{{PDFlink|[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1999/TOBB510K.PDF 平成11年]}}&lt;/ref&gt;
+|-
+|2000年（平成12年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2000.html 各駅の乗車人員（2000年度）] - JR東日本&lt;/ref&gt;82,041
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2000/00qyti0510u.htm 平成12年]&lt;/ref&gt;
+|}
+
+=== 年度別1日平均乗車人員（2001年以降） ===
+&lt;!--東京都統計年鑑を出典にしている数値については、元データが1,000人単位で掲載されているため、*1000/365 (or 366) で計算してあります--&gt;
+{|class="wikitable" style="text-align:right"
+|+年度別1日平均乗車人員&lt;ref group="*"&gt;[http://www.city.kita.tokyo.jp/kuse/joho/shiryoshu/index.html 行政資料集] - 北区&lt;/ref&gt;
+!年度
+!1日平均&lt;br /&gt;乗車人員
+!出典
+|-
+|2001年（平成13年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2001.html 各駅の乗車人員（2001年度）] - JR東日本&lt;/ref&gt;82,141
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2001/01qyti0510u.htm 平成13年]&lt;/ref&gt;
+|-
+|2002年（平成14年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2002.html 各駅の乗車人員（2002年度）] - JR東日本&lt;/ref&gt;83,585
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2002/tn02qyti0510u.htm 平成14年]&lt;/ref&gt;
+|-
+|2003年（平成15年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2003.html 各駅の乗車人員（2003年度）] - JR東日本&lt;/ref&gt;85,083
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2003/tn03qyti0510u.htm 平成15年]&lt;/ref&gt;
+|-
+|2004年（平成16年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2004.html 各駅の乗車人員（2004年度）] - JR東日本&lt;/ref&gt;85,238
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2004/tn04qyti0510u.htm 平成16年]&lt;/ref&gt;
+|-
+|2005年（平成17年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2005.html 各駅の乗車人員（2005年度）] - JR東日本&lt;/ref&gt;86,459
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2005/tn05qyti0510u.htm 平成17年]&lt;/ref&gt;
+|-
+|2006年（平成18年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2006.html 各駅の乗車人員（2006年度）] - JR東日本&lt;/ref&gt;87,339
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2006/tn06qyti0510u.htm 平成18年]&lt;/ref&gt;
+|-
+|2007年（平成19年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2007.html 各駅の乗車人員（2007年度）] - JR東日本&lt;/ref&gt; 88,632
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2007/tn07qyti0510u.htm 平成19年]&lt;/ref&gt;
+|-
+|2008年（平成20年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2008.html 各駅の乗車人員（2008年度）] - JR東日本&lt;/ref&gt;88,351
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2008/tn08qyti0510u.htm 平成20年]&lt;/ref&gt;
+|-
+|2009年（平成21年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2009.html 各駅の乗車人員（2009年度）] - JR東日本&lt;/ref&gt;88,085
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2009/tn09q3i004.htm 平成21年]&lt;/ref&gt;
+|-
+|2010年（平成22年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2010.html 各駅の乗車人員（2010年度）] - JR東日本&lt;/ref&gt;86,869
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2010/tn10q3i004.htm 平成22年]&lt;/ref&gt;
+|-
+|2011年（平成23年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2011.html 各駅の乗車人員（2011年度）] - JR東日本&lt;/ref&gt;87,346
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2011/tn11q3i004.htm 平成23年]&lt;/ref&gt;
+|-
+|2012年（平成24年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2012.html 各駅の乗車人員（2012年度）] - JR東日本&lt;/ref&gt;88,140
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2012/tn12q3i004.htm 平成24年]&lt;/ref&gt;
+|-
+|2013年（平成25年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2013.html 各駅の乗車人員（2013年度）] - JR東日本&lt;/ref&gt;89,742
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2013/tn13q3i004.htm 平成25年]&lt;/ref&gt;
+|-
+|2014年（平成26年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2014.html 各駅の乗車人員（2014年度）] - JR東日本&lt;/ref&gt;89,489
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2014/tn14q3i004.htm 平成26年]&lt;/ref&gt;
+|-
+|2015年（平成27年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2015.html 各駅の乗車人員（2015年度）] - JR東日本&lt;/ref&gt;92,146
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2015/tn15q3i004.htm 平成27年]&lt;/ref&gt;
+|-
+|2016年（平成28年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2016.html 各駅の乗車人員（2016年度）] - JR東日本&lt;/ref&gt;93,534
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2016/tn16q3i004.htm 平成28年]&lt;/ref&gt;
+|-
+|2017年（平成29年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2017.html 各駅の乗車人員（2017年度）] - JR東日本&lt;/ref&gt;95,851
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2017/tn17q3i004.htm 平成29年]&lt;/ref&gt;
+|-
+|2018年（平成30年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2018.html 各駅の乗車人員（2018年度）] - JR東日本&lt;/ref&gt;97,249
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2018/tn18q3i004.htm 平成30年]&lt;/ref&gt;
+|-
+|2019年（令和元年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2019.html 各駅の乗車人員（2019年度）] - JR東日本&lt;/ref&gt;98,370
+|&lt;ref group="東京都統計"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2019/tn19q3i004.htm 平成31年・令和元年]&lt;/ref&gt;
+|-
+|2020年（令和{{0}}2年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/2020.html 各駅の乗車人員（2020年度）] - JR東日本&lt;/ref&gt;73,842
+|
+|-
+|2021年（令和{{0}}3年）
+|&lt;ref group="JR"&gt;[https://www.jreast.co.jp/passenger/index.html 各駅の乗車人員（2021年度）] - JR東日本&lt;/ref&gt;78,321
+|
+|}
+
+== 駅周辺 ==
+{{Vertical_images_list
+|幅 = 200px
+|枠幅 = 200px
+|1 = JRE Akabane Sta 1974.jpg
+|2 = 赤羽駅付近空中写真（1974年撮影 国土画像情報オルソ化空中写真（[[国土交通省]]）より）
+|3 = Akabane sta 1974.JPG
+|4 = 赤羽駅付近空中写真詳細（1974年撮影 国土画像情報カラー空中写真（国土交通省）より）
+}}
+{{See also|赤羽|赤羽台|岩淵町 (東京都北区)|志茂|神谷 (東京都北区)|赤羽南|赤羽西}}
+当駅は旧赤羽村域に建設されたため、駅名は「赤羽駅」とされたが、当駅の北部は[[宿場町]]として有名であった旧[[岩淵宿]]であり、旧岩淵宿が旧赤羽村などと合併した際の町名は旧[[岩淵町]]とされていた。しかし、当駅周辺は次第に経済的に発展するようになり、かつ知名度から見ても、駅名となった「赤羽」という地名は「岩淵」よりも有名になった。そのため[[第二次世界大戦]]後の[[住居表示]]実施時には、岩淵という地名を完全に消滅させ、全て[[赤羽]]に改称する計画が生じたが、地域の住民運動により一部が[[岩淵町 (東京都北区)|岩淵町]]のまま存続することとなり、かつ[[埼玉高速鉄道]]と[[東京地下鉄]]（東京メトロ）[[東京メトロ南北線|南北線]]の駅名は[[赤羽岩淵駅]]とされている。しかし、旧岩淵宿域は完全に赤羽の経済圏ならびに生活圏になっている模様である。
+
+当駅周辺は主に北区の商業の中心となっている。東北本線の線路が地上にあった頃は、駅の前後に「[[開かずの踏切]]」が点在し、東西の街は鉄道によって事実上分断されていたが、高架化の完成によってこれが解消され、高架下にも商業施設が多数入居し、東口・西口側双方から利用できる。
+
+平成30年度『駅前放置自転車等の現況と対策』によれば、赤羽駅周辺の放置自転車数は平成30年度において都内ワースト1位である。
+
+=== 北改札口・東口 ===
+;南口（東側）含む
+古くからの商業地が広がっている。複数の[[商店街]]が周辺に点在するほか、[[パチンコ]]店や[[居酒屋]]も多く、南側には[[歓楽街]]も広がっている。[[戦後]]の早い時期に行われた[[土地区画整理事業|区画整理]]により、南北に走る[[国道122号|北本通り]]を中心とした比較的整備された街並みとなっている。
+
+地下鉄南北線・[[埼玉高速鉄道線]]の赤羽岩淵駅との間は、東口より赤羽東本通りを通じて徒歩10分程度離れている。そのため、埼玉高速鉄道線開業の際にも国際興業バスは同線とほぼ並行して走る赤羽駅東口 - 鳩ヶ谷公団住宅・川口市立医療センター線を廃止していない。なお、当駅を通る列車の運行に支障が生じた際の[[振替輸送]]では、赤羽岩淵駅を利用するように指示が出されることがある。
+
+{{columns-list|2|
+* [[JR東日本ホテルメッツ]]赤羽 - 駅ナカシェアオフィス「STATION WORK」が利用可能（事前予約制）&lt;ref group="報道"&gt;{{Cite press release|和書|url=https://www.jreast.co.jp/press/2020/20210113_ho04.pdf|title=STATION WORK×リッチモンドホテルズ ホテルテレワークプランを開始します ～半日単位2,300円より、ホテルの客室があなたのテレワーク空間に～|format=PDF|publisher=東日本旅客鉄道|page=2|date=2021-01-13|accessdate=2021-01-13|archiveurl=https://web.archive.org/web/20210113130007/https://www.jreast.co.jp/press/2020/20210113_ho04.pdf|archivedate=2021-01-13}}&lt;/ref&gt;
+* [[ダイワロイネットホテルズ|ダイワロイネットホテル]]東京赤羽 - 2021年3月12日より、駅ナカシェアオフィス「STATION WORK」が利用可能（事前予約制）&lt;ref&gt;{{Cite web|url=https://www.stationwork.jp/user/notices-before|title=お知らせ一覧 &gt; 3/12(金)よりダイワロイネットホテル4施設と提携開始!|publisher=STATION WORK|date=2021-03-11|accessdate=2021-03-22|archiveurl=https://web.archive.org/web/20210318094835/https://www.stationwork.jp/user/notices-before|archivedate=2021-03-18}}&lt;/ref&gt;&lt;ref group="報道"&gt;{{Cite press release|和書|url=https://www.jreast.co.jp/press/2020/20210305_ho01.pdf|title=STATION WORKがダイワロイネットホテルズ14施設と提携スタート ～東京・神奈川・千葉エリアの14施設と連携開始、日本全国136カ所のネットワークへ～|format=PDF|publisher=東日本旅客鉄道、ダイワロイヤル|date=2021-03-05|accessdate=2021-03-05|archiveurl=https://web.archive.org/web/20210305080415/https://www.jreast.co.jp/press/2020/20210305_ho01.pdf|archivedate=2021-03-05}}&lt;/ref&gt;
+&lt;!-- * [[西友]] 赤羽店（1966年（昭和41年）3月23日開店&lt;ref name="syogyokai-20years-1967-212"&gt;『商業界二十年 : 日本商業20年譜 1948-1967』 [[商業界]]、1967年。pp212&lt;/ref&gt;、本社を併設） --&gt;
+* [[PALTAC]]東京支社（[[カルビー]]旧本社→[[吉野家|吉野家ホールディングス]]旧本社）
+* 赤羽公園
+* 北区役所 赤羽区民事務所
+* 赤羽会館
+* [[赤羽郵便局]]
+** [[ゆうちょ銀行]] 赤羽店
+* [[東京消防庁]] 赤羽消防署
+* 赤羽一番街商店街
+* 赤羽スズラン通り商店街（LaLaガーデン）
+** [[ダイエー]]赤羽店（[[1969年]]（[[昭和]]44年）[[12月5日]]開店&lt;ref name="japan-comerce-yearbook-1971-25"&gt;『日本商業年鑑 1971年版』 [[商業界]]、1971年。pp25&lt;/ref&gt;）
+* 赤羽岩淵病院
+* 赤羽病院
+* 赤羽中央総合病院
+* 赤羽東口病院
+* [[博慈会記念総合病院]]（路線バス利用）
+* [[都市農業公園]]（路線バス利用）
+* [[荒川 (関東)|荒川]]
+* [[岩淵水門]]
+* [[新河岸川]]・[[隅田川]]
+* [[成立学園中学校・高等学校]]
+* [[ブックオフ|BOOK-OFF]]赤羽駅東口店
+* [[国道122号]]（北本通り）
+|}}
+
+=== 北改札口・西口 ===
+; 南口（西側）含む
+[[1980年代]]から[[1990年代]]にかけての[[都市再開発|再開発]]（[[パルロード赤羽]]を参照）によって、駅前には大型[[スーパーマーケット|スーパー]]や[[マンション]]が建ち並んでいる。そこを通り抜けると周囲は[[住宅地]]となっており、周辺が[[丘陵]]地帯であることもあって、大きな道路や商業施設は存在しない。北側一帯の丘陵地には[[赤羽台団地]]が広がっており、その下を駅前からの道路が赤羽台トンネルで貫通し、[[北赤羽駅]]方面と連絡している。
+
+{{columns-list|2|
+* パルロード1（アピレ）
+* パルロード2（ビビオ）
+* パルロード3（イトーヨーカドー 赤羽店）
+* 赤羽駅前[[郵便局]]
+* [[学校法人星美学園|星美学園]][[星美学園短期大学|短期大学]]・[[星美学園中学校・高等学校|高等学校・中学校]]・[[星美学園小学校|小学校]] - 真下を通る東北新幹線の建設に猛反対したことで知られる。
+* [[東洋大学赤羽台キャンパス]] - 旧[[北区立赤羽台中学校]]跡を[[東洋大学京北中学高等学校|京北中学校・高等学校]]・[[京北学園白山高等学校]]の仮校舎として使用の後に建て替え。
+* [[東京北医療センター]]（路線バスも利用可能）
+* [[国立西が丘サッカー場]]
+* [[国立スポーツ科学センター]]
+* [[国際興業バス赤羽営業所]]
+* [[本蓮沼駅]]（[[都営地下鉄三田線]]）
+* [[東京都立赤羽商業高等学校]]
+* [[淑徳大学]]（東京キャンパス）
+* [[静勝寺|稲付城跡]]
+|}}
+
+== バス路線 ==
+東口と西口にバスターミナルがあり、[[国際興業バス]]のほか、[[関東バス]]、[[都営バス]]の路線が発着する。2015年4月1日から運行されている[[東京国際空港|羽田空港]]行の空港連絡バスと2021年10月23日から運行の[[三井アウトレットパーク 木更津]]行の高速バスが東口9番のりばに発着するようになった。
+
+=== 東口発着 ===
+&lt;!--バス路線の記述は[[プロジェクト:鉄道#バス路線の記述法]]に基づき、必要最小限の情報に留めています。特に経由地については、[[プロジェクト:鉄道#バス路線の記述法]]の観点から、記載しないでください。--&gt;
+1 - 4番のりばは東口駅前ロータリー内に、それ以外ののりばは駅東口からそれぞれ徒歩3 - 5分程の少々離れた場所にある。
+
+{| class="wikitable" style="font-size:80%;"
+!のりば!!運行事業者!!系統・行先!!備考
+|-
+!1
+|rowspan="4" style="text-align:center;"|国際興業バス
+|{{Unbulleted list|[[国際興業バス鳩ヶ谷営業所#赤羽駅 - 鳩ヶ谷庁舎 - 鳩ヶ谷地区方面線|'''赤21''']]：鳩ヶ谷公団住宅|[[国際興業バス赤羽営業所#赤羽駅東口 - 荒川大橋 - 鹿浜 - 西新井駅線|'''赤23''']]：[[西新井駅]]|'''赤23-3'''：[[西新井大師西駅]]}}
+|{{Unbulleted list|「赤21」は深夜バスのみ発着（深夜バス以外は6番のりば発着）|「赤23-3」は深夜バスの運行あり}}
+|-
+!2
+|{{Unbulleted list|[[国際興業バス川口営業所#赤羽駅東口 → 東川口駅線（深夜バス）|'''赤13''']]：[[東川口駅]]北口|[[国際興業バス川口営業所#赤羽駅東口 - 鹿浜橋 - 舎人団地線|'''赤26''']]：舎人団地}}
+|「赤13」は深夜バス
+|-
+!3
+|{{Unbulleted list|[[国際興業バス鳩ヶ谷営業所#赤羽駅 → 川口駅 → 東浦和駅線（深夜バス）|'''赤12''']]：[[東浦和駅]]|[[国際興業バス赤羽営業所#赤羽駅東口 - 江北陸橋（環七経由）- 西新井駅線|'''赤27'''・'''赤27H''']]：西新井駅|'''赤27-3'''：江北陸橋下}}
+|{{Unbulleted list|「赤12」は深夜バス|「赤27-3」は土休日のみ運行}}
+|-
+!4
+|{{Unbulleted list|[[国際興業バス戸田営業所#赤羽駅 - 南浦和駅線|'''赤11''']]：[[南浦和駅]]西口|[[国際興業バス赤羽営業所#赤羽駅東口 - ハートアイランド循環線|'''赤25''']]：ハートアイランド循環|'''赤25-2'''：ハートアイランド東}}
+|「赤11」は深夜バス
+|-
+!5・9
+|style="text-align:center;"|{{Unbulleted list|国際興業バス|関東バス}}
+|[[国際興業バス赤羽営業所#赤羽駅東口 - 大和町 - 野方駅 - 高円寺駅線|'''赤31''']]：[[高円寺駅]]北口
+|&amp;nbsp;
+|-
+!6・8
+|style="text-align:center;"|国際興業バス
+|{{Unbulleted list|'''赤20'''：[[川口市立医療センター]]|'''赤21'''：鳩ヶ谷公団住宅}}
+|{{Unbulleted list|「赤20」は日中のみ運行|「赤21」の深夜バスは1番線から発着}}
+|-
+!8
+|style="text-align:center;"|[[岩手県交通]]
+|[[岩手県交通#高速バス|'''イーハトーブ号''']]：[[紫波中央駅]]
+|夜行バス
+|-
+!9
+|style="text-align:center;"|{{Unbulleted list|[[京浜急行バス]]|国際興業バス|[[東京バス]]|[[小湊鉄道]]}}
+|'''空港連絡バス'''：[[羽田空港]] / [[成田空港]]
+|&amp;nbsp;
+|-
+!－
+|style="text-align:center;"|都営バス
+|[[都営バス北営業所#王57・深夜02系統|'''王57''']]：豊島五丁目団地
+|&amp;nbsp;
+|}
+; その他
+* 国際興業バス
+** '''深夜急行バス'''：[[東浦和駅]]（降車のみ）
+* 深夜バス1時10分発は始発停留所の赤羽駅東口のみ乗車可能である。その他は降車のみ扱う。
+
+=== 西口発着 ===
+&lt;!--バス路線の記述は[[プロジェクト:鉄道#バス路線の記述法]]に基づき、必要最小限の情報に留めています。特に経由地については、[[プロジェクト:鉄道#バス路線の記述法]]の観点から、記載しないでください。--&gt;
+全て国際興業バスが運行する路線バスが発着する。
+
+{| class="wikitable" style="font-size:80%;"
+!のりば!!運行事業者!!系統・行先!!備考
+|-
+!1
+|rowspan="9" style="text-align:center;"|国際興業バス
+|{{Unbulleted list|[[国際興業バス志村営業所#赤羽駅 - 高島平操車場線|'''赤56''']]：高島平操車場|'''赤56-3'''：中台三丁目}}
+|&amp;nbsp;
+|-
+!2
+|{{Unbulleted list|[[国際興業バス赤羽営業所#赤羽駅西口 - 桐ヶ丘高校・体育館循環線|'''赤54'''・'''赤54-1''']]：桐ヶ丘循環|'''赤54-2'''：桐ケ丘高校・体育館循環|'''赤73'''：[[西高島平駅]]|'''赤96'''：赤羽車庫}}
+|「赤73」は深夜バス
+|-
+!3
+|{{Unbulleted list|[[国際興業バス赤羽営業所#赤羽駅西口 - ときわ台駅線|'''赤53''']]：[[ときわ台駅 (東京都)|ときわ台駅]]|[[国際興業バス赤羽営業所#赤羽駅西口 → 浮間舟渡・戸田公園駅線（深夜バス）|'''赤71''']]：[[浮間舟渡駅]]|'''赤72'''：[[戸田公園駅]]}}
+|「赤71」「赤72」は深夜バス
+|-
+!4
+|{{Unbulleted list|[[国際興業バス赤羽営業所#赤羽駅西口 - 豊島病院 - 池袋駅線|'''赤51''']]：[[池袋駅]]東口|[[国際興業バス池袋営業所#日大病院 - 赤羽駅線|'''赤57''']]：[[日本大学医学部附属板橋病院|日大病院]]|'''赤57-2'''：[[板橋本町駅|大和町]]}}
+|「赤57-2」は夜間のみ運行
+|-
+!5
+|{{Unbulleted list|[[国際興業バス赤羽営業所#赤羽駅西口 - 東京北医療センター線|'''赤58''']]：[[東京北医療センター]]|[[国際興業バス赤羽営業所#赤羽駅西口 - 赤羽車庫線|'''赤80-2''']]：赤羽車庫}}
+|&amp;nbsp;
+|-
+!6
+|[[国際興業バス赤羽営業所#赤羽駅西口 - 西が丘 - 王子駅線|'''赤50''']]：[[王子駅]]
+|&amp;nbsp;
+|-
+!7
+|{{Unbulleted list|[[国際興業バス志村営業所#赤羽駅 - 成増駅線|'''赤02''']]：[[成増駅]]北口|'''赤83'''：志村三丁目駅|'''赤84'''：[[大東文化大学]]}}
+|&amp;nbsp;
+|-
+!8
+|{{Unbulleted list|[[国際興業バス練馬営業所#赤羽駅 - 平和台駅 - 練馬駅線|'''赤01''']]：[[練馬駅]]|'''赤85'''：[[平和台駅 (東京都)|平和台駅]]}}
+|&amp;nbsp;
+|-
+!9&lt;br /&gt;（坂下のりば）
+|'''赤58'''：東京北医療センター
+|&amp;nbsp;
+|}
+; その他
+* 深夜バス1時10分発は始発停留所となる赤羽駅西口のみ乗車可能である。その他は降車専用である。
+* 90年代前半までは赤02を除く西口を発着する全ての系統が坂下乗り場からの発着であった（当時の赤02は東口発着）。
+
+== エキュート赤羽設置の経過（赤羽駅リニューアル計画） ==
+[[ファイル:L25_akabane.st_heisa.jpg|thumb|工事中の「アルカード赤羽1」跡地。案内表示板は仮設のもの。]]
+JR東日本では、2011年[[1月19日]]に「赤羽駅リニューアル計画」を発表した&lt;ref group="報道"&gt;{{Cite press release|和書|url=https://www.jreast.co.jp/press/2010/20110107.pdf|archiveurl=https://web.archive.org/web/20180405214541/http://www.jreast.co.jp/press/2010/20110107.pdf|format=PDF|language=日本語|title=2011年夏、赤羽駅が生まれ変わります|publisher=東日本旅客鉄道／ジェイアール東日本都市開発|date=2011-01-19|accessdate=2020-06-11|archivedate=2018-04-05}}&lt;/ref&gt;。リニューアルはすべて北改札内であり、内容は以下の通り。
+* 駅部中央に乗り換え用の新コンコースを整備し、利便性を向上させる。さらに新コンコース内に各ホームとを連絡するエスカレーターを設置する。
+* 床・天井のリニューアルおよび案内サインを再配置し、分かりやすくする。
+* 改札内商業施設「エキュート赤羽」（開発・運営：ジェイアール東日本都市開発）を開業し、便利で快適に利用できるようにする。
+なお、この北改札内のリニューアルのため、発表以前より工事が始まっており、南改札に面した改札外商業施設「アルカード赤羽1」は2010年9月までに閉鎖された。アルカード赤羽1は建物の構造・位置関係上北改札内にあった従来の店舗と壁一つ隔てて隣接しており、新コンコースとエキュートはアルカード赤羽1の用地を転用する。また、北改札内にあった従来の店舗も同年末までに全店閉店したほか、ホーム上の一部店舗も閉鎖・撤去となった。
+
+工事は2期に分けて実施され、2011年3月に北改札内のリニューアルとエキュート赤羽の一部先行オープンが、同年9月に乗り換えコンコースの整備・エスカレーターの設置が行われたほか、エキュート赤羽が全面オープンした。これにより、駅部中央部分が改札内扱いになるとともに、改札内店舗の面積は大幅に拡張された。
+
+== 隣の駅 ==
+; 東日本旅客鉄道（JR東日本）
+: [[ファイル:JR JU line symbol.svg|15px|JU]]  宇都宮線（東北本線）・高崎線・上野東京ライン
+:* 特急「[[草津・四万]]」「[[あかぎ (列車)|あかぎ]]」停車駅
+:* 臨時特急「[[水上 (列車)|水上]]」停車駅
+:: {{Color|#f68b1e|■}}快速「ラビット」「アーバン」
+::: [[上野駅]] (JU 02) - '''赤羽駅 (JU 04)''' - [[浦和駅]] (JU 05)
+:: {{Color|#18a629|■}}普通
+::: [[尾久駅]] (JU 03) - '''赤羽駅 (JU 04)''' - 浦和駅 (JU 05)
+: [[ファイル:JR JS line symbol.svg|15px|JS]] 湘南新宿ライン
+:: {{Color|#0099ff|■}}特別快速・{{Color|#f68b1e|■}}快速・{{Color|#18a629|■}}普通
+::: [[池袋駅]] (JS 21) - '''赤羽駅 (JS 22)''' - 浦和駅 (JS 23)
+: [[ファイル:JR JK line symbol.svg|15px|JK]] 京浜東北線
+:: {{Color|#ff0066|■}}快速・{{Color|#00b2e5|■}}各駅停車
+::: [[東十条駅]] (JK 37) - '''赤羽駅 (JK 38)''' - [[川口駅]] (JK 39)
+: [[ファイル:JR JA line symbol.svg|15px|JA]] 埼京線&lt;!-- カラーはE233系のLED発車標に準拠 --&gt;
+:: {{Color|#ff0066|■}}通勤快速
+::: [[十条駅 (東京都)|十条駅]] (JA 14) - '''赤羽駅 (JA 15)''' - [[武蔵浦和駅]] (JA 21)
+:: {{Color|#0099ff|■}}快速
+::: 十条駅 (JA 14) - '''赤羽駅 (JA 15)''' - [[戸田公園駅]] (JA 18)
+:: {{Color|#00ac9a|■}}各駅停車
+::: 十条駅 (JA 14) - '''赤羽駅 (JA 15)''' - [[北赤羽駅]] (JA 16)
+
+== 脚注 ==
+{{脚注ヘルプ}}
+
+=== 記事本文 ===
+==== 注釈 ====
+{{Reflist|group="注釈"}}
+
+==== 出典 ====
+{{Reflist}}
+
+===== 報道発表資料 =====
+{{Reflist|group="報道"}}
+
+=== 利用状況 ===
+; JRの1日平均利用客数
+{{Reflist|group="利用客数"}}
+; JR東日本の1999年度以降の乗車人員
+{{Reflist|group="JR"|22em}}
+; JRの統計データ
+{{Reflist|group="*"}}
+; 東京都統計年鑑
+{{Reflist|group="東京都統計"|17em}}
+
+== 関連項目 ==
+{{commonscat|Akabane Station}}
+* [[日本の鉄道駅一覧]]
+* [[首都圏国電暴動]]
+* [[喜劇 駅前開運]] - 赤羽駅周辺の商店街が舞台のコメディ映画。[[1960年代]]後期の赤羽駅駅舎が映像に残るとともに、前述の開かずの踏切が「宝くじ踏切」としてエピソード化されている。
+
+== 外部リンク ==
+* {{外部リンク/JR東日本駅|filename=34|name=赤羽}}
+* [http://www.ecute.jp/akabane/ エキュート赤羽]
+* [http://beans.jrtk.jp/akabane/ ビーンズ赤羽]
+{{鉄道路線ヘッダー}}
+{{宇都宮線|ju=1}}
+{{高崎線|ju=1}}
+{{湘南新宿ライン}}
+{{京浜東北・根岸線}}
+{{埼京線}}
+{{鉄道路線フッター}}
+
+{{デフォルトソート:あかはね}}
+[[Category:東京都北区の鉄道駅]]
+[[Category:日本の鉄道駅 あ|かはね]]
+[[Category:日本鉄道の鉄道駅]]
+[[Category:日本国有鉄道の鉄道駅]]
+[[Category:東日本旅客鉄道の鉄道駅]]
+[[Category:宇都宮線]]
+[[Category:埼京線]]
+[[Category:京浜東北・根岸線]]
+[[Category:1885年開業の鉄道駅]]
+[[Category:赤羽 (東京都北区)]]
+[[Category:1880年代日本の設立]]</text>
+      <sha1>jmg588aioa5ifxvryscjrkooibju0kt</sha1>
+    </revision>
+  </page>
+  
