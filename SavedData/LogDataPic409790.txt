@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/409790/title_panel.png	-61.31578947368419,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/409790/word_cloud.png	-84.15789473684208,38,83.16	0,0,1	0,1,0	-1,0,0	58.211999999999996	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/409790/Louisiana_Superdome_-_Unbranded_-_26_July_2021.jpg	-84.15789473684208,38,82.3284	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/409790/Superdome_Roof_Damage_FEMA.jpg	0,38,165.9	1,0,0	0,1,0	0,0,1	-29.57894736842104	-10	0.2	1.9384615384615387	Wooden_thin	-1:-1	3
+4	./Images/409790/caption/caption1.png	0,38,165.9	1,0,0	0,1,0	0,0,1	-16.11740890688258	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/409790/Navy medical helicopter Superdome Aug 31 2005.jpg	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	60.37416	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/409790/caption/caption2.png	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	82.37416	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/409790/Defense.gov_News_Photo_050831-N-8154G-141.jpg	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/409790/caption/caption3.png	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	22.0	-20	1.5	0.7	none(caption)	-1:-1	8
+9	./Images/409790/Navy-FloodedNewOrleans.jpg	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	-60.37416	-10	0.2	4.5	Wooden_thin	-1:-1	9
+10	./Images/409790/caption/caption4.png	84.15789473684208,38,84.0	0,0,-1	0,1,0	1,0,0	-38.37416	-20	1.5	0.7	none(caption)	-1:-1	10

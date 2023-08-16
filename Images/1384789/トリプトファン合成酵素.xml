@@ -1,0 +1,32 @@
+<page>
+    <title>トリプトファン合成酵素</title>
+    <ns>0</ns>
+    <id>1384789</id>
+    <revision>
+      <id>82579755</id>
+      <parentid>62585020</parentid>
+      <timestamp>2021-03-22T00:19:48Z</timestamp>
+      <contributor>
+        <ip>219.59.70.150</ip>
+      </contributor>
+      <comment>/* 長大語 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1876" xml:space="preserve">[[Image:TryptophanSynthase.png|right|thumb|250px|トリプトファン合成酵素]]
+'''トリプトファン合成酵素'''（Tryptophan synthase）は、[[トリプトファン]]の生合成の最終段階を触媒する[[酵素]]で、植物や細菌は持つが動物は持たない。'''トリプトファンシンターゼ'''、'''トリプトファンシンテターゼ'''ともいい、[[EC番号]]はEC 4.2.1.20である。
+
+[[大腸菌]]から単離された酵素はα&lt;sub&gt;2&lt;/sub&gt;β&lt;sub&gt;2&lt;/sub&gt;の四量体である。αサブユニットはβ二量体から分離することができ、β二量体は4Mの[[尿素]]による処理で分離される。サブユニットの結合は[[ピリドキサルリン酸]]（PLP）と[[セリン]]の存在によって促進される。αサブユニットの分子量は2万9500、βサブユニットの分子量は4万5000であり、PLP結合部位を1つ持つ。
+
+[[Image:Tryptophan synthetase rn.png|550px]]
+
+それぞれのサブユニットが、図のように反応のそれぞれの段階を触媒する。[[インドール-3-グリセロリン酸]]はαサブユニットによって[[インドール]]と[[グリセルアルデヒド-3-リン酸]]に変換され、β二量体がインドールとセリンを結合してトリプトファンを作る。α&lt;sub&gt;2&lt;/sub&gt;β&lt;sub&gt;2&lt;/sub&gt;の四量体は、それぞれが単独の時よりも30-100倍も活性が高く、また反応中にインドールが単離されることはない。
+
+== 長大語・ギネス ==
+Methionylglutaminylarginyl...で始まりserineで終わる、267アミノ酸からなるトリプシン合成酵素が、かつて1913文字の最長の英単語として18世紀の[[ギネス世界記録|ギネスブック]]に登録されたことがある。
+
+{{DEFAULTSORT:とりふとふあんこうせいこうそ}}
+[[Category:EC 4.2.1]]</text>
+      <sha1>3nlhzlzsbx0t4zovh6jz45oat95v209</sha1>
+    </revision>
+  </page>
+  

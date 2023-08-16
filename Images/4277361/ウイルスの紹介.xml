@@ -1,0 +1,222 @@
+<page>
+    <title>ウイルスの紹介</title>
+    <ns>0</ns>
+    <id>4277361</id>
+    <revision>
+      <id>94979343</id>
+      <parentid>93369692</parentid>
+      <timestamp>2023-04-28T20:10:25Z</timestamp>
+      <contributor>
+        <username>Cewbot</username>
+        <id>1094317</id>
+      </contributor>
+      <minor />
+      <comment>解消済み仮リンク[[科学理論|理論]]を内部リンクに置き換えます (今回のBot作業のうち15%が完了しました)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="66196" xml:space="preserve">
+{{WikipediaPage|このページはウイルスについて非技術的な概要です。詳細は[[ウイルス]]をご覧ください。}}
+[[ファイル:SARS-CoV-2_without_background.png|右|サムネイル| [[SARSコロナウイルス2|SARS-CoV-2]] ビリオンの図解]]
+'''ウイルス''' (virus) は、生きている[[宿主]]の[[細胞]]内で[[生殖|繁殖]]する小さな[[病原体]]である。感染すると、宿主細胞は、元のウイルスの何千もの同一のコピーを迅速に生成することを余儀なくされる。ほとんどの[[生物]]とは異なり、ウイルスは分裂する細胞がなく、感染した宿主細胞で新しいウイルスが組み立てられる。しかし、[[プリオン]]のような単純な感染性病原体とは異なり、ウイルスは[[遺伝子]]が含まれているので、[[突然変異]]して進化することができる。環境中に存在する数百万種のウイルスのうち、4,800種以上のウイルスが{{仮リンク|ウイルス分類のリスト|en|Lists of virus taxa|label=詳細に記述}}されている&lt;ref name="pmid297543052"&gt;{{cite journal|date=September 2018|title=Changes to taxonomy and the International Code of Virus Classification and Nomenclature ratified by the International Committee Taxonomy of Viruses (2018)|url=https://hal-pasteur.archives-ouvertes.fr/pasteur-01977332/file/King2018_Article_ChangesToTaxonomyAndTheInterna.pdf|journal=Archives of Virology|volume=163|issue=9|page=2601 &lt;!-- CITATION BOT DO NOT CHANGE THIS ... citation is specific to this page --&gt;|doi=10.1007/s00705-018-3847-1|pmid=29754305|vauthors=King AM, Lefkowitz EJ, Mushegian AR, Adams MJ, Dutilh BE, Gorbalenya AE, Harrach B, Harrison RL, Junglen S, Knowles NJ, Kropinski AM, Krupovic M, Kuhn JH, Nibert ML, Rubino L, Sabanadzovic S, Sanfaçon H, Siddell SG, Simmonds P, Varsani A, Zerbini FM, Davison AJ|s2cid=21670772}}&lt;/ref&gt;。それらの起源は明らかになっていないが、[[プラスミド]] (細胞間を移動できるDNAの断片) から[[進化]]したものもあれば、一部は[[細菌]] (バクテリア) から進化した可能性もある。
+
+ウイルスは2つまたは3つの部分からできている。すべてに[[遺伝子]]が含まれている。これらの遺伝子は、ウイルスの[[遺伝情報]]{{Enlink|Genetic code|英語版|en}}化された生物学的情報を含み、[[DNA]]または[[RNA]]のいずれかから構築されている。すべてのウイルスは、遺伝子を保護するために[[タンパク質]]の外被で覆われている。一部のウイルスは、タンパク質の外被を覆う[[脂質|脂肪]]のような物質の[[エンベロープ (ウイルス)|エンベロープ]]を持っていて、石鹸に対して脆弱である。この「ウイルスエンベロープ」&lt;!--viral envelope--&gt;を持つウイルスは、特定の[[受容体]]と一緒にこのエンベロープを使って新しい宿主細胞に侵入する。ウイルスの形状は、単純な[[タバコモザイクウイルス|らせん状]]および[[正二十面体|正二重面体]]からより[[バクテリオファージ|複雑な構造]]のものまでさまざまである。ウイルスの大きさは20 - 300[[ナノメートル]]まであり、1 [[cm]] (0.4インチ) まで伸ばすには、33,000 - 500,000個のウイルスが一列に並ばなくてはならない。&lt;ref name="pmid297543052"&gt;{{cite journal|date=September 2018|title=Changes to taxonomy and the International Code of Virus Classification and Nomenclature ratified by the International Committee Taxonomy of Viruses (2018)|url=https://hal-pasteur.archives-ouvertes.fr/pasteur-01977332/file/King2018_Article_ChangesToTaxonomyAndTheInterna.pdf|journal=Archives of Virology|volume=163|issue=9|page=2601 &lt;!-- CITATION BOT DO NOT CHANGE THIS ... citation is specific to this page --&gt;|doi=10.1007/s00705-018-3847-1|pmid=29754305|vauthors=King AM, Lefkowitz EJ, Mushegian AR, Adams MJ, Dutilh BE, Gorbalenya AE, Harrach B, Harrison RL, Junglen S, Knowles NJ, Kropinski AM, Krupovic M, Kuhn JH, Nibert ML, Rubino L, Sabanadzovic S, Sanfaçon H, Siddell SG, Simmonds P, Varsani A, Zerbini FM, Davison AJ|s2cid=21670772}}&lt;/ref&gt;
+
+ウイルスはさまざまな方法で拡散する。多くのウイルスは、どの宿主種や[[組織 (生物学)|組織]]を攻撃するかについて非常に特異的であるが、一方、ウイルスの各[[種 (分類学)|種]]は、自分自身をコピーするために特定の方法に依存している。[[植物ウイルス]]は、[[媒介者|ベクター]]として知られる昆虫や他の[[生物]]によって、植物から植物へと拡散することがよくある。[[ウイルス|人間のウイルス]]や他の動物のウイルスの中には、感染した体液にさらされることで拡散するものもある。[[インフルエンザ]]などのウイルスは、人が咳やくしゃみをすると水分の飛沫によって空気中に拡散する。[[ノロウイルス]]などのウイルスは、手、食べ物、水を汚染する[[糞口経路]]で感染する。[[ロタウイルス]]は、感染した子供と直接接触することでしばしば広がる。ヒト免疫不全ウイルスの[[HIV]]は、性交中に体液を介して感染する。デング熱ウイルスやその他のものは、吸血性昆虫によって感染する。
+
+ウイルスは、特にRNAで作られたものは、急速に[[変異]]して新しいタイプを生み出す可能性がある。宿主は、そのような新しいタイプのウイルスに対してほとんど[[免疫 (医学)|防御]]できないかもしれない。たとえば、インフルエンザウイルスは頻繁に変化するため、毎年新しい[[ワクチン]]が必要になる。ほとんどの国に蔓延した[[2009年新型インフルエンザの世界的流行|2009年の豚インフルエンザ]]のように、大きな変化が[[パンデミック]]を引き起こすこともある。多くの場合、このような変異は、ウイルスが他の動物宿主に最初に感染したときに起こる。このような「[[人獣共通感染症]]」の例としては、コウモリの[[コロナウイルス]]や、豚や鳥のインフルエンザが、{{仮リンク|異種間伝播|en|Cross-species transmission|label=人に感染}}する前のものがある。
+
+ウイルス感染は、人間、動物、植物に病気を引き起こすことがある。健康な人間や動物では、感染は通常、[[免疫系]]によって排除され、そのウイルスの宿主に生涯にわたる[[免疫 (医学)|免疫]]を与えることがある。ウイルス感染に対し、細菌に対して作用する[[抗生物質]]は影響を与えないが、[[抗ウイルス薬]]は生命を脅かす感染症を治療することができる。[[ワクチン]]は、生涯にわたる免疫を作り出し、いくつかの感染症を予防することができる。
+
+== 発見&lt;!--Discovery--&gt; ==
+{{Main|ウイルス学の歴史|en:History of virology}}
+[[ファイル:HIV-budding-Color_cropped.jpg|左|サムネイル|[[リンパ球]]から出芽しているHIV-1ウイルス (緑色) の[[走査型電子顕微鏡|走査型電子顕微鏡写真]]]]
+1884年、フランスの[[微生物学者]]{{仮リンク|シャルル・シャンベラン|en|Charles Chamberland|label=}}は、[[細菌]]よりも小さな細孔を持つ[[シャンベラン型濾過器]] (またはパスツール-シャンベラン濾過器) を発明した。シャンベランは、細菌を含む溶液をフィルターに通して、それらを完全に除去できた。1890年代初頭、ロシアの[[生物学|生物学者]][[ドミトリー・イワノフスキー]]は、この方法を使用して、[[タバコモザイクウイルス]]として知られるようになったものを研究した。彼の実験は、感染したタバコ植物の砕いた葉からの抽出物が、ろ過後も感染力が残っていることを示した&lt;ref&gt;{{Harvnb|Shors|2017|p=6}}&lt;/ref&gt;。
+
+同時に、他の数人の科学者は、これらの病原体 (後にウイルスと呼ばれる) は細菌とは異なり、約100分の1の大きさであるにもかかわらず、病気を引き起こす可能性があることを明らかにした。1899年、オランダの微生物学者[[マルティヌス・ベイエリンク]]は、この病原体が[[細胞分裂]]中にのみ増殖することを観察した。彼はこれを「伝染性の生きた液体」 (contagium vivumfluidum{{Enlink|Contagium vivum fluidum|英語版}})、または「可溶性の生きた細菌」と呼んだが、これは細菌のような粒子を見つけることができなかったためである&lt;ref&gt;{{Harvnb|Collier|Balows|Sussman|1998|p=3}}&lt;/ref&gt;。20世紀初頭、イギリスの[[細菌学者]]{{仮リンク|フレデリック・トウォート|en|Frederick Twort|label=}}が細菌に感染するウイルスを発見し&lt;ref&gt;{{Harvnb|Shors|2017|p=827}}&lt;/ref&gt;、フランス系カナダ人の微生物学者[[フェリックス・デレーユ]]は、[[寒天]]上で生育する細菌に添加すると、領域全体が死滅した細菌で形作られるウイルスについて記述した。彼は、これらの死滅領域を数えることで、懸濁液中のウイルスの数を計算した&lt;ref&gt;{{Cite journal|year=2007|title=On an invisible microbe antagonistic toward dysenteric bacilli: brief note by Mr. F. D'Herelle, presented by Mr. Roux. 1917|journal=Research in Microbiology|volume=158|issue=7|pages=553–554|DOI=10.1016/j.resmic.2007.07.005|PMID=17855060}}&lt;/ref&gt;。
+
+1931年の[[電子顕微鏡]]の発明は、ウイルスの最初の画像をもたらした&lt;ref&gt;From ''Nobel Lectures, Physics 1981–1990'', (1993) Editor-in-Charge Tore Frängsmyr, Editor Gösta Ekspång, World Scientific Publishing Co., Singapore&lt;/ref&gt;。1935年、アメリカの[[生化学者]]で[[ウイルス学|ウイルス学者]]の[[ウェンデル・スタンリー|ウェンデル・メレディス・スタンリー]]がタバコモザイクウイルスを調べたところ、主に[[タンパク質]]から作られていることがわかった&lt;ref&gt;{{Cite journal|year=1936|title=The isolation of crystalline tobacco mosaic virus protein from diseased tomato plants|journal=Science|volume=83|issue=2143|page=85|bibcode=1936Sci....83...85S|DOI=10.1126/science.83.2143.85|PMID=17756690}}&lt;/ref&gt;。しばらくして、このウイルスはタンパク質と[[RNA]]から作られていることが示された&lt;ref&gt;{{Cite journal|year=1939|title=Disintegration of tobacco mosaic virus in urea solutions|journal=Science|volume=89|issue=2311|pages=345–47|bibcode=1939Sci....89..345S|DOI=10.1126/science.89.2311.345|PMID=17788438}}&lt;/ref&gt;。初期の科学者にとっての問題は、生きた動物を使わずにウイルスを増殖させる方法を知らなかったことである。1931年、アメリカの[[病理学者]]{{仮リンク|アーネスト・ウィリアム・グッドパスチャー|en|Ernest William Goodpasture|label=}}と{{仮リンク|アリス・マイルズ・ウッドラフ|en|Alice Miles Woodruff|label=}}が、ニワトリの受精卵で[[インフルエンザウイルス|インフルエンザ]]や他のいくつかのウイルスを培養したときに、画期的な発見があった&lt;ref name="pmid17810781"&gt;{{Cite journal|date=October 1931|title=The Cultivation Of Vaccine and other Viruses In The Chorioallantoic Membrane of Chick Embryos|journal=Science|volume=74|issue=1919|pages=371–72|bibcode=1931Sci....74..371G|DOI=10.1126/science.74.1919.371|PMID=17810781}}&lt;/ref&gt;。一部のウイルスはニワトリの卵では増殖できなかった。この問題は、[[ジョン・フランクリン・エンダース]]、[[トーマス・ハックル・ウェーラー]]、[[フレデリック・チャップマン・ロビンス]]が、生きた動物細胞の培養液で[[ポリオウイルス]]を増殖した1949年に解決された&lt;ref name="pmid15470207"&gt;{{Cite journal|date=October 2004|title=Isolation of poliovirus – John Enders and the Nobel Prize|journal=N. Engl. J. Med.|volume=351|issue=15|pages=1481–83|DOI=10.1056/NEJMp048202|PMID=15470207}}&lt;/ref&gt;。4,800種以上のウイルスが{{仮リンク|ウイルス分類のリスト|en|Lists of virus taxa|label=詳細に記述}}されている&lt;ref name="pmid297543052"&gt;{{cite journal|date=September 2018|title=Changes to taxonomy and the International Code of Virus Classification and Nomenclature ratified by the International Committee Taxonomy of Viruses (2018)|url=https://hal-pasteur.archives-ouvertes.fr/pasteur-01977332/file/King2018_Article_ChangesToTaxonomyAndTheInterna.pdf|journal=Archives of Virology|volume=163|issue=9|page=2601 &lt;!-- CITATION BOT DO NOT CHANGE THIS ... citation is specific to this page --&gt;|doi=10.1007/s00705-018-3847-1|pmid=29754305|vauthors=King AM, Lefkowitz EJ, Mushegian AR, Adams MJ, Dutilh BE, Gorbalenya AE, Harrach B, Harrison RL, Junglen S, Knowles NJ, Kropinski AM, Krupovic M, Kuhn JH, Nibert ML, Rubino L, Sabanadzovic S, Sanfaçon H, Siddell SG, Simmonds P, Varsani A, Zerbini FM, Davison AJ|s2cid=21670772}}&lt;/ref&gt;。
+
+== 起源&lt;!--Origins--&gt; ==
+{{Further|ウイルスの進化|en:Virus#Origins}}ウイルスはどこにいても生命と共存している。それらは、おそらく、生きている細胞が最初に進化したときから存在していた。ウイルスは[[化石化]]しないため、その起源は不明である。そのため、[[分子生物学|分子技術]]は、ウイルスがどのようにして誕生したかについて[[仮説]]を立てる最良の方法である。これらの技術は、古代のウイルスのDNAやRNAを利用できるかに依存しているが、研究室で保存・貯蔵されているほとんどのウイルスは90年前未満のものである&lt;ref&gt;{{Harvnb|Shors|2017|p=16}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Collier|Balows|Sussman|1998|pp=18–19}}&lt;/ref&gt;。分子生物学的手法は、20世紀に進化したウイルスの祖先を追跡することにしか成功していない&lt;ref name="pmid15476878"&gt;{{Cite journal|date=November 2004|title=Molecular clock-like evolution of human immunodeficiency virus type 1|journal=Virology|volume=329|issue=1|pages=101–08|DOI=10.1016/j.virol.2004.08.014|PMID=15476878}}&lt;/ref&gt;。ウイルスの新しいグループは、生命の進化のあらゆる段階で繰り返し出現したかもしれない&lt;ref name="NRM_Krupovic2019"&gt;{{Cite journal|date=2019|title=Origin of viruses: primordial replicators recruiting capsids from hosts.|url=https://hal-pasteur.archives-ouvertes.fr/pasteur-02557191/file/Krupovic_NRMICRO-19-022_MS_v3_clean.pdf|journal=Nature Reviews Microbiology|volume=17|issue=7|pages=449–58|DOI=10.1038/s41579-019-0205-6|PMID=31142823}}&lt;/ref&gt;。ウイルスの起源については、3つの主要な[[科学理論|理論]]がある&lt;ref&gt;{{Harvnb|Collier|Balows|Sussman|1998|pp=11–21}}&lt;/ref&gt;。
+
+; 回帰理論&lt;!--Regressive theory--&gt;
+: ウイルスはかつて、より大きな細胞に[[寄生]]する小さな細胞だったのかもしれない。最終的に、寄生するために必要なくなった遺伝子が失われた。[[リケッチア|リケッチア菌]]と[[クラミジア科|クラミジア菌]]は、ウイルスと同様に宿主細胞内でのみ繁殖できる生きた細胞である。これは、寄生生物であることへの依存が、かつては自力で生きることを可能にしていた遺伝子の喪失につながった可能性があるため、この理論に信憑性を与えている&lt;ref&gt;{{Harvnb|Collier|Balows|Sussman|1998|p=11}}&lt;/ref&gt;。
+
+; 細胞起源理論&lt;!--Cellular origin theory--&gt;
+: 一部のウイルスには、より大きな生物の遺伝子から「脱出」したDNAやRNAの断片から進化したかもしれない。脱出したDNAは[[プラスミド]] (細胞間を移動することができるDNAの断片) に由来し、他のDNAは細菌 (バクテリア) から進化した可能性がある&lt;ref&gt;{{Harvnb|Collier|Balows|Sussman|1998|pp=11–12}}&lt;/ref&gt;。[[モノドナウィリア]]に属すウイルスは、それらの子孫の有力な候補である。
+
+; 共進化理論&lt;!--Coevolution theory--&gt;
+: ウイルスは、細胞が地球上に出現したのと同時に、タンパク質とDNAの複雑な分子から進化した可能性があり、何百万年も前から細胞の生命に依存していたのかもしれない&lt;ref name="Wessner"&gt;{{Cite journal|year=2010|title=The Origins of Viruses|journal=Nature Education|volume=3|issue=9|page=37}}&lt;/ref&gt;。
+
+これらのすべての理論には問題がある。回帰仮説は、最小の細胞寄生虫でさえウイルスにまったく似ていない理由を説明していない。脱出または細胞起源の仮説では、細胞内には現れないウイルス特有の構造の存在を説明していない。共進化仮説、すなわち「ウイルスファースト」仮説は、ウイルスが宿主細胞に依存しているため、ウイルスの定義と矛盾している&lt;ref name="Wessner"&gt;{{Cite journal|year=2010|title=The Origins of Viruses|journal=Nature Education|volume=3|issue=9|page=37}}&lt;/ref&gt;&lt;ref name="Nasir"&gt;{{Cite journal|year=2012|title=Viral evolution: Primordial cellular origins and late adaptation to parasitism|journal=Mobile Genetic Elements|volume=2|issue=5|pages=247–52|DOI=10.4161/mge.22797|PMID=23550145|PMC=3575434}}&lt;/ref&gt;。また、ウイルスは古代のものとして認識されており、生命が{{仮リンク|3領域系|en|Three-domain system|label=3領域}}に分岐する前の起源を持っていると考えられている。この発見により、現代のウイルス学者は、これら3つの古典的な仮説を再考し、再評価するようになった&lt;ref name="NRM_Krupovic2019"&gt;{{Cite journal|date=2019|title=Origin of viruses: primordial replicators recruiting capsids from hosts.|url=https://hal-pasteur.archives-ouvertes.fr/pasteur-02557191/file/Krupovic_NRMICRO-19-022_MS_v3_clean.pdf|journal=Nature Reviews Microbiology|volume=17|issue=7|pages=449–58|DOI=10.1038/s41579-019-0205-6|PMID=31142823}}&lt;/ref&gt;&lt;ref name="Mahy Gen 28"&gt;{{Cite book|title=Desk Encyclopedia of General Virology|publisher=Academic Press|location=Oxford|year=2009|page=28|isbn=978-0-12-375146-1}}&lt;/ref&gt;。
+
+== 構造&lt;!--Structure--&gt; ==
+[[ファイル:Basic_Scheme_of_Virus_en.svg|サムネイル|250x250ピクセル|ウイルスの構造の簡略図]]
+ウイルス粒子は[[ビリオン]]とも呼ばれ、[[カプシド]]と呼ばれるタンパク質の保護膜に囲まれたDNAやRNAから作られた遺伝子で構成されている&lt;ref name="Topley-and-Wilson33-55"&gt;{{Harvnb|Collier|Balows|Sussman|1998|pp=33–55}}&lt;/ref&gt;。カプシドは、[[カプソメア]]と呼ばれる多くの小さな同一のタンパク質分子で構成されている。カプソメアの配置は、[[正二十面体]] (20面体)、[[螺旋|らせん状]]、またはより複雑なものがある。DNAやRNAの周りには、タンパク質でできた[[ヌクレオカプシド]]と呼ばれる内殻がある。一部のウイルスは、[[エンベロープ (ウイルス)|エンベロープ]]と呼ばれる[[脂質]] (脂肪) の泡で囲まれているため、石鹸やアルコールに対して脆弱である&lt;ref name="pmid11759024"&gt;{{Cite journal|date=August 2001|title=Arguments for alcoholic hand disinfection|journal=The Journal of Hospital Infection|volume=48 Suppl A|pages=S4–S8|DOI=10.1016/s0195-6701(01)90004-0|PMID=11759024}}&lt;/ref&gt;。
+
+=== 大きさ&lt;!--Size--&gt; ===
+ウイルスは最小の感染性病原体の一つであり、[[光学顕微鏡]]で見るには小さすぎて、ほとんどのウイルスは[[電子顕微鏡]]でしか見ることができない。その大きさは20 - 300[[ナノメートル]]で、1センチメートル (0.4インチ) まで伸ばすには、それらを30,000 - 500,000個並べる必要がある&lt;ref name="Topley-and-Wilson33-55"&gt;{{Harvnb|Collier|Balows|Sussman|1998|pp=33–55}}&lt;/ref&gt;。それに比べて、細菌は通常、直径が約1000ナノメートル (1マイクロメートル) であり、高等生物の宿主細胞は通常、数10[[マイクロメートル]]である。[[メガウイルス綱|メガウイルス]]や[[パンドラウイルス属|パンドラウイルス]]などの一部のウイルスは、比較的大きなウイルスである。[[アメーバ]]に感染するこれらのウイルスの大きさは約1000ナノメートルで、2003年と2013年に発見された&lt;ref&gt;{{Cite journal|date=November 2015|title=The rapidly expanding universe of giant viruses: Mimivirus, Pandoravirus, Pithovirus and Mollivirus|journal=FEMS Microbiol. Rev.|volume=39|issue=6|pages=779–96|DOI=10.1093/femsre/fuv037|PMID=26391910}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|date=July 2013|title=Pandoraviruses: amoeba viruses with genomes up to 2.5 Mb reaching that of parasitic eukaryotes|url=https://hal-cea.archives-ouvertes.fr/cea-00862677/file/phi.pdf|journal=Science|volume=341|issue=6143|pages=281–86|bibcode=2013Sci...341..281P|DOI=10.1126/science.1239181|PMID=23869018}}&lt;/ref&gt;。これらのウイルスは[[インフルエンザウイルス]]の約10倍幅広く (したがって体積は1000倍)、これらの「巨大」ウイルスの発見は科学者たちを驚かせた&lt;ref name="Zimmer"&gt;{{Cite news|url=https://www.nytimes.com/2013/07/18/science/changing-view-on-viruses-not-so-small-after-all.html|title=Changing View on Viruses: Not So Small After All|newspaper=The New York Times|date=18 July 2013|accessdate=20 December 2014}}&lt;/ref&gt;。
+
+=== 遺伝子&lt;!--Genes--&gt; ===
+{{details|遺伝学|en:Introduction to genetics}}ウイルスの遺伝子は、DNA (デオキシリボ核酸) と、多くのウイルスではRNA (リボ核酸) から作られている。生物に含まれる生物学的情報は、自身のDNAまたはRNAに[[遺伝情報|コード化]]されている。ほとんどの生物はDNAを使用しているが、多くの[[RNAウイルス|ウイルス]]ではRNAを遺伝物質として持っている。ウイルスのDNAまたはRNAは、一本鎖または二重らせんで構成されている&lt;ref&gt;{{Harvnb|Shors|2017|p=81}}&lt;/ref&gt;。
+
+ウイルスは遺伝子が比較的少ないため、急速に繁殖することができる。たとえば、インフルエンザウイルスには8個の遺伝子しかなく、[[ロタウイルス]]は11個しかない。それに比べて、人間は20,000 - 25,000個の遺伝子を持っている。一部のウイルス遺伝子には、ウイルス粒子を形成する構造タンパク質を作るための遺伝情報を含んでいる。他の遺伝子は、ウイルスが感染した細胞にのみ存在する[[非構造タンパク質 (ウイルス学)|非構造タンパク質]]を作る&lt;ref&gt;{{Harvnb|Shors|2017|p=129}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=International Human|first=Genome Sequencing Consortium|year=2004|title=Finishing the euchromatic sequence of the human genome|journal=Nature|volume=431|issue=7011|pages=931–45|bibcode=2004Natur.431..931H|DOI=10.1038/nature03001|PMID=15496913}}&lt;/ref&gt;。
+
+すべての細胞と多くのウイルスは、化学反応を促進する[[酵素]]であるタンパク質を生成する。[[DNAポリメラーゼ]]や[[RNAポリメラーゼ]]と呼ばれるこれらの酵素のいくつかは、DNAとRNAの新しいコピーを作る。ウイルスのポリメラーゼ酵素は、宿主細胞の同等の酵素よりもDNAとRNAをはるかに効率的に生成することがよくあるが&lt;ref&gt;{{Harvnb|Shors|2017|pp=129–31}}&lt;/ref&gt;、ウイルスのRNAポリメラーゼ酵素はエラーを起こしやすく、RNAウイルスが突然変異を起こして新しい株を形成する原因となる&lt;ref&gt;{{Harvnb|Shors|2017|p=652}}&lt;/ref&gt;。
+
+RNAウイルスのいくつかの種では、遺伝子はRNAの連続した分子上にあるのではなく分離している。たとえば、インフルエンザウイルスは、RNAでできた8つの別々の遺伝子を持っている。インフルエンザウイルスの2つの異なる株が同じ細胞に感染すると、これらの遺伝子が混ざり合い、[[遺伝子再集合|再集合]]と呼ばれるプロセスでウイルスの新しい株を作り出すことがある&lt;ref&gt;{{Harvnb|Shors|2017|p=654}}&lt;/ref&gt;。
+
+=== タンパク質合成&lt;!--Protein synthesis--&gt; ===
+[[ファイル:Cell_with_Virus.png|サムネイル|典型的な動物細胞の模式図: (1) [[核小体]] (仁)、(2) [[細胞核]]、(3) [[リボソーム]]、(4) [[小胞]]、(5) [[粗面小胞体]] 、(6) [[ゴルジ体]]、(7) [[細胞骨格]] ([[微小管]])、(8) [[滑面小胞体]]、(9) [[ミトコンドリア]]、(10) [[液胞]]、(11) [[細胞質基質]]、(12) [[リソソーム]]、(13) [[中心体]]、(14) およそのスケールで示されるウイルス]]
+タンパク質は生命に欠かせないものである。細胞は、DNAにコード化された情報をもとに、[[アミノ酸]]の構成要素から新しいタンパク質分子を作り出している。それぞれの種類のタンパク質は、通常は一つの機能しか果たさない専門家であるため、細胞が何か新しいことをする必要があれば、新しいタンパク質を作らなければならない。ウイルスは細胞に、細胞が必要としないがウイルスが繁殖するために必要な新しいタンパク質を作るように強制する。[[タンパク質生合成]]は、[[転写 (生物学)|転写]]と[[翻訳 (生物学)|翻訳]]という2つの主要なステップで構成されている&lt;ref name="pmid25648499"&gt;{{Cite journal|date=March 2015|title=Alternative mRNA transcription, processing, and translation: insights from RNA sequencing|journal=Trends in Genetics|volume=31|issue=3|pages=128–39|DOI=10.1016/j.tig.2015.01.001|PMID=25648499}}&lt;/ref&gt;。
+
+'''転写'''とは、[[遺伝情報]]と呼ばれるDNAの情報を使用して、[[メッセンジャーRNA]] (mRNA) と呼ばれるRNAコピーを生成するプロセスである。mRNAは細胞内を移動して、タンパク質を作るために使用される[[リボソーム]]に遺伝情報を伝える。タンパク質のアミノ酸構造はmRNAの遺伝情報によって決定されるため、これは'''翻訳'''と呼ばれる。情報はゆえに核酸の言語からアミノ酸の言語に翻訳される&lt;ref name="pmid25648499"&gt;{{Cite journal|date=March 2015|title=Alternative mRNA transcription, processing, and translation: insights from RNA sequencing|journal=Trends in Genetics|volume=31|issue=3|pages=128–39|DOI=10.1016/j.tig.2015.01.001|PMID=25648499}}&lt;/ref&gt;。
+
+RNAウイルスの一部の核酸は、それ以上修飾することなくmRNAとして直接機能する。このため、これらのウイルスは[[センス (分子生物学)|ポジティブセンス]]RNAウイルスと呼ばれている&lt;ref&gt;{{Harvnb|Collier|Balows|Sussman|1998|pp=75–82}}&lt;/ref&gt;。他のRNAウイルスでは、RNAはmRNAの相補的なコピーであり、これらのウイルスはmRNAを作るために細胞の酵素や自身の酵素に依存している。これらは[[センス (分子生物学)|ネガティブセンス]]RNAウイルスと呼ばれている。DNAから作られたウイルスでは、mRNAの作り方は細胞のそれと似ている。[[レトロウイルス科|レトロウイルス]]と呼ばれるウイルスの種類は完全に異なったふるまいをする。それらはRNAを持っているが、宿主細胞の中では[[逆転写酵素]]の助けを借りてRNAのDNAコピーが作られる。次に、このDNAは宿主自身のDNAに組み込まれ、細胞の通常の経路によってmRNAにコピーされる&lt;ref&gt;{{Harvnb|Shors|2017|p=698}}&lt;/ref&gt;。
+
+== ライフサイクル&lt;!--Life-cycle--&gt; ==
+{{Main|ウイルスライフサイクル|ウイルス侵入}}
+[[ファイル:HepC_replication.png|サムネイル|典型的なウイルスのライフサイクル (左から右)。1個のウイルスが細胞に感染し、その後、数百個もの子孫が放出される。]]
+ウイルスが細胞に感染すると、ウイルスは細胞に何千ものウイルスを作らせる。これは、細胞にウイルスのDNAやRNAをコピーさせ、[[ウイルスタンパク質]]を作り、それらがすべて集まって新しいウイルス粒子を形成することで行われる&lt;ref&gt;{{Harvnb|Shors|2017|pp=6–13}}&lt;/ref&gt;。
+
+生きている細胞内のウイルスのライフサイクルには、6つの基本的で重複する段階がある&lt;ref&gt;{{Harvnb|Shors|2017|pp=121–23}}&lt;/ref&gt;。
+
+* '''付着''' - 付着とは、ウイルスが細胞表面の特定の分子に結合することである。この特異性により、ウイルスは非常に限られた種類の細胞に限定される。例えば、ヒト免疫不全ウイルス (HIV) は、その表面タンパク質である{{仮リンク|外被糖タンパク質GP120|en|Envelope glycoprotein GP120|label=gp120}}が、[[T細胞]]の表面にある[[CD4]]などの分子としか反応できないため、人間のT細胞にのみ感染する。植物ウイルスは植物細胞にしか付着できず、動物には感染できない。このメカニズムは、繁殖可能な細胞にのみ感染するウイルスを優先するように進化した。
+* '''侵入''' - 付着に続き、ウイルスは、[[エンドサイトーシス]]または細胞との融合によって宿主細胞に侵入する。
+* '''脱外被 (脱殻)''' - 細胞内では、ウイルスカプシドが取り除かれ、ウイルス酵素や宿主酵素によって破壊され、ウイルス核酸が露出する。
+* '''複製''' - ウイルス粒子の複製は、細胞がそのタンパク質合成系においてウイルスメッセンジャーRNAを使用してウイルスタンパク質を生成する段階である。細胞のRNAまたはDNA合成能力がウイルスのDNAまたはRNAを生成する。
+* '''集合''' - 新しく作られたウイルスタンパク質と核酸が結合して何百もの新しいウイルス粒子を形成するときに、細胞内で集合が行われる。
+* '''放出''' - 放出は、新しいウイルスが細胞から脱出したり、細胞から放出されるときに行われる。ほとんどのウイルスは[[溶菌]]と呼ばれるプロセスで細胞を破裂させてこれを達成する。一方、HIVなどの他のウイルスは、[[ウイルス排出#%E5%87%BA%E8%8A%BD%E7%B5%8C%E7%94%B1|出芽]]と呼ばれるプロセスによって、より穏やかに放出される。
+
+== 宿主細胞への影響&lt;!--Effects on the host cell--&gt; ==
+ウイルスは、宿主細胞に対して広範な構造的・生化学的影響を及ぼす&lt;ref&gt;{{Harvnb|Collier|Balows|Sussman|1998|pp=115–46}}&lt;/ref&gt;。これらは'''[[細胞変性効果]]'''と呼ばれている&lt;ref&gt;{{Harvnb|Collier|Balows|Sussman|1998|p=115}}&lt;/ref&gt;。ほとんどのウイルス感染は、最終的に宿主細胞の死をもたらす。死因には、細胞溶解 (破裂)、細胞の表面膜の変化、[[アポトーシス]] (細胞の「自殺」)などがある&lt;ref name="pmid28846635"&gt;{{Cite journal|year=2017|title=Regulation of Apoptosis during Flavivirus Infection|journal=Viruses|volume=9|issue=9|pages=243|DOI=10.3390/v9090243|PMID=28846635|PMC=5618009}}&lt;/ref&gt;。多くの場合、細胞死は、ウイルスによって産生されたタンパク質による正常な活性の停止によって引き起こされるが、そのすべてがウイルス粒子の成分であるとは限らない&lt;ref name="pmid18637511"&gt;{{Cite book|title=Human Cytomegalovirus|chapter=Modulation of host cell stress responses by human cytomegalovirus|journal=Curr. Top. Microbiol. Immunol.|volume=325|pages=263–79|date=2008|pmid=18637511|doi=10.1007/978-3-540-77349-8_15|series=Current Topics in Microbiology and Immunology|isbn=978-3-540-77348-1}}&lt;/ref&gt;。
+
+ウイルスの中には、感染した細胞に明らかな変化をもたらさないものもある。ウイルスが[[ウイルス潜伏|潜伏]]している (不活性である) 細胞は、感染の兆候をほとんど示さず、しばしば正常に機能する&lt;ref name="pmid18164651"&gt;{{Cite journal|date=March 2008|title=Human cytomegalovirus: Latency and reactivation in the myeloid lineage|journal=J. Clin. Virol.|volume=41|issue=3|pages=180–85|DOI=10.1016/j.jcv.2007.11.014|PMID=18164651}}&lt;/ref&gt;。このため、持続的な感染を引き起こし、ウイルスは多くの場合、何ヶ月または何年も休眠状態にある。これは[[ヘルペスウイルス]]の場合によく見られる&lt;ref name="pmid6326635"&gt;{{Cite journal|date=June 1984|title=Latent herpesviruses of humans|journal=Ann. Intern. Med.|volume=100|issue=6|pages=866–80|DOI=10.7326/0003-4819-100-6-866|PMID=6326635}}&lt;/ref&gt;&lt;ref name="pmid12076064"&gt;{{Cite journal|date=February 2002|title=Latency and reactivation of human cytomegalovirus|url=http://pdfs.semanticscholar.org/3c8d/108edcd6f47eed7dd3d2c15ba9ad72d6894d.pdf|journal=J. Infect.|volume=44|issue=2|pages=73–77|DOI=10.1053/jinf.2001.0948|PMID=12076064}}&lt;/ref&gt;。
+
+[[エプスタイン・バール・ウイルス]]などの一部のウイルスは、[[悪性腫瘍]]を引き起こすことなく細胞を増殖させることがよくある&lt;ref name="pmid18035323"&gt;{{Cite journal|date=December 2007|title=B cells and herpesviruses: a model of lymphoproliferation|journal=Autoimmun Rev|volume=7|issue=2|pages=132–36|DOI=10.1016/j.autrev.2007.02.018|PMID=18035323}}&lt;/ref&gt;。しかし、{{仮リンク|パピローマウイルス科|en|Papillomaviridae|label=パピローマウイルス}}などの一部のウイルスは、癌 (がん) の確立された原因となるものもある&lt;ref name="pmid28798073"&gt;{{Cite journal|year=2017|title=The human papillomavirus replication cycle, and its links to cancer progression: a comprehensive review|journal=Clinical Science|volume=131|issue=17|pages=2201–21|DOI=10.1042/CS20160786|PMID=28798073}}&lt;/ref&gt;。細胞のDNAがウイルスによって損傷を受け、細胞が自己修復できなくなると、しばしばアポトーシスを引き起こす。アポトーシスの結果の一つは、細胞自身による損傷したDNAの破壊である。一部のウイルスには、子孫ウイルスが生成される前に宿主細胞が死なないようにアポトーシスを制限する仕組みを持っているものがある。たとえば、[[ヒト免疫不全ウイルス|HIV]]はこれを行う&lt;ref name="pmid10547702"&gt;{{Cite journal|date=1999|title=Viruses and apoptosis|journal=Annu. Rev. Microbiol.|volume=53|pages=577–628|DOI=10.1146/annurev.micro.53.1.577|PMID=10547702}}&lt;/ref&gt;。
+
+== ウイルスと病気&lt;!--Viruses and diseases--&gt; ==
+ウイルスが宿主から宿主へと拡散する方法はたくさんあるが、ウイルスの種類ごとに1つか2つしか使用しない。植物に感染する多くのウイルスは、[[媒介者|ベクター]]と呼ばれる[[生物]]によって運ばれる。人間を含む動物に感染するウイルスの中にはベクター (通常は吸血性昆虫) によって感染するものもあるが、直接感染する方が一般的である。[[ノロウイルス]]や[[ロタウイルス]]などの一部のウイルス感染症は、汚染された食品や水、手や共同物{{Enlink|Fomite|英語版}}、他の感染者との密接な接触によって広がるが、空気感染するものもある (インフルエンザウイルス)。HIV、[[B型肝炎ウイルス|B型肝炎]]、[[C型肝炎ウイルス|C型肝炎]]などのウイルスは、無防備な性行や汚染された[[皮下注射針|皮下針]]によって感染することが多い。感染症や流行を防ぐには、さまざまな種類のウイルスがどのように拡散するかを知ることが重要である&lt;ref&gt;{{Harvnb|Shors|2017|p=32}}&lt;/ref&gt;。
+
+=== 人間の場合&lt;!--In humans--&gt; ===
+{{for|ウイルスによる感染症|en:List of infectious diseases}}ウイルスによって引き起こされる一般的な人間の病気には、[[風邪]] (感冒)、[[インフルエンザ]]、[[水痘]]、[[口唇ヘルペス]]などがある。[[エボラ出血熱]]や[[後天性免疫不全症候群|エイズ]]などの重篤な病気もウイルスによって引き起こされる&lt;ref&gt;{{Harvnb|Shors|2017|p=271}}&lt;/ref&gt;。多くのウイルスはほとんど病気を引き起こさず「良性」であると言われている。より有害なウイルスは「[[病原性]]」と表現されている&lt;ref&gt;{{Cite journal|year=2013|title=Evolution of Virulence in Emerging Epidemics|journal=PLOS Pathogens|volume=9(3): e1003209|issue=3|pages=e1003209|DOI=10.1371/journal.ppat.1003209|PMID=23516359|PMC=3597519}}&lt;/ref&gt;。ウイルスは、感染する細胞の種類に応じてさまざまな病気を引き起こす。ウイルスの中には、宿主の防御機構にもかかわらず、ウイルスが体内で繁殖し続ける生涯感染症や[[慢性]]感染症を引き起こすものもある&lt;ref&gt;{{Harvnb|Shors|2017|p=464}}&lt;/ref&gt;。これは、B型肝炎ウイルスやC型肝炎ウイルスの感染によく見られる。ウイルスに慢性的に感染している人は、保菌者として知られている。保菌者は、ウイルスの重要な貯蔵庫としての役割を果たす&lt;ref name="pmid31364248"&gt;{{Cite journal|date=September 2019|title=Countermeasures against viral hepatitis B and C in Japan: An epidemiological point of view|journal=Hepatology Research|volume=49|issue=9|pages=990–1002|DOI=10.1111/hepr.13417|PMID=31364248|PMC=6852166}}&lt;/ref&gt;&lt;ref name="pmid32173241"&gt;{{Cite journal|date=March 2020|title=Asymptomatic carrier state, acute respiratory disease, and pneumonia due to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): Facts and myths|journal=Journal of Microbiology, Immunology, and Infection = Wei Mian Yu Gan Ran Za Zhi|volume=53|issue=3|pages=404–412|DOI=10.1016/j.jmii.2020.02.012|PMID=32173241|PMC=7128959}}&lt;/ref&gt;。
+
+==== 風土病&lt;!--Endemic--&gt; ====
+ある集団における保菌者の割合が特定のしきい値に達すると、その病気は[[風土病]]であると言われる&lt;ref&gt;{{Harvnb|Collier|Balows|Sussman|1998|p=766}}&lt;/ref&gt;。ワクチン接種の出現以前は、ウイルスによる感染が一般的であり、定期的に流行が発生していた。温暖な気候の国では、ウイルス性疾患は通常季節性である。[[ポリオウイルス]]によって引き起こされる[[急性灰白髄炎]] (ポリオ) は、夏の間にしばしば発生した&lt;ref name="pmid29961515"&gt;{{Cite journal|date=July 2018|title=The Terrible Summer of 1952 … When Polio Struck Our Family|journal=Seminars in Pediatric Neurology|volume=26|pages=39–44|DOI=10.1016/j.spen.2017.04.001|PMID=29961515}}&lt;/ref&gt;。対照的に、風邪、インフルエンザ、ロタウイルス感染症は通常、冬の間に問題となる&lt;ref name="pmid22958213"&gt;{{Cite journal|date=October 2012|title=Deviations in influenza seasonality: odd coincidence or obscure consequence?|journal=Clinical Microbiology and Infection|volume=18|issue=10|pages=955–62|DOI=10.1111/j.1469-0691.2012.03959.x|PMID=22958213|PMC=3442949}}&lt;/ref&gt;&lt;ref name="pmid25777068"&gt;{{Cite journal|date=April 2015|title=Rotavirus seasonality in urban sewage from Argentina: effect of meteorological variables on the viral load and the genetic diversity|journal=Environmental Research|volume=138|pages=409–15|bibcode=2015ER....138..409B|DOI=10.1016/j.envres.2015.03.004|PMID=25777068}}&lt;/ref&gt;。[[はしかウイルス]] (麻疹ウイルス) などの他のウイルスは、3年ごとに定期的に発生した&lt;ref name="pmid25444814"&gt;{{Cite journal|date=December 2014|title=Measles – The epidemiology of elimination|journal=Vaccine|volume=32|issue=51|pages=6880–83|DOI=10.1016/j.vaccine.2014.10.061|PMID=25444814}}&lt;/ref&gt;。発展途上国では、呼吸器感染症や腸管感染症の原因となるウイルスが年間を通して一般的に見られる。昆虫によって運ばれるウイルスは、これらの環境での病気の一般的な原因である。たとえば、[[ジカ熱]]や[[デング熱]]のウイルスは、特に蚊の繁殖期に人間を刺す[[ヒトスジシマカ]] (一般的なヤブ蚊) のメスによって感染する&lt;ref name="pmid32103776"&gt;{{Cite journal|date=February 2020|title=Mosquito-borne viral diseases in the Democratic Republic of the Congo: a review|journal=Parasites &amp; Vectors|volume=13|issue=1|pages=103|DOI=10.1186/s13071-020-3985-7|PMID=32103776|PMC=7045448}}&lt;/ref&gt;。
+
+==== パンデミックと緊急事態&lt;!--Pandemic and emergent--&gt; ====
+[[ファイル:SIV_primates.jpg|右|サムネイル|400x400ピクセル|左から右へ：[[サル免疫不全ウイルス|SIV]]の発生源である{{仮リンク|サバンナモンキー|en|Chlorocebus|label=アフリカミドリザル}}、HIV-2{{Enlink|Subtypes of HIV#HIV-2|英語版}}の発生源である{{仮リンク|スーティーマンガベイ|en|Sooty mangabey|label=}}、HIV-1{{Enlink|Subtypes of HIV#HIV-1|英語版}}の発生源である[[チンパンジー]]。]]
+[[ファイル:Orgin_and_evolution_of_SARS.jpg|サムネイル|異なる宿主における(A) SARS-CoV (B) MERS-CoV (C) SARS-CoV-2の起源と進化。これらのウイルスはすべて、コロナウイルス関連ウイルスとしてコウモリに由来し、変異して中間宿主に適応した後、ヒトに適応し、[[SARS]]、[[MERS]]、[[COVID-19]]という疾患を引き起こした。(&lt;small&gt;Ashour et al. (2020)&lt;/small&gt;&lt;ref name="pmid32143502"&gt;{{Cite journal|title=Insights into the Recent 2019 Novel Coronavirus (SARS-CoV-2) in Light of Past Human Coronavirus Outbreaks |journal=Pathogens (Basel, Switzerland) |volume=9 |issue=3 |pages= 186|date=March 2020 |PMID=32143502|DOI=10.3390/pathogens9030186|PMC=7157630}}&lt;/ref&gt;)]]
+ウイルスによる[[パンデミック]]はまれな出来事だが、サルやチンパンジーに生息するウイルスから進化したHIVは、少なくとも1980年代からパンデミックを起こしている&lt;ref name="pmid29460740"&gt;{{Cite journal|date=March 2018|title=Ending the HIV/AIDS Pandemic1|journal=Emerging Infectious Diseases|volume=24|issue=3|pages=413–16|DOI=10.3201/eid2403.171797|PMID=29460740|PMC=5823353}}&lt;/ref&gt;。20世紀には、インフルエンザウイルスによるパンデミックが4回発生し、1918年、1957年、1968年に発生したパンデミックは深刻であった&lt;ref name="pmid30180422"&gt;{{Cite journal|date=August 2018|title=[History of influenza pandemics in China during the past century]|journal=Zhonghua Liu Xing Bing Xue Za Zhi = Zhonghua Liuxingbingxue Zazhi|volume=39|issue=8|pages=1028–31|language=zh|DOI=10.3760/cma.j.issn.0254-6450.2018.08.003|PMID=30180422}}&lt;/ref&gt;。天然痘は、根絶される前は、3,000年以上にもわたってパンデミックの原因であった&lt;ref name="pmid26060873"&gt;{{Cite journal|date=April 2015|title=Preparedness for a smallpox pandemic in Japan: public health perspectives|journal=Disaster Medicine and Public Health Preparedness|volume=9|issue=2|pages=220–23|DOI=10.1017/dmp.2014.157|PMID=26060873}}&lt;/ref&gt;。歴史を通じて、人の移動はパンデミック感染の拡大を助長した。最初は海路で、現代では空路でもあった&lt;ref name="pmid30878442"&gt;{{Cite journal|date=2019|title=Geography, global pandemics &amp; air travel: Faster, fuller, further &amp; more frequent|journal=Journal of Infection and Public Health|volume=12|issue=3|pages=448–49|DOI=10.1016/j.jiph.2019.02.020|PMID=30878442|PMC=7129534}}&lt;/ref&gt;。
+
+天然痘を除いて、ほとんどのパンデミックは、新たに進化したウイルスによって引き起こされた。これらの{{仮リンク|創発性ウイルス|en|Emergent virus|label=}}は通常、以前に人間や他の動物のいずれかで流行した害の少ないウイルスの変異体である&lt;ref&gt;{{Cite web|url=https://virologyj.biomedcentral.com/articles/sections/emerging-viruses|title=Virology Journal|website=Virology Journal|accessdate=2021-01-02|publisher=}}&lt;/ref&gt;。
+
+[[重症急性呼吸器症候群]] (SARS) や[[中東呼吸器症候群]] (MERS) は、新型の[[コロナウイルス]]が原因で発症した。他のコロナウイルスは人間に感染しても軽症であることが知られているため&lt;ref name="pmid22094080"&gt;{{Cite book|title=Coronavirus pathogenesis|volume=81|pages=85–164|year=2011|pmid=22094080|doi=10.1016/B978-0-12-385885-6.00009-2|series=Advances in Virus Research|pmc=7149603|isbn=978-0-12-385885-6}}&lt;/ref&gt;、2003年7月までに約8,000人が感染し、800人が死亡したSARS感染症の病原性と急速な感染拡大は予想外であり、多くの国ではその準備がされていなかった&lt;ref name="pmid28475794"&gt;{{Cite journal|date=May 2017|title=From SARS to Avian Influenza Preparedness in Hong Kong|journal=Clinical Infectious Diseases|volume=64|issue=suppl_2|pages=S98–S104|DOI=10.1093/cid/cix123|PMID=28475794}}&lt;/ref&gt;。
+
+2019年11月に、関連するコロナウイルスが中国の[[武漢市|武漢]]で出現し、世界中に急速に広がっている。コウモリに由来すると考えられ、その後、[[重症急性呼吸器症候群コロナウイルス2]]と命名された。このウイルスに感染すると[[Covid-19|COVID-19]]と呼ばれる病気を引き起こし、軽度から致死性まで重症度が異なり&lt;ref name="WHOReport24Feb2020"&gt;{{cite report|title=Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)|date=2020-02-16 - 24|url=https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf|publisher=[[World Health Organization]] (WHO)|accessdate=2020-03-21}}&lt;/ref&gt;、[[新型コロナウイルス感染症の世界的流行 (2019年-)|2020年にパンデミック]]を引き起こした&lt;ref name="pmid32143502"&gt;{{Cite journal|title=Insights into the Recent 2019 Novel Coronavirus (SARS-CoV-2) in Light of Past Human Coronavirus Outbreaks |journal=Pathogens (Basel, Switzerland) |volume=9 |issue=3 |pages= 186|date=March 2020 |PMID=32143502|DOI=10.3390/pathogens9030186|PMC=7157630}}&lt;/ref&gt;&lt;ref name="pmid32093211"&gt;{{Cite journal|date=February 2020|title=Characteristics of and Public Health Responses to the Coronavirus Disease 2019 Outbreak in China|journal=Journal of Clinical Medicine|volume=9|issue=2|pages=575|DOI=10.3390/jcm9020575|PMID=32093211|PMC=7074453}}&lt;/ref&gt;&lt;ref name="pmid32109444"&gt;{{Cite journal|date=February 2020|title=Coronavirus 2019-nCoV: A brief perspective from the front line|journal=The Journal of Infection|volume=80|issue=4|pages=373–77|DOI=10.1016/j.jinf.2020.02.010|PMID=32109444|PMC=7102581}}&lt;/ref&gt;。平時には前例のない制限が海外旅行にかけられ&lt;ref&gt;{{Cite news|url=https://www.nytimes.com/article/coronavirus-travel-restrictions.html|title=Coronavirus Travel Restrictions, Across the Globe|date=16 March 2020}}&lt;/ref&gt;、世界のいくつかの主要都市では[[夜間外出禁止令]]が課された&lt;ref&gt;{{Cite web|url=http://www.cidrap.umn.edu/news-perspective/2020/03/us-takes-more-big-pandemic-response-steps-europe-covid-19-cases-soar|title=US takes more big pandemic response steps; Europe COVID-19 cases soar|website=CIDRAP|accessdate=2021-01-02|publisher=}}&lt;/ref&gt;。
+
+=== 植物の場合&lt;!--In plants--&gt; ===
+[[ファイル:Pepper_mild_mottle_virus.png|サムネイル|125x125ピクセル|軽度の斑文ウイルスに感染した[[トウガラシ属|トウガラシ]]]]
+{{Main|植物病理学}}[[植物ウイルス]]には多くの種類があるものの、多くの場合は{{仮リンク|作物収量|en|Crop yield|label=収量}}の低下を引き起こすだけで、防除しようとしても経済的に成り立たないことが多い。植物ウイルスは「[[媒介者|ベクター]]」と呼ばれる生物によって植物から植物へと繁盛に拡散する。これらの生物は通常は昆虫で、一部の[[真菌]]、[[線虫]]、[[単細胞生物]]もベクターであることが示されている。植物ウイルス感染症の防除が経済的であると考えられる場合は (例えば多年草の果実)、ベクターを殺し、雑草などの代替宿主を除去することに集中する&lt;ref&gt;{{Harvnb|Shors|2017|p=822}}&lt;/ref&gt;。植物ウイルスは、生きている植物細胞内でしか繁殖できないため、人間や他の動物には無害である&lt;ref&gt;{{Harvnb|Shors|2017|pp=802–03}}&lt;/ref&gt;。
+
+=== バクテリオファージ&lt;!--Bacteriophages--&gt; ===
+[[ファイル:PhageExterior.svg|サムネイル|典型的なバクテリオファージの構造]]
+{{Main|バクテリオファージ}}バクテリオファージは、細菌や[[古細菌]]に感染するウイルスである&lt;ref&gt;{{Cite book|title=Desk Encyclopedia of General Virology|publisher=Academic Press|location=Boston|year=2009|page=82|isbn=978-0-12-375146-1}}&lt;/ref&gt;。それらは[[海洋生物学|海洋生態学]]的に重要な役割を果たしている。感染した細菌が破裂すると、炭素化合物が環境中に放出され、新鮮な有機物の成長を促進する。バクテリオファージは人間には無害であり、簡単に研究できるため、科学研究に役立つ。これらのウイルスは、[[発酵]]によって食品や医薬品を生産し、健康な細菌に依存している産業では問題になることがある。一部の細菌感染症は、抗生物質で制御することが困難になっているため、バクテリオファージを使用して人間の感染症を治療することに関心が高まっている&lt;ref&gt;{{Harvnb|Shors|2017|p=803}}&lt;/ref&gt;。
+
+=== 宿主抵抗性&lt;!--Host resistance--&gt; ===
+
+==== 動物の自然免疫&lt;!--Innate immunity of animals--&gt; ====
+{{Main|自然免疫}}人間を含む動物は、ウイルスに対して多くの自然な防御機能を持っている。その中には非特異的なものもあり、種類に関係なく多くのウイルスから身を守る。この[[自然免疫]]は、ウイルスに繰り返し晒(さら)されても改善されることはなく、感染の「記憶」を保持することもない。動物の皮膚、特に死んだ細胞でできているその表面は、多くの種類のウイルスが宿主に感染するのを防いでいる。胃の内容物の酸性度は、飲み込んだ多くのウイルスを破壊する。ウイルスがこれらの障壁を乗り越えて宿主に侵入すると、他の先天的な防御が体内での感染の拡大を防ぐ。ウイルスが存在すると、[[インターフェロン]]と呼ばれる特殊なホルモンが体内で生成し、感染した細胞とその近くの細胞を殺すことによってウイルスの繁殖を阻止する。細胞の中には、ウイルスのRNAを破壊する酵素がある。これは[[RNA干渉]]と呼ばれる。一部の血液細胞は、ウイルスに感染した他の細胞を[[食作用|飲み込んで]]破壊するものがある&lt;ref&gt;{{Harvnb|Shors|2017|pp=116–17}}&lt;/ref&gt;。
+
+==== 動物の適応免疫&lt;!--Adaptive immunity of animals--&gt; ====
+[[ファイル:Rotavirus_with_antibody.jpg|左|サムネイル| 2つのロタウイルス粒子。右側の粒子は、細胞への付着と感染を停止する抗体で覆われている。]]
+{{Main|en:Immune response}}ウイルスに対する特異的な免疫力は時間とともに発達し、[[リンパ球]]と呼ばれる白血球が中心的な役割を果たしている。リンパ球はウイルス感染の「記憶」を保持し、[[抗体]]と呼ばれる多くの特殊な分子を生成する。これらの抗体はウイルスに付着し、ウイルスが細胞に感染するのを阻止する。抗体は非常に選択性が高く、1種類のウイルスだけを攻撃する。体内では、特に最初の感染時に、多くの異なる抗体が作られる。感染が治まった後も、いくつかの抗体が残って産生され続け、しばしば宿主にウイルスに対する生涯にわたる免疫力を与える&lt;ref&gt;{{Harvnb|Shors|2017|pp=225–33}}&lt;/ref&gt;。
+
+==== 植物耐性&lt;!--Plant resistance--&gt; ====
+植物は、ウイルスに対する精巧で効果的な防御機構を持っている。最も効果的なものの一つは、いわゆる[[耐性遺伝子]] (R遺伝子、resistance genes) の存在である。それぞれのR遺伝子は、感染した細胞の周囲に局所的な細胞死の領域を引き起こすことで、特定のウイルスに対する耐性を与える。これは肉眼で大きな斑点として見られることがよくある。これにより、感染の拡大を防ぐことができる&lt;ref name="pmid30201857"&gt;{{Cite journal|year=2018|title=Susceptibility Genes to Plant Viruses|journal=Viruses|volume=10|issue=9|pages=484|DOI=10.3390/v10090484|PMID=30201857|PMC=6164914}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Shors|2017|p=812}}&lt;/ref&gt;。RNA干渉もまた、植物における効果的な防御手段である。植物は感染すると、[[サリチル酸]]、[[一酸化窒素]]、[[活性酸素]]分子など、ウイルスを破壊する天然の殺菌剤を生成することがよくある&lt;ref&gt;{{Cite journal|year=2005|title=Mechanisms of plant resistance to viruses|journal=Nature Reviews Microbiology|volume=3|issue=10|pages=789–98|DOI=10.1038/nrmicro1239|PMID=16132037}}&lt;/ref&gt;。
+
+==== バクテリオファージに対する抵抗性&lt;!--Resistance to bacteriophages--&gt; ====
+細菌がバクテリオファージから身を守る主な方法は、外来DNAを破壊する酵素を生成することである。[[制限酵素|制限エンドヌクレアーゼ]] (制限酵素) と呼ばれるこれらの酵素は、バクテリオファージが細菌細胞に注入するウイルスDNAを切断する&lt;ref name="pmid20056882"&gt;{{Cite journal|date=January 2010|title=CRISPR/Cas, the immune system of bacteria and archaea|url=http://pdfs.semanticscholar.org/68e2/3e8e0dc19983b1f81b4be706587d0406ce36.pdf|journal=Science|volume=327|issue=5962|pages=167–70|bibcode=2010Sci...327..167H|DOI=10.1126/science.1179555|PMID=20056882}}&lt;/ref&gt;。
+
+=== ウイルス性疾患の予防と治療&lt;!--Prevention and treatment of viral disease--&gt; ===
+
+==== ワクチン&lt;!--Vaccines--&gt; ====
+[[ファイル:DNA_chemical_structure.svg|サムネイル|分子の「主鎖」を形成するヌクレオシドとリン原子の位置を示すDNAの構造]]
+{{Details|予防接種}}ワクチンは自然感染とそれに伴う免疫反応を模倣するものだが、病気を引き起こすものではない。ワクチンの使用により、[[天然痘]]が根絶され、[[ポリオ]]、[[麻疹]]、[[おたふくかぜ]]、[[風疹]]などの感染症による病気や死亡が劇的に減少した&lt;ref&gt;{{Harvnb|Shors|2017|pp=237–55}}&lt;/ref&gt;。ワクチンは、人間の14種類以上のウイルス感染症を予防するために利用され&lt;ref name="pmid22003377"&gt;{{Cite journal|year=2011|title=Viruses – from pathogens to vaccine carriers|journal=Current Opinion in Virology|volume=1|issue=4|pages=241–5|DOI=10.1016/j.coviro.2011.07.009|PMID=22003377|PMC=3190199}}&lt;/ref&gt;、動物のウイルス感染症を予防するためにさらに多くのワクチンが使用されている&lt;ref name="pmid28618246"&gt;{{Cite journal|year=2018|title=Adjuvants for Animal Vaccines|journal=Viral Immunology|volume=31|issue=1|pages=11–22|DOI=10.1089/vim.2017.0049|PMID=28618246}}&lt;/ref&gt;。ワクチンは、生ワクチンと死滅ウイルスのどちらかで構成されている&lt;ref name="auto"&gt;{{Harvnb|Shors|2017|p=237}}&lt;/ref&gt;。生ワクチンには弱毒化したウイルスが含まれるので、[[免疫不全|免疫力の弱い人]]に投与すると危険な場合があり、弱毒化したウイルスが元の病気を引き起こす可能性がある&lt;ref&gt;{{Cite journal|year=1975|title=Live attenuated versus killed virus vaccines|journal=Monographs in Allergy|volume=9|pages=155–76|PMID=1090805}}&lt;/ref&gt;。バイオテクノロジーや遺伝子工学の技術を用いて、ウイルスのカプシドタンパク質のみを持つ「デザイナー」ワクチンが製造されている。B型肝炎ワクチンは、このタイプのワクチンの一例である&lt;ref&gt;{{Harvnb|Shors|2017|p=238}}&lt;/ref&gt;。これらのワクチンは、決して病気を引き起こすことがないので、より安全である。
+
+==== 抗ウイルス薬&lt;!--Antiviral drugs--&gt; ====
+{{Main|抗ウイルス薬}}
+[[ファイル:Guanosine-acyclovir-comparison.png|サムネイル| DNA塩基[[グアノシン]]の構造とそれを模倣して機能する抗ウイルス薬[[アシクロビル]]の構造]]
+1980年代半ば以降、主にエイズの大流行に牽引 (けんいん) されて、[[抗ウイルス薬]]の開発が急増している。抗ウイルス薬は、{{仮リンク|ヌクレオシド類似体|en|Nucleoside analogue|label=}}であることが多く、DNAの構成要素 ([[ヌクレオシド]]) になりすます。ウイルスDNAの複製が始まると、偽の構成要素のいくつかが用いられる。薬物はDNA鎖の形成を可能にする本質的な機能が欠けているため、DNAの複製を妨げる。DNAの生成が停止すると、ウイルスはもはや繁殖できなくなる&lt;ref&gt;{{Harvnb|Shors|2017|pp=514–15}}&lt;/ref&gt;。ヌクレオシド類似体の例としては、[[ヘルペスウイルス]]感染症用の[[アシクロビル]]や、HIVや[[B型肝炎ウイルス]]感染症用の[[ラミブジン]]などがある。アシクロビルは、最も古く、最も頻繁に処方される抗ウイルス薬の一つである&lt;ref&gt;{{Harvnb|Shors|2017|p=514}}&lt;/ref&gt;。
+
+他の抗ウイルス薬は、ウイルスのライフサイクルのさまざまな段階を対象としている。HIVは、ウイルスが感染力を持つようになるために、{{仮リンク|HIV-1プロテアーゼ|en|HIV-1 protease|label=}}と呼ばれる酵素に依存している。この酵素に結合して機能を停止させる[[プロテアーゼ阻害剤 (生物学)|プロテアーゼ阻害剤]]と呼ばれる種類の薬剤がある&lt;ref name="{{harvnb|Shors|2017|p=463}}"&gt;{{Harvnb|Shors|2017|p=568}}&lt;/ref&gt;。
+
+C型肝炎は、RNAウイルスが原因で発症する。感染者の80 [[パーセント|%]]で[[慢性]]化し、治療をしない限り一生感染したままとなる。ヌクレオシド類似体薬[[リバビリン]]を用いた効果的な治療法がある&lt;ref name="pmid29778264"&gt;{{Cite journal|date=June 2018|title=Hepatitis C Virus Diagnosis and the Holy Grail|url=https://fieldresearch.msf.org/bitstream/10144/619174/1/Applegate%20et%20al%20-%202018%20-%20Hepatitis%20C%20Virus%20Diagnosis%20and%20the%20Holy%20Grail.pdf|journal=Infectious Disease Clinics of North America|volume=32|issue=2|pages=425–45|DOI=10.1016/j.idc.2018.02.010|PMID=29778264}}&lt;/ref&gt;。B型肝炎ウイルスの慢性保菌者に対する治療法も、ラミブジンなどの抗ウイルス薬を使った治療法が同様の戦略で開発されている。どちらの病気でも、薬物がウイルスの繁殖を止め、インターフェロンが残った感染細胞を死滅させる&lt;ref name="pmid21654909"&gt;{{Cite journal|date=June 2011|title=Combination Therapy for Chronic Hepatitis B: Current Indications|journal=Curr Hepat Rep|volume=10|issue=2|pages=98–105|DOI=10.1007/s11901-011-0095-1|PMID=21654909|PMC=3085106}}&lt;/ref&gt;。
+
+HIV感染症は通常、抗ウイルス薬の組み合わせで治療され、それぞれがウイルスのライフサイクルの異なる段階を対象としている。それらにはウイルスが細胞に付着するのを防ぐ薬もあれば、ヌクレオシド類似体である薬、ウイルスが繁殖するために必要なウイルスの酵素を毒するものもある。これらの薬の成功は、ウイルスがどのように繁殖するかを知ることの重要性を証明している&lt;ref name="{{harvnb|Shors|2017|p=463}}"&gt;{{Harvnb|Shors|2017|p=568}}&lt;/ref&gt;。
+
+== 生態における役割&lt;!--Role in ecology--&gt; ==
+ウイルスは、水生環境で最も豊富な生物学的存在である&lt;ref name="pmid16984643"&gt;{{Cite journal|date=September 2006|title=The ancient Virus World and evolution of cells|journal=Biol. Direct|volume=1|page=29|DOI=10.1186/1745-6150-1-29|PMID=16984643|PMC=1594570}}&lt;/ref&gt;。ティースプーン1杯の海水には約1,000万個のウイルスが含まれており&lt;ref name="pmid31749771"&gt;{{Cite journal|date=2019|title=A Review on Viral Metagenomics in Extreme Environments|journal=Frontiers in Microbiology|volume=10|pages=2403|DOI=10.3389/fmicb.2019.02403|PMID=31749771|PMC=6842933}}&lt;/ref&gt;、海水と淡水の生態系の調節に欠かせない存在である&lt;ref&gt;{{Harvnb|Shors|2017|p=5}}&lt;/ref&gt;。ほとんどはバクテリオファージであり&lt;ref name="pmid29867096"&gt;{{Cite journal|date=July 2018|title=Phage puppet masters of the marine microbial realm|journal=Nature Microbiology|volume=3|issue=7|pages=754–66|DOI=10.1038/s41564-018-0166-y|PMID=29867096}}&lt;/ref&gt;、植物や動物には無害である。それらは水生微生物群集の細菌に感染して破壊し、これが海洋環境で炭素をリサイクルする最も重要なメカニズムとなっている。ウイルスによって細菌細胞から放出された有機分子は、新鮮な細菌や藻類の成長を刺激する&lt;ref&gt;{{Harvnb|Shors|2017|pp=25–26}}&lt;/ref&gt;。
+
+微生物は海の[[バイオマス]]の90 %以上を構成している。ウイルスは毎日このバイオマスの約20 %を殺し、海洋には細菌や古細菌の15倍のウイルスが存在すると推定されている。これらのウイルスは主に、他の海洋生物をしばしば死滅させる原因となっている有害な[[水の華]] ([[アオコ]]など藻類)&lt;ref name="pmid16163346"&gt;{{Cite journal|date=September 2005|title=Viruses in the sea|journal=Nature|volume=437|issue=7057|pages=356–61|bibcode=2005Natur.437..356S|DOI=10.1038/nature04160|PMID=16163346}}&lt;/ref&gt; の急速な破壊に関与している&lt;ref&gt;{{Cite web|url=https://www.cdc.gov/hab/redtide/|title=Harmful Algal Blooms: Red Tide: Home &amp;#124; CDC HSB|publisher=www.cdc.gov|accessdate=23 August 2009}}&lt;/ref&gt;。海洋中のウイルスの数は、宿主となる生物が少ない沖合や水深が深くなるほど減少する&lt;ref name="pmid17853907"&gt;{{Cite journal|date=October 2007|title=Marine viruses – major players in the global ecosystem|journal=Nat. Rev. Microbiol.|volume=5|issue=10|pages=801–12|DOI=10.1038/nrmicro1750|PMID=17853907}}&lt;/ref&gt;。
+
+その影響は広範囲に及んでいる。ウイルスは、海洋の呼吸量を増やすことにより、大気中の二酸化炭素の量を年間約3ギガ[[トン]]減らすことに間接的な役割を果たしている&lt;ref name="pmid17853907"&gt;{{Cite journal|date=October 2007|title=Marine viruses – major players in the global ecosystem|journal=Nat. Rev. Microbiol.|volume=5|issue=10|pages=801–12|DOI=10.1038/nrmicro1750|PMID=17853907}}&lt;/ref&gt;。
+
+海洋性哺乳類もウイルス感染症の影響を受けやすい。1988年と2002年に、ヨーロッパでは何千頭ものゼニガタアザラシが{{仮リンク|アザラシジステンパーウイルス|en|Phocine morbillivirus|label=}}によって殺された&lt;ref&gt;{{Cite journal|year=2006|title=Phocine distemper virus in the North and European Seas&amp;nbsp;– Data and models, nature and nurture|journal=Biological Conservation|volume=131|issue=2|pages=221–29|DOI=10.1016/j.biocon.2006.04.008}}&lt;/ref&gt;。カリシウイルス、ヘルペスウイルス、アデノウイルス、パルボウイルスなど、他の多くのウイルスが海洋性哺乳類の集団を循環している&lt;ref name="pmid17853907"&gt;{{Cite journal|date=October 2007|title=Marine viruses – major players in the global ecosystem|journal=Nat. Rev. Microbiol.|volume=5|issue=10|pages=801–12|DOI=10.1038/nrmicro1750|PMID=17853907}}&lt;/ref&gt;。
+
+== 参照項目&lt;!--See also--&gt; ==
+
+* [[ウイルス]]
+* [[:en:Portal:Viruses|ウイルス]]ポータル(英語版)
+* [[Portal:医学と医療|医学と医療]]ポータル
+
+== 脚注&lt;!--References--&gt; ==
+{{脚注ヘルプ}}
+
+=== 出典&lt;!--Notes--&gt; ===
+{{Reflist|30em}}
+
+=== 参考書目&lt;!--Bibliography--&gt; ===
+{{Refbegin}}
+*{{cite book
+|editor-last=Collier
+|editor-first=Leslie
+|editor-last2=Balows
+|editor-first2=Albert
+|editor-last3=Sussman
+|editor-first3=Max
+|title=Topley &amp; Wilson's microbiology and microbial infections
+|publisher=Arnold
+|year=1998
+|isbn=0-340-66316-2
+|edition=9th
+|volume=Volume 1, ''Virology''
+|ref=harv
+|date=
+}}
+*{{cite book
+|last=Shors
+|first=Teri
+|title=Understanding viruses
+|publisher=Jones and Bartlett Publishers
+|year=2017
+|isbn=978-1284025927
+|ref=harv
+|date=
+}}
+{{Refend}}
+
+== 外部リンク&lt;!--External links--&gt; ==
+
+* [http://www.viprbrc.org/brc/home.spg?decorator=vipr ウイルス病原体リソース]&amp;nbsp;–ヒト病原性ウイルスに関するゲノムおよびその他の研究データ
+* [http://www.fludb.org/brc/home.spg?decorator=influenza インフルエンザ研究データベース]{{snd}}インフルエンザウイルスに関するゲノムおよびその他の研究データ
+
+{{ウイルスの話題}}
+{{DEFAULTSORT:ういるすのしようかい}}
+[[Category:ウイルス]]
+[[Category:ウイルス学]]
+[[Category:未査読の翻訳があるページ]]</text>
+      <sha1>8j9y6fdox2xoup25uh4l9vnnniodeyl</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,185 @@
+<page>
+    <title>形容詞句</title>
+    <ns>0</ns>
+    <id>2769823</id>
+    <revision>
+      <id>88621762</id>
+      <parentid>87067545</parentid>
+      <timestamp>2022-03-20T08:30:41Z</timestamp>
+      <contributor>
+        <username>シェン,アーナリー,ン,アーバァ.</username>
+        <id>1337999</id>
+      </contributor>
+      <minor />
+      <comment>文法を修正</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17378" xml:space="preserve">{{言語学}}
+{{読み仮名|'''形容詞句'''|けいようしく}}、（{{lang-en-short|''adjective phrase''}}、または{{lang-en-short|''adjectival phrase''|links=no}}、略称: '''''AP'''''）とは、[[形容詞]]を[[主要部]]とする[[句]]&lt;ref&gt;[[文法]]や[[統語論|構文]]に関する[[教科書]]や[[言語学]]用語辞典の大部分は、形容詞句をほぼこれと同様に定義している。例えば、 Kesner Bland (1996:499)、 Crystal (1996:9) 、 Greenbaum (1996:288ff.) 、 Haegeman and Guéron (1999:70f.) 、 Brinton (2000:172f.) 、 Jurafsky and Martin (2000:362) など。&lt;/ref&gt;。
+
+例えば、[[英語]]における'''''fond''' of steak''や''very '''happy'''''、''quite '''upset''' about it''などが形容詞句である（それぞれ、太字の語が主要部形容詞）。
+そして例のように、主要部形容詞は句の冒頭や末尾、中間部でも使用可能である。
+形容詞句内の他の要素（{{仮リンク|付加部|en|Adjunct (grammar)}}または[[補部]]）としては、{{仮リンク|副詞句|en|Adverbial phrase}}や{{仮リンク|接置詞句|en|Adpositional phrase|label=前置詞句}}の他、[[節 (文法)|節]]（'''''louder''' &lt;u&gt;than you do&lt;/u&gt;''など）が使用されることもある。
+
+形容詞句は基本的に2つの語法があり、[[名詞句]]の内部でその主要部名詞を[[修飾語|修飾]]する語法を'''限定用法'''とし、[[述語]]として機能する語法を'''叙述用法'''とする。
+
+== 言語による相違 ==
+=== 限定用法 ===
+限定用法の形容詞句は、言語により、主要部名詞の前に置かれたり（'''前置修飾'''）、後に置かれたりする（'''[[後置修飾]]'''）。例えば、英語、[[中国語]]、[[日本語]]などでは基本的に前置修飾が行われ、[[スペイン語]]&lt;ref name="enforex_ichi"&gt;{{Cite web|url=http://www.enforex.com/japanese/language/spanish-adjective.html |title=スペイン語の形容詞の位置 |author= |publisher=エンフォレックス |year= |accessdate=2013-04-24}}&lt;/ref&gt;&lt;ref name="ueda_2008_keiyoichi"&gt;{{Cite web|url=http://lecture.ecc.u-tokyo.ac.jp/~cueda/gakusyu/guia/kei-huku/keiyoichi.pdf |title=スペイン語ガイドブック - 形容詞の位置 |author=[http://lecture.ecc.u-tokyo.ac.jp/~cueda/ 上田博人] |publisher=[[東京大学]]情報基盤センター 教育用計算機システム 講義用WWWサーバ |year=2008 |accessdate=2013-04-23}}&lt;/ref&gt;&lt;ref name="fujita_2010"&gt;{{Cite web|url=http://www3.muroran-it.ac.jp/hlc/2010/08Fujita.pdf |title=スペイン語における所有形容詞について - Possessive Adjectives in Spanish |author=藤田健 ([[北海道大学]]大学院文学研究科西洋言語学講座) |publisher=北海道言語研究会 |year=2010 |accessdate=2013-04-24}}&lt;/ref&gt;、[[フランス語]]や[[アラビア語]]などでは基本的に後置修飾が行われる（詳細は[[スペイン語#文法の特徴]]および[[フランス語の文法#形容詞]]を参照）。
+
+=== 叙述用法 ===
+[[存在動詞#存在動詞とコピュラ]]、[[コピュラ#各言語におけるコピュラ]]も参照。
+
+叙述用法の形容詞句は、言語により[[コピュラ]]を伴うことがある。例えば、英語やスペイン語ではコピュラ＋形容詞句、日本語では形容詞句＋コピュラという基本語順になる（日本語のコピュラは省略可能）。
+
+言語によっては[[存在動詞]]がコピュラの役目を兼ねており、例えば、英語の ''be'' がそうである。
+
+[[イタリア語]]、スペイン語、[[ポルトガル語]]などのように、複数のコピュラが使い分けられる言語もある。例えば、スペイン語では、「''ser''」が性質・種類を表し、「''estar''」が状態・所在を表す&lt;ref name="ueda_2008_ser-estar"&gt;{{Cite web|url=http://lecture.ecc.u-tokyo.ac.jp/~cueda/gakusyu/guia/dousi/ser-estar.pdf |title=スペイン語ガイドブック - SERとESTAR |author=[http://lecture.ecc.u-tokyo.ac.jp/~cueda/ 上田博人] |publisher=[[東京大学]]情報基盤センター 教育用計算機システム 講義用WWWサーバ |year=2008 |accessdate=2013-04-24}}&lt;/ref&gt;。
+:: Juan ''es'' inteligente. &lt;small&gt;- 「''ser''」の3人称単数現在形&lt;/small&gt;
+::: フアンは頭が良い。（性質）
+:: ¿''Es'' fácil el español? &lt;small&gt;- 「''ser''」の3人称単数現在形&lt;/small&gt;
+::: スペイン語はやさしいですか？（性質）
+:: Las ventanas ''están'' cerradas. &lt;small&gt;- 「''estar''」の3人称複数現在形&lt;/small&gt;
+::: 窓は閉まっている。（状態）
+:: ¿Cómo ''estás''? &lt;small&gt;- 「''estar''」の2人称単数現在形&lt;/small&gt;
+::: 元気かい？（状態）
+:: ''Estoy'' bien. &lt;small&gt;- 「''estar''」の1人称単数現在形&lt;/small&gt;
+::: 元気だよ。（状態）
+
+また、同じ形容詞句でも、「''estar''」と「''ser''」の使い分けによってニュアンスが変わる&lt;ref name="ueda_2008_ser-estar"/&gt;。
+:: Adriana no es que ''esté'' guapa; ''es'' guapa. &lt;small&gt;- 「''estar''」と「''ser''」の対比&lt;/small&gt;
+::: アドリアナは美しくなっている（状態）というのではなくて、もともと美しい（性質）のだ。
+:: Pedro ''es'' casado.
+::: ペドロは既婚者です。（性質）
+:: Pedro ''está'' casado.
+::: ペドロは結婚しています。（状態）
+
+中国語や日本語のように、存在動詞（「在」／「いる・ある」など）とコピュラ（「是」／「です・だ・である」など）が区別されている言語もある。
+
+また、述語が[[名詞句]]の時はコピュラを付けるが、形容詞句には付けない言語もある。例えば、中国語（[[普通話]]）では、コピュラ＋名詞句で「她'''是'''學生」（「彼女は学生です」）とは言うが、「彼女は美しい」は「＊她'''是'''漂亮」ではなく「她'''很'''漂亮」となる。この「很」（[[台湾]]では「好」）という[[副詞]]は、[[強勢]]を置けば「とても」という意味を持つが、強勢がない場合は特に意味はない。しかし、形容詞の”程度”を表す語句（副詞など）あるいは否定辞がない時には基本的に省略できない。例えば、「她真漂亮」（「彼女はホントに美しい」）、「她漂亮極了」（「彼女はものすごく美しい」）、「她不漂亮」（「彼女は美しくない」）などは可だが、「＊她漂亮」は不可である&lt;ref&gt;逆に、形容詞にすでに程度（副詞的なニュアンス）が盛り込まれている場合、「很」は使用不可となる。例えば「雪白」（雪のように白い＝真っ白い）、「滾燙」（焼けるように熱い）など。「很」の使用条件に関する詳細については、周 (2006:293) を参照。&lt;/ref&gt;。[[:en:Chinese adjectives]] および [[:zh:形容詞]] も参照。
+
+[[アラビア語]]ではコピュラが無標のため、[[アラビア語の定冠詞|定冠詞]]の有無により限定用法と叙述用法が区別できる&lt;ref&gt;{{Cite web|title=アラビア語独習コンテンツ 第4課|url=http://el.minoh.osaka-u.ac.jp/flc/ara/lesson04.html|website=el.minoh.osaka-u.ac.jp|accessdate=2021-04-21}}&lt;/ref&gt;。
+
+* {{Lang|ar|.البيت كبير}}（その家は大きい。）
+* {{Lang|ar|.هذا بيت كبير}}（これは大きい家である。）
+* {{Lang|ar|.البيت الكبير جميل}}（その大きな家は美しい。）
+
+== 英語の形容詞句 ==
+=== 形容詞句の例 ===
+英語の形容詞句の例を挙げる。以下、下線部分が形容詞句、太字部分が主要部形容詞である。また、それぞれ、限定用法か叙述用法かを示す&lt;ref&gt;英語の形容詞句の限定用法と叙述用法の違いについては、 Ouhalla (1994:34, 39) および Crystal (1997:9) を参照。&lt;/ref&gt;。なお、和訳はなるべく英語の句構成を反映するようにしてあるため、日本語としては必ずしも自然ではない。&lt;!--「日本語としては必ずしも自然ではない」という注釈は、JAWPの想定読者に含まれる日本語学習者への配慮です。--&gt;
+
+:: a. Sentences can contain &lt;u&gt;tremendously '''long'''&lt;/u&gt; phrases. &lt;small&gt;- 限定用法&lt;/small&gt;
+::: 文は、&lt;u&gt;ものすごく'''長い'''&lt;/u&gt;句を含むことができる。
+:: b. This sentence is not &lt;u&gt;tremendously '''long'''&lt;/u&gt;. &lt;small&gt;- 叙述用法&lt;/small&gt; 
+::: この文は、&lt;u&gt;ものすごく'''長く'''&lt;/u&gt;ない。（この文は、&lt;u&gt;ものすごく'''長い'''&lt;/u&gt;というわけではない。）
+
+:: a. A player &lt;u&gt;'''faster''' than you&lt;/u&gt; was on their team. &lt;small&gt;- 限定用法&lt;/small&gt;
+::: &lt;u&gt;あなたよりも'''速い'''&lt;/u&gt;選手が、彼らのチームにいたんですよ。
+:: b. He is &lt;u&gt;'''faster''' than you&lt;/u&gt;. &lt;small&gt;- 叙述用法&lt;/small&gt;
+::: 彼は、&lt;u&gt;あなたよりも'''速い'''&lt;/u&gt;（です）。 &lt;small&gt;- 日本語ではコピュラを省略可能。&lt;/small&gt;
+
+:: a. Sam ordered a &lt;u&gt;very '''spicy'''&lt;/u&gt; but &lt;u&gt;quite '''small'''&lt;/u&gt; pizza. &lt;small&gt;- 限定用法&lt;/small&gt;
+::: サムは、&lt;u&gt;とても'''辛い'''&lt;/u&gt;けど&lt;u&gt;かなり'''小さい'''&lt;/u&gt;ピザを注文した。
+:: b. The pizza is &lt;u&gt;very '''spicy'''&lt;/u&gt; but &lt;u&gt;quite '''small'''&lt;/u&gt;. &lt;small&gt;- 叙述用法&lt;/small&gt;
+::: その&lt;ref&gt;「''the''」を「その」と訳すか否か、およびそのニュアンスについては[[英語の冠詞]]を参照。&lt;/ref&gt;ピザは、&lt;u&gt;とても'''辛い'''&lt;/u&gt;けど&lt;u&gt;かなり'''小さい'''&lt;/u&gt;（です）。 &lt;small&gt;- 日本語ではコピュラを省略可能。&lt;/small&gt;
+
+:: a. People &lt;u&gt;'''angry''' with the high prices&lt;/u&gt; were protesting. &lt;small&gt;- 限定用法&lt;/small&gt;
+::: &lt;u&gt;高値に'''怒った'''&lt;/u&gt;人々が抗議していた。
+:: b. The people are &lt;u&gt;'''angry''' with the high prices&lt;/u&gt;. &lt;small&gt;- 叙述用法&lt;/small&gt;
+::: 人々は、&lt;u&gt;高値に'''怒っている'''&lt;/u&gt;。 &lt;small&gt;- 英語の「''angry''」は形容詞だが、日本語でそれに相当する語は[[動詞]]である。ここでは、英語の形容詞句の構成に沿った表示にしてある。&lt;/small&gt;
+
+これらの例に見られるように、限定用法の形容詞句は、それが修飾する名詞を主要部とする名詞句に内包される&lt;ref&gt;形容詞句の語法・分布の概説については、 Greenbaum (1996:290ff.) を参照。&lt;/ref&gt;。[[Xバー理論|Xバー式型]]では次のように示すことができる（'''NP'''＝名詞句／'''AP'''＝形容詞句）。
+
+&lt;pre&gt;
+ a.   NP                                 b.     NP
+     / |                                       / |
+  spec N'                                   spec N'
+      / \                 or                     | \
+     AP  N'                                      N' AP
+         |                                       |
+         N                                       N
+&lt;/pre&gt;
+
+a. は形容詞句が主要部名詞の前に、 b. は後に来る場合を示している。英語では一般的に、形容詞句が単独の形容詞（または副詞＋形容詞）で構成されている場合には前置修飾、形容詞が[[補部]]を取る場合には後置修飾となる&lt;ref&gt;英語における前置修飾と後置修飾の分布については、 Haegeman and Guéron (1999:71) および Osborne (2003) を参照。&lt;/ref&gt;。例えば、 ''a &lt;u&gt;proud&lt;/u&gt; man'' （&lt;u&gt;誇り高き&lt;/u&gt;男、&lt;u&gt;傲慢な&lt;/u&gt;男）に対する ''a man &lt;u&gt;proud of his children&lt;/u&gt;'' （&lt;u&gt;自分の子供たちを誇りにしている&lt;/u&gt;男）など。一方、カッコ内の和訳に見られるように、日本語における{{仮リンク|付加部|en|Adjunct (grammar)}}（修飾語句）や補部は、主要部の前にまとめて置かれる。
+
+英語の叙述用法では、'''[[存在動詞]]'''（[[学校文法]]における '''be 動詞'''）がコピュラとして使用される。例えば、 ''The man is proud.'' （「その男は誇り高い」「その男は傲慢だ」）など。
+
+=== adjective phrase と adjectival phrase ===
+英語において、形容詞句は ''adjectival phrase'' または ''adjective phrase'' と呼ばれるが、前者には「形容詞のような句」が含まれる傾向がある。例えば、 ''Mr. Clinton is a man '''of wealth''''' （「クリントン氏は裕福です」）という文の ''of wealth'' は形容詞句ではなく前置詞句だが、 ''man'' を修飾しており、代わりに形容詞を用いて ''Mr. Clinton is a '''wealthy''' man.'' としてもほぼ同じ意味になる。逆に、 ''That boy is '''friendless'''.''の ''friendless'' （「あの少年には友達がいない」）は形容詞だが、 ''That boy is '''without a friend'''.'' と言い換えることもできる。
+
+また、限定用法的な位置にある句は、それが実際には名詞句であろうと前置詞句であろうと、 ''adjectival phrase'' と呼ばれる傾向があるが、それらは厳密には ''phrasal attributives'' あるいは ''attributive phrases'' （限定修飾句）とすべきである。しかし、英語筆記マニュアルでは、こういう意味の ''adjectival phrase'' という用語が頻繁に使われており、 ''attributive'' （限定用法的）と ''adjective'' （形容詞）も同義語として扱われている。なお、形容詞句以外の語句が連なって名詞を限定修飾する場合、[[ハイフン]]で繋がれるのが一般的である（[[:en:compound modifier]] および [[:en:English compound#Hyphenated compound modifiers]] を参照）。
+
+=== ツリー図 ===
+形容詞句を含む全ての句は、しばしば[[構文木]]（ツリー図）で表示される。ツリー図には、理論の違いによって基本的に2種類がある。1つは、[[文]]を[[構成素]]の積み重ねとして捉える[[句構造文法]]のツリー図&lt;ref&gt;Brinton (2000), Radford (2004), Culicover and Jackendoff (2005), Carnie (2013).&lt;/ref&gt;、もう1つは語と語の依存関係を示す[[依存文法]]のツリー図&lt;ref&gt;Tesnière (1959), Starosta (1988), Eroms (2000).&lt;/ref&gt;である。ここでは、両タイプのツリー図を示す。
+
+* '''A''' = 形容詞
+* '''Adv''' = 副詞
+* '''AP''' = 形容詞句
+* '''N''' = 名詞または代名詞
+* '''P''' = 前置詞
+* '''PP''' = 前置詞句
+
+まず、[[主要部]]終端型（ ''head-final'' ）の形容詞句、すなわち主要部形容詞が最右方にある形容詞句のツリー図を示す。句構造文法のツリー図（''constituency''）では、形容詞句が '''AP''' という構成素として示されている。一方、依存文法のツリー図（''dependency''）では、同じまとまりの節点を '''A''' で示している。
+
+::[[File:Head-final adjective phrases.png|Head-final adjective phrases]]
+
+次に、主要部先導型（ ''head-initial'' ）の形容詞句、すなわち主要部形容詞が最左方にある形容詞句のツリー図を示す。
+
+::[[File:Head-initial adjective phrases.png|Head-initial adjective phrases]]
+
+最後に、主要部が中間にあるツリー図を示す。
+
+::[[File:Head-medial adjective phrases.png|Head-medial adjective phrases]]
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Reflist|group="注"}}
+=== 出典 ===
+{{Reflist|2}}
+
+== 参考文献 ==
+{{div col|cols=2}}
+* Brinton, L. 2000. The strucure of modern English: A linguistic introduction. 
+* Carnie, A. 2013. Syntax: A generative introduction. Oxford, UK: Wiley-Blackwell.
+* Crystal, D. 1997. A dictionary of linguistics and phonetics, 4th edition. Oxford, UK: Blackwell Publishers.
+* Culicover, Peter and Ray Jackendoff. 2005. Simpler Syntax. Oxford University Press: Oxford.
+* Eroms, H.-W. 2000. Syntax der deutschen Sprache. Berlin: de Gruyter.
+* Greenbaum, S. 1996. The Oxford English grammar. New York: Oxford University Press. 
+* [[リリアン・ヘーゲマン|Haegeman, L.]] and J. Guéron 1999. English Grammar: A generative perspective. Oxford, UK: Blackwell Publishers.
+* Jurafsky, M. and J. Martin. 2000. Speech and language processing. Dorling Kindersley (India): Pearson Education, Inc.
+* Kesner Bland, S. 1996. Intermediate grammar: From form to means and use. New York: Oxford University Press.
+* Osborne, T. 2003. The left elbow constraint. Studia Linguistica 57, 3: 233-257.
+* Ouhalla, J. 1994. Transformational grammar: From principles and parameters to minimalism. London: Arnold.
+* Radford, A. 2004. English syntax: An introduction. Cambridge, UK: Cambridge University Press.
+* Starosta, S. 1988. The case for lexicase. London: Pinter Publishers.
+* Tesnière, L. 1959. Éleménts de syntaxe structurale. Paris: Klincksieck.
+* 周一民. 2006. 现代汉语（修订版）. 北京: 北京师范大学出版社. ISBN 9787303034604
+{{div col end}}
+
+== 関連項目 ==
+{{div col|cols=3}}
+* [[形容詞]]
+* [[述語]]
+* [[句]]
+* [[名詞句]]
+* [[動詞句]]
+* [[節 (文法)]]
+* [[依存文法]]
+* [[句構造文法]]
+* [[構成素]]
+* [[主要部]]
+* [[補部]]
+* [[補語]]
+* [[コピュラ]]
+{{div col end}}
+
+{{DEFAULTSORT:けいようしく}}
+[[Category:英語文法]]
+[[Category:品詞]]
+[[Category:統語範疇]]
+[[Category:生成統語論]]</text>
+      <sha1>2qtgybkna7zc0922h1svjhinh11v5dh</sha1>
+    </revision>
+  </page>
+  

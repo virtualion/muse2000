@@ -1,0 +1,5 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/300896/title_panel.png	-110.57894736842104,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/300896/word_cloud.png	-132.18947368421053,38,131.93052631578948	0,0,1	0,1,0	-1,0,0	92.35136842105263	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/300896/Roemerkran.jpg	-132.18947368421053,38,130.61122105263158	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/300896/caption/caption0.png	-132.18947368421053,38,130.61122105263158	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23

@@ -1,0 +1,5 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/1947353/title_panel.png	-69.52631578947368,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/1947353/word_cloud.png	-92.16315789473684,38,99.41684210526314	0,0,1	0,1,0	-1,0,0	69.5917894736842	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/1947353/K131 Sinwon 01.jpg	-92.16315789473684,38,98.42267368421051	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	Images/1947353/table/fixed_利用状況.png	92.16315789473684,38,100.42105263157893	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	9.450000000000001	Wooden_thin	-1:-1	3

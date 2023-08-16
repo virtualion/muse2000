@@ -1,0 +1,209 @@
+<page>
+    <title>トヨタ・ニュー・グローバル・アーキテクチャー</title>
+    <ns>0</ns>
+    <id>3360647</id>
+    <revision>
+      <id>95726543</id>
+      <parentid>95706338</parentid>
+      <timestamp>2023-06-23T02:27:23Z</timestamp>
+      <contributor>
+        <username>カズプレッサ</username>
+        <id>1254662</id>
+      </contributor>
+      <comment>/* GA-Bプラットフォーム */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28733" xml:space="preserve">{{半保護}}
+[[File:Toyota Prius 4th gen SAO 2016 9118.jpg|thumb|300px|TNGAを採用したプリウスの内部構造モデル（[[2016年]][[サンパウロ]]国際モーターショー出展）]]
+'''トヨタ・ニュー・グローバル・アーキテクチャー'''（{{lang-en-short|Toyota New Global Architecture}}、以下 '''TNGA'''）および'''ダイハツ・ニュー・グローバル・アーキテクチャー'''（{{lang-en-short|Daihatsu New Global Architecture}}、以下 '''DNGA'''）は、[[トヨタ自動車]]および[[ダイハツ工業]]が開発した、新[[プラットフォーム (自動車)|プラットフォーム]]を基幹とし商品力の飛躍的向上と原価低減を同時に達成するための車両作りのシステムの総称である。
+
+== 誕生までの歩みと背景 == 	
+[[File:2018 Toyota Camry Hybrid WAS 2017 1730.jpg|thumb|300px|10代目カムリは、エンジンや足回りなども含めて全面的に刷新された初の「フルTNGA」モデル（2017年ワシントンD.C.オートショー出展）&lt;ref&gt;{{Cite web |url=http://autoc-one.jp/toyota/camry-hybrid/special-3106765/ |title=トヨタの挑戦！新型カムリが初のフルTNGAモデルだ！保守的クルマから脱却へ |author=山本シンヤ |publisher=オートックワン |date=2017-01-12 |accessdate=2017-01-30 }}&lt;/ref&gt;]]
+
+2012年4月に「もっといいクルマづくり」の具現化に向けた取り組みの一環として、TNGAの構想が初めて発表された。この時
+
+*基本性能を突き詰めた新プラットフォームを世界各地で共用化する。
+*低重心+踏ん張り感あるスタイリングで、エモーショナルなデザインとハンドリングを両立。
+*複数車種の同時企画・開発を行い、車種間のコンポーネントの共用化率を高めて原価低減をする。
+
+などが掲げられた&lt;ref&gt;{{Cite press release |和書 |title=トヨタ自動車、「もっといいクルマづくり」の具現化に向けた取り組みを公表 |publisher=トヨタ自動車 |date=2012-04-09 |url=http://www2.toyota.co.jp/jp/news/12/04/nt12_0410.html |accessdate=2018-01-02}}&lt;/ref&gt;。このようにTNGAはプラットフォーム本体だけではなく、ユーザーの声をもとにした企画・開発・調達・生産準備・生産というすべての工程を含めたクルマ作りのシステム・方針などのことを指す。
+
+TNGAが創設された背景には、トヨタの伝統である「現地現物主義」の影響により床の高さ・ホイールベース・サスペンション形式・駆動方式・[[ハイブリッドカー|ハイブリッド]]の有無といった違いによって、膨大な数に膨れ上がったプラットホームたちの存在がある。またエンジンを見ても10以上の基本形式があり、加えて排気量や各国の規制対応・駆動方式などにより品番数は3ケタに達し、結果開発費も膨大になった&lt;ref&gt;{{Cite news |title=トヨタ筆頭に日本メーカーの商品力が強まる年 |newspaper=日経ビジネス |date=2017-01-01 |author=鶴原吉郎 |url=http://business.nikkeibp.co.jp/atcl/report/15/264450/122600053/?P=2 |publisher=日経BP |accessdate=2018-01-02}}&lt;/ref&gt;。そこでTNGAは複数のプラットフォームに共通したモジュールとして増加させることでコンポーネントを共有化し、プラットフォームごとの台数を増やすことができるように開発されている。
+
+また開発の思想・方向性についても思い切った変更を行い、販売数を上げることではなく原点に立ち返り利用者のために利用者目線に立つ自動車を作るべく、開発体制と車づくりの方向性の大改革が全社が一丸となって取り組まれた。
+
+TNGAプラットフォームは[[2015年]]12月発表の[[トヨタ・プリウス|プリウス]]を皮切りとして、トヨタの各車種に順次採用され、[[レクサス]]や[[ダイハツ工業|ダイハツ]]（DNGA）へも採用され始めた。なおパワートレーンなど全てにTNGAを導入したのは2017年7月販売の[[トヨタ・カムリ|カムリ]]が最初となる。DNGAでは2017年5月に発売された[[ダイハツ・ミライース|ミライース]]を原点とし&lt;ref name="miraes2017"&gt;{{Cite press release|和書|title=軽乗用車「ミラ イース」をフルモデルチェンジ|publisher=ダイハツ工業|date=2017-05-09|url=https://www.daihatsu.com/jp/news/2017/20170509-1.pdf|accessdate=2019-01-15|format=PDF}}&lt;/ref&gt;、2019年7月に発売された[[ダイハツ・タント|タント]]以降の軽乗用車系の車種で順次、新プラットフォームが採用された&lt;ref name="tanto2019" /&gt;。
+
+=== IT-TNGA ===
+'''IT-Toyota New Global Architecture'''（IT-TNGA）は、TNGAの設計思想を情報システムに応用して構築されたトヨタのIT基盤を指す。セキュリティ、スケーラビリティ、および信頼性を高めながら、最先端の技術を使って共同で革新的な拡張を可能にするITプラットフォームであり、2016 Oracle Excellence Awardsに選出されている&lt;ref&gt;{{Cite web |url=https://www.oracle.com/corporate/awards/cio-of-the-year/2016-winners.html |title=2016 Oracle Excellence Awards |accessdate=2019-03-01 |publisher=Oracle Corporation}}&lt;/ref&gt;。IT-TNGAは[[OpenStack]]ベースのプライベートクラウドであり、トヨタの莫大な情報資産がIT-TNGAに統合されている&lt;ref&gt;{{Cite web |url=https://www.youtube.com/watch?v=hT7YtVfGgQY |title=CIO of the Year: Hiroaki Kitazawa, CIO of Toyota - English |accessdate=2019-03-01 |publisher=Oracle Corporation}}&lt;/ref&gt;。
+
+== 具体的手法 ==
+TNGAは下記4項目をサイクルさせることで「もっといいクルマづくり」を達成する&lt;ref&gt;{{Cite web |url=https://www.toyota.co.jp/jpn/investors/features/tnga2015/1.html |title=TNGAによるもっといいクルマづくり |accessdate=2018-01-06 |work=投資家情報 |publisher=トヨタ自動車}}&lt;/ref&gt;。
+
+#基本性能の向上
+#グルーピング開発による部品・ユニットの賢い共用化
+#仕入れ先と協力して原価低減
+#商品力向上
+
+まず車種を趣味・感性に特化したスポーツ系の「Aゾーン」・量販車や個人・一般向けの「Bゾーン」・社会貢献に資する車や商用車の「Cゾーン」、新しいコンセプトや技術を提案する「Dゾーン」の4つのジャンルに分け、各ジャンルごとに中長期の商品ラインアップを確定し、それらに搭載するユニットやその配置、ドライビングポジションなどを車種共通のアーキテクチャーとして定める。そして定められた上位概念であるアーキテクチャーに基づき、それぞれのジャンルに適したプラットフォームやパワーユニットを開発・形成する。その際、車両構成をプラットフォームに代表される「基本部分」と内外装や原料手配等に代表される「地域対応」とに分け、それぞれの地域の顧客が求めるデザイン、走行性能、乗り心地、装備の嗜好に沿った最適なものを開発できるようにしている。
+
+プラットフォームは「乗り降りや運転のしやすさ」を最優先課題とした上で、「車の低重心化」「各部品の低配置化」「乗車時のベストな姿勢の確保」「流麗なデザイン」など46項目に渡って徹底的に追求し&lt;ref&gt;{{Cite web |url=http://toyotagazooracing.com/pages/special/tnga/things/ |title=TNGA 46 Things |accessdate=2018-01-02 |website=TOYOTA GAZOO Racing |publisher=トヨタ自動車}}&lt;/ref&gt;、1.走りの質感、2.快適性、3.使い勝手、4.所有感、5.安心・安全の5つの領域で高い満足が得られることを目標に開発した&lt;ref&gt;{{Cite web |url=http://www.toyota.co.jp/jpn/tech/tnga/ |title=TNGA |accessdate=2018-01-05 |work=テクノロジー |publisher=トヨタ自動車}}&lt;/ref&gt;。
+
+車両の開発においては、デザイン・設計の源流段階から約10年先までの複数車種を同時進行で開発していく「グルーピング開発」により部品・ユニットの共用化を進める。また複数の車種をまとめてグローバルに、車種・地域・時間をまたいだ「大量まとめ発注」を実施し、徹底した原価低減を行う。
+
+仕入先・調達・生産技術・技術の各部門も四位一体で活動し、生産・組み立て・製造工程が効率化されることで部品やクルマ本体の高い品質を確保する&lt;ref&gt;{{Cite press release |和書 |title=トヨタ自動車、「もっといいクルマづくり」に向けて、「TNGA」の取り組み状況を公表 |publisher=トヨタ自動車 |date=2013-03-27 |url=http://www2.toyota.co.jp/jp/news/13/03/nt13_018.html |accessdate=2018-01-02}}&lt;/ref&gt;。部品本体においてもトヨタ専用規格に準じた部品開発を改め、「トヨタが定める品質を満たせば、他の自動車メーカーがグローバルに採用している標準部品でも納入可能」とした。これらにより[[軽自動車]]を含む[[コンパクトカー]]クラスから大型[[セダン]]までトヨタグループのスケールメリットを活かし、「開発費削減」「部品点数削減」「製造コスト削減」「工期短縮」を効率よく行うことで、すべての工程の経費削減を可能としている。
+
+基本的な設計思想としては、[[フォルクスワーゲン]]の「[[フォルクスワーゲン・MQB|MQB]]（モジュラー・トランスバース・マトリックス）」や[[ルノー・日産・三菱アライアンス]]の「[[日産・CMF|CMF]]（コモン・モジュール・ファミリー）」、マツダの「[[SKYACTIV TECHNOLOGY]]（スカイアクティブ・テクノロジー）」、[[ボルボ・カーズ]]の「[[ボルボ・SPA|SPA]]（スケーラブル・プロダクト・アーキテクチャ）」などに近いが、他企業のようにプラットフォーム単位ではなく総合的に判断して分ける点が異なる。
+
+== プラットフォーム一覧 ==
+=== GA-Bプラットフォーム ===
+日本の[[小型自動車|5ナンバー車]]を含む[[Bセグメント]]クラスの小型車に最適化されたプラットフォーム。[[2019年]][[9月5日]]にトヨタから公式発表された。様々なホイールベースや全高・全幅にも対応可能なため、自由な設計を可能とする。加えてリアサスペンションは車両の特性に合わせて[[独立懸架]]式にもできる&lt;ref&gt;{{Cite web |author=北村友里恵 |date=2019-09-10 |url=https://car.watch.impress.co.jp/docs/news/1206395.html |title=トヨタ、コンパクトな外観寸法でも室内空間を損なわない小型車向け「GA-B」プラットフォーム |website=Car Watch |publisher=インプレス |accessdate=2019-09-20}}&lt;/ref&gt;。100%トヨタ主導で企画・開発された自動車用プラットフォームとしてはこれが最小となる。
+* [[トヨタ・ヤリス|ヤリス]]（KSP210、MXPA10/15、MXPH10/15）&lt;ref&gt;{{Cite press release|和書|date=2019-10-16|title=TOYOTA、新型車ヤリスを世界初公開|url=https://global.toyota/jp/newsroom/toyota/29933689.html|publisher=トヨタ自動車|accessdate=2019-11-06}}&lt;/ref&gt;
+* [[トヨタ・GRヤリス|GRヤリス]]（GXPA16、MXPA12） - リアセクションはGA-Cプラットフォームで構成。
+* [[トヨタ・ヤリスクロス|ヤリスクロス]]（MXPB10/15、MXPJ10/15）
+* [[トヨタ・アクア|アクア]]（MXPK10/15、MXPK11/16）
+* [[トヨタ・シエンタ|シエンタ]]（MXPC10、MXPL10/15）
+* [[レクサス・LBX]]
+
+=== GA-Cプラットフォーム ===
+Global Architecture-Compactの略である&lt;ref name="UX2018" /&gt;。GA-Lプラットフォーム同様、ワイド版とナロー版が混在する。特に日本市場向けとして開発された[[トヨタ・カローラ|E210型カローラセダン]]と[[トヨタ・カローラツーリング|E210W型カローラツーリング]]に採用されたナロー版は、日本の道路・交通環境に最適化されたプラットフォームとされている。
+* [[トヨタ・プリウス]]（ZVW50/51/55）&lt;ref&gt;{{Cite web|date=2016-10-28|url=https://newsroom.toyota.co.jp/jp/corolla50th/message/konishi/|title=小西　良樹（現・カローラ開発責任者）|publisher=トヨタ自動車|accessdate=2019-01-18}}&lt;/ref&gt;
+* [[トヨタ・プリウス#プリウスPHV（2代目）|トヨタ・プリウスPHV/プリウスプライム]]（ZVW52）
+* [[トヨタ・C-HR]]（NGX10/50、ZGX10、ZYX10/11）&lt;ref&gt;{{Cite press release|和書|date=2016-12-14|title=TOYOTA、新型車C-HRを発売|url=https://newsroom.toyota.co.jp/jp/toyota/21821172.html|publisher=トヨタ自動車|accessdate=2019-02-09}}&lt;/ref&gt;
+** [[トヨタ・IZOA]]&lt;ref&gt;{{Cite web|title=トヨタ、中国で車両電動化に向けた取り組みを加速 |website=グローバルニュースルーム|url=https://global.toyota/jp/newsroom/corporate/19814058.html|accessdate=2017-11-17|publisher=トヨタ自動車}}&lt;/ref&gt;
+* [[トヨタ・カローラスポーツ|トヨタ・カローラスポーツ/カローラハッチバック/カローラハッチ]]（ZWE211H、NRE210H/214H）&lt;ref&gt;{{Cite press release|和書|date=2018-03-23|title=TOYOTA、ニューヨーク国際自動車ショーで新型「カローラハッチバック」を初披露|url=https://newsroom.toyota.co.jp/jp/toyota/21698632.html|publisher=トヨタ自動車|accessdate=2019-01-18}}&lt;/ref&gt;
+** [[トヨタ・オーリス]]（ZWE211LH、NRE210LH）
+* [[トヨタ・カローラ|トヨタ・カローラ/カローラセダン/カローラサルーン/カローラリムジーネ/カローラアルティス/レビン]]（ZWE211/214、ZRE212/212R、NRE210、E210L、E210）&lt;ref name="COROLLA2019"&gt;{{Cite press release|和書|date=2018-11-16|title=TOYOTA、新型カローラ シリーズのセダンを中国 広州国際モーターショーで世界初披露|url=https://newsroom.toyota.co.jp/jp/toyota/25340019.html|publisher=トヨタ自動車|accessdate=2019-01-18}}&lt;/ref&gt; - 日本国内、および[[香港]]・[[マカオ]]向けモデル（E210）のみナロー版を採用&lt;ref name="carolla2019jp"&gt;{{Cite web|title=トヨタ カローラ＆カローラ ツーリング|url=https://toyota.jp/the-new-corolla/|accessdate=2019-08-29|language=ja|publisher=トヨタ自動車}}&lt;/ref&gt;。
+* [[トヨタ・カローラツーリング|トヨタ・カローラツーリング/トヨタ・カローラツーリングスポーツ]]（ZWE211W/214W、ZRE212W/212RW、NRE210W、E210LW、MZEA12W） - 日本国内、および[[オセアニア]]向けモデル（E210W）のみナロー版を採用&lt;ref name="carolla2019jp" /&gt;。
+** [[スズキ・スウェイス]]
+* [[レクサス・UX]]（MZAA10/15、MZAH10/15、KMA10）&lt;ref name="UX2018"&gt;{{Cite press release|和書|date=2018-11-27|title=Lexus Introduces The Newest Addition to Its Lineup|url=https://newsroom.toyota.co.jp/en/lexus/25335735.html|publisher=トヨタ自動車|accessdate=2019-01-15|language=en}}&lt;/ref&gt;
+* [[トヨタ・カローラクロス]]（ZVG11/15、ZSG10）&lt;ref&gt;{{Cite press release|和書|date=2020-07-09|title=TOYOTA、カローラシリーズに「力強さ」と「機能性」を兼ね備えた新型コンパクトSUV「カローラ クロス」を追加、タイで世界初公開|url=https://global.toyota/jp/newsroom/toyota/33080286.html|publisher=トヨタ自動車|accessdate=2020-07-09}}&lt;/ref&gt;
+* [[トヨタ・GRヤリス]]（GXPA16、MXPA12）-　フロントセクションはGA-Bプラットフォームで構成される。
+* [[トヨタ・ノア]]（MZRA90/95、ZWR90/95）
+** [[スズキ・ランディ]]（MZRA90C/95C、ZWR90C/95C）
+* [[トヨタ・ヴォクシー]]（MZRA90/95、ZWR90/95）
+
+=== GA-Fプラットフォーム ===
+Global Architecture-Fの略である。[[フルサイズ]]の[[フレーム形式 (自動車)|フレーム構造]]車向けに最適化されたプラットフォーム。
+* [[トヨタ・ランドクルーザー]]（VJA300W/FJA300W）
+* [[トヨタ・タンドラ]]（XK70）
+* [[レクサス・LX]]（VJA310W）
+
+=== GA-Kプラットフォーム ===
+Global Architecture-Kの略である&lt;ref name="ES2018" /&gt;。
+* [[トヨタ・カムリ]]（AXVA70/ASV70/GSV70/AXVH70）&lt;ref&gt;{{Cite press release|和書|date=2017-01-10|title=TOYOTA、北米国際自動車ショーで新型カムリを世界初披露|url=https://global.toyota/jp/newsroom/toyota/25088440.html|publisher=トヨタ自動車|accessdate=2019-01-18}}&lt;/ref&gt;
+** [[ダイハツ・アルティス]]（AXVH70N）
+* [[トヨタ・アバロン]]（AVV50）
+* [[トヨタ・クラウン]]（TZSH35/AZSH35）
+* [[トヨタ・クラウンクルーガー]]
+* [[レクサス・ES]]（AXZH10）&lt;ref name="ES2018"&gt;{{Cite press release|和書|date=2018-04-25|title=A New Level of Performance and Sophistication The Next Generation of Lexus ES|url=https://global.toyota/en/newsroom/lexus/22313155.html|publisher=トヨタ自動車|accessdate=2019-01-15|language=en}}&lt;/ref&gt;
+* [[トヨタ・RAV4]]（MXAA52/54、AXAH52/54、AXAP54）&lt;ref&gt;{{Cite press release|date=2018-03-28|title=All-New 2019 Toyota RAV4 Serves Up a Breakthrough Debut at New York International Auto Show|url=https://global.toyota/en/newsroom/toyota/21906523.html|publisher=トヨタ自動車|accessdate=2019-01-15|language=en}}&lt;/ref&gt;
+** [[トヨタ・RAV4|トヨタ・ワイルドランダー]]
+** [[スズキ・アクロス (四輪車)|スズキ・アクロス]]
+** [[光岡・バディ]]
+* [[トヨタ・クルーガー|トヨタ・ハイランダー]]（XU70）&lt;ref&gt;{{Cite web|title=World Premiere of All-New 2020 Highlander at New York International Auto Show |website=Toyota USA Newsroom|url=https://pressroom.toyota.com/world-premiere-of-all-new-2020-highlander-at-new-york-international-auto-show/|accessdate=2019-05-03|publisher=トヨタ自動車|language=en}}&lt;/ref&gt;
+* [[トヨタ・ハリアー]]（MXUA80/85、AXUH80/85）
+** [[トヨタ・ヴェンザ]]
+* [[トヨタ・シエナ]]（XL40）
+* [[トヨタ・アルファード]]（AGH4#W/AAHH4#W）
+* [[トヨタ・ヴェルファイア]]（TAHA40W/AAHH4#W）
+** [[トヨタ・クラウンヴェルファイア]]
+* [[レクサス・NX]]（AAZA2#、TAZA25、AAZH2#）
+* [[レクサス・RX]]（ALA1#、ALH1#）
+* [[レクサス・LM]]
+
+=== GA-Lプラットフォーム ===
+Global Architecture-Luxury&lt;ref name="LS2017" /&gt;の略。原則としてFRの車種に採用される&lt;ref name="LC2017" /&gt;。ワイド版とナロー版が混在。クラウンに採用されているナロー版は[[ガラパゴス化#自動車産業|日本の道路・交通環境に最適化]]されたプラットフォームとされている。
+==== ワイド版 ====
+* [[レクサス・LC]]（URZ100/GWZ100）&lt;ref name="LC2017"&gt;{{Cite press release|和書|date=2017-03-16|title=LEXUS、新型ラグジュアリークーペ「LC」を発売|url=https://newsroom.toyota.co.jp/jp/detail/15559328|publisher=トヨタ自動車|accessdate=2019-01-18}}&lt;/ref&gt;
+* [[レクサス・LS]]（VXFA50/55、GVF50/55）&lt;ref name="LS2017"&gt;{{Cite press release|和書|date=2017-03-07|title=World Premiere of the All-New Lexus LS 500h|url=https://newsroom.toyota.co.jp/en/detail/15378759|publisher=トヨタ自動車|accessdate=2019-01-15|language=en}}&lt;/ref&gt;
+==== ナロー版 ====
+* [[トヨタ・クラウン]]（ARS220、AZSH20/21、GWS224）&lt;ref&gt;{{Cite news|title=トヨタ クラウン 新型、秋山チーフエンジニア「世界中どこでも戦えるクルマを目指した」|url=https://response.jp/article/2018/06/26/311244.html|accessdate=2018-08-17|language=ja|newspaper=レスポンス|author=小松哲也}}&lt;/ref&gt;。
+* [[トヨタ・MIRAI]]（JPD20）
+
+=== 商用車専用GAプラットフォーム（名称不詳） ===
+バン・トラック等の[[貨物自動車|貨物用商用車]]、および貨物用商用車ベースのミニバン専用として開発された自動車用プラットフォーム。
+* [[トヨタ・ハイエース]]/トヨタ・マジェスティ（H300型系、日本市場未投入&lt;ref&gt;ただし、2022年6月に[[イオン東北]]が運営する[[イオン (店舗ブランド)|イオン]]浪江店に[[移動販売]]車として導入された[[水素]][[燃料電池]]車は本モデルがベースである&lt;/ref&gt;）
+* [[トヨタ・グランエース]]（H300型系）
+
+=== DNGA（DNGA-A/DNGA-B/DNGA-FRプラットフォーム） ===
+100%ダイハツ主導で企画・開発された軽自動車、および[[Bセグメント]]以下のクラスの[[小型自動車|小型車]]向けの事業構造である&lt;ref name="miraes2017" /&gt;&lt;ref&gt;{{Cite press release|和書|title=中長期経営シナリオ「D-Challenge 2025」を策定|publisher=ダイハツ工業|date=2017-03-16|url=https://www.daihatsu.com/jp/news/2017/20170316-1.html}}&lt;/ref&gt;。プラットフォームの構成要素の1つである車台は軽自動車用、Aセグメント用、Bセグメント用の3種類にまとめられた&lt;ref&gt;{{Cite news|和書|title=ダイハツの“切り札”、ベールを脱いだ「DNGA」の全貌|newspaper=日刊工業新聞|date=2019-06-07|author=錦織承平|url=https://newswitch.jp/p/17930|accessdate=2019-06-10}}&lt;/ref&gt;。DNGAに基づくプラットフォームは2019年7月以降に発売されるダイハツが新規開発した軽自動車や国内向けのAセグメントの小型車（トヨタブランド、[[SUBARU (自動車)|スバル]]ブランド向けの[[OEM]]を含む）、国外、主に[[新興国]]向けのBセグメント以下の小型車（[[マレーシア]]の[[プロドゥア]]が開発・製造する車種を含む）に採用される&lt;ref name="tanto2019" /&gt;。2021年11月には予告されていた新興国向けのBセグメント用プラットフォーム（DNGA-Bプラットフォーム）が、その翌月には国内の軽商用車にも拡げ、FR車（[[後輪駆動]]車）専用のプラットフォーム（DNGA-FRプラットフォーム）が相次いで開発された。
+
+'''DNGA-Aプラットフォーム'''&lt;ref&gt;{{Cite web |author=深田昌之 |date=2019-11-06 |url=https://car.watch.impress.co.jp/docs/news/1216798.html |title=ダイハツ「ロッキー」とトヨタ「ライズ」の細部を解説！　2台並んで展示された説明会レポート |website=Car Watch |publisher=インプレス |accessdate=2019-11-06}}&lt;/ref&gt;
+* [[ダイハツ・タント]]（LA650S/660S）&lt;ref name="tanto2019"&gt;{{Cite press release|和書|title=ダイハツ工業 ＤＮＧＡ新技術を公表|publisher=ダイハツ工業|date=2019-06-06|url=https://www.daihatsu.com/jp/news/2019/20190606-1.pdf|accessdate=2019-06-06|format=PDF}}&lt;/ref&gt;
+** [[スバル・シフォン]]（LA650F/660F）
+* [[ダイハツ・ロッキー]]（A200S/201S/210S）&lt;ref name="rocky2019"&gt;{{Cite press release|和書|title=DNGA第2弾となる新型コンパクトSUV「ロッキー」を発売|publisher=ダイハツ工業株式会社|date=2019-11-05|format=PDF|url=https://www.daihatsu.com/jp/news/2019/20191105-1.pdf|accessdate=2019-11-05}}&lt;/ref&gt;
+** [[プロドゥア・アティバ]]&lt;ref&gt;{{Cite press release|和書|url=https://www.daihatsu.com/jp/news/2021/20210303-1.pdf|title=ダイハツ、DNGA海外展開の第1弾となる商品を市場投入～マレーシアで新型コンパクトSUV「Ativa」を発売～|publisher=ダイハツ工業株式会社|format=PDF|date=2021-03-03|accessdate=2021-03-07}}&lt;/ref&gt;
+** [[トヨタ・ライズ]]（A200A/201A/210A）&lt;ref name="rocky2019" /&gt;
+** [[スバル・レックス#4代目_A201F型（2022年_-_）|スバル・レックス]]（A201F）
+* [[ダイハツ・タフト]]（LA900S/910S）&lt;ref&gt;{{Cite press release|和書|title=DNGA第3弾となる、新型軽クロスオーバー「タフト」を発売|publisher=ダイハツ工業|date=2020-06-10|url=https://www.daihatsu.com/jp/news/2020/20200610-1.html|accessdate=2020-06-11}}&lt;/ref&gt;
+* [[ダイハツ・ムーヴキャンバス]]（LA850S/860S）
+'''DNGA-Bプラットフォーム'''
+* [[ダイハツ・セニア]]（W100）&lt;ref&gt;{{Cite press release|和書|title=ダイハツ、インドネシアでDNGA初となるBセグメント小型車を新発売～7人乗りコンパクトMPV「XENIA（セニア）」をフルモデルチェンジ～|publisher=ダイハツ工業株式会社|date=2021-11-11|url=https://www.daihatsu.com/jp/news/2021/20211111-1.html|accessdate=2022-07-06}}&lt;/ref&gt;
+** [[トヨタ・アバンザ]]（W100）
+** [[トヨタ・ヴェロッツ]]（W101RE/101LE）
+'''DNGA-FRプラットフォーム'''
+* [[ダイハツ・ハイゼットカーゴ]]/[[ダイハツ・アトレー]]（S700V/700W/710V/710W）
+** [[トヨタ・ピクシスバン]]（S700M/S710M）
+** [[スバル・サンバー|スバル・サンバーバン]]（S700B/710B）
+
+== e-TNGA ==
+2019年時点で、トヨタは[[電気自動車]]用プラットフォームe-TNGAを2020年初頭までに10車種へ適用することを計画していた。そのうち6つのグローバルモデルは以下の通りであった。
+* コンパクトカー（[[スズキ (企業)|スズキ]]および[[ダイハツ]]との共同開発）
+* ミッドサイズクロスオーバーSUV
+* ミッドサイズセダン
+* [[トヨタ・bZ3]]（[[比亜迪汽車|BYD]]との共同開発）
+* ミニバン
+* [[トヨタ・bZ4X]]/[[スバル・ソルテラ]]（[[SUBARU]]との共同開発）
+* 大型SUV
+
+== ギャラリー ==
+&lt;gallery&gt;
+File:TOYOTA PRIUS ZVW50 A Touring Selection 01.jpg|プリウス
+File:Toyota C-HR G (DAA-ZYX10-AHXEB) front.jpg|C-HR
+File:Lexus, Paris Motor Show 2018, Paris (1Y7A1795).jpg|レクサス・UX
+File:TOYOTA CAMRY AXVH70 G Leather Package 001.jpg|カムリ
+File:2020 Toyota Avalon Hybrid (United States) 01.png|アバロン
+File:Lexus ES300h"version L" (6AA-AXZH10-AEXGB(L)) front.jpg|レクサス・ES
+File:Lexus LC 500 (DBA-URZ100-ACUBH).jpg|レクサス・LC
+File:2017-03-07 Geneva Motor Show 1217.JPG|レクサス・LS
+File:WMC P TMS17 Toyota Crown Concept 1.jpg|クラウン
+File:Toyota MIRAI Z"Executive Package" (ZBA-JPD20-CEDHS(E)) front.jpg|MIRAI
+File:Toyota_RAV4_Hybrid,_Paris_Motor_Show_2018,_IMG_0386.jpg|RAV4
+File:Toyota HARRIER HYBRID Z"Leather Package"2WD (6AA-AXUH80-ANXSB(S)) front.jpg|ハリアー/ヴェンザ
+File:2021 Toyota Highlander XLE AWD, front 12.12.20.jpg|ハイランダー
+File:2021 Toyota Sienna Hybrid Limited, front 1.14.21.jpg|シエナ
+File:Toyota Corolla Sport.jpg|カローラスポーツ
+File:Toyota_Corolla_Touring_Sports_Hybrid,_Paris_Motor_Show_2018,_IMG_0391.jpg|カローラツーリングスポーツ&lt;br/&gt;&lt;small&gt;※画像は欧州仕様&lt;/small&gt;
+File:2019年9月発売型カローラフロント.jpg|カローラセダン&lt;br/&gt;&lt;small&gt;※画像は日本仕様「HYBRID W×B」&lt;/small&gt;
+File:Toyota Corolla Limousine Monrepos 2019 IMG 1908.jpg|カローラサルーン/&lt;br/&gt;カローラアルティス/&lt;br/&gt;カローラリムジーネ&lt;br/&gt;&lt;small&gt;※画像はドイツ仕様「カローラリムジーネ」&lt;/small&gt;
+Toyota HiAce GL Grandia Tourer van front.jpg|ハイエース&lt;br/&gt;&lt;small&gt;※画像は6代目モデルのアジア仕様「GLグランディア」&lt;/small&gt;
+File:Toyota GRANACE Premium (3DA-GDH303W-RDTJY) front.jpg|グランエース
+File:Toyota YARiS 1.5 G 2WD・CVT (5BA-MXPA10-AHXGB) front.jpg|ヤリス
+File:Toyota YARIS CROSS HYBRID Z 2WD (6AA-MXPJ10-BHXGB) front.jpg|ヤリスクロス
+File:Toyota GR YARIS RZ High performance (4BA-GXPA16-AGFGZ(H)) front.jpg|GRヤリス
+File:Daihatsu Tanto X Turbo 2WD (5BA-LA650S-GBGZ) front.jpg|タント
+File:Daihatsu Rocky A200S・210S 0007 edited.jpg|ロッキー
+File:Toyota RAIZE Z 4WD (5BA-A210A-GBSV) front.jpg|ライズ
+File:The frontview of Daihatsu TAFT G Turbo 2WD (5BA-LA900S-GBGZ).jpg|タフト
+&lt;/gallery&gt;
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{reflist|2}}
+
+== 関連項目 ==
+* [[トヨタ・ダイナミックフォースエンジン]]
+* [[トヨタ・GDエンジン]] - 部品レベルとして初めてTNGAが導入された[[トヨタ自動車|同社]]の[[直列4気筒]][[DOHC]][[マルチバルブ|16バルブ]][[ディーゼルエンジン]]。
+
+== 外部リンク ==
+{{Commonscat}}
+* [https://global.toyota/jp/mobility/tnga/ TNGA]
+
+{{デフォルトソート:とよたにゆうくろおはるああきてくちやあ}}
+[[カテゴリ:トヨタのプラットフォーム|TNGA]]
+[[カテゴリ:トヨタグループの技術]]</text>
+      <sha1>j948sb62h19m5z7bmdqap2oz8kyme09</sha1>
+    </revision>
+  </page>
+  

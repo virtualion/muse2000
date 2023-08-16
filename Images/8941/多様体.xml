@@ -1,0 +1,297 @@
+<page>
+    <title>多様体</title>
+    <ns>0</ns>
+    <id>8941</id>
+    <revision>
+      <id>93473166</id>
+      <parentid>93473154</parentid>
+      <timestamp>2023-01-19T15:35:18Z</timestamp>
+      <contributor>
+        <username>Ys1123</username>
+        <id>1387513</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39907" xml:space="preserve">{{参照方法|date=2015年11月}}
+[[File:Manifold zahyou1.png|thumb|right|好きなところに座標を描ける多様体]]
+'''多様体'''（たようたい、{{lang-en-short|manifold}}, {{lang-de-short|Mannigfaltigkeit}}）とは、解析学（[[微分積分学]]、[[複素解析]]）を展開するために必要な構造を備えた空間のことである（ただし位相多様体は出来ない。ただ、単に多様体と言った場合、可微分多様体か[[複素多様体]]のことを指す場合が多い）。それは局所的に[[ユークリッド空間]]と見なせるような図形や空間（[[位相空間]]）として定義される。多様体上には好きなところに局所的に[[座標]]を描き込むことができる。
+
+== 直感的な説明 ==
+[[File:Polar stereographic projections.jpg|thumb|right|地球の地図]]
+
+多様体に座標を描くという作業は地球上の地図を作る作業に似ている。地図の上の点は地球上の点に対応し、さらに地面には描かれていない緯線や経線を地図に描き込むことによって、地図に描いてある地域の様子が分かりやすくなる。座標の無い地球上の様子は、人間が作った座標のある地図と対応させることによって非常に把握しやすくなる。
+
+地球は球であり、世界地図を一枚の平面的な地図におさめようとすれば、南極大陸が肥大化したり、地図の端の方では一枚の地図の中に（連続性を表現するために）同じ地点が複数描き込まれたりする。世界地図をいくつかの小さな地図に分割すると、こういった奇妙なことはある程度回避できる。例えば、北極を中心とした地図、南極を中心とした地図、ハワイを中心とした地図、ガーナを中心とした地図…… などのように分割できる。そして隣り合った地図の繋がりをそれぞれの地図に同じ地域を含めることで表現すればよい。こうすることによって異なる地図同士では重複する部分が出てきてしまうものの、一枚の地図の中に同じ地域が 2 箇所以上描かれることをなくすことはできる。
+
+地球と同じように多様体は好きなところに小さな地図（局所座標系）が描ける図形である。逆に、このような小さな地図を繋げていったら全体としてどのような図形ができあがるのか？という問題は[[位相幾何学]]の重要な問題の一つでもある。地図だけみれば地球をまねて作っているような[[コンピューターRPG|ゲーム]](例えば、ファミコン版の[[ドラゴンクエストシリーズ]]&lt;ref&gt;参照：[http://ocw.u-tokyo.ac.jp/lecture_files/gf_15/12/notes/ja/12tsuboi.pdf 坪井俊・東京大学大学院数理科学研究科教授の資料]&lt;/ref&gt;)の世界が、実は[[球面]]ではなく平坦[[トーラス]]だったということもある。
+
+多様体は性質のよい図形であり、多様体でない図形も多く存在する。円や球や多角形、多面体などは全て多様体として扱えるが、[[ペアノ曲線]]や[[フラクタル]]などは適当な地図を描くことはできず、多様体にはならない。
+
+== 定義 ==
+多様体の定義で重要な点は、多様体の上にいかにして座標系を貼り付けるか？ということと、どのような座標系を用いたとしても計算に違いが現れないようにすることである。多様体は計算したいときに座標を導入でき、しかもどのような座標系で計算したとしても違いがない、すなわち座標系に依存しないという非常に扱いやすい性質が追求された図形である。
+
+ここでいう計算とは[[関数 (数学)|関数]]や[[空間ベクトル|ベクトル]]、それらの[[微分]]、[[積分]]などの[[ユークリッド空間]]の上で普通に行われているような座標を用いた計算のことである。
+
+=== 局所座標系 ===
+[[File:Manifold zahyou2.png|thumb|同相写像 &amp;phi; とその逆写像 &amp;phi;&lt;sup&gt;−1&lt;/sup&gt; で対応付けられた（座標の無い）集合 {{math|''U''}} と（座標のある）集合 {{math|''U'' '}}]]
+{{math|''M''}} を[[位相空間]]とする。{{math|''M''}} の[[開集合]] {{math|''U''}} に対して、{{math|''m''}} 次元[[ユークリッド空間]]の開集合 {{math|''U'' '}} への [[同相写像]]
+: &lt;math&gt;\varphi \colon U \to U'&lt;/math&gt;
+を'''局所座標系''' (local coordinate system) あるいは（局所）'''チャート''' (chart) という。 {{math|''a''}} &amp;isin; {{math|''M''}} に対し、&amp;phi;({{math|''a''}}) を'''局所座標''' (local coordinates) という。局所座標は、ユークリッド空間の点として見たときの特定の座標すなわち {{math|''m''}} 個の数の組 (&amp;phi;&lt;sub&gt;1&lt;/sub&gt;({{math|''a''}}), ..., &amp;phi;&lt;sub&gt;''m''&lt;/sub&gt;({{math|''a''}})) であるのに対し、局所座標系は、{{math|''U''}} 上で定義された {{math|''m''}} 個の関数 (&amp;phi;&lt;sub&gt;1&lt;/sub&gt;, ..., &amp;phi;&lt;sub&gt;''m''&lt;/sub&gt;) の組である。
+
+局所座標を用いることにより {{math|''U''}} 上の点を {{math|''m''}} 次元ユークリッド空間の点であるかのように扱うことが可能になる。{{math|''U''}} 上に局所座標系 &amp;phi; が定義されていることを ({{math|''U''}}, &amp;phi;) という対で表し、これを {{math|''m''}} 次元'''座標近傍''' (''coordinate neighborhood'')  あるいは'''チャート'''という。局所座標系の成分を明示的に ({{math|''U''}};&amp;phi;&lt;sub&gt;1&lt;/sub&gt;, ..., &amp;phi;&lt;sub&gt;''m''&lt;/sub&gt;) のように書き表すこともある。
+
+[[画像:Manifold zahyou3.png|thumb|300px|right| ''U''&amp;cap;''V''は、 &amp;phi;(''U''&amp;cap;''V'') と &amp;psi;(''U''&amp;cap;''V'') の 2 通りの局所座標で表されているが局所座標同士は座標変換で写り合う]]
+''M'' の二つの座標近傍 ({{math|''U''}},&amp;phi;) と ({{math|''V''}},&amp;psi;) について、 {{math|''U''}} &amp;cap; {{math|''V''}} が空でないとする。局所座標系 &amp;phi; と &amp;psi; は {{math|''U''}} と {{math|''V''}} をそれぞれ {{math|''m''}} 次元ユークリッド空間の開集合 {{math|''U'' ', ''V'' '}} に写すとする。すなわち
+:&lt;math&gt;\varphi \colon U \to U',&lt;/math&gt;
+: &lt;math&gt;\psi \colon V \to V'&lt;/math&gt;
+である。このとき
+: &lt;math&gt;\psi \circ \varphi ^{-1} \colon \varphi(U\cap V) \to \psi(U\cap V)&lt;/math&gt;
+は、{{math|''m''}} 次元ユークリッド空間の開集合から開集合への同相写像になる。この写像を ({{math|''U''}}, &amp;phi;) から ({{math|''V''}}, &amp;psi;) への'''座標変換''' (coordinate transformation) という。座標変換を用いれば、同じ開集合 {{math|''U''}} &amp;cap; {{math|''V''}} に定義された異なる局所座標 &amp;phi; と &amp;psi; を同じものとして扱うことができる。
+
+座標変換はまず &amp;phi;&lt;sup&gt;&amp;minus;1&lt;/sup&gt; で {{math|''M''}} に戻してから &amp;psi; によって座標のある集合 {{math|''V'' '}} に写す写像である。間に座標が決められていない空間 {{math|''M''}} を挟む形になっているものの、座標変換全体はユークリッド空間の部分集合 {{math|''U'' '}} からユークリッド空間の部分集合 {{math|''V'' '}} への写像になっている。すなわち {{math|''M''}} を経由しているという事実を無視し、座標変換を合成写像としてではなく全体で 1 つの写像として捉えると、それは普通のユークリッド空間からユークリッド空間への写像である。
+
+{{math|''m''}} 次元座標近傍の族 {{math|''S''}} = {(''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) | &amp;lambda; &amp;isin; &amp;Lambda;} が {{math|''M''}} 全体を覆っているとする:
+:&lt;math&gt; M = \bigcup_{\lambda\in\Lambda} U_\lambda.&lt;/math&gt;
+このとき、{{math|''S''}} を'''座標近傍系''' (system of coordinate neighborhoods) あるいは'''アトラス''' (atlas) という。アトラスというのは[[地図帳]]のことで、局所的な地図であるチャートをいくつも集めて作った地図帳という意味である。
+
+=== 位相多様体 ===
+''M'' を[[ハウスドルフ空間]]とする。''M'' の任意の点 ''a'' に対して、''a'' を含む ''m'' 次元座標近傍 (''U'', &amp;phi;) が存在するとき、''M'' を（境界のない）''m'' 次元'''[[位相多様体]]''' (topological manifold) という。
+
+これまで、局所座標 &amp;phi;(''a'') はユークリッド空間 '''R'''&lt;sup&gt;''m''&lt;/sup&gt; に値を取ると考えてきたが、代わりに[[半空間]] ''H''&lt;sup&gt;''m''&lt;/sup&gt; = {(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;, ..., ''x''&lt;sub&gt;''m''&lt;/sub&gt;) &amp;isin; '''R'''&lt;sup&gt;''m''&lt;/sup&gt; | ''x''&lt;sub&gt;''m''&lt;/sub&gt; &amp;ge; 0} に値を取ると考え局所座標の定義を修正すると境界のある位相多様体が定義される。
+
+''N'' をハウスドルフ空間とし、''N'' の任意の点 ''a'' に対して、''a'' を含む ''m '' 次元座標近傍 (''U'', &amp;phi;) が存在するとする。
+
+半空間 ''H''&lt;sup&gt;''m''&lt;/sup&gt; = {(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;, ..., ''x''&lt;sub&gt;''m''&lt;/sub&gt;) &amp;isin; '''R'''&lt;sup&gt;''m''&lt;/sup&gt; | ''x''&lt;sub&gt;''m''&lt;/sub&gt; &amp;ge; 0} の部分空間として ''G''&lt;sup&gt;''m''−1&lt;/sup&gt; = {(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;, ..., ''x''&lt;sub&gt;''m''&lt;/sub&gt;) &amp;isin; '''R'''&lt;sup&gt;''m''&lt;/sup&gt; | ''x''&lt;sub&gt;''m''&lt;/sub&gt; = 0} を取ればそれは '''R'''&lt;sup&gt;''m''−1&lt;/sup&gt; になる。 ''N'' の座標近傍系 ''S'' = {(''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) |&amp;lambda; &amp;isin; &amp;Lambda;} に対し、各座標近傍 (''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;)
+: &lt;math&gt;\varphi_{\lambda} : U_{\lambda} \to U'_{\lambda} \sub H^m &lt;/math&gt;
+において ''W''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; = { ''a'' &amp;isin; ''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; | &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;(''a'') &amp;isin; ''G''&lt;sup&gt;''m''−1&lt;/sup&gt;} という集合を考えたとき
+: &lt;math&gt; \partial N := \bigcup_{\lambda\in\Lambda} W_\lambda&lt;/math&gt;
+を ''N'' の'''境界'''という。∂''N'' が空でないとき ''N'' を '''境界のある''' ''m'' 次元'''位相多様体'''という。境界のある ''m'' 次元位相多様体の境界は ''m'' − 1 次元位相多様体になる。
+
+=== 可微分多様体 ===
+''m'' 次元位相多様体 ''M'' の座標近傍系 ''S'' = {(''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) | &amp;lambda; &amp;isin; &amp;Lambda;} の任意の 2 つの座標近傍 (''U''&lt;sub&gt;1&lt;/sub&gt;, &amp;phi;&lt;sub&gt;1&lt;/sub&gt;), (''U''&lt;sub&gt;2&lt;/sub&gt;, &amp;phi;&lt;sub&gt;2&lt;/sub&gt;) に対し、''U''&lt;sub&gt;1&lt;/sub&gt; &amp;cap; ''U''&lt;sub&gt;2&lt;/sub&gt; が空でないならば座標変換
+: &lt;math&gt;\varphi_1 \circ \varphi_2^{-1} : \varphi_2(U_1\cap U_2) \to \varphi_1(U_1\cap U_2)&lt;/math&gt;
+のすべての成分が、''C''&lt;sup&gt;''n''&lt;/sup&gt; 級関数（''n'' 回[[連続微分可能関数]]、すなわち ''n'' 回微分可能でありかつ ''n'' 階偏導関数がすべて連続となるような関数）となるとき、''S'' を ''C''&lt;sup&gt;''n''&lt;/sup&gt; '''級座標近傍系'''という。
+
+''m'' 次元位相多様体 ''M'' が、''C''&lt;sup&gt;''n''&lt;/sup&gt; 級座標近傍系を持つとき、 ''M''を ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級 ''m'' 次元'''[[微分可能多様体]]'''（あるいは'''可微分多様体'''、differentiable manifold of class ''C''&lt;sup&gt;''n''&lt;/sup&gt;) という。微分可能とか、可微分といった言葉を省略して ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級多様体ということもある。位相多様体のことを、座標変換の微分可能性を仮定しないという意味で ''C''&lt;sup&gt;0&lt;/sup&gt; 級多様体と呼ぶこともある。 ''C''&lt;sup&gt;&amp;infin;&lt;/sup&gt; 級多様体のことを'''滑らかな多様体'''とも呼ぶ。特に ''n'' = &amp;omega; すなわち、全ての座標変換が実[[解析関数]]であるときは特に'''解析多様体''' (analytic manifold) という。
+
+ここで、自然数 ''s'', ''t'' が ''s'' &amp;le; ''t'' を満たすとき、定義より、''C''&lt;sup&gt;''t''&lt;/sup&gt; 級関数は ''C''&lt;sup&gt;''s''&lt;/sup&gt; 級関数である。
+: 例えば 5 回連続微分可能な関数は、4 回連続微分可能な関数でもある。
+このことから、''C''&lt;sup&gt;''t''&lt;/sup&gt; 級微分可能多様体は ''C''&lt;sup&gt;''s''&lt;/sup&gt; 級微分可能多様体でもある。
+
+微分可能多様体は、''C''&lt;sup&gt;''n''&lt;/sup&gt; 級座標近傍系 ''S''の取り方によってはまったく別の多様体になってしまうので、 位相多様体 ''M'' と座標近傍系 ''S'' を対にして (''M'', ''S'') と書くこともある。この意味で ''S'' は位相多様体 ''M'' に ''C''&lt;sup&gt;''n''&lt;/sup&gt; '''級可微分構造''' (differentiable structure of class ''C''&lt;sup&gt;''n''&lt;/sup&gt;) を定めると表現されることもある。
+: 座標近傍系同士の関係や性質など座標近傍系の基本的な性質に関わることを論じる場合に、(''M'', ''S'') と明示すると分かりやすい。
+
+=== 極大座標近傍系 ===
+''m'' 次元位相多様体 ''M'' に対し ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級座標近傍系として ''S'' と ''T'' の 2つを取るとする。和集合 ''S'' &amp;cup; ''T'' が再び ''M'' の''C''&lt;sup&gt;''n''&lt;/sup&gt; 級座標近傍系になるとき、 ''S'' と ''T'' は'''同値'''であるという。これは[[同値関係]]を定める。これは ''S'' に属する座標近傍と ''T'' に属する座標近傍の間にも座標変換が存在し ''S'' での計算と ''T'' での計算に違いが無いという性質を保証するための同値関係である。
+
+さらに、 ''M'' 上の ''S'' と同値な ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級座標近傍系全ての和集合を取ることによって得られる ''F'' = ''F''(''S'') を ''S'' によって生成された ''M'' の ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級'''極大座標近傍系'''あるいは ''M'' の ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級'''微分構造'''という。定義により、同じ微分構造を定める座標近傍系同士は同値である。
+
+こうして座標近傍系の取り方に依存しない ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級多様体が定義される。''m'' 次元位相多様体 ''M'' 上に互いに微分同相でない複数の微分構造が存在することもある。
+
+== 多様体の例 ==
+=== アフィン空間 ===
+多様体の例でもっとも簡単なものは、 ''m'' 次元ユークリッド空間 '''R'''&lt;sup&gt;''m''&lt;/sup&gt; に座標近傍系として ''S''&lt;sub&gt;1&lt;/sub&gt; = {('''R'''&lt;sup&gt;''m''&lt;/sup&gt;, ''id'')} をいれたものである。ここで ''id'' は[[恒等写像]]
+: ''id'': '''R'''&lt;sup&gt;''m''&lt;/sup&gt; &amp;rarr; '''R'''&lt;sup&gt;''m''&lt;/sup&gt;
+: ''id''(''x'') = ''x''
+すなわち ''x'' &amp;isin; '''R'''&lt;sup&gt;''n''&lt;/sup&gt; に対して ''x'' をそのまま返す写像である。最初から座標が描かれているのだからそれをそのまま使えばよく、この場合は座標近傍が 1 つしかないので座標変換が不要である。恒等写像はもちろん解析的なので ('''R'''&lt;sup&gt;m&lt;/sup&gt;,''S''&lt;sub&gt;1&lt;/sub&gt;) は ''m'' 次元解析多様体である。このように '''R'''&lt;sup&gt;''m''&lt;/sup&gt; を微分可能多様体として捉えたものを'''[[アフィン空間]]'''という。
+
+話をさらに簡明にするために ''m'' = 1 とする。すなわち数直線 '''R'''&lt;sup&gt;1&lt;/sup&gt; について考える。上に書いたとおり ''S''&lt;sub&gt;1&lt;/sub&gt; = {('''R'''&lt;sup&gt;''1''&lt;/sup&gt;, ''id'')} として、 ('''R'''&lt;sup&gt;1&lt;/sup&gt;,''S''&lt;sub&gt;1&lt;/sub&gt;) は 1 次元解析多様体となる。
+
+[[整数]] ''i'' に対して [[区間 (数学)|開区間]] ''U''&lt;sub&gt;''i''&lt;/sub&gt; = (''i'' − 1, ''i'' + 1) を取る。 ''x'' &amp;isin; ''U''&lt;sub&gt;''i''&lt;/sub&gt; に対し 写像 &amp;phi;&lt;sub&gt;''i''&lt;/sub&gt; を
+: &amp;phi;&lt;sub&gt;''i''&lt;/sub&gt;(''x'') = ''x'' &amp;minus; ''i'' &amp;isin; (&amp;minus;1 , +1)
+で定めると &amp;phi;&lt;sub&gt;''i''&lt;/sub&gt; は ''U''&lt;sub&gt;''i''&lt;/sub&gt; の局所座標系になり、 ''S''&lt;sub&gt;2&lt;/sub&gt; = {(''U''&lt;sub&gt;''i''&lt;/sub&gt;,&amp;phi;&lt;sub&gt;''i''&lt;/sub&gt;)| ''i'' &amp;isin; '''Z'''} としたとき、 ('''R'''&lt;sup&gt;1&lt;/sup&gt;,''S''&lt;sub&gt;2&lt;/sub&gt;) も 1 次元解析多様体である。例えば ''U''&lt;sub&gt;''i''&lt;/sub&gt; &amp;cap; ''U''&lt;sub&gt;''i'' + 1&lt;/sub&gt; = (''i'',''i'' + 1) で座標近傍 (''U''&lt;sub&gt;''i''&lt;/sub&gt;,&amp;phi;&lt;sub&gt;''i''&lt;/sub&gt;) から座標近傍 (''U''&lt;sub&gt;''i'' + 1&lt;/sub&gt;,&amp;phi;&lt;sub&gt;''i'' + 1&lt;/sub&gt;) への座標変換は
+: &lt;math&gt;\varphi_{i+1} \circ \varphi_{i}^{-1}(x) = x-1&lt;/math&gt;
+で与えられる。なお ''S''&lt;sub&gt;1&lt;/sub&gt; と ''S''&lt;sub&gt;2&lt;/sub&gt; は同値な座標近傍系である。
+
+=== 開部分多様体 ===
+''S''&lt;sub&gt;1&lt;/sub&gt; = {(''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) | &amp;lambda; &amp;isin; &amp;Lambda;} を座標近傍系にもつ ''m'' 次元 ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級多様体 (''M''&lt;sub&gt;1&lt;/sub&gt;,''S''&lt;sub&gt;1&lt;/sub&gt;)と、 ''M'' の（空でない）開集合Vに対して ''S''&lt;sub&gt;2&lt;/sub&gt; = {(''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;cap; V, &amp;phi;&lt;sup&gt;''v''&lt;/sup&gt;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) | &amp;lambda; &amp;isin; &amp;Lambda;} を考える。ただし、 &amp;phi;&lt;sup&gt;''v''&lt;/sup&gt;&lt;sub&gt;&amp;lambda;&lt;/sub&gt; は、 &amp;phi; の定義域を ''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; から ''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;cap; V に制限しただけの写像で、本質的には &amp;phi; となんら変わりのない写像である。
+
+このとき (''V'', S&lt;sub&gt;2&lt;/sub&gt;) も ''m'' 次元 ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級多様体となる。この多様体を (''M''&lt;sub&gt;1&lt;/sub&gt;,''S''&lt;sub&gt;1&lt;/sub&gt;) の'''開部分多様体''' (open submanifold) という。
+
+'''R'''&lt;sup&gt;1&lt;/sup&gt; の開集合である [[区間 (数学)|開区間]] (''a'',''b'') は '''R'''&lt;sup&gt;1&lt;/sup&gt; の開部分多様体である。
+
+'''R'''&lt;sup&gt;2&lt;/sup&gt; の開集合である 開円板 {(''x''&lt;sub&gt;1&lt;/sub&gt;,''x''&lt;sub&gt;2&lt;/sub&gt;)|''x''&lt;sup&gt;2&lt;/sup&gt;&lt;sub&gt;1&lt;/sub&gt;+''x''&lt;sup&gt;2&lt;/sup&gt;&lt;sub&gt;2&lt;/sub&gt; &lt; 1} は '''R'''&lt;sup&gt;2&lt;/sup&gt; の開部分多様体である。
+
+というように、多様体に含まれる開集合に多様体を制限したものが開部分多様体である。
+
+=== 円周と球面 ===
+[[単位円]]
+: ''S''&lt;sup&gt;1&lt;/sup&gt; = {(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;) &amp;isin; '''R'''&lt;sup&gt;2&lt;/sup&gt; | ''x''&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt; + ''x''&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt; = 1}
+を考える。単位円は次の 4 つの[[開近傍]]で覆うことができる。
+: ''U''&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; = {(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;) &amp;isin; ''S''&lt;sup&gt;1&lt;/sup&gt; | ''x''&lt;sub&gt;1&lt;/sub&gt; &amp;gt; 0}
+: ''U''&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt; = {(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;) &amp;isin; ''S''&lt;sup&gt;1&lt;/sup&gt; | ''x''&lt;sub&gt;1&lt;/sub&gt; &amp;lt; 0}
+: ''U''&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; = {(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;) &amp;isin; ''S''&lt;sup&gt;1&lt;/sup&gt; | ''x''&lt;sub&gt;2&lt;/sub&gt; &amp;gt; 0}
+: ''U''&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt; = {(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;) &amp;isin; ''S''&lt;sup&gt;1&lt;/sup&gt; | ''x''&lt;sub&gt;2&lt;/sub&gt; &amp;lt; 0}
+それぞれに局所座標系を次の様に定める。ただし ''I'' = ( &amp;minus; 1,1) とする。
+: &amp;phi;&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;: ''U''&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; &amp;rarr; ''I'' , &amp;phi;&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;) = ''x''&lt;sub&gt;2&lt;/sub&gt;
+: &amp;phi;&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt;: ''U''&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt; &amp;rarr; ''I'' , &amp;phi;&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt;(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;) = ''x''&lt;sub&gt;2&lt;/sub&gt;
+: &amp;phi;&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;: ''U''&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; &amp;rarr; ''I'' , &amp;phi;&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;) = ''x''&lt;sub&gt;1&lt;/sub&gt;
+: &amp;phi;&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt;: ''U''&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt; &amp;rarr; ''I'' , &amp;phi;&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt;(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;) = ''x''&lt;sub&gt;1&lt;/sub&gt;
+そして座標近傍系を
+: ''T'' = {(''U''&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;,&amp;phi;&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;), (''U''&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt;,&amp;phi;&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt;), (''U''&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;,&amp;phi;&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;), (''U''&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt;,&amp;phi;&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt;)}
+と取れば、(''S''&lt;sup&gt;1&lt;/sup&gt;,''T'') は 1 次元解析多様体になる。
+
+''m'' 次元[[単位球面]]
+: ''S''&lt;sup&gt;''m''&lt;/sup&gt; = {(''x''&lt;sub&gt;1&lt;/sub&gt;, ..., ''x''&lt;sub&gt;''m''&lt;/sub&gt;, ''x''&lt;sub&gt;''m''+1&lt;/sub&gt;) &amp;isin; '''R'''&lt;sup&gt;''m''+1&lt;/sup&gt; | ''x''&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt; + &amp;hellip; + ''x''&lt;sub&gt;''m''&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt; + ''x''&lt;sub&gt;''m''+1&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt; = 1}
+についても同じようにして 2(m+1)個の開近傍で覆うことができ、それぞれの開近傍は ''m'' 次元[[球|開球]]と同相であるので、局所座標系を定めることができ ''m'' 次元解析多様体になる。
+
+=== 積多様体 ===
+''S''&lt;sub&gt;1&lt;/sub&gt; = {(''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) | &amp;lambda; &amp;isin; &amp;Lambda;} を座標近傍系にもつ ''a'' 次元 ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級多様体 (''M''&lt;sub&gt;1&lt;/sub&gt;,''S''&lt;sub&gt;1&lt;/sub&gt;) と ''S''&lt;sub&gt;2&lt;/sub&gt; = {(''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt;, &amp;psi;&lt;sub&gt;&amp;tau;&lt;/sub&gt;) | &amp;tau; &amp;isin; &amp;Tau;} を座標近傍系に持つ ''b'' 次元 ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級多様体 (''M''&lt;sub&gt;2&lt;/sub&gt;,''S''&lt;sub&gt;2&lt;/sub&gt;) を考える。
+
+[[直積集合]] ''M''&lt;sub&gt;1&lt;/sub&gt; &amp;times; ''M''&lt;sub&gt;2&lt;/sub&gt; は[[直積位相]]によってハウスドルフ空間となる。それぞれの座標近傍 (''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) と (''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt;, &amp;psi;&lt;sub&gt;&amp;tau;&lt;/sub&gt;) に対し、開集合 ''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; と ''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt; の直積 ''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;times; ''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt; とその上で定義された写像 &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;times; &amp;psi;&lt;sub&gt;&amp;tau;&lt;/sub&gt; によって座標近傍同士の直積 (''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;times; ''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;times; &amp;psi;&lt;sub&gt;&amp;tau;&lt;/sub&gt;) が定義される。
+
+ここで ''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;times; ''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt; は、 ''p'' &amp;isin; ''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; と ''q'' &amp;isin; ''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt; を取ったときの (''p'',''q'') という組の全体である。写像の直積 &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;times; &amp;psi;&lt;sub&gt;&amp;tau;&lt;/sub&gt; は ''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;times; ''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt; の上で定義された
+
+[[File:torus_cycles.png|thumb|2 次元多様体の例：トーラス]]
+: (&amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;times; &amp;psi;&lt;sub&gt;&amp;tau;&lt;/sub&gt;)(''p'',''q'') = (&amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;(''p''), &amp;psi;&lt;sub&gt;&amp;tau;&lt;/sub&gt;(''q''))
+という写像である。
+
+: この式の右辺は成分で表せば (&amp;phi;&lt;sub&gt;1&lt;/sub&gt;(''p''),&amp;phi;&lt;sub&gt;2&lt;/sub&gt;(''p''), &amp;hellip; ,&amp;phi;&lt;sub&gt;''a''&lt;/sub&gt;(''p''), &amp;psi;&lt;sub&gt;1&lt;/sub&gt;(''p''),&amp;psi;&lt;sub&gt;2&lt;/sub&gt;(''p''), &amp;hellip; ,&amp;psi;&lt;sub&gt;''b''&lt;/sub&gt;(''p'')) のことであり、単に成分を並べたものと考えてよい。
+
+このように座標近傍同士の直積によって座標近傍系 ''S''&lt;sub&gt;3&lt;/sub&gt; = {(''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;times; ''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt; &amp;times; &amp;psi;&lt;sub&gt;&amp;tau;&lt;/sub&gt;) | &amp;lambda; &amp;isin; &amp;Lambda; , &amp;tau; &amp;isin; &amp;Tau;} を定めたとき、 (''M''&lt;sub&gt;1&lt;/sub&gt; &amp;times; ''M''&lt;sub&gt;2&lt;/sub&gt;, ''S''&lt;sub&gt;3&lt;/sub&gt;) は、 ''a'' + ''b'' 次元 ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級多様体になる。この (''M''&lt;sub&gt;1&lt;/sub&gt; &amp;times; ''M''&lt;sub&gt;2&lt;/sub&gt;, ''S''&lt;sub&gt;3&lt;/sub&gt;) を (''M''&lt;sub&gt;1&lt;/sub&gt;,''S''&lt;sub&gt;1&lt;/sub&gt;) と (''M''&lt;sub&gt;2&lt;/sub&gt;,''S''&lt;sub&gt;2&lt;/sub&gt;) の'''積多様体''' (product manifold) という。同様にして ''M''&lt;sub&gt;1&lt;/sub&gt; &amp;times; ''M''&lt;sub&gt;2&lt;/sub&gt; &amp;times; &amp;hellip; &amp;times; ''M''&lt;sub&gt;m&lt;/sub&gt; というような、 3 つ以上の多様体から作られる積多様体も定義できる。
+
+[[直線]]と円周の直積 '''R'''&lt;sup&gt;1&lt;/sup&gt; &amp;times; ''S''&lt;sup&gt;1&lt;/sup&gt; を考えれば、直線を軸とした無限に伸びる[[円柱 (数学)|円柱]]の側面を多様体と見ることもできるし、円周同士の直積 ''T''&lt;sup&gt;2&lt;/sup&gt; = ''S''&lt;sup&gt;1&lt;/sup&gt; &amp;times; ''S''&lt;sup&gt;1&lt;/sup&gt; を考えれば[[トーラス]]を多様体とみることもできる。
+
+=== その他の例 ===
+* [[射影空間]]: ''n'' 次元[[ベクトル空間]]の 1 次元部分空間全体を[[射影空間]]という。
+原点を通る直線は
+:''y''='''m''' ''x''
+のように書かれるが、これらの直線は'''m'''の値と対応し、あらためて一つの点と考えることができる。直線の集合は図形ではないが、このように直線を点に読み替えることで直線のなす集合にも適当な座標系を入れることができ、多様体という図形として扱えるようになる。
+
+== 多様体上の関数 ==
+''m'' 次元 ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級多様体 ''M'' 上で定義された[[関数 (数学)|実数値関数]] ''f'' を考える。
+: ''f'': ''M'' &amp;rarr; '''R'''
+これは、多様体上の点 ''p'' &amp;isin; ''M'' に対して実数値 ''f''(''p'') を対応させる関数である。特定の局所座標を考えているわけではないので、この関数の変数は (''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;, ..., ''x''&lt;sub&gt;''m''&lt;/sub&gt;) のように[[数]]を並べた座標ではなく単に点を表している。
+
+多様体上には局所座標を貼ることができるためこの座標を用いた微積分などの計算が可能である。 ''M'' には座標近傍系 ''S'' = {(U&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) | &amp;lambda; &amp;isin; &amp;Lambda;} が与えられていて
+: &lt;math&gt;\varphi_{\lambda} : U_{\lambda} \to U'_{\lambda} &lt;/math&gt;
+とすれば
+: &lt;math&gt; f \circ \varphi^{-1}_{\lambda} : U'_{\lambda} \to R&lt;/math&gt;
+つまり ''q'' = &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;(''p'') &amp;isin; ''U''&amp;prime;&lt;sub&gt;&amp;lambda;&lt;/sub&gt; に対し
+: &lt;math&gt; f \circ \varphi^{-1}_{\lambda}(q)= f(\varphi^{-1}_{\lambda}(q)) = f(p) &lt;/math&gt;
+である。この ''U''&amp;prime;&lt;sub&gt;&amp;lambda;&lt;/sub&gt; はユークリッド空間の部分集合なので その点である ''q'' は (''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;, ..., ''x''&lt;sub&gt;''m''&lt;/sub&gt;) のように数を並べた座標で表すことができ、この座標を用いて微積分などの計算が可能になる。座標近傍 (U&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) においてその座標を用いて具体的に ''f''(''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;, ..., ''x''&lt;sub&gt;''m''&lt;/sub&gt;) のように書かれた関数を (U&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) に関する ''f'' の'''局所座標表示'''という。
+
+ところで、多様体上の計算はなるべく局所座標のとり方に依存しないような計算をしたいという目標があるので ''U''&lt;sub&gt;1&lt;/sub&gt; &amp;cap; ''U''&lt;sub&gt;2&lt;/sub&gt; 上では、座標近傍 (''U''&lt;sub&gt;1&lt;/sub&gt;, &amp;phi;&lt;sub&gt;1&lt;/sub&gt;), (''U''&lt;sub&gt;2&lt;/sub&gt;, &amp;phi;&lt;sub&gt;2&lt;/sub&gt;) のそれぞれの計算は座標変換でうつり合う必要がある。 座標近傍 (''U''&lt;sub&gt;1&lt;/sub&gt;, &amp;phi;&lt;sub&gt;1&lt;/sub&gt;) での関数の表示
+: &lt;math&gt; f \circ \varphi^{-1}_{1} : \varphi_1(U_{1}\cap U_{2}) \to R&lt;/math&gt;
+を座標近傍 (''U''&lt;sub&gt;2&lt;/sub&gt;, &amp;phi;&lt;sub&gt;2&lt;/sub&gt;) での表示に変換すると
+: &lt;math&gt;(f \circ \varphi^{-1}_{1}) \circ (\varphi_1 \circ \varphi_2^{-1}) : \varphi_2(U_1\cap U_2) \to R &lt;/math&gt;
+真ん中に挟まれた、 &amp;phi;&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;−1&lt;/sup&gt; と &amp;phi;&lt;sub&gt;1&lt;/sub&gt; は写像として打ち消しあうように見えるが、微分可能性を検証したいのでここではあえてしない。''C''&lt;sup&gt;''n''&lt;/sup&gt; 級多様体の座標変換は ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級であるから、この合成関数の微分可能性も[[高々 (数学)|高々]] ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級であるとしか言えず、座標変換によっては ''n'' + 1 回以上の微分は不可能である場合もあるかもしれないので意味がない。したがって、''C''&lt;sup&gt;''n''&lt;/sup&gt; 級多様体上での関数は ''C''&lt;sup&gt;''n''&lt;/sup&gt; 級までしか意味を持たない。もちろん、ある特定の座標近傍だけで定義された関数に ''n'' + 1 回以上微分できる関数を定義することはできるが、それはその座標近傍だけでの性質であり、''C''&lt;sup&gt;''n''&lt;/sup&gt; 級多様体という図形の性質とは異なるものになる。
+
+したがって
+: ''f'': ''M'' &amp;rarr; '''R'''
+が ''C''&lt;sup&gt;''s''&lt;/sup&gt; 級関数であるとは、任意の座標近傍に対し、そこでの局所座標表示が ''C''&lt;sup&gt;''s''&lt;/sup&gt; 級関数であることと定義される。ただし 0 &amp;le; s &amp;le; ''n'' とする。 ''M'' 上の ''C''&lt;sup&gt;''s''&lt;/sup&gt; 級関数の全体を ''C''&lt;sup&gt;''s''&lt;/sup&gt;(''M'') と表すことがある。
+
+== 多様体の間の写像 ==
+''m''&lt;sub&gt;1&lt;/sub&gt; 次元 ''C''&lt;sup&gt;''s''&lt;/sup&gt; 級多様体 (''M''&lt;sub&gt;1&lt;/sub&gt;,''S'') から ''m''&lt;sub&gt;2&lt;/sub&gt; 次元 ''C''&lt;sup&gt;''t''&lt;/sup&gt; 級多様体 (''M''&lt;sub&gt;2&lt;/sub&gt;,''T'') への写像 ''f'' を考える。
+: ''f'': ''M''&lt;sub&gt;1&lt;/sub&gt; &amp;rarr; ''M''&lt;sub&gt;2&lt;/sub&gt;
+それぞれの多様体に与えられている座標近傍系が ''S'' = {(''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) | &amp;lambda; &amp;isin; &amp;Lambda;} , ''T'' = {(''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt;, &amp;psi;&lt;sub&gt;&amp;tau;&lt;/sub&gt;) | &amp;tau; &amp;isin; &amp;Tau;} で定められているとする。多様体上の関数と同じように、写像も座標を用いて表現することができる。関数の場合と違うのは写像でうつる先でも座標について考えなければならないことである。
+: ''M''&lt;sub&gt;2&lt;/sub&gt; = '''R''' という「特別な」場合の写像が関数になる。
+
+''f''(''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) &amp;sube; (''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt;) とし ''f'' を (''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) から (''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt;, &amp;psi;&lt;sub&gt;&amp;tau;&lt;/sub&gt;) への写像として座標を用いて書くとすると
+: &lt;math&gt;\varphi_{\lambda} : U_{\lambda} \to U'_{\lambda} &lt;/math&gt;
+: &lt;math&gt;\psi_{\tau} : V_{\tau} \to V'_{\tau} &lt;/math&gt;
+とすれば
+: &lt;math&gt; \psi_{\tau} \circ f \circ \varphi^{-1}_{\lambda} : U'_{\lambda} \to V'_{\tau} &lt;/math&gt;
+となる。
+これが具体的に座標の成分を用いて
+: &amp;psi;&lt;sub&gt;1&lt;/sub&gt; = ''f''(&amp;phi;&lt;sub&gt;1&lt;/sub&gt;, ..., &amp;phi;&lt;sub&gt;''m''&lt;/sub&gt;)
+: &amp;psi;&lt;sub&gt;2&lt;/sub&gt; = ''f''(&amp;phi;&lt;sub&gt;1&lt;/sub&gt;, ..., &amp;phi;&lt;sub&gt;''m''&lt;/sub&gt;)
+: ...
+: &amp;psi;&lt;sub&gt;n&lt;/sub&gt; = ''f''(&amp;phi;&lt;sub&gt;1&lt;/sub&gt;, ..., &amp;phi;&lt;sub&gt;''m''&lt;/sub&gt;)
+のように表現されているとき、 この表示を (''U''&lt;sub&gt;&amp;lambda;&lt;/sub&gt;, &amp;phi;&lt;sub&gt;&amp;lambda;&lt;/sub&gt;) と (''V''&lt;sub&gt;&amp;tau;&lt;/sub&gt;, &amp;psi;&lt;sub&gt;&amp;tau;&lt;/sub&gt;) に関する ''f'' の'''局所座標表示'''という。
+
+座標変換を考えるために ''f''(''U''&lt;sub&gt;1&lt;/sub&gt;) &amp;sube; (''V''&lt;sub&gt;1&lt;/sub&gt;) , ''f''(''U''&lt;sub&gt;2&lt;/sub&gt;) &amp;sube; (''V''&lt;sub&gt;2&lt;/sub&gt;) とし、 ''U''&lt;sub&gt;1&lt;/sub&gt; &amp;cap; ''U''&lt;sub&gt;2&lt;/sub&gt; が空でないとする。 ''U''&lt;sub&gt;1&lt;/sub&gt; &amp;cap; ''U''&lt;sub&gt;2&lt;/sub&gt; に対して、座標近傍 (''U''&lt;sub&gt;1&lt;/sub&gt;, &amp;phi;&lt;sub&gt;1&lt;/sub&gt;) と (''V''&lt;sub&gt;1&lt;/sub&gt;, &amp;psi;&lt;sub&gt;1&lt;/sub&gt;) での写像 ''f'' の表示
+: &lt;math&gt; \psi_{1} \circ f \circ \varphi^{-1}_{1} : \varphi_1(U_{1}\cap U_{2}) \to \psi_1(V_{1}\cap V_{2}) &lt;/math&gt;
+を座標変換を用いて座標近傍 (''U''&lt;sub&gt;2&lt;/sub&gt;, &amp;phi;&lt;sub&gt;2&lt;/sub&gt;) と (''V''&lt;sub&gt;2&lt;/sub&gt;, &amp;psi;&lt;sub&gt;2&lt;/sub&gt;) に関する表示に変換すると
+: &lt;math&gt;(\psi_2 \circ \psi_1^{-1}) \circ (\psi_1 \circ f \circ \varphi^{-1}_{1}) \circ (\varphi_1 \circ \varphi_2^{-1}) : \varphi_2(U_1\cap U_2) \to \psi_2(V_1\cap V_2) &lt;/math&gt;
+それぞれの括弧は、座標系から座標系への写像になっている。左端の括弧は (''M''&lt;sub&gt;2&lt;/sub&gt;,''T'') での座標変換なので ''C''&lt;sup&gt;''t''&lt;/sup&gt; 級、右端の括弧は (''M''&lt;sub&gt;1&lt;/sub&gt;,''S'') での座標変換なので ''C''&lt;sup&gt;''s''&lt;/sup&gt; 級である。このことから''s'' と ''t'' の小さい方（ ''s'' = ''t'' ならばその値）を ''u'' として、この合成写像の微分可能性は高々 ''C''&lt;sup&gt;''u''&lt;/sup&gt; 級であり、 ''u'' + 1 回以上の連続微分可能性を仮定することは意味を持たない。
+
+したがって
+: ''f'': ''M''&lt;sub&gt;1&lt;/sub&gt; &amp;rarr; ''M''&lt;sub&gt;2&lt;/sub&gt;
+が ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級写像であるとは、任意の座標近傍に対し、そこでの局所座標表示が ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級写像であることと定義される。ただし 0 &amp;le; ''r'' &amp;le; ''u'' = min{''s'',''t''} とする。
+
+1 &amp;le; ''r'' &amp;le; ''u'' の時
+: ''f'': ''M''&lt;sub&gt;1&lt;/sub&gt; &amp;rarr; ''M''&lt;sub&gt;2&lt;/sub&gt;
+が[[全単射]]で ''f'' とその逆写像 ''f''&lt;sup&gt;−1&lt;/sup&gt; がともに ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級写像であるとき、 ''f'' を ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級'''[[微分同相写像]]''' (''C''&lt;sup&gt;''r''&lt;/sup&gt; diffeomorphism) という。''f'' が ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級微分同相写像であれば、''f''&lt;sup&gt;−1&lt;/sup&gt; も明らかに ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級微分同相写像である。
+
+''M''&lt;sub&gt;1&lt;/sub&gt; と ''M''&lt;sub&gt;2&lt;/sub&gt; の間に ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級微分同相写像が存在するとき ''M''&lt;sub&gt;1&lt;/sub&gt; と ''M''&lt;sub&gt;2&lt;/sub&gt; は互いに ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級'''微分同相''' (''C''&lt;sup&gt;''r''&lt;/sup&gt; diffeomorphic) であるという。
+
+== 多様体上の曲線 ==
+'''R''' の開区間 ''I'' = (''a'', ''b'') から ''C''&lt;sup&gt;''s''&lt;/sup&gt; 級多様体 ''M'' への ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級写像
+: ''&amp;phi;'': ''I'' &amp;rarr; ''M''
+のことを、 ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級[[曲線]] (''C&lt;sup&gt;r&lt;/sup&gt;''-''curve'') という (0 &amp;le; ''r'' &amp;le; ''s'')。
+
+{ &amp;phi;(''t'') &amp;isin; ''M'' | t &amp;isin; ''I''} という点の集合を曲線というのではなく、写像 ''&amp;phi;'' を曲線というのである。なお、''&amp;phi;'' の変数 ''t'' を[[媒介変数]]という。
+
+: ''a'' &amp;le; ''c'' &amp;lt; ''d'' &amp;le; ''b''
+とする。&amp;phi; が 開区間 ''I'' = (''a'',''b'') で定義された ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級曲線であるとき、 ''I'' に含まれる[[区間 (数学)|閉区間]] [''c'',''d''] や [[区間 (数学)|半開区間]] [''c'',''d''), (''c'',''d''] に &amp;phi; の定義域を制限して得られる写像も ''C''&lt;sup&gt;''r''&lt;/sup&gt; 級曲線という。
+
+== 歴史 ==
+多様体の歴史は[[ゲッティンゲン]]で行われた[[ベルンハルト・リーマン|リーマン]]の講演に始まる。
+
+多様体論は、ロバチェフスキーの[[双曲幾何学]]によって始まった[[非ユークリッド幾何学]]や[[カール・フリードリヒ・ガウス|ガウス]]の[[曲面論]]を背景として様々な幾何学を統一し、 ''n'' 次元の幾何学へと飛躍させた。発見当初は[[イマヌエル・カント|カント]]哲学に打撃を与えた非ユークリッド幾何学も多様体論の一例でしかなくなってしまった。
+
+リーマンが[[ゲオルク・アウグスト大学ゲッティンゲン|ゲッティンゲン大学]]の私講師に就任するために行った講演『幾何学の基礎に関する仮説について』の中で「何重にも拡がったもの」と表現した概念が ''n'' 次元多様体のもとになり ''n'' 次元の幾何学に関する研究が始まった。この講演を聴いていた[[カール・フリードリヒ・ガウス|ガウス]]がその着想に夢中になり、（ガウスは普段はあまり表立って他人を褒めることはなかったが、）リーマンの着想がいかに素晴らしいかを同僚に語り続けたり、帰り道にうわの空で道端の溝に落ちたりしたと言われている。
+
+=== 年表 ===
+* [[1826年]]『平行線公準の厳密な証明』（ロバチェフスキー）
+* [[1827年]]『曲面の研究』（ガウス）
+* [[1829年]]『幾何学の新原理並びに平行線の完全な理論』（ロバチェフスキー）
+* [[1854年]][[6月10日]]『幾何学の基礎に関する仮説について』（リーマン）
+* [[1872年]][[エルランゲン目録]]（クライン）
+* [[1895年]]『位置解析』（[[アンリ・ポアンカレ]]）
+* [[1916年]][[一般相対性理論]]（[[アルベルト・アインシュタイン]]）
+* [[1936年]]『微分可能多様体』（[[ハスラー・ホイットニー]]）
+
+== 関連項目 ==
+* [[接ベクトル空間]]
+* [[層 (数学)]]
+* [[ベクトル場]]
+* [[微分形式]]
+* [[代数多様体]]
+
+== 脚注 ==
+{{脚注ヘルプ}}
+&lt;references /&gt;
+
+== 参考文献 ==
+{{Refbegin|2}}
+* {{cite book | 和書 | author=松島与三 | title=多様体入門 |series=数学選書, 5 | year=1965 | publisher=裳華房 |isbn=9784785313050 | ref=松島(1965) }}
+
+* {{cite book | 和書 | author=小笠英志 | title=多様体とは何か |series=ブルー・バックス | year=2021 | publisher=講談社 |isbn= | ref=小笠(2021) }}　一般向け入門書。　専門書を読む前か読み始めの時に読むと良いレベル。もしくは、専門書を読まないが多様体とはどういうものか知りたい人向け
+
+* {{cite book | 和書 | author=関沢正躬 | title=微分幾何学入門 | year=2003 | publisher=日本評論社 |isbn=4535783845 | ref=関沢(2003) }}
+
+* {{cite book |last=Freedman |first=Michael H.|last2=Quinn |first2=Frank |year=1990 |title=Topology of 4-Manifolds | publisher=Princeton University Press |isbn= 0-691-08577-3 }}
+* {{cite book |last=Guillemin |first=Victor |last2=Pollack |first2=Alan |year=1974 |title=Differential Topology | publisher=Prentice-Hall |isbn=0-13-212605-2 }} - Inspired by Milnor and commonly used in undergraduate courses.
+* {{cite book |last=Hempel |first=John |year=1976 |title=3-Manifolds |publisher=Princeton University Press |isbn=0-8218-3695-1 }}
+* {{cite book |last=Hirsch |first=Morris |year=1997 |title=3Differential Topology |publisher=Springer Verlag |isbn=0-387-90148-5 }} - The most complete account, with historical insights and excellent, but difficult, problems. The standard reference for those wishing to have a deep understanding of the subject.
+* {{cite book |last=Kirby |first=Robion C. |last2=Siebenmann |first2=Laurence C. |year=1977 |title=Foundational Essays on Topological Manifolds. Smoothings, and Triangulations |publisher=Princeton University Press |isbn=0-691-08190-5 }} - A detailed study of the [[:en:category theory|category]] of topological manifolds.
+* {{cite book |last=Lee |first=John M. |year=2000 |title=Introduction to Topological Manifolds |publisher=Springer-Verlag |isbn=0-387-98759-2 }}
+*{{citation
+  |last = Lee
+  |first = John M.
+  |title = Introduction to Smooth Manifolds| publisher = Springer| year= 2002|isbn = 978-0-387-95448-6 }}
+* {{cite book |last=Lee |first=John M. |year=2003 |title=Introduction to Smooth Manifolds |publisher=Springer-Verlag |isbn=0-387-95495-3}}
+* {{cite book |last=Massey |first=William S. |year=1977 |title=Algebraic Topology: An Introduction |publisher=Springer-Verlag |isbn=0-387-90271-6}}
+* {{cite book |authorlink=ジョン・ウィラード・ミルナー|last=Milnor |first=John |year=1997 |title=Topology from the Differentiable Viewpoint |publisher=Princeton University Press |isbn=0-691-04833-9}}
+* {{cite book |last=Munkres |first=James R. |year=2000) ''|title=Topology''. |publisher=Prentice Hall |isbn=0-13-181629-2 }}
+*{{cite book |editor= Neuwirth, L. P. |year=1975 |title=Knots, Groups, and 3-Manifolds. Papers Dedicated to the Memory of R. H. Fox |publisher=Princeton University Press. |isbn=978-0-691-08170-0 }}
+* {{cite book |authorlink=ベルンハルト・リーマン |last=Riemann |first=Bernhard |title=Gesammelte mathematische Werke und wissenschaftlicher Nachlass |publisher=Sändig Reprint |isbn= 3-253-03059-8}}
+**''[http://www.maths.tcd.ie/pub/HistMath/People/Riemann/Grund/ Grundlagen für eine allgemeine Theorie der Functionen einer veränderlichen complexen Grösse.]'' The 1851 doctoral thesis in which "manifold" (''Mannigfaltigkeit'') first appears.
+**''[http://www.maths.tcd.ie/pub/HistMath/People/Riemann/Geom/ Ueber die Hypothesen, welche der Geometrie zu Grunde liegen.]'' The 1854 Göttingen inaugural lecture (''Habilitationsschrift'').
+* {{cite book |authorlink={{仮リンク|マイケル・スピヴァク|en|Michael Spivak}}|last=Spivak |first=Michael |year=1965 |title=Calculus on Manifolds: A Modern Approach to Classical Theorems of Advanced Calculus |publisher=HarperCollins Publishers |isbn=0-8053-9021-9 }} The standard graduate text.
+{{Refend}}
+
+==外部リンク==
+* {{JGLOBAL ID|200906059264988595}}
+* {{kotobank|2=日本大百科全書(ニッポニカ)}}
+
+{{Normdaten}}
+{{DEFAULTSORT:たようたい}}
+[[Category:多様体論|*]]
+[[Category:数学に関する記事]]</text>
+      <sha1>l7swvdjypnkj1muvrsi2qx95nmrmoid</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,135 @@
+<page>
+    <title>熱活性化遅延蛍光</title>
+    <ns>0</ns>
+    <id>4248401</id>
+    <revision>
+      <id>91796872</id>
+      <parentid>89956616</parentid>
+      <timestamp>2022-10-06T01:38:11Z</timestamp>
+      <contributor>
+        <ip>219.127.90.180</ip>
+      </contributor>
+      <comment>/* TADFに影響する因子 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20362" xml:space="preserve">'''熱活性化遅延蛍光'''（ねつかっせいかちえんけいこう、{{lang-en-short|Thermally activated delayed fluorescence}}、略称: '''TADF'''）は、非発光励起状態にある分子種が状態を変化させるために周囲の[[熱エネルギー]]を取り込むことができ、それでようやく発光を遂げる過程である。TADF過程には[[三重項状態]]にある励起分子種が関与する。この分子種は通常は[[燐光|リン光]]と呼ばれる基底状態への禁制遷移を持つ。近くの熱エネルギーを吸収することによって、三重項状態は自身を[[一重項状態]]に変換する逆[[項間交差]]（RISC）を経験することができる。一重項状態は基底状態へと脱励起し、[[蛍光]]と呼ばれる過程で発光する。蛍光化合物および燐光化合物と並んで、TADF化合物は[[有機発光ダイオード]]（OLED）で使われ3つの主要な発光材料の1つである。
+
+別の種類のTADF過程は{{仮リンク|暗状態|en|Dark state}}への配座的捕獲によって生じることが示されている&lt;ref&gt;{{Cite journal|last=Sirbu|first=Dumitru|last2=Karlsson|first2=Joshua K. G.|last3=Harriman|first3=Anthony|date=2018-11-29|title=Nonradiative Decay Channels for a Structurally-Distorted, Monostrapped BODIPY Derivative|url=https://doi.org/10.1021/acs.jpca.8b07840|journal=The Journal of Physical Chemistry A|volume=122|issue=47|pages=9160–9170|doi=10.1021/acs.jpca.8b07840|issn=1089-5639}}&lt;/ref&gt;。熱エネルギーは、遅延蛍光をもたらす発光状態の再集合化を可能にする。
+
+==歴史==
+完全な有機分子における熱活性化遅延蛍光の最初の証拠は1961年に化合物[[エオシン]]（eosin）を使って発見された&lt;ref&gt; {{cite journal | title = Triplet-Singlet Emission in Fluid Solutions | journal = Transactions of the Faraday Society | year = 1961 | volume = 57 | pages = 1894–1904 | doi = 10.1039/TF9615701894 | author1 = C. A. Parker | author2 = C. G. Hatchard}} &lt;/ref&gt;。検出された発光は「E型」遅延蛍光と命名され、機構は完全には理解されていなかった。1986年、TADF機構がさらに研究され、芳香族[[チオケトン|チオン]]類を使って詳細に説明されたが&lt;ref name="#1"&gt; {{cite journal | title = Thermally Activated Delayed Fluorescence of Aromatic Thiones | journal = J. Phys. Chem. | year = 1986 | volume = 90 | issue = 23 | pages = 6314–6318 | doi = 10.1021/j100281a051 | author1 = Andrezj Maciejewski | author2 = Marian Szymanski}} &lt;/ref&gt;、実用的な応用が見つかるのはさらに先のことであった。
+
+2009年から2012年にかけて、安達千波矢らは、緑色、橙色、および青色OLEDのための効果的なTADF分子設計戦略と優位性のある外部{{仮リンク|量子効率|en|Quantum efficiency}}（EQE）を報告する一連の論文を発表した&lt;ref&gt; {{cite journal | title = Thermally Activated Delayed Fluorescence from Sn(4+)-porphyrin complexes and their application to organic lightemitting diodes--a novel mechanism for electroluminescence | journal = Adv. Mater. | year = 2009 | volume = 21 | issue = 47 | pages = 4802–4806 | doi = 10.1002/adma.200900983 | pmid = 21049498 | author1 = A. Endo | author2 = M. Ogasawara| author3 = A. Takahashi| author4 = D. Yokoyama| author5 = Y. Kato| author6 = C. Adachi}} &lt;/ref&gt;&lt;ref&gt; {{cite journal | title = Efficient Up-conversion of Triplet Excitons into a Singlet State and its Application for Organic Light Emitting Diodes | journal = Applied Physics Letters | year = 2011 | volume = 98 | issue = 8 | pages = 083302 | doi = 10.1063/1.3558906 | author1 = Ayakata Endo | author2 = Keigo Sato| author3 = Kazuaki Yoshimura| author4 = Takahiro Kai| author5 = Atsushi Kawada| author6 = Hiroshi Miyazaki| author7 = Chihaya Adachi| bibcode = 2011ApPhL..98h3302E | url = https://semanticscholar.org/paper/a188dec689ca9dd58897f31fc6e1464de2a946de | hdl = 2324/19151 | hdl-access = free }} &lt;/ref&gt;&lt;ref&gt; {{cite journal | title = Highly Efficient Organic Light-emitting Diodes From Delayed Fluorescence | journal = Nature | year = 2012 | volume = 492 | issue = 7428 | pages = 234–238 | doi = 10.1038/nature11687 | pmid = 23235877 | author1 = H. Uoyama | author2 = K. Goushi| author3 = K. Shizu| author4 = H. Nomura| author5 = Chihaya Adachi| bibcode = 2012Natur.492..234U | hdl = 2324/25887 | hdl-access = free }} &lt;/ref&gt;。これらの発表によってこのテーマへの関心が急上昇し、TADF化合物はすぐに、照明およびディスプレイに使用される従来の蛍光およびリン光化合物に対するより高効率な代替物と見なされた。TADF素材は蛍光およびリン光に基づくデバイスに続く第3世代OLEDと見なされている&lt;ref name=Yang&gt; {{cite journal | title = Recent Advances in Organic Thermally Activated Delayed Fluorescence Materials | journal = Chem Soc Rev | year = 2017 | volume = 46 | issue = 3 | pages = 915–1016 | doi = 10.1039/c6cs00368k | pmid = 28117864 | author1 = Zhiyong Yang | author2 = Zho Mao| author3 = Zongliang Xie| author4 = Yi Zhang| author5 = Siwei Liu| author6 = Juan Zhao| author7 = Jiarui Xu| author8 = Zhenguo Chi| author9 = Matthew P. Aldred}} &lt;/ref&gt;。
+
+==機構==
+[[File:Photoluminescence Pathways.jpg|thumb|500px|フォトルミネセンス経路と関連するエネルギー準位]]
+
+TADF過程の段階は右図に示されている。OLEDで見られる[[エレクトロルミネセンス]]過程では、印加された[[電界]]が電子を一重項あるいは三重項状態のいずれかへと励起させる。軽原子の[[J結合|スピン結合]]のため、半占有基底状態電子と励起状態電子の全[[スピン量子数]]が電子系が一重項状態か三重項状態かを決定する。もし電子系が一重項状態に属するならば、励起電子はおよそ10ナノ秒オーダーの迅速な脱励起での基底状態への許容遷移を経験することができ、これは[[蛍光]]と呼ばれる。もし電子系が三重項状態に属するならば、励起電子はおよそ1マイクロ秒オーダーのかなり遅い時間尺度での基底状態への禁制脱励起を経験することができ、これは[[燐光|リン光]]と呼ばれる。熱活性化遅延蛍光過程は、三重項状態の電子系が逆項間交差を経験して一重項状態となり、次に蛍光発光へ向かう時に起きる。この過程では、TADF素材は電子的に励起状態となり、迅速に蛍光を示し、次に似た波長の遅延蛍光を示す。
+
+蛍光素材は基本的に一重項からのみエネルギーを取り入れることができ、一重項状態は[[スピン統計定理|スピン統計則]]のため電子状態の25%を占める。さらに、~20%の光取り出し（アウトカップリング）効率のため、蛍光素材の最大外部量子効率（EQE）はおおよそ5%となってしまう&lt;ref name="#1"/&gt;。リン光素材とTADF素材はどちらも一重項状態と三重項状態の両方からエネルギーを取り入れる能力を有する。このため、理論的にはこれらの素材は印加されたエネルギーを100%近く変換することができ、これが蛍光に基づく素材に対するこれらの大きな優位性となっている。
+
+===スピン統計===
+発光デバイスで使われる素材の電子状態は典型的にある種のスピン結合を含む。例えば蛍光素材では、重遷移金属が[[スピン軌道相互作用|スピン–軌道結合]]を利用するために使われる。しかしながら、ほとんどのTADF素材は[[角運動量の合成]]とも呼ばれるスピン結合を取り入れる軽原子を含む。この現象では、励起および基底状態電子の量子力学的振る舞いによって、組み合わされた全スピン数Sだけでなく、組み合わされたスピンのz-成分S&lt;sub&gt;z&lt;/sub&gt;も持つ混合状態が引き起こされる。このスピン結合現象が考慮に入れられる時のみ、ランダムな励起状態が3つの可能な全スピンS=1の組み合わせと1つの全スピンS=0の組み合わせを生む。これらは、電気励起の下で生成された観測される75%の三重項状態と25%の一重項状態に相当する。
+
+=== TADFに影響する因子===
+TADF素材のいくつかの鍵となる速度論的性質が、それらが熱損失経路を最小化しながら蛍光によって光を効率的に生成する能力を決定する。k&lt;sub&gt;RISC&lt;/sub&gt;と呼ばれる逆項間交差の速度は非輻射三重項経路と比較して相対的に高くなければならない。[[三重項-三重項消滅]]、三重項消光、あるいは熱減衰のようなほとんどの非輻射三重項経路は1マイクロ秒のオーダーで起こり、典型的に10ナノ秒オーダーである蛍光発光と比較して長い。もう1つの重要な性質が'''Δ'''E&lt;sub&gt;ST&lt;/sub&gt;と呼ばれる一重項エネルギーレベルと三重項エネルギーレベルの差である。このエネルギーギャップが小さいほど、周囲の分子の平均熱エネルギーのより近づく。利用可能な熱エネルギー（室温で~25.6 meV）のオーダーに接近した'''Δ'''E&lt;sub&gt;ST&lt;/sub&gt;を持つ素材は、ほとんどあるいは全く熱損失経路を伴わずに三重項状態からの逆項間交差を効果的に経験できる。このように、このエネルギーギャップの最小化は、TADF過程が励起三重項が容易に励起一重項に変換できる時にのみ起こるため、潜在的なTADF素材を合成するうえで最も重要な因子であると考えられている。このエネルギーギャップを最小化するためにこれまで利用された最も有効な戦略は、同一分子上に空間的に離れて互いにねじれたドナー（供与体）およびアクセプター（受容体）[[部分 (化学)|部分]]を持つ分子を合成することである。これはスピン結合によって引き起こされる三重項状態と一重項状態の差を効果的に減少させ、'''Δ'''E&lt;sub&gt;ST&lt;/sub&gt;を減少させる。
+
+==化学構造==
+[[ファイル:4CzIPN_Chemical_Structure.jpg|thumb|right|TADF素材4CzIPNの化学構造]]
+
+TADF素材に一般的に使用される多くの化学構造は、ねじれ構造（分子のある部分がもう一方の部分と平行な平面上に配向している）を持つことによって'''Δ'''E&lt;sub&gt;ST&lt;/sub&gt;を最小化する必要条件を反映している。最も一般的に使われて成功しているTADF素材の1つ2,4,5,6-Tetra(9''H''-carbazol-9-yl)isophthalonitrile (4CzIPN) はこの種の構造を含む。下部と上部の[[カルバゾール]]基は平らで同一平面上にあると見ることができるのに対して、左下と右下のカルバゾール基は平面からずれていると考えることができる。カルバゾール基の対が反平面であるため、HOMOとLUMOのエネルギーレベル間の差が最小化され、化合物は三重項状態と一重項状態の間はより簡単に移動することができる。
+
+全体的なねじれ配座を持つことに加えて、高効率TADF素材は{{仮リンク|電子供与体|en|Electron donor|label=電子供与性}}および{{仮リンク|電子受容体|en|Electron acceptor|label=電子受容性}}部分の両方を含み、それらの間のある種の平面ねじれを取り入れている。これらの電子受容性および電子供与性基間の相互作用がHOMOとLUMOエネルギーレベルの重なり合いをさらに減少させる。したがって、多くの高効率TADF素材は電子供与体として複数のカルバゾール基を含み、[[トリアジン]]、[[スルホキシド]]、[[ベンゾフェノン]]、および[[スピロ化合物|スピロ]]基のような電子受容体を取り入れることができる。下の表は高効率と低い'''Δ'''E&lt;sub&gt;ST&lt;/sub&gt;が得られると報告されているこれらの化合物のいくつかの例を示している。
+
+{| class="wikitable sortable" style="margin: 1em auto 1em auto"
+|+高効率TADF化合物 &lt;ref name=Yang/&gt;
+! 化合物名 !! PL波長 (nm)!!EL波長 (nm)!! '''Δ'''E&lt;sub&gt;ST&lt;/sub&gt; (eV)!!デバイス効率 (EQE)
+|-
+!34TCzPN
+|448
+|475
+|0.16
+|21.8
+|-
+!DMAC-TRZ
+|495
+|495
+|0.046
+|26.5
+|-
+!Ac-MPM
+|489
+|489
+|0.19
+|24.5
+|-
+!DMAC-DPS
+|465
+|476
+|0.08
+|19.5
+|-
+!DTCBPy
+|518
+|514
+|0.04
+|27.2
+|-
+!ACRSA
+|485
+|490
+|0.04
+|16.5
+|-
+!POB-PZX
+|482
+|503
+|0.028
+|22.1
+|-
+!PXZ-Mes&lt;sub&gt;3&lt;/sub&gt;B
+|507
+|502
+|0.071
+|22.8
+|-
+|}
+
+==応用==
+
+===有機LED===
+[[File:LG 4K Curved OLED TV (15021278560).jpg|thumb|LG 4K曲面OLEDテレビ]] 
+
+TADFに基づく素材に関する研究の大多数はTADFに基づくOLEDの効率と寿命の改善に集中している。有機発光ダイオード（OLED）はその向上したコントラスト、応答時間、より広い視野角、および柔軟なディスプレイを作ることがけいる可能性のため、従来の[[液晶ディスプレイ]]（LCD）に対する代替案を与えてきた。第1世代OLEDは[[蛍光]]素材に基づいており、これには現在商業的に利用されているほとんどのOLEDあるいはAMOLEDディスプレイが含まれる。第2世代OLED素材は[[リン光]]発光を利用し、これはより高い理論的効率という優位性を持つが、リン光青色発光体で見られる短い寿命のように他の領域ではまだ不足している。
+
+多くの人々は第3世代OLEDがTADF素材であると考えている。これは、TADF素材が既に小型試験デバイスにおいて素晴らしい量子効率と性能を示しているためである。実用的には、これらのより新しいTADF素材はより大型の実用的デバイスでの溶液プロセスへの適用可能性について困難さがあり、多くの青色TADF分子の性能を寿命が劣っている。これらの問題点が解決できれば、TADFに基づくOLEDは、特に曲面テレビやフレキシブル携帯電話画面設計において現在のLCDディスプレイやOLEDディスプレイを置き換えることが期待されている。2019年、台湾のWisechipがTADF発光体（Kyuluxによる開発。商標Hyperfuorescence）を使用した世界初のOLEDディスプレイに着手した&lt;ref&gt;{{cite web |url=https://www.kyulux.com/wisechip-launches-the-worlds-first-hyperfluorescence-oled-display-a-2-7-inch-yellow-pmoled/ |title=Wisechip launches the world’s first Hyperfluorescence™ OLED display- a 2.7-inch yellow PMOLED|date=2019-10-17|author=Kyulux|accessdate=4 March 2020}}&lt;/ref&gt;。
+
+===蛍光イメージング===
+TADFに基づく素材は、迅速に蛍光を発する素材に対してそれらのより長い寿命のために一部の画像化技術において特有の優位性を有する。例えば、TADFを示す分子ACRFLCNは[[三重項酸素]]に対して強い感受性を示し、これによって効果的な分子状酸素センサーとなる&lt;ref&gt; {{cite journal | title = Time-resolved long-lived luminescence imaging method employing luminescent lanthanide probes with a new microscopy system | journal = Journal of the American Chemical Society| year = 2007 | volume = 129 | issue = 44| pages = 13502–13509 | doi = 10.1021/ja073392j| pmid = 17927176| author1 = Kenjiro Hanaoka| author2 = Kazuya Kikuchi | author3 =Shigeru Kobayashi | author4 = Tetsuo Nagano| url = https://figshare.com/articles/Time_Resolved_Long_Lived_Luminescence_Imaging_Method_Employing_Luminescent_Lanthanide_Probes_with_a_New_Microscopy_System/2976538}} &lt;/ref&gt;。[[フルオレセイン]]誘導体DCF-MPYMはその長い寿命により生細胞中での{{仮リンク|時間分解分光法|en|Time-resolved spectroscopy|label=時間分解蛍光イメージング}}が可能となるため、バイオイメージングの分野で成功を収めている。これらのオーダーメードされた有機化合物は、[[ランタニド]]錯体のような従来の化合物と比較して低い[[細胞毒性]]のためバイオイメージング応用において特に有望である&lt;ref&gt;{{cite journal | title = Thermally activated delayed fluorescence of fluorescein derivative for time-resolved and confocal fluorescence imaging | journal = Journal of the American Chemical Society| year = 2014 | volume = 136 | issue = 27| pages = 9590–9597 | doi = 10.1021/ja502292p| author1 = Xiaoqing Xiong| author2 = Fengling Song | author3 =Jingyun Wang | author4 = Yukang Zhang| author5 =Yingying Xue| author6 =Liangliang Sun| author7 =Na Jiang| author8 =Pan Gao| author9 =Lu Tian| author10 =Xiajun Peng| url = https://semanticscholar.org/paper/9b655b8f8887658c817bd98d80c47d55e0e7c35e}} &lt;/ref&gt;。
+
+===メカノルミネセンス===
+TADF化合物は粉体状で巨視的粒子サイズに基づいて調節可能な色変化を示すように合成することができる。これらの化合物は{{仮リンク|メカノルミネセンス|en|mechanoluminescence}}と呼ばれる現象において機械的にすりつぶすことで発光の色を変化させることがでいる。具体的には、ジフェニルスルホキシドと[[フェノチアジン]]部分を持つ不斉化合物は蛍光およびTADF機構の組み合わせによって線形的に調節可能な{{仮リンク|メカノクロミズム|en|mechanochromism}}を示す。SCPと命名された化合物は、その発光スペクトルにおいて二重発光ピークを示し、機械的にすりつぶすことで色を緑色から青色に変化させる&lt;ref&gt;{{cite journal | title = Achieving very bright mechanoluminescence from purely organic luminophores with aggregation-induced emission by crystal design | journal = Chemical Science| year = 2016 | volume = 7 | issue = 8| pages = 5307–5312 | doi = 10.1039/c6sc01325b| pmid = 30155182| author1 = Bingjia Xu| author2 = Wenlang Li | author3 =Jiajun He | author4 = Sikai Wu| author5 =Qiangzhong Zhu| author6 =Zhiyong Yang| author7 =Yuan-Chun Wu| author8 =Yi Zhang| author9 =Chongjun Jin| author10 = Po-Yen Lu| author11 =Zhenguo Chi| author12 =Siwei Liu| author13 =Jiarui Xu| author14 =Martin R. Bryce| pmc =6020548}} &lt;/ref&gt;。
+
+==課題==
+TADF素材の研究は素晴しい結果を生み出しており、これらの化合物を使って作られたデバイスは既に匹敵する小型デバイス性能と量子効率を達成している。しかしながら、TADF素材の合成と応用はまだ商業的に採算がとれるようになる前に克服しなければならない複数の課題を抱えている。たぶん最大の障害は合理的な寿命を持つ青色発光TADF分子生産の困難さである。長寿命青色OLEDの作成はTADFだけでなく、蛍光やリン光素材でも同様に、より高いエネルギーの光分解経路のために課題となってきた。効率のよいTADF素材を生産するうえでのもう1つの困難さは信頼できる分子設計戦略の欠如である。電子供与および受容基とねじれ分子構造の組み合わせは新たな合成について出発点となる基本的なよい構想を与えるが、HOMOおよびLUMOエネルギーギャップの予測と素材を通じた[[励起子]]の制御の困難さによって、どの部分が最も有効かを正確に示すことを厄介なものにしている。
+
+==出典==
+{{reflist}}
+
+== 外部リンク ==
+* [https://www.chem-station.com/chemglossary/2020/08/tadf.html 熱活性化遅延蛍光　Thermally Activated Delayed Fluorescence (TADF)] - Chem-Station
+* [https://www.oled-info.com/tadf TADF OLED emitters, introduction and market status]
+* [https://www.edinst.com/blog/tadf-thermally-activated-delayed-fluorescence/ What is thermally activated delayed fluorescence?]
+
+{{DEFAULTSORT:ねつかつせいかちえんけいこう}}
+[[Category:発光]]
+[[Category:発光ダイオード]]
+[[Category:エレクトロニクス]]
+[[Category:ディスプレイ技術]]
+[[Category:照明]]
+[[Category:有機化学]]
+[[Category:物理化学]]</text>
+      <sha1>q4za1njp9iaqran9y2zj76jqhj517bd</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,116 @@
+<page>
+    <title>長箭駅</title>
+    <ns>0</ns>
+    <id>1742578</id>
+    <revision>
+      <id>86364842</id>
+      <parentid>80962665</parentid>
+      <timestamp>2021-11-04T10:04:18Z</timestamp>
+      <contributor>
+        <username>Cewbot</username>
+        <id>1094317</id>
+      </contributor>
+      <minor />
+      <comment>[[利用者:Cewbot/log/20201008/configuration|切れたアンカーリンクを修復]]: #スクリーンタイプ→もっとも似ているアンカー[[ホームドア#フルスクリーンタイプ]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3283" xml:space="preserve">{{駅情報
+|社色=#0048c5
+|文字色=
+|駅名=長箭駅
+|画像=Busan-subway-129-Jangjeon-dong-station-1st-entrance.jpg
+|pxl=300
+|画像説明=駅舎（2009年2月）
+|地図={{Infobox mapframe|zoom=13|frame-width=280|type=point}}
+|母国語表記=장전
+|よみがな=チャンジョン
+|ローマ字= Jangjeon
+|副駅名=釜山カトリック大学校
+|所属事業者=[[釜山交通公社]]
+|所属路線={{Color|#f06a00|●}}[[釜山交通公社1号線|1号線]]
+|前の駅=128 [[釜山大駅|釜山大]]
+|駅間A=1.0
+|駅間B=1.1
+|次の駅=[[久瑞駅|久瑞]] 130
+|駅番号={{駅番号|#f06a00|white|129}}
+|キロ程=27.3
+|起点駅=[[新平駅|新平]]
+|所在地=[[釜山広域市]][[金井区]]長箭温泉川道144
+|駅構造=[[高架駅]]
+|ホーム=2面2線
+|開業年月日=[[1985年]][[7月19日]]
+|廃止年月日=
+|乗車人員=9550
+|乗降人員=
+|統計年度=[[2007年]]
+|乗換=
+|備考=
+}}
+{{朝鮮の事物
+|hangul=장전역
+|hanja=長箭驛
+|katakana=チャンジョンニョク
+|alphabet=Jangjeon Station
+}}
+'''長箭駅'''（チャンジョンえき）は、[[大韓民国]][[釜山広域市]][[金井区]]にある[[釜山交通公社]][[釜山交通公社1号線|1号線]]の[[鉄道駅|駅]]である。[[駅ナンバリング|駅番号]]は'''129'''。「'''釜山カトリック大学校'''」を副駅名としている。
+
+== 駅構造 ==
+[[相対式ホーム]]2面2線の[[高架駅]]。[[ホームドア#フルスクリーンタイプ|スクリーンタイプのホームドア]]が設置されている。改札内でのホーム間の移動はできない。出入口は4箇所に設けられている。
+&lt;gallery&gt;
+Jangjeon Station 2010.JPG|[[駅名標]]
+&lt;/gallery&gt;
+
+=== のりば ===
+{| border="1" cellspacing="0" cellpadding="3" frame="hsides" rules="rows"
+!上り
+|[[ファイル:Busan Metro Line 1.svg|18px|1|link=]] 1号線
+|[[多大浦海水浴場駅|多大浦海水浴場]]方面
+|-
+!下り
+|[[ファイル:Busan Metro Line 1.svg|18px|1|link=]] 1号線
+|[[老圃駅|老圃]]方面
+|}
+
+== 歴史 ==
+*[[1985年]][[7月19日]] - '''長箭洞駅'''（{{lang|ko|장전동역}}）として開業。
+*[[2010年]][[2月24日]] - '''長箭駅'''に改称。
+&lt;gallery&gt;
+Busan-subway-129-Jangjeon-dong-station-platform.jpg|改称前のホーム（2009年2月）
+&lt;/gallery&gt;
+
+== 駅周辺 ==
+*[[釜山カトリック大学校]]
+*釜山大学校
+*大真情報通信高等学校
+*[[ロッテマート]]金井店
+*釜谷3洞郵便局
+*長箭1洞住民センター
+*釜谷3洞住民センター
+*長箭初等学校
+
+== 隣の駅 ==
+;釜山交通公社
+:[[ファイル:Busan Metro Line 1.svg|18px|1|link=]] 1号線
+::[[釜山大駅]] (128) - '''長箭駅 (129)''' - [[久瑞駅]] (130)
+
+== 関連項目 ==
+{{Commonscat}}
+*[[韓国の鉄道駅一覧]]
+*[[釜山都市鉄道]]
+
+== 外部リンク ==
+* [http://www.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&amp;S_LINE=1&amp;S_STATION=129 長箭駅] - 釜山交通公社{{ko icon}}
+{{釜山交通公社1号線}}
+{{Eki-stub}}
+{{SouthKorea-stub}}
+
+{{DEFAULTSORT:ちやんしよん}}
+[[Category:韓国の鉄道駅 ち|やんしよん]]
+[[Category:釜山広域市の鉄道駅]]
+[[Category:釜山交通公社の鉄道駅]]
+[[Category:1985年開業の鉄道駅]]
+[[Category:金井区]]</text>
+      <sha1>qz7qbfbe0v61zn3hx62aoy67rdtp7xm</sha1>
+    </revision>
+  </page>
+  

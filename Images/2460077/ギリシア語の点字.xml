@@ -1,0 +1,111 @@
+<page>
+    <title>ギリシア語の点字</title>
+    <ns>0</ns>
+    <id>2460077</id>
+    <revision>
+      <id>63010632</id>
+      <parentid>62923167</parentid>
+      <timestamp>2017-02-13T16:22:13Z</timestamp>
+      <contributor>
+        <username>Antahihi</username>
+        <id>1154049</id>
+      </contributor>
+      <comment>統合提案取り下げ</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2968" xml:space="preserve">{{特殊文字}}
+'''ギリシア語の点字''' ({{lang|el|κώδικας Μπράιγ}}) は[[ギリシア語]]のうち現代の標準語である[[ディモティキ]]の表記に使われる[[点字]]体系。
+
+==記号==
+===文字===
+{| class="wikitable"
+|- align=center
+| style="font-weight: bold;" | 文字 
+|Α||Β||Γ||Δ||Ε||Ζ||Η||Θ||Ι||Κ||Λ||Μ
+|- align=center
+! 点字
+| [[File:Braille A1.svg|40px]]
+| [[File:Braille B2.svg|40px]]
+| [[File:Braille G7.svg|40px]]
+| [[File:Braille D4.svg|40px]]
+| [[File:Braille E5.svg|40px]]
+| [[File:Braille Z.svg|40px]]
+| [[File:Braille Ä.svg|40px]]
+| [[File:Braille Ô.svg|40px]]
+| [[File:Braille I9.svg|40px]]
+| [[File:Braille K.svg|40px]]
+| [[File:Braille L.svg|40px]]
+| [[File:Braille M.svg|40px]]
+|- align=center
+| style="font-weight: bold;" | 文字 
+|Ν||Ξ||Ο||Π||Ρ||Σ||Τ||Υ||Φ||Χ||Ψ||Ω
+|- align=center
+! 点字
+| [[File:Braille N.svg|40px]]
+| [[File:Braille X.svg|40px]]
+| [[File:Braille O.svg|40px]]
+| [[File:Braille P.svg|40px]]
+| [[File:Braille R.svg|40px]]
+| [[File:Braille S.svg|40px]]
+| [[File:Braille T.svg|40px]]
+| [[File:Braille Y.svg|40px]]
+| [[File:Braille F6.svg|40px]]
+| [[File:Braille H8.svg|40px]]
+| [[File:Braille AND.svg|40px]]
+| [[File:Braille J0.svg|40px]]
+|}
+===二重母音===
+{| class="wikitable"
+|- align=center
+| style="font-weight: bold;" | 文字 
+|ΑΙ||ΑΥ||ΕΙ||ΕΥ||ΟΙ||ΟΥ||ΥΙ||ΗΥ
+|- align=center
+! 点字
+| [[File:Braille Ê.svg|40px]]
+| [[File:Braille Å.svg|40px]]
+| [[File:Braille SH.svg|40px]]
+| [[File:Braille Û.svg|40px]]
+| [[File:Braille Ö.svg|40px]]
+| [[File:Braille U.svg|40px]]
+| [[File:Braille Ï.svg|40px]]
+| [[File:Braille Ü.svg|40px]]
+|}
+===句読点など===
+{| class="wikitable"
+|- align=center
+| style="font-weight: bold;" | 文字 
+|大文字符||強勢||数符||.||,||;||'||括弧
+|- align=center
+! 点字
+| [[File:Braille DecimalPoint.svg|40px]]
+| [[File:Braille ContractionPrefix.svg|40px]]
+| [[File:Braille NumberSign.svg|40px]]
+| [[File:Braille Period.svg|40px]]
+| [[File:Braille Comma.svg|40px]]
+| [[File:Braille QuestionMark.svg|40px]]
+| [[File:Braille Apostrophe.svg|40px]]
+| [[File:Braille Bracket.svg|40px]]
+|- align=center
+| style="font-weight: bold;" | 文字 
+|“||”||:||+||-||*||/||=
+|- align=center
+! 点字
+| [[File:Braille QuoteOpen.svg|40px]]
+| [[File:Braille QuoteClose.svg|40px]]
+| [[File:Braille Semicolon.svg|40px]]
+| [[File:Braille È.svg|40px]]
+| [[File:Braille Hyphen.svg|40px]]
+| [[File:Braille Å.svg|40px]]
+| [[File:Braille ST.svg|40px]]
+| [[File:Braille Hyphen.svg|40px]][[File:Braille Hyphen.svg|40px]]
+|}
+==参考文献==
+*[http://access.uoa.gr/Unit%20Instructions%20Files/Greek%20Braille%20System.pdf Greek Braille System] (2011年11月5日 18:38JST閲覧)
+*[http://www.fte.org.gr/html/brail.htm {{lang|el|Γραφή Braille - Φάρος Τυφλών της Ελλάδας}}] (2011年11月5日 18:38JST閲覧)
+
+[[Category:ギリシア語|てんし]]
+[[Category:言語別の点字|きりしあこ]]</text>
+      <sha1>ltxspl5it25c0pzlwap7a32f2x2yee9</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,143 @@
+<page>
+    <title>ふたご座U星</title>
+    <ns>0</ns>
+    <id>3899717</id>
+    <revision>
+      <id>93689174</id>
+      <parentid>93498703</parentid>
+      <timestamp>2023-02-03T00:29:15Z</timestamp>
+      <contributor>
+        <username>Bcxfubot</username>
+        <id>291984</id>
+      </contributor>
+      <minor />
+      <comment>外部リンクの修正 http:// -&gt; https:// (simbad.u-strasbg.fr) ([[Wikipedia:Bot|Bot]]による編集)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14558" xml:space="preserve">{{Otheruses| |ふたご座U型星|矮新星}}
+{{天体 基本
+| 色 = 恒星
+| 和名 = ふたご座U星
+| 英名 = [[:en:U Geminorum|U Geminorum]]
+| 星座 = [[ふたご座]]
+| 視等級 = 14.54{{R|simbad}}&lt;br /&gt;8.2 - 14.9{{R|gcvs}}
+| 変光星型 = [[矮新星|はくちょう座SS型]] / [[食変光星]]{{R|gcvs}}
+}}
+{{天体 位置
+| 色 = 恒星
+| 元期 = [[J2000.0]]
+| 赤経 = {{RA|07|55|05.2323858391}}{{R|simbad}}
+| 赤緯 = {{DEC|+22|00|05.045435077}}{{R|simbad}}
+| 固有運動 = 赤経: -27.363 [[秒 (角度)|ミリ秒]]/[[年]]{{R|simbad}}&lt;br /&gt;赤緯: -40.398 ミリ秒/年{{R|simbad}}
+| 視線速度 = 29 km/s{{R|nal05}}
+| parallax = 10.7121
+| p_error = 0.0299
+| parallax_footnote = {{R|simbad}}
+| 星図位置画像 = Gemini constellation map.svg
+| 位置画像left = 17
+| 位置画像top = 39
+| 画像説明 = ふたご座U星の位置（丸印）
+}}
+{{天体 物理
+| 色 = 恒星
+| 半径 = [[白色矮星|WD]]: 3,900 km{{R|edc07}}&lt;br /&gt;伴星: 0.43 [[太陽半径|''R''&lt;sub&gt;☉&lt;/sub&gt;]]{{R|nal05}}
+| 質量 = WD: 1.20 [[太陽質量|''M''&lt;sub&gt;☉&lt;/sub&gt;]]{{R|edc07}}&lt;br /&gt;伴星: 0.42 [[太陽質量|''M''&lt;sub&gt;☉&lt;/sub&gt;]]{{R|edc07}}
+| スペクトル分類 = D + M2 V{{R|nal05}}
+| 表面温度 = WD: ~ 36,250[[ケルビン|K]]{{R|godon17}}（静穏期）&lt;br /&gt;伴星: 3,400 K{{R|smak01}}
+| 自転速度 = 伴星: 115 km/s{{R|nal05}}
+}}
+{{天体 軌道
+| 色 = 恒星
+| 公転周期 = 0.176906 [[日]]{{R|kreiner04}}
+| 軌道傾斜角 = 69.7°{{R|zr87}}
+| 軌道長半径 = 1.55 ''R''&lt;sub&gt;☉&lt;/sub&gt;{{R|edc07}}
+}}
+{{天体 別名称
+| 色 = 恒星
+| 別名称 = [[掃天星表|BD]]+22 1807, [[ヘンリー・ドレイパーカタログ|HD]] 64511, [[2MASS]] J07550523+2200050{{R|simbad}}
+}}
+{{天体 終了|恒星}}
+
+'''ふたご座U星'''（ふたござUせい、U Geminorum、U Gem）は、[[ふたご座]]の方角、[[地球]]から約304[[光年]]離れた場所にある[[矮新星]]である{{R|simbad}}。[[白色矮星]]を含む[[連星]]系で、白色矮星へ物質が降着することで、数ヶ月ごとに明るさが大きく上昇する。矮新星の典型とされた[[天体]]で、矮新星のことを「ふたご座U型星」ということもある{{R|doa}}。
+
+== 発見 ==
+[[1855年]][[12月15日]]、[[ジョン・ハインド|ハインド]]が発見した{{R|hind56}}。ハインドは、それまで星が見られなかった領域に、突如9[[等級 (天文)|等級]]の星を観測。その3日後には、0.5等級以上暗くなり、更に4週間後には12等級以下となって、[[変光星]]であることが明らかになった。
+
+翌[[1856年]]の[[3月26日]]には、[[ノーマン・ポグソン|ポグソン]]が再び9等台でこの星を記録{{R|pogson57}}。ポグソンは更に[[1857年]]4月の増光も観測し、ふたご座U星が周期的に増光する天体であることがわかってきた。
+
+== 変光 ==
+=== 増光 ===
+[[ファイル:U Gem aavso.png|thumb|left|ふたご座U星の爆発的な増光を示す光度曲線（[[アメリカ変光星観測者協会|AAVSO]]のデータより）。黒は眼視、緑は[[ジョンソンのUBVシステム|ジョンソンのV等級]]での測定値を表す。横軸は[[ユリウス日]]。]]
+ふたご座U星は、普段は14等台だが、時々5等級くらい明るくなり、明るい状態が1週間から3週間程度続く{{R|sm84}}。この大幅な増光は、平均すると大体100日くらいの周期で繰り返されるが、それぞれの増光の間隔は大きくばらついている{{R|cook87}}。増光には持続時間が1週間強の短いものと、持続時間が2週間前後になる長いものとがあり、それらは交互に現れることが多いが、どちらかのパターンが連続する場合もある{{R|cook87}}。[[1985年]]には、明るい状態が42日間と通常より大幅に長く続く増光（スーパーアウトバースト）が発生した{{R|mattei85|sw04}}。
+
+増光量及び増光している期間の長さは、[[新星]]には及ばないので、ふたご座U星のような天体は矮新星と呼ばれる。ふたご座U星は、矮新星の原型であり、矮新星のことをふたご座U型星と呼ぶ場合もあるが、現在は矮新星も細分化が進んでおり、ふたご座U星は矮新星の小分類のうち、はくちょう座SS型星に分類されている{{R|doa|gcvs}}。
+
+ふたご座U星は、[[黄道]]に近い方角にあるため、6月から8月にかけては観測がほぼ不可能であるので、これまでに見逃された増光もあると考えられている{{R|vsoty2000}}。
+
+=== 食 ===
+矮新星の正体が連星系であることは、まず[[分光法|分光観測]]からわかってきた。ふたご座U星も、[[パロマー天文台]]での観測から、[[分光連星]]であることがまず確認され、[[公転]]周期も求められた{{R|kraft62}}。やや遅れて、[[ローウェル天文台]]での[[測光 (天文)|測光観測]]から、ふたご座U星が[[食変光星]]であることがわかった{{R|krzeminski65}}。
+
+=== その他 ===
+より詳しい[[光度曲線]]の分析から、こぶ状の増光や細かい明滅といった[[食 (天文)|食]]以外の要因とみられる変光も見つかっている{{R|wn71|smak71}}。1985年の増光では、公転周期より若干長い周期で明るさにわずかな変化がみられる「スーパーハンプ」も観測されている{{R|sw04}}。
+
+== 構造 ==
+[[ファイル:Cataclysmic variable ja.svg|thumb|left|[[激変星]]の基本的な構造。]]
+ふたご座U星は、白色矮星の主星と晩期型の[[主系列星]]の伴星からなる近接連星系と考えられる{{R|robinson76}}。公転周期は、約4時間15分である{{R|kreiner04}}。伴星は、[[ロッシュ・ローブ]]を満たしており、伴星から主星へ[[物質移動|質量移動]]が起こり、主星の周りに[[降着円盤]]を形成している{{R|wn71|smak71}}。
+
+伴星から降着円盤へ質量が移動する際に、流入する物質と降着円盤が衝突する部分に輝点ができ、それが可視光での主な光源となっている{{R|wn71|smak71}}。星系の軌道傾斜角からして、白色矮星自身は伴星によって隠されることがなく、食は伴星が降着円盤上の輝点を隠すことで起こる{{R|wn71|smak71}}。
+
+増光は、白色矮星に物質が降着する際に解放される[[位置エネルギー|重力エネルギー]]をエネルギー源とし、降着円盤内部に固有の不安定性、もしくは伴星の影響による不安定性によって、白色矮星上に降着する質量が大幅に増加することで、発生していると考えられる{{R|wn71|smak71}}。[[紫外線]]の分光観測から、白色矮星へ物質が降着するペースを表す質量降着率が、増光時には静穏時の数倍に上昇することが確認されている{{R|sion97}}。
+
+== 脚注 ==
+{{Reflist |group="注" |refs=
+}}
+
+=== 出典 ===
+{{Reflist |colwidth=30em |refs=
+&lt;ref name="simbad"&gt;{{Cite web |url=https://simbad.u-strasbg.fr/simbad/sim-id?Ident=U+Gem |title=U Gem -- Dwarf Nova |work=[[SIMBAD]] |publisher=[[ストラスブール天文データセンター|CDS]] |accessdate=2018-11-28 }}&lt;/ref&gt;
+&lt;ref name="gcvs"&gt;{{Citation |author=Samus, N. N.; et al. |date=2009-01 |title=[[変光星総合カタログ|General Catalogue of Variable Stars]] |work=VizieR On-line Data Catalog: B/gcvs |bibcode=2009yCat....102025S }}&lt;/ref&gt;
+&lt;ref name="kreiner04"&gt;{{Citation |last=Kreiner |first=J. M. |date=2004-06 |title=Up-to-Date Linear Elements of Eclipsing Binaries |journal=Acta Astronomica |volume=54 |pages=207-210 |bibcode=2004AcA....54..207K }}&lt;/ref&gt;
+&lt;ref name="edc07"&gt;{{Citation |last1=Echevarría |first1=Juan |last2=de la Fuente |first2=Eduardo |last3=Costero |first3=Rafael |date=2007-07 |title=U Geminorum: A Test Case for Orbital Parameter Determination |journal=Astronomical Journal |volume=134 |issue=1 |pages=262-273 |doi=10.1086/518562 |bibcode=2007AJ....134..262E }}&lt;/ref&gt;
+&lt;ref name="zr87"&gt;{{Citation |last1=Zhang |first1=E.-H. |last2=Robinson |first2=Edward L. |date=1987-10 |title=The eclipses of cataclysmic variables. II - U Geminorum |journal=Astrophysical Journal |volume=321 |pages=813-821 |doi=10.1086/165674 |bibcode=1987ApJ...321..813Z }}&lt;/ref&gt;
+&lt;ref name="hind56"&gt;{{Citation |last=Hind |first=John Russell |author-link=ジョン・ハインド |date=1856-01 |title=On a new Variable Star |journal=Monthly Notices of the Royal Astronomical Observatory |volume=16 |page=56 |doi=10.1093/mnras/16.3.56 |bibcode=1856MNRAS..16...56H }}&lt;/ref&gt;
+&lt;ref name="nal05"&gt;{{Citation |last1=Naylor |first1=T. |last2=Allan |first2=A. |last3=Long |first3=K. S. |date=2005-08 |title=The masses, radii and luminosities of the components of U Geminorum |journal=Monthly Notices of [[王立天文学会|the Royal Astronomical Society]] |volume=361 |issue=3 |pages=1091-1101 |doi=10.1111/j.1365-2966.2005.09262.x |bibcode=2005MNRAS.361.1091N }}&lt;/ref&gt;
+&lt;ref name="pogson57"&gt;{{citation |last=Pogson |first=Norman |author-link=ノーマン・ポグソン |date=1857-05 |title=On the Variable Star U Geminorum |journal=Monthly Notices of the Royal Astronomical Society |volume=17 |pages=200-202 |doi=10.1093/mnras/17.7.200 |bibcode=1857MNRAS..17..200P }}&lt;/ref&gt;
+&lt;ref name="sw04"&gt;{{Citation |last1=Smak |first1=Józef |last2=Waagen |first2=Elizabeth O. |date=2004-12 |title=The 1985 Superoutburst of U Geminorum. Detection of Superhumps |journal=Acta Astronomica |volume=54 |pages=433-442 |bibcode=2004AcA....54..433S }}&lt;/ref&gt;
+&lt;ref name="kraft62"&gt;{{Citation |last=Kraft |first=Robert P. |author-link=ロバート・クラフト (天文学者) |date=1962-03 |title=Binary Stars among Cataclysmic Variables. I. U Geminorum Stars (Dwarf Novae) |journal=Astrophysical Journal |volume=135 |pages=408-423 |doi=10.1086/147280 |bibcode=1962ApJ...135..408K }}&lt;/ref&gt;
+&lt;ref name="krzeminski65"&gt;{{Citation |last=Krzeminski |first=W. |date=1965-10 |title=The Eclipsing Binary U Geminorum |journal=Astrophysical Journal |volume=142 |pages=1051-1067 |doi=10.1086/148375 |bibcode=1965ApJ...142.1051K }}&lt;/ref&gt;
+&lt;ref name="smak71"&gt;{{Citation |last=Smak |first=Józef |date=1971 |title=Eruptive Binaries. II. U Geminorum |journal=Acta Astronomica |volume=21 |pages=15-47 |bibcode=1971AcA....21...15S }}&lt;/ref&gt;
+&lt;ref name="mattei85"&gt;{{Citation |author=Mattei, J. A.; et al. |date=1985-12 |title=U Geminorum |journal=[[国際天文学連合|IAU]] Circular |volume=4147 |page=2 |bibcode=1985IAUC.4147....2M }}&lt;/ref&gt;
+&lt;ref name="smak01"&gt;{{Citation |last=Smak |first=Józef I. |date=2001-09 |title=U Gem - Rediscussion of Radial Velocities and System Parameters |journal=Acta Astronomica |volume=51 |pages=279-293 |bibcode=2001AcA....51..279S }}&lt;/ref&gt;
+&lt;ref name="sm84"&gt;{{Citation |last1=Szkody |first1=Paula |last2=Mattei |first2=Janet Akyuz |author2-link=ジャネット・アクユズ・マッテイ |date=1984-12 |title=Analysis of the AAVSO light curves of 21 dwarf novae |journal=Publications of the Astronomical Society of the Pacific |volume=96 |pages=988-995 |doi=10.1086/131464 |bibcode=1984PASP...96..988S }}&lt;/ref&gt;
+&lt;ref name="cook87"&gt;{{Citation |last=Cook |first=Lewis M. |date=1987-12 |title=The Frequency of Outbursts of the Dwarf Nova U Geminorum |journal=Journal of [[アメリカ変光星観測者協会|the American Association of Variable Star Observers]] |volume=16 |issue=2 |pages=83-90 |bibcode=1987JAVSO..16...83C }}&lt;/ref&gt;
+&lt;ref name="doa"&gt;{{Citation |last=Ridpath |first=Ian |date=2012 |title=A Dictionary of Astronomy |page=486 |publisher=[[オックスフォード大学出版局|Oxford University Press]] |isbn=9780199609055 |doi=10.1093/acref/9780199609055.001.0001 }}&lt;/ref&gt;
+&lt;ref name="wn71"&gt;{{Citation |last1=Warner |first1=Brian |last2=Nather |first2=R. Edward |date=1971 |title=Observations of rapid blue variables - II. U Geminorum |journal=Monthly Notices of the Royal Astronomical Society |volume=152 |pages=219-229 |doi=10.1093/mnras/152.2.219 |bibcode=1971MNRAS.152..219W }}&lt;/ref&gt;
+&lt;ref name="robinson76"&gt;{{Citation |last=Robinson |first=Edward L. |date=1976 |title=The structure of cataclysmic variables |journal=Annual Review of Astronomy &amp;amp; Astrophysics |volume=14 |pages=119-142 |doi=10.1146/annurev.aa.14.090176.001003 |bibcode=1976ARA&amp;A..14..119R }}&lt;/ref&gt;
+&lt;ref name="sion97"&gt;{{Citation |author=Sion, Edward M.; et al. |date=1997-07 |title=Hubble Space Telescope GHRS Spectroscopy of U Geminorum during Two Outbursts |journal=Astrophysical Journal |volume=483 |issue=2 |pages=907-912 |doi=10.1086/304269 |bibcode=1997ApJ...483..907S }}&lt;/ref&gt;
+&lt;ref name="vsoty2000"&gt;{{Citation |author=British Astronomical Association |date=2000 |title=Variable Star of the Year: U Geminorum |publisher=British Astronomical Association |url=http://www.britastro.org/vss/vsoty_ugem_2000.pdf |format=PDF }}&lt;/ref&gt;
+&lt;ref name="godon17"&gt;{{Citation |author=Godon, Patrick; et al. |date=2017-12 |title=HST/COS Far-ultraviolet Spectroscopic Analysis of U Geminorum Following a Wide Outburst |journal=[[アストロフィジカルジャーナル|Astrophysical Journal]] |volume=850 |issue=2 |page=146 |doi=10.3847/1538-4357/aa9616 |bibcode=2017ApJ...850..146G }}&lt;/ref&gt;
+}}
+
+== 参考文献 == 
+* {{Citation |和書 |last=岡崎 |first=彰 |author-link=岡崎彰 |title=奇妙な42の星たち |pages=145-149 |publisher=[[誠文堂新光社]] |date=1994-04-01 |isbn=4-416-29420-4 }}
+* {{Citation |和書 |author=R. バーナム Jr. |author-link=ロバート・バーナム・ジュニア |translator=[[斉田博]] |date=1988-02-10 |title=星百科大事典 改訂版 |publisher=[[地人書館]] |pages=1061-1066 |isbn=4-8052-0266-1 }}
+
+== 外部リンク ==
+* [https://www.aavso.org/vsots_ugem U Geminorum] - [[アメリカ変光星観測者協会|AAVSO]]
+* {{Cite web |url=https://www.aavso.org/vsx/index.php?view=detail.top&amp;oid=14298 |title=VSX: Detail for U Gem |publisher=AAVSO |accessdate=2017-03-16 }}
+* [http://www.astro.ex.ac.uk/people/timn/UGem/ U Geminorum]
+* [http://astronomy.swin.edu.au/cosmos/U/U+Geminorum+Stars U Geminorum Stars] - COSMOS - The SAO Encyclopedia of Astronomy
+* [https://www.daviddarling.info/encyclopedia/U/U_Geminorum_star.html U Geminorum star] - The Worlds of David Darling
+
+{{Sky|07|55|05.2323858391|+|22|00|05.045435077|304.5}}
+
+{{DEFAULTSORT:ふたこさUせい}}
+[[Category:連星]]
+[[Category:激変星]]
+[[Category:食変光星]]
+[[Category:ふたご座|Uせい]]
+[[Category:天文学に関する記事]]</text>
+      <sha1>8ljceu9u77m2dywoacprnbdz9waxza2</sha1>
+    </revision>
+  </page>
+  

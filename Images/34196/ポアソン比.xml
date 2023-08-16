@@ -1,0 +1,236 @@
+<page>
+    <title>ポアソン比</title>
+    <ns>0</ns>
+    <id>34196</id>
+    <revision>
+      <id>91228610</id>
+      <parentid>85567200</parentid>
+      <timestamp>2022-08-30T12:13:26Z</timestamp>
+      <contributor>
+        <username>おいらのオイラー</username>
+        <id>1984384</id>
+      </contributor>
+      <minor />
+      <comment>[[Category:エポニム]]を除去; [[Category:物理学のエポニム]]を追加 ([[WP:HotCat|HotCat]]使用)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10854" xml:space="preserve">'''ポアソン比'''（ポアソンひ、{{lang-en|Poisson's ratio, Poisson coefficient}}）とは、物体に[[弾性|弾性限界]]内で[[応力]]を加えたとき、応力に直角方向に発生する[[ひずみ]]と応力方向に沿って発生するひずみの[[比]]のことである&lt;ref name = "機械工学辞典"&gt;{{cite book|和書 |editor=日本機械学会 |title=機械工学辞典 |publisher=丸善 |date=2007-01-20 |edition=第2版 |isbn=978-4-88898-083-8 |page=1214}}&lt;/ref&gt;。[[ヤング率]]などと同じく弾性限界内では材料固有の定数と見なされる。
+
+名称はフランスの物理学者[[シメオン・ドニ・ポアソン]]に由来する。
+
+== 定義 ==
+[[File:Dwarscontractie.png|thumb|直方体に引張荷重が負荷するときの変形の様子&lt;br&gt;青が負荷前の形状、赤が負荷後の形状]]
+ある物体に ''z'' 軸方向に単軸応力(一方向のみに働く[[応力]])が働くとき、物体の[[弾性]]に基づき ''z'' 軸方向の寸法が伸びて、縦ひずみ ''ε&lt;sub&gt;z&lt;/sub&gt;'' が発生する。このとき付随的に、''z'' 軸直角方向の ''x'' 軸と ''y'' 軸にも横ひずみ ''ε&lt;sub&gt;x&lt;/sub&gt;'' と ''ε&lt;sub&gt;y&lt;/sub&gt;'' が発生する。この現象を'''ポアソン効果'''(Poisson effect)とも呼ぶ&lt;ref&gt;{{cite encyclopedia | encyclopedia =The Oxford Dictionary of Sports Science &amp; Medicine | title = Poisson effect | url = http://www.oxfordreference.com/view/10.1093/oi/authority.20110803100333756 | accessdate = 2014-04-26 | edition = 3}}&lt;/ref&gt;。
+この横ひずみを縦ひずみで除し、−1 を掛けたものがポアソン比 ''ν'' である。
+:&lt;math&gt; \nu_x = -\frac{\varepsilon_x}{\varepsilon_z}, \nu_y = -\frac{\varepsilon_y}{\varepsilon_z}&lt;/math&gt;
+方向によらずポアソン比一定の材料の場合は、単に ''ν'' とも表す。
+:&lt;math&gt; \nu_x = \nu_y = \nu&lt;/math&gt;
+ポアソン比の逆数を'''ポアソン数'''といい、''m'' で表される&lt;ref name = "機械工学辞典"/&gt;。
+:&lt;math&gt; m = \frac{1}{\nu}&lt;/math&gt;
+
+== ポアソン比と応力・ひずみの関係式 ==
+[[File:Poisson coef.png|thumb|単軸応力が負荷する2次元板]]
+例として、最も単純な2次元板に1方向のみに応力 ''σ&lt;sub&gt;x&lt;/sub&gt;''（単軸応力）が負荷する場合を挙げると、この板中の応力とひずみの関係は、ポアソン比 ''ν'' と[[ヤング率]] ''E'' より以下のようになる&lt;ref name = "弾性力学_41"/&gt;。
+:&lt;math&gt; \begin{align}
+\varepsilon_{x} &amp;= \frac{\sigma_x}{E}, \\
+\varepsilon_{y} &amp;= -\frac{\nu \sigma_x}{E}
+\end{align} &lt;/math&gt;
+:
+上記の関係を[[フックの法則]]と呼ぶ。
+
+材料が等方均質の場合の、3次元一般状態での関係式については、
+*[[フックの法則#フックの法則のテンソル表現]]
+*[[平面応力状態#平面応力状態でのフックの法則]]
+*[[平面ひずみ状態#平面ひずみ状態でのフックの法則]]
+を参照。
+
+== ポアソン比の範囲 ==
+材料が等方性の場合、単位体積当たりの[[ひずみエネルギー]]である'''ひずみエネルギ関数''' ''U''&lt;sub&gt;0&lt;/sub&gt; は以下のように示される&lt;ref name = "弾性力学_90"/&gt;。
+:&lt;math&gt; U_0 = \frac{E\nu}{2(1+\nu)(1-2\nu)}(\varepsilon_x + \varepsilon_y + \varepsilon_z)^2+G\left\{(\varepsilon_x^2 + \varepsilon_y^2 + \varepsilon_z^2)+\frac{1}{2}(\gamma_{xy}^2+\gamma_{yz}^2+\gamma_{zx}^2)\right\}&lt;/math&gt;
+ここで、''E'':ヤング率、''G'':[[剛性率]]、''ε'':垂直ひずみ、''γ'':せん断ひずみである。
+
+ひずみエネルギ関数は正値形式を取るので、&lt;math&gt;U_0 \ge 0 &lt;/math&gt; を満たすにはポアソン比 ''ν'' の取り得る範囲は以下のように決まる&lt;ref name = "弾性力学_90"/&gt;。
+:&lt;math&gt; -1 &lt; \nu &lt; 1/2 &lt;/math&gt;
+下限の −1 は、形状一定（縦ひずみ ＝ 横ひずみ：つまり荷重方向に直角な方向にも伸びが生じ，立方体の形状が保たれるような変化を表す）を意味する。上限の 1/2 は、下記のように微小ひずみの範囲で体積一定を意味する。
+
+変形による体積変化を考察する。縦方向に引張・圧縮の単軸荷重を受けるとき、縦方向方向の寸法変化は (1 + ''ε'') 倍となる。一方、横方向の寸法は (1 − ''νε'') 倍となり、断面積変化は (1 − ''νε'')&lt;sup&gt;2&lt;/sup&gt; 倍となる。よって体積変化は (1 + ''ε'')(1 − ''νε'')&lt;sup&gt;2&lt;/sup&gt; = (1 - 2''νε'' + ''ε'' − 2''νε''&lt;sup&gt;2&lt;/sup&gt; + ''ν''&lt;sup&gt;2&lt;/sup&gt;''ε''&lt;sup&gt;2&lt;/sup&gt; + ''ν''&lt;sup&gt;2&lt;/sup&gt;''ε''&lt;sup&gt;3&lt;/sup&gt;) 倍となる。ひずみ ''ε'' が微小範囲とすれば、''ε'' の高次の項を無視できるので、体積変化は (1 − 2''νε'' + ''ε'') 倍となる。このとき、''ν'' が 1/2 であれば、''ε'' の値にかかわらず体積変化は常に1倍となり体積変化無し・体積一定となる&lt;ref name = "構造力学I_37"/&gt;。
+
+[[File:Illustration du comportement d'un matériau auxétique.PNG|thumb|負のポアソン比を示す材料構造の例（右）]]
+上記のように理想的な条件ではポアソン比は負の値を取り得るが、実際の物質で負の値を示すものはごく稀にしか存在しない。負のポアソン比を示す数少ない例として[[クリストバライト]]（[[二酸化ケイ素|SiO&lt;SUB&gt;2&lt;/SUB&gt;]]からなる[[結晶]]）がある。また、ペンタグラフェン（五角形の[[グラフェン]]）&lt;ref&gt;[http://www.tohoku.ac.jp/japanese/2015/04/press20150421-02.html 五角形のグラフェンの発見-夢の新素材として期待-] - [[東北大学]]プレスリリース&lt;/ref&gt;、内部に[[ハニカム構造]]を持つ材料&lt;ref name="Negative Poisson's ratio"&gt;{{Citation |title= Negative Poisson's ratio materials |url=http://silver.neep.wisc.edu/~lakes/Poisson.html |author= Roderic Lakes |accessdate=2014-01-02}}&lt;/ref&gt;には負のポアソン比を示すものがある。
+
+== 弾性率の相関関係 ==
+等方均質弾性体では、[[ヤング率]]、'''ポアソン比'''、[[圧縮率#体積弾性率|体積弾性率]]、[[剛性率]]、[[ラメ定数|ラメの第一定数]]の五つの[[弾性率]]はそれぞれ、二つを用いて残りの三つを表すことができる。
+
+{{main|弾性率#弾性率の相関関係}}
+
+== 主な物質のポアソン比 ==
+''注：以下に載せる値は目安であり、必ずしも保証されるものではない。''
+
+{| class="sortable wikitable"
+|-
+! 材料
+! ポアソン比
+! 出典
+|- 
+| [[天然ゴム]]
+| 0.49
+| &lt;ref name = "高分子材料入門_44"&gt;{{cite book|和書|author=小川俊夫|title=工学技術者の高分子材料入門|publisher=共立出版|date=2003-10-01|edition=初版|ISBN=4-320-04294-8|page=44}}&lt;/ref&gt;
+|- 
+| [[高密度ポリエチレン]]
+| 0.30
+|&lt;ref name = "高分子材料入門_44"/&gt;
+|- 
+| [[ポリスチレン]]
+| 0.35
+|&lt;ref name = "高分子材料入門_44"/&gt;
+|- 
+| [[ポリカーボネート]]
+| 0.39
+|&lt;ref name = "高分子材料入門_44"/&gt;
+|- 
+| [[ポリアセタール]]
+| 0.32
+|&lt;ref name = "高分子材料入門_44"/&gt;
+|- 
+| [[エポキシ樹脂]]
+| 0.37
+|&lt;ref name = "高分子材料入門_44"/&gt;
+|- 
+| [[タングステン]]
+| 0.28
+|&lt;ref&gt;{{Cite web |url=http://www.plansee.com/jp/Materials-Tungsten-403.htm|title=材料紹介：タングステン |publisher=[[プランゼージャパン]] |accessdate=2014-03-09}}&lt;/ref&gt;
+|- 
+| [[アルミニウム]]
+| 0.345
+|&lt;ref name = "物理学_89"&gt;{{cite book|和書 |author= 小出昭一郎 |title=物理学
+|publisher=裳華房 |edition=第3版|year=2003 |isbn=4-7853-2074-5 |page=89}}&lt;/ref&gt;
+|- 
+| [[モリブデン]]
+| 0.31
+|&lt;ref&gt;{{Cite web |url=http://www.plansee.com/jp/Materials-Molybdenum-402.htm#Talent_Molybdaen|title=材料紹介：モリブデン |publisher=[[プランゼージャパン]] |accessdate=2014-03-09}}&lt;/ref&gt;
+|- 
+| [[ガラス]]
+| 0.27
+|&lt;ref name = "物理学_89"/&gt;
+|- 
+| [[銅]]
+| 0.343
+|&lt;ref name = "物理学_89"/&gt;
+|-
+| [[鋳鉄]]
+| 0.27
+|&lt;ref name = "物理学_89"/&gt;
+|-
+| [[鋼]]
+| 0.28 - 0.30
+|&lt;ref name = "物理学_89"/&gt;
+|- 
+| [[黄銅]]（亜鉛30%）
+| 0.35
+|&lt;ref name = "材料強度学_8"/&gt;
+|- 
+| [[鉛]]
+| 0.44
+|&lt;ref name = "物理学_89"/&gt;
+|- 
+| [[金]]
+| 0.44
+|&lt;ref name = "物理学_89"/&gt;
+|- 
+| [[スズ]]
+| 0.36
+|&lt;ref name = "材料強度学_8"&gt;{{cite book|和書|author=境田彰芳|coauthors =上野明・磯西和夫・西野精一・堀川教世|title=材料強度学|publisher=コロナ社date=2011-05-02|edition=初版|ISBN=978-4-339-04476-8|page=8}}&lt;/ref&gt;
+|- 
+| [[タンタル]]
+| 0.35
+|&lt;ref&gt;{{Cite web |url=http://www.plansee.com/jp/Materials-Tantalum-404.htm |title=材料紹介：タンタル|publisher=[[プランゼージャパン]] |accessdate=2014-03-09}}&lt;/ref&gt;
+|- 
+| [[ニオブ]]
+| 0.35
+|&lt;ref&gt;{{Cite web |url=http://www.plansee.com/jp/Materials-Niobium-405.htm#Niob_Eigenschaften |title=材料紹介：ニオブ|publisher=[[プランゼージャパン]] |accessdate=2014-03-09}}&lt;/ref&gt;
+|- 
+| [[クロム]]
+| 0.21
+|&lt;ref&gt;{{Cite web |url=http://www.plansee.com/jp/Materials-Chromium-939.htm#Eigenschaften_Chrom |title=材料紹介：クロム|publisher=[[プランゼージャパン]] |accessdate=2014-03-09}}&lt;/ref&gt;
+|- 
+| [[砂岩]]
+| 0.14 - 0.33
+|&lt;ref name = "構造力学I_34"/&gt;
+|-
+| [[安山岩]]
+| 0.07 - 0.22
+|&lt;ref name = "構造力学I_34"/&gt;
+|-
+| [[結晶片岩]]
+| 0.08 - 0.20
+|&lt;ref name = "構造力学I_34"/&gt;
+|-
+| [[石灰岩]]
+| 0.19 - 0.27
+|&lt;ref name = "構造力学I_34"/&gt;
+|- 
+| [[大理石]]
+| 0.25 - 0.38
+|&lt;ref name = "構造力学I_34"/&gt;
+|- 
+| [[花崗岩]]
+| 0.25 - 0.38
+|&lt;ref name = "構造力学I_34"/&gt;
+|- 
+| [[ダイヤモンド]]
+| 0.2
+|&lt;ref name = "材料強度学_8"/&gt;
+|- 
+| [[コルク]]
+| ほぼ0
+|&lt;ref name = "構造力学I_37"/&gt;
+|}
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist|refs=
+&lt;ref name = "弾性力学_41"&gt;[[#弾性力学|「弾性力学」p.41]]&lt;/ref&gt;
+&lt;ref name = "弾性力学_90"&gt;[[#弾性力学|「弾性力学」p.90]]&lt;/ref&gt;
+&lt;ref name = "構造力学I_34"&gt;[[#構造力学I|「構造力学I」p.34]]&lt;/ref&gt;
+&lt;ref name = "構造力学I_37"&gt;[[#構造力学I|「構造力学I」p.37]]&lt;/ref&gt;
+
+}}
+
+== 参考文献 ==
+* {{cite book|和書
+|author=村上敬宜
+|title=弾性力学
+|publisher=養賢堂
+|date=2004-03-30
+|edition=第14版
+|ISBN=978-4842501215
+|ref=弾性力学
+}}
+* {{cite book|和書
+|author=小西一郎、横尾義貫、成岡昌夫、丹羽義次
+|title=構造力学 第I巻
+|publisher=丸善
+|date=1986-01-20
+|edition=第2版
+|ISBN=4-621-02533-3
+|ref=構造力学I
+}}
+
+==外部リンク==
+{{Commonscat|Poisson coefficient|ポアソン比}}
+*{{Kotobank}}
+
+{{Normdaten}}
+{{DEFAULTSORT:ほあそんひ}}
+[[Category:物性値]]
+[[Category:材料工学]]
+[[Category:固体力学]]
+[[Category:無次元数]]
+[[Category:比]]
+[[Category:弾性]]
+[[Category:シメオン・ドニ・ポアソン]]
+[[Category:物理学のエポニム]]</text>
+      <sha1>fy8opkcq7173zcjooma03ejzerfq2r2</sha1>
+    </revision>
+  </page>
+  

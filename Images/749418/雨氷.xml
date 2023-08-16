@@ -1,0 +1,328 @@
+<page>
+    <title>雨氷</title>
+    <ns>0</ns>
+    <id>749418</id>
+    <revision>
+      <id>93652863</id>
+      <parentid>93648142</parentid>
+      <timestamp>2023-01-31T13:56:19Z</timestamp>
+      <contributor>
+        <username>睡魔氏</username>
+        <id>1797188</id>
+      </contributor>
+      <minor />
+      <comment>ループリンクの修正</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="65329" xml:space="preserve">[[File:Freezing Rain on Tree Branch.jpg|thumb|right|300px|雨氷が形成された枝先]]
+'''雨氷'''（うひょう&lt;ref name="daijirin"&gt;[[#daijirin|三省堂 大辞林第二版「雨氷」]]&lt;/ref&gt;、{{Lang-en-short|Freezing rain}}）は、[[0℃]]以下でも凍っていない[[過冷却]]状態の[[雨]]（着氷性の雨）が[[地面]]や[[木]]などの物体に付着することをきっかけに凍って形成される硬く[[透明]]な[[氷]]のこと。[[着氷]]現象の一種でもある。
+
+== 概要 ==
+[[ファイル:Freezing grass.jpg|thumb|right|220px|芝生にとげのように形成された雨氷]]
+[[ファイル:Ice Storm Kansas.jpg|thumb|right|220px|木の[[枝]]全体に形成され垂れ下がった雨氷。このように垂れ下がった形で凍ることもある。]]
+=== 過冷却と凍結 ===
+{{see also|過冷却|水の性質}}
+[[水]]は[[凝固点]]（[[標準気圧]]の下で{{val|0|u=degC}}）以下に[[温度]]を下げると[[氷]]になる。しかし、ある条件下では凝固点を下回っても凍らないことがある。このような現象を[[過冷却]]という。水の過冷却は[[熱力学的平衡|平衡状態]]への緩和が遅く、液体として[[準安定状態|準安定的]]に存在できる場合に起こる。
+自然界では、[[雲]]や[[霧]]を構成する[[水滴]]のように3 から数百 [[マイクロメートル|μm]]の大きさでは{{val|-20|u=degC}}程度まで、雨粒のように数百 μmから数 mmの大きさでは{{val|-4|u=degC}}程度まで、過冷却のものが存在することが知られている&lt;ref name="lts1951-1"&gt;[[#lts1951-1|小口、「着氷の物理的研究 Ⅰ」、1951年]]&lt;/ref&gt;&lt;ref name="lts1951-2"&gt;[[#lts1951-2|小口、「着氷の物理的研究 Ⅱ」、1951年]]&lt;/ref&gt;&lt;ref name="lts1951-3"&gt;[[#lts1951-3|小口、「着氷の物理的研究 Ⅲ」、1951年]]&lt;/ref&gt;。
+
+雨粒がこのような過冷却状態にある雨を'''着氷性の雨'''という。なお、直径{{val|0.5|u=mm}}以下の雨粒からなる雨を[[霧雨]]というが、同様に過冷却状態にある霧雨を'''着氷性の霧雨'''という。本項目ではこれ以降、特に注記がない場合は「着氷性の雨」には霧雨も含めることとする。過冷却状態の水に衝撃を与えると急速に凍結を始めて氷となるが、着氷性の雨も同様に[[木|樹木]]、[[地|地面]]、[[電線]]などの（{{val|0|u=degC}}以下に冷えている）[[物体]]に触れた衝撃で凍結する。このようにしてできる付着氷が雨氷である。なお、雨よりも小さな水滴でできている[[霧]]の場合にも起こりうる。過冷却状態にある霧を'''[[着氷性の霧]]'''という&lt;ref name="terada"&gt;[[#寺田(2010)|寺田、「凍雨と雨氷」、1935年]]&lt;/ref&gt;&lt;ref name="jma"&gt;[[#jma|気象庁、「気象観測の手引き」、1998年]]&lt;/ref&gt;&lt;ref name="dai"&gt;[[#dai|Digital Atlas of Idaho Project "Precipitaion Patterns"]]&lt;/ref&gt;&lt;ref name="amsglo1"&gt;[[#amsglo1|アメリカ気象学会, 気象学用語集]]&lt;/ref&gt;。着氷性の霧は、[[#着氷性の霧|後述]]のように風速や気温などの条件次第で付着の様子が変わるため、雨氷に限らず、[[粗氷]]、[[霧氷#樹氷|樹氷]]にもなる。
+
+=== 名称 ===
+1873年の国際会議で決定された[[気象]]用語では、ほぼ透明な付着氷が「'''glazed frost'''」、白色で脆いものは「'''silver thaw'''」であった。日本では前者を「'''[[樹氷]]'''」、後者を「'''凝霜'''」と訳す予定であったが、1877年に[[内務省 (日本)|内務省]]地理局が英語から気象用語を翻訳する際、2つの英文が入れ替わったため、「glazed frost」は「凝霜」に「silver thaw」は「樹氷」と訳された&lt;ref&gt;「[https://mainichi.jp/articles/20200117/k00/00m/040/230000c 樹氷、ホントは「凝霜」だった　1877年に説明文取り違え、誤訳のまま定着]」、[[毎日新聞]]、2020年1月17日付、2020年2月12日閲覧&lt;/ref&gt;&lt;ref&gt;「[https://www.asahi.com/articles/ASN1J5SK4N1JUZHB00W.html 山形）樹氷は明治期の誤訳？「凝霜」だったかも　山形大]」[[朝日新聞]]、2020年1月18日付、2020年2月12日閲覧&lt;/ref&gt;。のちに霜と混同して誤解を生むとされたことから、中国語の「霧淞」をより平易にした「'''雨氷'''」が[[1915年]]（[[大正]]4年）から使用されるようになった&lt;ref name="e"&gt;[[#牛山(1991)|牛山、1991年]]&lt;/ref&gt;&lt;ref name="okada1951"/&gt;。
+
+[[英語]]では「上ぐすり（[[釉薬]]）」の意味がある''glaze''、''glaze ice''を雨氷を意味する語として用いる。また、[[航空]]の分野では航空機に付着する雨氷を特に''clear ice''と呼ぶことがある。また、着氷性の雨、霧雨、霧はそれぞれ''{{lang|en|Freezing rain}}''、''{{lang|en|Freezing drizzle}}''、''{{lang|en|Freezing fog}}''という&lt;ref name="amsglo1"/&gt;。
+
+=== 雨氷の性状 ===
+雨氷は、物体表面に硬く滑らかで透明な氷の[[層]]を作る。同じ着氷現象の一種である樹氷や粗氷とは、色や性質により区別されている。樹氷は白色不透明、粗氷は半透明なのに対して、雨氷は透明である。また樹氷より粗氷の方が固いがどちらも手で触れば崩れる程度の[[硬さ]]であるのに対して、雨氷は固く手で触った程度では崩れない。色や脆さの違いは、気泡の含有率に起因している。樹氷は小さな気泡をたくさん含むため白色で脆く、粗氷は樹氷よりは固いがそれでも気泡を多く含むため半透明を呈する。一方の雨氷は気泡の含有率が低いため透明であり、氷が形成されるとき水滴同士が融合しあうため表面が滑らかになる&lt;ref name="jma"/&gt;&lt;ref name="amsglo1"/&gt;。雨氷の[[密度]]は約0.9であり、純粋な氷とほぼ同じである。
+
+なお、0℃をわずかに超えた雨粒が0℃以下に冷えた物体に付着しても透明な氷ができ、雨氷と混同される場合がある。また、[[積雪]]が[[融解]]したあと再び凍結するなどして透明な氷ができることもある。これらは雨氷ではない&lt;ref name="okada1951"/&gt;。なお、再凍結によりできるもののうち、たとえば細く地面に向かって垂れ下がるものは[[氷柱]]、反対に空に向かって伸びるものは[[氷筍]]という。
+
+====雨氷と似ているが異なる現象====
+&lt;gallery&gt;
+ファイル:UnzenHanabouro.jpg|半透明の「粗氷」
+ファイル:Takamisan08.JPG|白色不透明の「樹氷」
+ファイル:Raureif2.JPG|結晶構造が目立つ「樹霜」&lt;ref group="注"&gt;樹霜は空気中の水蒸気が[[昇華 (化学)|昇華]]してできる白色の柔らかい氷の結晶である。&lt;/ref&gt;&lt;ref name="jma"/&gt;
+&lt;/gallery&gt;
+
+=== 特徴 ===
+着氷性の雨が発生する条件として、地上気温は0℃からマイナス数℃の狭い範囲に限られ、[[#形成過程|後述]]のように上空に適度な厚みの[[逆転層]]が存在することが必要である。ごくありふれた現象である雨や[[雪]]と比べて、雨氷は目にする機会が少なく、発生頻度も低いため、珍しい気象現象とされている&lt;ref name="terada"/&gt;&lt;ref name="okada1951"&gt;[[#岡田(1951)|岡田、『雨』、1951年]]&lt;/ref&gt;。
+
+低地の[[平野]]部よりも、地形に起伏のある[[山地]]などのほうが発生しやすい。これは起伏により逆転層が形成されやすくなることなどが原因である。
+
+雨氷が物体に大量に付着すると、樹木の枝が重くなって折れ曲がったり、地面に氷の層を作って人の転倒や車両のスリップを引き起こすなど、被害を発生させることがある。一方、樹木などに付着した雨氷が美しい[[風景]]を作り出すという側面もある。着氷性の雨や霧は上空でも生じるが、これにより雨氷が[[航空機]]の翼などに付着して運行に重大な支障を引き起こす例がある&lt;ref name="okada1951"/&gt;&lt;ref name="ahb"&gt;[[#ahb|全日空広報室、『エアラインハンドブックQ&amp;A100 航空界の基礎知識』、1995]]&lt;/ref&gt;。
+
+== 形成過程 ==
+[[ファイル:Freezing rain and inversion.png|right|thumb|300px|逆転層と降水の形の変化]]
+[[ファイル:Aerological diagram Tsukuba Japan 2003-01-03-2100JST.png|right|thumb|200px|関東地方で着氷性の雨や凍雨が観測された[[2003年]]1月3日21時（日本標準時）の茨城県[[つくば市]]館野の高層気温・露点温度断面図（[[気象庁]]）。逆転層がある。]]
+着氷性の雨の形成には2通りある。1つは[[雪]]が融けて生じるもので、上空で生成された雪が落下する間に融ける「融解過程」を経る。融解過程には、上空に逆転層が生じることが必要である。もう1つははじめから過冷却の状態にあるもので、始めから過冷却の水滴として雲の中で水滴が発達し、地上に達するものである。このプロセスは「[[降水過程#過冷却の暖かい雨|過冷却の暖かい雨]]（supercooled warm rain process, SWRP）」と呼ばれている&lt;ref name="seppyo2004"/&gt;。
+
+着氷性の霧の場合、はじめから過冷却の「過冷却の暖かい雨」である。
+
+=== 雪が融解して生じる着氷性の雨 ===
+{{see also|雪の生成までのプロセスについては「[[降水過程]]」、「[[雪]]」を}}
+通常、[[地球の大気|大気]]は上に行くほど[[気温]]が下がるが、たとえば上空の高さごとに[[風向]]が異なり、上下の冷たい空気の層（冷気層）の間に暖かい空気の層（暖気層）が侵入すると、逆転層が発生する。逆転層発生の要因は、ほかにも地形による寒気のブロックなどがある。
+
+上下の冷気層が気温0℃以下、真ん中の暖気層が気温0℃以上のとき、上の冷気層の[[雲]]から雪が降ると、暖気層で融解して[[雨]]、冷気層で再冷却され着氷性の雨となる。
+:'''[[雪]]（[[固体]]）'''→加熱による[[融解]]→'''[[雨]]（[[液体]]）'''→冷却→'''着氷性の雨（[[過冷却]]の液体）'''
+
+ただし、前記のような逆転層があっても、必ずしも着氷性の雨にはならない。逆転層があっても、暖気層で雪が完全に融けないで雪となる場合もあれば、冷気層で凍結してしまい氷の粒が降る[[凍雨]]として観測される場合もあるからである。実際、着氷性の雨より凍雨の方が遥かに発生頻度は高い&lt;ref name="seppyo2000"/&gt;。
+
+具体的に暖気層の厚さが何百メートルないし、気温が何℃というようなデータはいくつか報告されているが、事例によりまちまちで定性的ではない。
+*1956年3月19日、20日に着氷性の雨により[[筑波山]]の山頂を含む標高700メートル以上の地域に雨氷が発生した例では、雪の結晶が最初に生成される[[雲頂]]（雲の最高部）高度6,000メートル、0℃以上の暖気層が3,000 - 1,400メートル、0&amp;nbsp;℃以下の冷気層が1,400 - 800メートルであった。仮に雨粒の直径を1ミリ、落下速度を毎秒6メートルとすれば、暖気層で融解した雨粒はおよそ100秒かけて過冷却となり、標高700 - 800メートルの地表に達して雨氷を生じさせる&lt;ref&gt;[[#植野(1961)|植野、1961年]]&lt;/ref&gt;。
+*[[アメリカ合衆国|アメリカ]]のいくつかの都市で着氷性の雨発生時の大気構造を調べた調査では、暖気層は厚さ平均1,300メートル、暖気層気温の最高値は（地表からの）平均高度1,100メートル付近で約3.2℃、また冷気層は厚さ平均600メートル、冷気層気温の最低値は平均高度200メートル以下のことが多く約-2.9℃、また地表気温の平均は約-1℃であった。地点による差も大きいことが示された&lt;ref&gt;[[#Chris(2002)|Chris, 2002]]&lt;/ref&gt;。
+*アメリカ・[[カナダ]]で着氷性の雨の発生時の地上の気温を調べた研究では、約8割が1から-5℃の間、約2割が-5℃未満で、わずかに1℃以上の事例もあった&lt;ref name="Cortinas Jr.(2004)"/&gt;。
+
+=== 「過冷却の暖かい雨」 ===
+雲や雨粒のような大きさや存在環境では過冷却の水滴が珍しくないことは上述の通りである。たとえば一般的に雲の中では、0℃から-4℃程度では水滴のほとんどが過冷却であり、気温が低くなるにつれて少なくなるが、-20℃程度までは過冷却の水滴が存在する。なお、実際にはこの種の雲はおおむね雲頂の気温が-10℃より高いことが知られている&lt;ref&gt;[[#uiuc-ice|イリノイ大学大気科学部]]&lt;/ref&gt;。これが成長し、過冷却を保ったまま降って地上に達した場合、あるいは上空で航空機への着氷などとして観測されれば着氷性の雨になる&lt;ref name="lts1951-1"/&gt;&lt;ref name="lts1951-2"/&gt;&lt;ref name="lts1951-3"/&gt;&lt;ref name="ogura1999"&gt;[[#ogura1999|小倉、『一般気象学』第2版、1999年]]&lt;/ref&gt;。この種の着氷性の雨は水滴の直径が小さく、雨というよりも霧雨に分類されるものがほとんどである&lt;ref name="seppyo2004"&gt;[[#seppyo2004|松下 他、2004年]]&lt;/ref&gt;。
+
+過冷却の水滴を含む雲は、山地などの地表に現れると着氷性の霧として観測される。
+
+=== 着氷性の霧 ===
+{{seealso|着氷性の霧}}
+[[ファイル:Temperature-Wind spped Characteristics of Freezing fog icing from Oguchi(1951).png|thumb|right|200px|着氷性の霧と気温・風速の関係を示したグラフ（小口、1951年&lt;ref name="lts1951-1"/&gt;&lt;ref name="lts1951-2"/&gt;を一部改変）]]
+着氷性の霧は条件により、雨氷・樹氷・粗氷になる。3者の違いは気泡の含有率にあることは[[#概要|概要の節]]で述べたが、これと相関性が高いのは付着成長していくときの気温と[[風速]]である。気温が高いほど、また風速が速いほど、気泡が少ない傾向にある。ある研究によれば気温-2℃以上では風速に関係なくほとんどが雨氷になり、気温-2℃から-4℃の間では風速により雨氷と粗氷に分かれ、気温-4℃以下ではほとんど雨氷は発生しない&lt;ref name="lts1951-2"/&gt;&lt;ref name="lts1951-3"/&gt;。
+
+=== 氷の形成 ===
+[[ファイル:Tree branch after ice storm.JPG|thumb|right|250px|枝の左側に多く雨氷がついていることから、右方向からの風によって付着したと推測される]]
+着氷性の雨や霧が物体に付着してから完全に凍結するまでには、多少の時間がかかる。この時間は、凍結に伴う[[潜熱]]放出による加熱、蒸発に伴う潜熱吸収による冷却などの熱のバランスに左右され、[[湿度]]・気温・風速などに相関性がある。凍結速度が遅いと、枝の表面などでは水の部分は[[重力]]により落下していくほか、氷の表面は濡れた状態である&lt;ref name="okada1951"/&gt;&lt;ref name="jma"/&gt;&lt;ref name="tenki2005"/&gt;。
+:'''着氷性の雨（過冷却の液体）'''→物体表面に付着→冷却による凍結→'''雨氷'''（[[固体]]）
+
+なお、雨氷の凍結を決定する熱的な収支バランスは、[[顕熱]][[フラックス]] &lt;math&gt;Q_s&lt;/math&gt;、潜熱フラックス &lt;math&gt;Q_l&lt;/math&gt;、雨氷の凍結に必要な熱量 &lt;math&gt;Q_f&lt;/math&gt; の3つの和により表され、木の枝など円柱表面における算出式は以下のようになる&lt;ref&gt;Jones, 1996および、松下ら、2005年&lt;/ref&gt;&lt;ref group="注"&gt;式では省略したが、式中の係数はさらにその場の[[降水量]]、[[風速]]、枝の直径などから導出される。出典論文を参照。&lt;/ref&gt;。この値が負で値が大きいほど、凍結は速いと考えられる&lt;ref name="tenki2005"&gt;[[#tenki2005|松下 他、2005年]]&lt;/ref&gt;。
+:&lt;math&gt;Q_s=-\pi h_a\Delta T\ \mathrm{(W/m^2)}&lt;/math&gt; …（&lt;math&gt;h_a&lt;/math&gt; は大気の熱交換係数 ([[ワット|W]]/([[立方メートル|m&lt;sup&gt;2&lt;/sup&gt;]]・[[セルシウス度|℃]]))、&lt;math&gt;\Delta T&lt;/math&gt; は大気と雨氷表面の温度差 (℃)）
+:&lt;math&gt;Q_l = -\pi L_eh_v\Delta\rho_v\ (\mathrm{W/m^2})&lt;/math&gt; …（&lt;math&gt;L_e&lt;/math&gt; は水の蒸発潜熱 ([[ジュール|J]]/[[キログラム|kg]])、&lt;math&gt;h_v&lt;/math&gt; は水蒸気の交換係数 (m/[[秒|s]])、&lt;math&gt;\Delta\rho_v&lt;/math&gt; は水蒸気密度の差 (kg/[[立方メートル|m&lt;sup&gt;3&lt;/sup&gt;]])）
+:&lt;math&gt;Q_f=L_fw&lt;/math&gt; …（&lt;math&gt;L_f&lt;/math&gt; は水の凍結潜熱 (J/kg)、&lt;math&gt;w&lt;/math&gt; は降水フラックス (kg/(m&lt;sup&gt;2&lt;/sup&gt;・s)）
+
+気温と物体表面の温度が低いなどの条件が整うと、着氷性の雨は物体に付着してすぐに凍結し、次々と積もって厚い氷として成長していく。屋根や壁のような平面の物体では低い方へ広がりながら凍結していく。電線や木の枝のように細長い物体ではそれを取り巻くように凍結する。時には氷柱）のように滴りながら成長したり、風のある場合は風上や風下に偏って成長したりする&lt;ref name="e"/&gt;&lt;ref name="matsushima1923"/&gt;。地面に積もる量としては、極度に激しい雨氷の場合、最大でおよそ4 - 6[[インチ]]（10 - 15センチメートル）程度の厚さになった記録がある&lt;ref name="uiuc-home"&gt;[[#uiuc-home|イリノイ大学大気科学部]]&lt;/ref&gt;。
+
+== 雨氷をもたらす天候 ==
+着氷性の雨が降ったときの特徴として、低気圧や前線の通過といった[[気象#気象現象のスケール|総観スケール]]の気象状態、より小さなスケールの地形の影響などがある。
+
+また目安として、気温分布図では0℃の等温線付近、降水分布図では雨と雪の境界付近、風向分布図では風向が急変する[[ウインドシア]]の近傍にそれぞれ着氷性の雨が分布することが多く、分布域は[[前線 (気象)|前線]]に平行することが多い。分布域はふつう細長く幅は狭いが、北極に近い高緯度地方では、幅50キロ以上の広範囲にわたって着氷性の雨が降ることもある&lt;ref&gt;[[#uiuc-cyc|イリノイ大学大気科学部]]&lt;/ref&gt;。また凍雨は着氷性の雨と似た条件で発生するため、似たような分布を示すことが多い&lt;ref name="seppyo2000"/&gt;&lt;ref name="Cortinas Jr.(2004)"/&gt;&lt;ref name="Robert(2001)"/&gt;。
+
+=== 総観スケールの気象 ===
+総観スケールの気象は地域により差異があるため一概には言えないが、いくつかの例を挙げる。
+
+日本においてはおもに2つの様式が多い。1つは海に面した平野部で、下層に北寄りの風による寒気の[[移流]]、中層に南寄りの風による暖気の移流があって、そこに逆転層が生じる様式、もう1つは内陸の[[盆地]]で、弱風下で下層の盆地内に寒気が滞留していて（「冷気湖」という）、中層に南寄りの風による暖気の移流があって、そこに逆転層ができる様式である。天気図で見ると、大局的には[[日本海]]と[[本州]]南岸の2つの[[低気圧]]が並んで東進する「[[二つ玉低気圧]]」の時に起こる場合が多い。また着氷性の雨の分布は、低気圧の東側にある[[温暖前線]]の寒気側から低気圧の周囲付近にかけての細長い地域となる場合が多い&lt;ref name="seppyo2000"/&gt;&lt;ref name="seppyo2004"/&gt;。
+
+アメリカではいくつかの様式がある。前線を伴った低気圧の北側（温暖前線や[[停滞前線]]の寒気側）で発生する様式、大陸に張り出す[[高気圧]]の辺縁部（[[寒冷前線]]の寒気側）で発生する様式、大陸を東進する[[低気圧]]と東海岸の[[高気圧]]との間で発生する様式、[[アパラチア山脈]]による寒気のせき止め&lt;!--(cold air damming)--&gt;により発生する様式である&lt;ref name="seppyo2004"/&gt;&lt;ref name="Robert(2001)"&gt;[[#Robert(2001)|Rauber, Robert M. et al., 2001]]&lt;/ref&gt;。
+
+=== 地形 ===
+[[ファイル:1998 Ice Storm map.png|thumb|right|300 px|1998年1月、カナダ南東部からアメリカ北東部にかけて発生した大規模な雨氷の降積量を示した地図。[[セントローレンス川]]流域に被害が集中している。]]
+山地など起伏のある地形の場所では、斜面を空気が上昇すると空気かかき混ぜられて逆転層ができ、雨氷が発生することがある。一般的に、標高が高いほど雨氷が発生しやすい。たとえば日本で雨氷被害の多い[[長野県]]では、雨氷の発生日数が標高に対応して分布するという報告がある。ただし、ある程度の高さを超えると逆に発生しにくくなることがある。これは逆転層のできやすい高さがあり、標高が高くなると逆に暖気層に覆われることが多くなるためとみられている。また、山の斜面沿いでは一時的に狭い範囲で逆転層が発生し、山の斜面のある高さの付近あるいは片側だけ、雨氷が発生した例もある&lt;ref name="seppyo2000"/&gt;&lt;ref&gt;[[#牛山(1993)|牛山、1993年]]&lt;/ref&gt;。
+
+一般的に起伏のある地形では[[霧氷|樹氷]]や[[霧氷|粗氷]]も発生しやすいが、例年のように樹氷が現れる場所で同様に雨氷が見られるかと言えばそうではない。雨氷は条件が非常に限定的なため、限られた狭い地域で偶発的に発生し、年々変動が大きい&lt;ref name="seppyo2000"/&gt;。
+
+== 地域性・季節性 ==
+広域的には、アメリカ、カナダ、[[ヨーロッパ]]、[[中華人民共和国|中国]]、日本など、各地で発生例が報告されている。特にアメリカとカナダにまたがる[[セントローレンス川]]沿岸ではよく発生することが知られている。セントローレンス川沿岸に位置する[[モントリオール]]では、年間約12 - 17回、時間にして年間計約45 - 65時間という頻度で雨氷が発生する&lt;ref name="h"&gt;[http://www.discoverychannelasia.com/perfect_disaster/ice_storm/index.shtml Ice Storm]{{リンク切れ|date=August 2017}} Discovery Cannnel &lt;/ref&gt;。
+
+アメリカで1948年から2000年の着氷性の雨の年間平均発生日数を調べた調査では、最多の[[アディロンダック山地]]南部で7日、[[ミズーリ州]]から[[ペンシルベニア州]]までの帯状の地域および[[アイオワ州]]・[[ミネソタ州]]西部で5日などとなっている&lt;ref&gt;[[#Stanley(2003)|Stanley et al, 2003]]&lt;/ref&gt;。同様にカナダで1961年から1990年の着氷性の雨・霧雨の年間発生日数を調べた調査では、[[ニューブランズウィック州]]、[[ノバスコシア州]]、[[ニューファンドランド島]]東部で年間50日（着氷性の雨に限っても25日）などとなっている&lt;ref name="Stuart(1999)"&gt;[[#Stuart(1999)|Stuart et al, 1999]]&lt;/ref&gt;&lt;ref name="Cortinas Jr.(2004)"&gt;[[#Cortinas Jr.(2004)|Cortinas Jr. et al, 2004]]&lt;/ref&gt;。
+
+日本では、長野県で特に多く報告され多いところでは年平均2、3回の発生がある。また、1989年から2003年に気象台や測候所のある都市の着氷性の雨・霧雨を調べた調査において、[[中部地方|中部]]から[[東北地方|東北]]にかけての山間部や東北と[[北海道]]の[[太平洋側]]平野部のいくつかの都市で4、5年に1回程度の発生が報告されているほか、被害をもたらすレベルの雨氷は国内で10年に1件程度という調査がある&lt;ref name="terada"/&gt;&lt;ref name="seppyo2000"&gt;[[#松下ら(2000)|松下ら、2000年]]&lt;/ref&gt;&lt;ref name="seppyo2004"/&gt;。
+
+時期については、研究報告のある[[北半球]]では、[[冬]]季に発生のピークがくる地域が多いが、北極に近く寒冷な地域の中には[[夏]]季にピークがくるところもある&lt;ref name="Cortinas Jr.(2004)"/&gt;&lt;ref name="seppyo2000"/&gt;&lt;ref name="rhms"&gt;[[#rhms|Bezrukova, et al., 2006]]&lt;/ref&gt;。
+
+== 予測 ==
+着氷性の雨の予測では、気温・湿度・風向風速の[[鉛直]]分布や面的な分布を通して、逆転層とそれに沿う着氷性の雨の出現域を解析することが行われる。これらのデータは[[気象レーダー]]や地上[[気象観測]]、高層気象観測などによって収集される&lt;ref&gt;[[#uiuc-fcst|イリノイ大学大気科学部]]&lt;/ref&gt;&lt;ref&gt;[[#uiuc-sounding|イリノイ大学大気科学部]]&lt;/ref&gt;。
+
+また、着氷性の雨に伴い、気象レーダーで融解途中の雪や霙などが乱反射を起こすことによる[[ブライトバンド]]と呼ばれるエコーが観測されることがある。ただし、着氷性の雨の前段階ではない雪や[[霙]]にも反応するため、ブライトバンドがあるから必ず着氷性の雨が降るというわけではないので注意を要する&lt;ref&gt;[[#Scharfenberg(2004)|Scharfenberg et ai., 2004]]&lt;/ref&gt;&lt;ref name="seppyo2000" /&gt;。
+
+=== 警報・注意報 ===
+アメリカでは、着氷性の雨または着氷性の霧雨によって道路等の凍結で交通状況が悪くなることが予想される場合に「Winter Weather Advisory」、雨氷が1/4インチ（約6.3ミリ）以上積もることが予想される場合に「Ice Storm Warning」が、[[アメリカ海洋大気庁]]（NOAA）の[[アメリカ国立気象局|気象局]]（NWS）によってそれぞれ発表され、警戒が呼びかけられる&lt;ref&gt;[[#noaafzra|NWS, Winter Weather Warnings, Watches and Advisories]]&lt;/ref&gt;。カナダでは、7時間以上着氷性霧雨が降り続くことが予想される場合や大量の着氷性霧雨が降ることが予想される場合は「Special Weather Statement」に付随する注意情報または「Freezing Drizzle Warning」が、1 - 4時間以上着氷性の雨が降り続くことが予想される場合や2ミリ以上雨氷が降り積もることが予想される場合は「Freezing Rain Warning」が、カナダ環境省の[[カナダ気象局|気象局]]（MSC）によってそれぞれ発表される&lt;ref&gt;[[#ecccfzra|ECCC, Criteria for public weather alerts]]&lt;/ref&gt;。
+
+日本では、着氷全般（雨氷以外の霧氷・樹氷・粗氷・樹霜、融雪の再凍結なども対象としている）に注意を呼びかける[[注意報#種類|着氷注意報]]というものがあり、雨氷の発生が予測される場合に出される注意報・警報などではこれがもっとも重い。着氷注意報の発表基準は都道府県や地域によって異なり、（24時間降雪量などが基準になる）大雪警報発表時に気温が-2℃から2℃となる場合&lt;ref group="注"&gt;例)東京都&lt;/ref&gt;（大雪注意報まで含めたり&lt;ref group="注"&gt;例)熊本県&lt;/ref&gt;、[[湿度]]90%以上という条件を付加したもの&lt;ref group="注"&gt;例)福岡県&lt;/ref&gt;もある）、大雪注意報発表時に気温が-2℃以上となる場合&lt;ref group="注"&gt;例)宮城県&lt;/ref&gt;、著しい着氷が予想される場合&lt;ref group="注"&gt;例)茨城県&lt;/ref&gt;、気温0℃付近で並以上の雪が数時間以上降り続くと予想される場合&lt;ref group="注"&gt;例)新潟県&lt;/ref&gt;、船への着氷のみを対象に発表する場合&lt;ref group="注"&gt;例)北海道渡島・檜山支庁&lt;/ref&gt;などがある&lt;ref name="warnstdlist"&gt;[https://www.jma.go.jp/jma/kishou/know/kijun/index.html 警報・注意報発表基準一覧表] 気象庁、2022年5月26日現在、2022年9月2日閲覧。&lt;/ref&gt;。また、[[注意報#種類|着雪注意報]]という類似の注意報があり、この基準のみを定めて着氷注意報の基準を定めていないところや、両方とも定めていないところもある{{Efn2|前者:近畿・中国・四国各県、後者:宮崎、鹿児島、沖縄&lt;ref name="warnstdlist"/&gt;。}}。
+
+== 雨氷による災害 ==
+[[ファイル:Trees-Ice Storm-Dec 2007-St Jo MO.jpg|thumb|right|240px|雨氷の重さで垂れ下がり、折れた木の枝々]]
+[[ファイル:La Rade.jpg|right|thumb|240px|厚い雨氷が付着したベンチ、[[レマン湖]]畔]]
+雨氷ができたあと、気温が上昇するなどして氷が融けてしまえば大きな被害は発生しない。しかし、たとえばカナダ・アメリカでは、着氷性の雨の約45%が1時間以内、約90%が5時間以内に終わってしまう&lt;ref name="Cortinas Jr.(2004)"/&gt;という研究があり、長時間続くと被害が大きくなる。
+
+雪や霧氷などに比べて雨氷は密度が高く、固い&lt;ref name="lts1951-1"/&gt;&lt;ref name="lts1951-3"/&gt;&lt;ref name="jma"/&gt;。雨氷による被害の主なものとして、樹木の被害、電力網への被害、交通の支障、人的被害等など挙げられる。北東部を中心に被害が多いアメリカでは、着氷性の雨を伴った天候を{{仮リンク|アイスストーム|en|Ice storm|redirect=1}}と言う&lt;ref&gt;[[#amsglo2|アメリカ気象学会, 気象学用語集]]&lt;/ref&gt;が、1949年から2000年までの間にアイスストームによる損害額は163億[[ドル]]（2000年時点）&lt;ref&gt;Changnon,2003&lt;/ref&gt;に上るとされ、同国内の気象災害によるけがの20%がアイスストームによるものだという報告もある&lt;ref&gt;Kochin,1997&lt;/ref&gt;&lt;ref name="Cortinas Jr.(2004)"/&gt;。
+
+=== 山地での被害 ===
+雨氷は高山で発生することが多いため、山地で局地的に雨氷が発生し、樹木への被害をもたらす例が多数報告されている。雨氷が樹木にもたらす被害は、枝のみが折れる軽微なものもあるが、傾いたり、大きく曲がったり、地面に倒れこんだり、根ごと倒れたり、途中で折れたりといった深刻なものもあり、[[林業]]にとっては大きな打撃となる&lt;ref name="e"/&gt;。
+
+雪が樹木の上部や外部にのみ付着するのに対し、雨氷は樹木の枝葉1つ1つに氷がついて重くなるため、雪の半分程度の降水量で折れ曲がったり倒壊したりしてしまう。ある調査では、樹木に付着する雨氷の重さは、平均で木の総重量の5 - 16倍に達していたといい&lt;ref name="matsushima1923"&gt;[[#matsushima1923|松島、1923年]]&lt;/ref&gt;、15メートルの木に総重量4.5トンの雨氷が付着した例もある&lt;ref name="f"&gt;[[#twd|THE WEATHER DOCTOR]]&lt;/ref&gt;。日本における事例では、森林に被害を与える気象現象の中で雨氷は珍しい部類ではあるが、[[北海道]]、[[岩手県|岩手]]、長野などで詳しい記録がある。なお、雨氷で森林被害が生じても氷が解けるとそれが雨氷が原因であったことがわからないこともあるため、報告されていないものもあると考えられている&lt;ref name="吉武ほか(2001)"&gt;[[#吉武(2001)|吉武ほか、2001年]]&lt;/ref&gt;。北海道の[[カラマツ]][[人工林]]で行われた被害調査では、同年齢の樹木の中で太く高いものが被害を受ける事例、逆に細く低いものが被害を受ける事例、また樹勢に関係なく被害を受ける事例があり、樹勢よりも風や付着の仕方などの気象条件の方が雨氷被害との相関性が高いと報告されている&lt;ref name="鳥田ほか(2007)"&gt;[[#鳥田(2007)|鳥田ほか、2007年]]&lt;/ref&gt;。
+
+2016年1月末に長野県中部で発生した雨氷による倒木被害は標高800 - 1,100メートルの範囲に被害が集中していたが、このように雨氷による倒木被害が一定の標高に集中するのは、標高がより高い場所では雨粒が雪になり、標高がより低い場所の地表付近は気温が高く雨氷現象が起こらなくなるためという見方がある&lt;ref&gt;{{Cite news|url=http://www.shinmai.co.jp/news/nagano/20160203/KT160202FTI090039000.php|title=「雨氷」倒木、一定の標高に集中　上空から調査|newspaper =[[信濃毎日新聞]]|date=2016-02-03|accessdate=2016-02-03}}{{リンク切れ|date=August 2017}}&lt;/ref&gt;。
+
+=== 居住地での被害 ===
+[[ファイル:Ice storm.jpg|thumb|left|240px|雨氷の重さで地面近くにまで垂れ下がった電線]]
+市街で発生した場合は、特に被害が大きくなる。氷が[[電線路|電線]]に付着して[[電柱]]が倒壊し、氷の量が多い場合には送電線の鉄塔でさえ倒れることもある。[[鉄道]]の[[架線]]に付着した場合は、給電がストップして運行ができなくなるが、雨氷を取り除く作業は着雪などに比べて時間がかかり、運行再開は遅れがちになる&lt;ref name="下原(2011)"&gt;[[#下原(2011)|下原、2011年]]&lt;/ref&gt;。また、電線の一定の方向にだけ雨氷が付着すると、強風により[[ギャロッピング現象]]と呼ばれる振動現象を起こし、電線同士が接触するなどして[[短絡|ショート]]し、断線することがある&lt;ref name="c"&gt;[[#田所(1997)|田所、1997年]]&lt;/ref&gt;。
+
+雨氷が道路を覆うと、表面は硬く滑らかなため非常に滑りやすい状態となり、[[自動車|車]]はスリップし、歩行者も転倒しやすくなる。雨氷に覆われた道路の[[ブレーキ|制動距離]]は、乾いている場合の10倍、雪に覆われている場合の2倍といわれている&lt;ref name="f"/&gt;。雨氷は表面が滑らかで透明なうえ、雪が降るとすぐ覆い隠されてしまうため、道路が雨氷に覆われていることに気付かないことがある。また、気づいていても滑りやすいため、誤ってけがをしてしまうことが多い&lt;ref name="uiuc-home"/&gt;。戸外での移動に際しては、[[靴]]や車の[[タイヤ]]のスリップ対策が必要になる。また、鉄道の[[線路 (鉄道)|線路]]や[[飛行場]]の[[滑走路]]も凍結した場合、交通網の深刻な停滞・麻痺を来たす。
+
+また、特に雨氷の場合に留意しなければならないのが、停電に伴う影響である。雨氷は電線に付着して[[停電]]を起こしやすいため、ガスや電気の代わりとして[[暖房]]に火を使うことになる。それによって[[火災]]の危険性が高まり、締め切った室内で暖房器具や発電機を使うことで[[一酸化炭素#一酸化炭素中毒|一酸化炭素中毒]]の危険性も高まる。1998年1月上旬に北米を襲ったアイスストームでは、多数の一酸化炭素中毒患者が出ている&lt;ref&gt;[[#cbc|CBC archives]]&lt;/ref&gt;。
+
+=== 航空機への被害 ===
+地上に限らず、上空でも雨氷の付着被害が発生する。[[航空機]]に雨氷が付着すると、視界が悪くなったり、機体の重量や[[空気抵抗]]が増加したり、翼に付着して[[揚力]]を低下させたり、[[ジェットエンジン]]や[[プロペラ]]に付着して出力を低下させたりして、航行に支障が生じることがある。その他の[[着氷]]も航行への支障の原因となるが、付着速度は雨氷がもっとも速く、氷が硬く取れにくいため、もっとも厄介な着氷とされる。現在では航空機の{{仮リンク|防氷システム|en|Ice protection system}}が普及しており、中型機ではおもに[[防氷ブーツ]]、大型機ではおもに[[ヒーター]]や空圧を利用した機構により着氷を防止したり、氷を除去（[[除氷]]）したりしている&lt;ref name="ahb"/&gt;。
+
+なお、航空機においては地表では凍雨として観測されていても上空では着氷性の雨という場合があり、予報の際には凍雨を含めて考える必要がある&lt;ref name="Cortinas Jr.(2004)"/&gt;。
+
+== 雨氷のもたらす景色と文化 ==
+雨氷が物体に付着すると、独特の[[景色]]が現れる。木々に付着した雨氷は、透明な氷の層を形成し、光が当たると[[ガラス]]のように光り輝く。また、山の斜面に帯状の雨氷ができ、それが白く輝いて見えることがある。これらは[[観光]]や自然観賞の対象となり、寒い時期に見られる美しい景観として親しまれている。中国の[[廬山]]や[[黄山]]をはじめとして、山でよく見られる景観として捉えられている地域もあれば&lt;ref name="g"&gt;[http://news.tq121.com.cn/index.php?id=1003 冻雨的形成与危害]{{リンク切れ|date=August 2017}} 问天网、2001年11月13日。&lt;/ref&gt;、平野部の居住地でも身近に見ることができる景観としてとらえられている地域もある。雨氷は冬の[[季語]]となっている&lt;ref name="daijirin"/&gt;。
+
+なお、[[古代]]日本では[[和名類聚抄]]にも記載されているように[[雹]]、霙あるいは氷雨（冷たい雨）の意味で「雨氷」という語が用いられたこともあるが、これは現在の用法とは直接の関係はないとされる&lt;ref name="壬生(2000)"&gt;[[#壬生(2000)|壬生、2000年]]&lt;/ref&gt;。
+
+着氷性の雨や雨氷をテーマとした文化作品や芸術作品を以下に挙げる。
+*『雨氷の朝』（詩） - [[尾崎喜八]] 『自註富士見高原詩集』、1969年、日本
+*『Freezing rain』（歌） - [[m.o.v.e]] アルバム『[[Deep Calm]]』、2004年、日本
+*『Freezing Rain Freezin'』（歌） - トロイ・グレゴリー（[[:en:Troy Gregory|Troy Gregory]]）、2002年、アメリカ
+
+{{Gallery
+|ファイル:IceFlower03b.jpg|花や葉の表面を覆う氷
+|ファイル:ICERAIN2.JPG|小型のリンゴ（crab apple）に付着した雨氷
+|ファイル:Icicles.jpg|雨氷と[[氷柱]]がついた枝
+|ファイル:Playground after icestorm.jpg|着氷性の雨のあとの公園の様子
+}}
+
+== 過去に起こった雨氷の例 ==
+[[ファイル:A street in Elora, Ontario, after an ice storm, early 1900s.jpg|thumb|right|240px|雨氷の重さで傾いた電柱（20世紀初頭のカナダ・オンタリオ州にて）]]
+[[ファイル:Chinasnowstorm2008 bijie.jpg|thumb|right|240px|2008年冬の寒波の際に発生した雨氷（中国貴州省[[畢節地区]]の林にて）]]
+北米やヨーロッパでは、冬を中心に、低気圧の通過時に平野部でも雨氷が発生することがある。以下に顕著な被害を出した例を挙げる。
+{{Main2|「[[:en:List of ice storms|List of ice storms]]（英語）」、「[[:en:Category:Ice storms|Category:Ice storms]]（英語）」も}}
+
+===ヨーロッパ===
+*[[1867年]][[1月22日]] - [[イギリス]]・[[ロンドン]]で雨氷が発生、道路が氷に覆われ滑って車や場所の往来ができなくなった&lt;ref name="okada1951"/&gt;。
+*[[1875年]][[1月1日]] - イギリス・ロンドンで1867年と同じような雨氷が発生した&lt;ref name="okada1951"/&gt;。
+*[[1879年]][[1月22日]] - [[1月24日|24日]] - [[フランス]]・[[パリ]]で着氷性の雨により大規模な雨氷が発生。広い範囲で30時間にわたって降り続け、氷の厚さは20 - 40ミリ、電線の氷の直径は38ミリに達した。このとき気温は-3℃程度、雨の温度が-4℃から-5℃程度であったという&lt;ref name="okada1951"/&gt;。
+*[[1905年]][[11月18日]] - [[11月19日|19日]] - フランス [[アルザス＝ロレーヌ]]で広範囲にわたり雨氷、氷の厚さは10ミリに達した&lt;ref name="okada1951"/&gt;。
+*[[1991年]][[12月27日]] - スカンジナビア航空751便が主翼に雨氷を付着させたまま[[ストックホルム・アーランダ空港]]を離陸、2基あるエンジンの双方が雨氷を吸い込んで故障した。機体は空港近郊の平原に不時着、大破したが、乗客・乗員129人に死者は出なかった（[[スカンジナビア航空751便不時着事故]]）。
+*[[1996年]][[1月23日]] - [[1月24日|24日]] - イギリス・[[ウェールズ]]から[[イングランド]]中南部にかけての地域で雨氷が発生、各地で停電や交通障害が発生した&lt;ref name="Suri(2001)"&gt;[[#Suri(2001)|Suri、2001]]&lt;/ref&gt;。
+
+===北アメリカ===
+*[[1994年]][[10月31日]] - アメリカ・[[インディアナ州]]上空を飛行中のアメリカン・イーグル4184便が雨氷に遭遇し、着氷により操縦不能になった。同州ローズローン近郊に墜落、乗客・乗員68名が死亡（[[アメリカン・イーグル4184便墜落事故]]）&lt;ref&gt;{{PDFlink|[http://www.bluecoat.org/reports/NTSB_96_Roselawn_ATR.pdf American Eagle Flight 4184]}} [[国家運輸安全委員会]]"Aircraft Accident Report"&lt;/ref&gt;。
+*[[1998年]][[1月5日]] - [[1月10日|10日]] - カナダ南東部・アメリカ北東部の広範囲で雨氷（アイスストーム）が発生、特にセントローレンス川沿岸で数十ミリの雨氷が降り積もった。停電により約400万人が影響を受け、46人が死亡、被害額は数十億ドルに達した&lt;ref name="imiuru"&gt;[[#imiuru|imiuru.com、2005]]&lt;/ref&gt;（[[:en:North American ice storm of 1998|North American ice storm of 1998]]）。
+
+===アジア===
+====日本====
+日本でも、雨氷の観測や、雨氷被害の報告が多数ある。山地で局地的に発生することが多いため、集落や都市部で見られることは少ない。以下におもな例を挙げる。
+*[[1902年]][[1月8日]] - [[関東地方]]のおよそ100キロ四方、[[東京都|東京]]を中心に東西は[[土浦市|土浦]]から[[小田原市|小田原]]、北は[[さいたま市|浦和]]におよぶ非常に広い範囲で雨氷が発生、樹木や地面が氷に覆われ、電線に被害が出た&lt;ref name="e"/&gt;&lt;ref name="okada1951"/&gt;。
+*[[1914年]][[3月7日]] - 北海道[[旭川市|旭川]]や[[根室市|根室]]で深夜から昼頃にかけて着氷性の雨が降り雨氷が発生、旭川では厚さ10ミリ程度の雨氷が付着し、電線の切断や電柱の倒壊も発生した&lt;ref name="okada1951"/&gt;。
+*[[1954年]][[2月27日]] - [[2月28日|28日]] - 北海道[[上川支庁]]で南北約160キロにわたる範囲で雨氷、森林に被害が出た&lt;ref name="e"/&gt;。
+*[[1969年]][[1月28日]] - [[1月29日|29日]] - 長野県の山間部でおよそ90キロ四方にわたって雨氷が発生、鉄道や電線、林業に被害を出した&lt;ref name="c"/&gt;&lt;ref name="e"/&gt;。
+*[[1970年]][[2月24日]] - [[2月25日|25日]] - [[新潟県]]内陸部から長野県南東部で雨氷が発生&lt;ref name="c"/&gt;。
+*[[1980年]][[3月22日]] - [[3月23日|23日]] - 長野県中部でおよそ70キロ四方にわたって雨氷が発生、鉄道や電線、林業に被害を出した&lt;ref name="e"/&gt;。
+*[[1987年]][[2月27日]] - [[2月28日|28日]] - [[熊本県]]阿蘇地方の阿蘇外輪山東側で局地的な雨氷が発生、人工林の[[杉]]などが折れ曲がるなどし、およそ1億6,000万円相当の被害を出した&lt;ref name="d"&gt;[[#上中(1988)|上中、1988年]]&lt;/ref&gt;。
+*[[1989年]][[1月24日]] - [[宮城県]]仙台平野で雨氷が発生&lt;ref name="c"/&gt;。
+*[[1998年]][[4月1日]] - [[4月2日|2日]] - 長野県中部で雨氷が発生、鉄道の運休、倒木による建物被害や1,000以上の停電、林業被害が生じた&lt;ref name="牛山(1998)"&gt;[[#牛山(1998)|牛山、1998年]]&lt;/ref&gt;。
+*[[2003年]][[1月3日]] - [[1月4日|4日]] - 関東地方内陸部で雨氷が発生、朝から鉄道の不通や道路のスリップ多発など大きな影響が生じた&lt;ref&gt;[[#3776net|3776net]]&lt;/ref&gt;&lt;ref&gt;『朝日新聞』東京本社版 夕刊、2003年1月4日&lt;/ref&gt;。
+*[[2016年]][[1月29日]] - [[2月5日]] - 長野県中部で雨氷が発生。[[松本市]]の[[扉温泉]]などで倒木により県道が塞がれ、住民と温泉客が孤立した。また松本地域の山岳部を中心に、倒木による停電や通行止めが相次いだ&lt;ref&gt;[https://www.jma-net.go.jp/nagano/topic/topic_2016_0201.pdf 気象庁]&lt;/ref&gt;。
+*[[2018年]][[3月22日]] - [[阿蘇山]]で雨氷が発生&lt;ref&gt;「[https://nishinippon.co.jp/item/n/403038/ 阿蘇に春の雪 木々に霧氷、雨氷]」、西日本新聞、2018年3月23日付、2022年9月2日閲覧&lt;/ref&gt;。
+*[[2019年]][[12月14日]] - 北海道釧路で雨氷が発生&lt;ref&gt;「[https://weathernews.jp/s/topics/201912/140045/ 冷たい雨が凍り付く 釧路から"雨氷"の報告]」、ウェザーニュース、2019年12月14日、2022年9月2日閲覧&lt;/ref&gt;。
+
+====中国====
+中国でも、雨氷の観測や被害例が多数ある。南方では「下冰凌」「天凌」「牛皮凌」、[[北京市|北京]]地方では「地油子」といった俗称がある。以下に顕著な被害を出した例を挙げる。
+*[[1893年]][[1月17日]] - [[香港]]で雨氷が発生、草の表面には厚さ9ミリの氷、電線には厚さ15ミリ・下方につららのように長さ70ミリを超える氷が付着し、電線の切断も起きた&lt;ref name="okada1951"/&gt;。
+*[[1914年]][[11月2日]] - [[11月3日|3日]] - [[奉天市|奉天]]（[[瀋陽市|瀋陽]]）で2日朝から3日朝まで着氷性の雨が降り雨氷が発生、地面の氷の厚さは10ミリ以上、電線の氷の直径は20ミリを超え、断線や電柱の倒壊、樹木の枝の折れなどが生じた&lt;ref name="okada1951"/&gt;。
+*[[1972年]]2月末 - 華中から華南にかけての非常に広い範囲で雨氷が発生、[[広州市]]、[[長沙市]]、[[南京市]]、[[昆明市]]、[[重慶市]]、[[成都市]]、[[貴陽市]]、北京市にかけて通信障害が発生し、多大な損失が出た&lt;ref name="g"/&gt;。
+*[[2008年]]1月後半 - 記録的な寒波の影響で[[貴州省]]、[[安徽省]]、[[江西省]]、[[湖南省]]などで大雪や雨氷が発生し、停電やスリップによる交通事故が多数発生した&lt;ref&gt;[http://www.hoodong.com/wiki/%E5%86%BB%E9%9B%A8 冻雨]{{リンク切れ|url=http://www.hoodong.com/wiki/%E5%86%BB%E9%9B%A8|date=August 2017}} Hoodong、2008-02-15 15:59:46の版&lt;/ref&gt;（[[2008年の中国雪害]]も参照）。
+
+== 天気図・気象通報 ==
+; 国際気象通報式
+国際気象通報式の[[地上実況気象通報式|SYNOP]]および[[海上実況気象通報式|SHIP]]において[[地上天気図#天気|天気]]の項では、
+*24.前1時間内に着氷性の雨または霧雨があった（しゅう雨性ではない）→[[ファイル:Symbol Freezing Precipitation1.png|30px]]
+*56.弱い着氷性の霧雨→[[ファイル:Symbol Freezing Precipitation2.png|30px]]
+*57.並または強い着氷性の霧雨→[[ファイル:Symbol Freezing Precipitation3.png|30px]]
+*66.弱い着氷性の雨→[[ファイル:Symbol rain 66.svg|30px]]
+*67.並または強い着氷性の雨→[[ファイル:Symbol rain 67.svg|30px]]
+の5種類が、着氷性の雨や着氷性の霧雨を表す。なお、[[霰]]、[[雹]]、[[砂嵐|砂塵嵐]]、[[雷]]などが同時にあればそれが優先され違う表記となる&lt;ref&gt;[[#jmbsc|気象業務支援センター]]&lt;/ref&gt;。
+
+[[定時飛行場実況気象通報式|METAR]]や[[運航用飛行場予報気象通報式|TAF]]では、「特性」の欄のFZが着氷性を表す。「降水現象」の欄の雨を表すRA、霧雨を表すDZ、また「視程障害現象」の欄の霧を表すFGとそれぞれ組み合わせて、たとえば着氷性の雨であればFZRAと表記する&lt;ref&gt;[[#jmanaha|那覇航空測候所]]&lt;/ref&gt;。
+
+; 日本式天気図・日本の国内気象通報式
+日本国内の目視での「[[天気]]」観測における15種天気、国内[[気象通報]]の[[日本式天気図]]における21種天気では、いずれも着氷性の雨と普通の雨は区別されていない。前者では[[雨]]としか表現されない。後者では[[雨]]、[[霧雨]]、[[雨強し]]の3つのいずれかでしか表現されない。なおどちらも、[[雪]]や[[雷]]などほかの現象が優先される。天気観測のうち現象判別機能のある現在天気計による自動観測点では、着氷性の雨と着氷性の霧雨を検出して記録する。なお、有人気象観測点では天気とは別に「大気現象」としては着氷性の雨、着氷性の霧雨のほか、雨氷も記録している&lt;ref name="jma2"&gt;[[#jma2|気象庁]]&lt;/ref&gt;&lt;ref&gt;[[#理科年表FAQ(2008)|理科年表FAQ、2008年]]&lt;/ref&gt;。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist2}}
+=== 出典 ===
+{{Reflist|25em}}
+
+== 参考文献 ==
+; 書籍
+*{{Cite |和書 |author=[[寺田寅彦]] |editors=樋口敬二, 太田文平 |chapter=凍雨と雨氷 |title=寺田寅彦全集 第六巻 随筆六 科学2 |date=2010 |publisher=岩波書店 |isbn=978-4000920766 |ref=寺田(2010)}}（フリーのweb資料として、[http://www.aozora.gr.jp/ 青空文庫]掲載の原版「[http://www.aozora.gr.jp/cards/000042/files/43080_24596.html 凍雨と雨氷]」（1935年）がある。）
+*{{Cite |和書 |author=[[岡田武松]] |title=雨 |date=1951 |publisher=岩波書店 |pages=222-232(§7) |url=https://books.google.co.jp/books?id=gsbluTPj2uEC&amp;printsec=frontcover&amp;hl=ja |ref=岡田(1951)}}&lt;!--{{ASIN|B000JBFRLM}}--&gt;
+*{{Cite web  |url=http://disaster-i.net/notes/1991kenchiri.html |title=雨氷現象について |author=[[牛山素行]] |series=年報長野県地理 |issue=9 |pages=18-27 |date=1991 |accessdate=2012-12-21 |ref=牛山(1991)}}（リンクは[http://disaster-i.net/ disaster-i.net]掲載版。）
+*{{Cite |和書 |author=[[全日本空輸|全日空]]広報室 |title=エアラインハンドブックQ&amp;A100 航空界の基礎知識 |publisher=[[ぎょうせい]] |year=1995 |ISBN=978-4324046982 |ref=ahb}}
+*{{Anchors|daijirin}}松村明『[[大辞林]] 第二版』三省堂、1995年 ISBN 978-4385140094
+*{{Cite |和書 |author=[[小倉義光]] |title=一般気象学 |edition=第2 |publisher=[[東京大学]]出版会 |date=1999 |ISBN=978-4-13-062706-1 |ref=ogura1999}}
+*{{Cite |和書 |author=菊地勝弘 |title=雪と雷の世界 雨冠の気象の科学-Ⅱ |date=2009 |publisher=成山堂書店 |isbn=978-4425552719 |series=気象ブックス-028 |ref=菊池(2009)}}
+; 論文
+*{{Cite journal |和書 |author=松島周一 |url={{NDLDC|984943/26}} |title=富士見及木祖ニ於ケル雨氷 |publisher=[[農商務省 (日本)|農商務省]]林業試験場 |journal=森林治水気象彙報 |volume=2 |pages=88-93 |date=1923 |naid=10003425389 |ref=matsushima1923}}
+* {{Cite journal|和書|author=小口八郎 |title=着氷の物理的研究 Ⅰ． : 顯微鏡的構造による着氷の分類 |journal=低温科学 |publisher=北海道大學低温科學研究所 |year=1951 |month=mar |issue=6 |pages=95-101 |naid=110001825519 |url=https://hdl.handle.net/2115/17486 |ref=lts1951-1}}
+* {{Cite journal|和書|author=小口八郎 |title=着氷の物理的研究 Ⅱ． : 着氷の氣象条件に就いて |journal=低温科学 |publisher=北海道大學低温科學研究所 |year=1951 |month=mar |issue=6 |pages=103-115 |naid=110001825525 |url=https://hdl.handle.net/2115/17487 |ref=lts1951-2}}
+* {{Cite journal|和書|author=小口八郎 |title=着氷の物理的研究 Ⅲ． : 着氷の密度に就いて |journal=低温科学 |publisher=北海道大學低温科學研究所 |year=1951 |month=mar |issue=6 |pages=117-123 |naid=110001825528 |url=https://hdl.handle.net/2115/17488 |ref=lts1951-3}}
+*{{Cite journal |和書 |author=植野隆寿 |url=https://www.metsoc.jp/tenki/pdf/1961/1961_04_f1.pdf |title=筑波山の大雨氷 |format=PDF |publisher=[[日本気象学会]] |journal=天気 |volume=8 |issue=4 |date=1961 |ref=植野(1961)}}
+*{{Cite journal |和書 |author=上中作次郎 |url=http://www.ffpri-kys.affrc.go.jp/kysmr/data/mr0004k2.htm |title=阿蘇地方に発生した造林地の雨氷害 |publisher=[[森林総合研究所]]九州支所 |journal=九州の森と林業 |issue=4号 |date=1988-06-01 |ref=上中(1988)}}
+* {{Cite journal|和書|author=牛山素行, 宮崎敏孝 |title=1991年3月23日長野県中部で発生した雨氷現象の特徴 |journal=天気 |issn=05460921 |publisher=日本気象学会 |year=1993 |month=jan |volume=40 |issue=1 |pages=47-54 |naid=110001813214 |url=https://dl.ndl.go.jp/info:ndljp/pid/10600847 |ref=牛山(1993)}}
+*{{Cite journal |和書 |author=田所裕 |title=雨氷ギャロッピング現象事例解析 |publisher=[[北見工業大学]]地域共同研究センター |journal=研究成果報告書 |issue=4 |pages=1-6 |date=1997 |ref=田所(1997)}} {{NDLbooks|R100000039-I001096248-00}}
+* {{Cite journal|和書|author=牛山素行 |title=1998年4月1日から2日にかけて長野県中部で発生した雨氷 |journal=天気 |issn=05460921 |year=1998 |month=jul |volume=45 |issue=7 |pages=497-498 |naid=110001814015 |url=https://dl.ndl.go.jp/info:ndljp/pid/10603023 |ref=牛山(1998)}}
+* {{Cite journal|和書|author=壬生幸子 |title=上代の雨 |journal=共栄学園短期大学研究紀要 |issn=09115358 |publisher=共栄学園短期大学 |year=2000 |issue=16 |pages=276-265 |naid=110000467002 |url=http://id.nii.ac.jp/1372/00000490/ |ref=壬生(2000)}}
+*{{Cite journal |和書 |author=松下拓樹、権頭芳浩 |url=https://doi.org/10.5331/seppyo.62.355 |title=雨氷発生日数の地域分布に関する統計的解析 |publisher=日本雪氷学会 |journal=雪氷 |volume=62 |issue=4 |pages=355-365 |date=2000 |naid=10004644939 |accessdate=2012-12-21 |ref=seppyo2000}}
+*{{Cite journal |和書 |author=吉武孝、島田和則 |url=http://www.ffpri.affrc.go.jp/labs/kanko/380-2.html |title=文献による森林気象災害 -発生位置図と気候区分図-  |journal=森林総合研究所研究報告 |issue=380 |pages=35-173 |date=2001 |naid=40004842709 |ref=吉武(2001)}}
+*{{Cite journal |和書 |author=松下拓樹、西尾文彦 |url=https://doi.org/10.5331/seppyo.66.541 |title=着氷性降水の気候学的特徴と地域性について |publisher=日本雪氷学会 |journal=雪氷 |volume=66 |issue=5 |pages=541-552 |date=2004 |naid=10013540743 |ref=seppyo2004}}
+* {{Cite journal|和書|author=松下拓樹, 尾関俊浩, 西尾文彦 |title=2004年2月に北海道・岩見沢付近で発生した雨氷現象の特徴 |journal=天気 |issn=05460921 |publisher=日本気象学会 |year=2005 |month=sep |volume=52 |issue=9 |pages=675-680 |naid=110001868241 |url=https://dl.ndl.go.jp/info:ndljp/pid/10606344 |ref=tenki2005}}
+*{{Cite journal |和書 |author=鳥田宏行、武田一夫 |url=https://doi.org/10.4005/jjfs.89.39 |title=雨氷害を受けたカラマツ人工林における林分構造と被害率との関係 |journal=日本森林学会誌 |volume=89 |issue=1 |pages=39-44 |date=2007 |naid=110006882851 |ref=鳥田(2007)}}
+*{{Cite journal |和書 |author=下原光幸 |title=雨氷現象による架線凍結対策の研究 |journal=鉄道と電気技術 |volume=22 |issue=6 |pages=29-32 |date=2011 |naid=10028269606 |ref=下原(2011)}}
+*{{Cite journal |author=R.A. Stuart, G.A. Isaac |url=http://www.tandfonline.com/doi/abs/10.1080/07055900.1999.9649622 |title=Freezing precipitation in Canada |journal=Atmosphere-Ocean |volume=37 |issue=1 |pages=87–102 |date=1999 |doi=10.1080/07055900.1999.9649622 |ref=Stuart(1999)}} - 要約:カナダにおける着氷性の降水の統計的研究
+*{{Cite journal |author=Rauber, Robert M., Larry S. Olthoff, Mohan K. Ramamurthy, Dianne Miller, Kenneth E. Kunkel |url=http://journals.ametsoc.org/doi/abs/10.1175/1520-0450%282001%29040%3C1724:ASWPAS%3E2.0.CO%3B2 |title=A Synoptic Weather Pattern and Sounding-Based Climatology of Freezing Precipitation in the United States East of the Rocky Mountains |journal=Journal of Climate and Applied Meteorology |volume=40 |pages=1724-1747 |date=2001 |doi=10.1175/1520-0450(2001)040&lt;1724:ASWPAS&gt;2.0.CO;2 |ref=Robert(2001)}} - 要約:ロッキー山脈以東のアメリカにおける着氷性の降水と総観気象に関する研究
+*{{Cite journal |author=Robbins, Chris C., John V. Cortinas Jr. |url=http://journals.ametsoc.org/doi/abs/10.1175/1520-0434%282002%29017%3C0047%3ALASEAW%3E2.0.CO%3B2 |title= Local and Synoptic Environments Associated with Freezing Rain in the Contiguous United States |journal=Weather and forecasting |volume=17 |issue=1 |pages=47-65 |date=2002 |doi=10.1175/1520-0434(2002)017&lt;0047:LASEAW&gt;2.0.CO;2 |ref=Chris(2002)}} - 要約:アメリカにおける地域的・総観規模環境が果たす着氷性降水への役割の研究
+*{{Cite journal |author=Stanley A. Changnona, Thomas R. Karl |url=http://journals.ametsoc.org/doi/full/10.1175/1520-0450%282003%29042%3C1302:TASVOF%3E2.0.CO%3B2 |title=Temporal and Spatial Variations of Freezing Rain in the Contiguous United States: 1948–2000 |pablished=[[アメリカ気象学会|American Meteorological Society]] |journal=Journal of Climate and Applied Meteorology |volume=42 |pages=1302–1315 |date=2003 |doi=10.1175/1520-0450(2003)042&lt;1302:TASVOF&gt;2.0.CO;2 |ref=Stanley(2003)}} - 要約:アメリカにおける着氷性の雨の統計に関する研究
+*{{Cite journal |author=Kevin A. Scharfenberg, V. Lakshmanan |url=http://ams.confex.com/ams/pdfpapers/81801.pdf |title=The use of NWP data in polarimetric hydrometeor classification |format=PDF |publisher=[[アメリカ気象学会]] |work=11th Conference on Aviation, Range, and Aerospace (Poster Session) |date=2004-10-05 |ref=Scharfenberg(2004)}}
+*{{Cite journal |author=John V. Cortinas Jr., Ben C. Bernstein, Christopher C. Robbins, J. Walter Strapp |url=http://journals.ametsoc.org/doi/pdf/10.1175/1520-0434%282004%29019%3C0377:AAOFRF%3E2.0.CO%3B2 |title=An Analysis of Freezing Rain, Freezing Drizzle, and Ice Pellets across the United States and Canada: 1976–90 |journal=Weather and forecasting |volume=19 |issue=2 |pages=377-390 |date=2004-04 |doi=10.1175/1520-0434(2004)019&lt;0377:AAOFRF&gt;2.0.CO;2 |ref=Cortinas Jr.(2004)}} - 要約:アメリカ・カナダにおける着氷性の降水・凍雨に関する研究
+*{{Cite journal |author=Natalia A. Bezrukova, et al. |url=http://www.cao-rhms.ru/Second%20Rev%20Text%20Bezrukova%20Stat.pdf |title=Some statistics of freezing precipitation and rime for the territory of the former USSR from ground-based weather observations |format=PDF |journal=Atmospheric Research |volume=82 |issue=1-2 |pages=203-221 |date=2006-11 |oclc=443545773 |ref=rhms}} - 要約:旧ソ連における着氷性降水の地上観測に関する研究
+; Webサイト
+*{{Cite web |url=https://www.jma.go.jp/jma/kishou/know/kansoku_guide/tebiki.pdf |title=気象観測の手引き 平成10年9月 |publisher=[[気象庁]] |format=PDF |date=1998 |accessdate=2012-12-21 |ref=jma}}
+*{{Anchors|jma2}}「過去の気象データ検索 [https://www.data.jma.go.jp/obd/stats/data/mdrr/man/tenki_kigou.html 天気欄の記号の説明]」、気象庁、2022年9月2日閲覧。
+*{{Cite web |url=https://official.rikanenpyo.jp/posts/6653 |title=理科年表FAQ &gt; 天気の種類はいくつあるのですか。その記号も教えてください。|author=山内豊太郎 |work=[[理科年表]]オフィシャルサイト（国立天文台、丸善出版）|date=2008-03 |accessdate=2023-01-25 |ref=理科年表FAQ(2008)}}
+*{{Cite web |url=https://www.jma-net.go.jp/naha-airport/metar_taf.html |title=METAR報とTAF報の解説 |author=那覇航空測候所 |date=不明 |accessdate=2022-08-16 |ref=jmanaha}}
+*{{Cite journal |url=https://www.pref.nagano.lg.jp/ringyosogo/joho/minigijutsu/ |title=雨氷 |author=山内仁人 |publisher=長野県林業総合センター |series=ミニ技術情報 |volume=43 |pages=18-27 |date=2006-03 |accessdate=2022-09-02 |ref=山内(2006)}}
+*{{Cite web |url=https://www.knet.ne.jp/~3776net/snow-030103.html |title=2003年1月3日の降雪・雨氷現象 ～関東地方で着氷災害～ |publisher=3776net |date=不明 |accessdate=2012-12-25 |ref=3776net}}
+*{{Anchors|imiuru}}imiuruThe January 1998 Ice Storm Montreal, Quebec, Canada “[http://www.imiuru.com/icestormdiary/1pages/factsfigures.html Fast Facts]”, “[http://www.imiuru.com/icestormdiary/1pages/Introduction.html Introduction]”, “[http://www.imiuru.com/icestormdiary/1pages/HydroQuebecMap.html HydroQuebec's Map]”.2005年1月24日、2012年12月25日閲覧。
+*{{Anchors|jmbsc}}[http://www.jmbsc.or.jp/jp/online/file/f-online00100.html#synop オンライン気象情報ファイル形式配信データ] 「[http://www.jmbsc.or.jp/jp/online/file/data/surface_format.pdf 地上気象資料フォーマット]」、気象業務支援センター、2012年12月25日閲覧。
+*{{Cite web |url=http://imnh.isu.edu/digitalatlas/clima/patterns/pp.htm |title=Precipitaion Patterns |publisher=Digital Atlas of Idaho Project（[[アイダホ大学]]webサイト内） |date=不明 |accessdate=2012-12-21 |ref=dai}}
+*{{Cite web |url=https://glossary.ametsoc.org/wiki/Glaze glaze]”, “[https://glossary.ametsoc.org/wiki/Clear_ice clear ice]”, “[https://glossary.ametsoc.org/wiki/Freezing_precipitation freezing precipitation]”, “[https://glossary.ametsoc.org/wiki/Freezing_rain freezing rain]”, “[https://glossary.ametsoc.org/wiki/Ice_storm |title=ice storm |work=Glossary of Meteorology |publisher=[[アメリカ気象学会]] |laysummary=web版気象学用語集 |accessdate=2012-12-21 |ref=amsglo1}}
+*''Weather World 2010 Online Guides''. University of Illinois Atmospheric Sciences（[[イリノイ大学アーバナ・シャンペーン校|イリノイ大学大気科学部]]）.
+**{{Cite web |url=http://ww2010.atmos.uiuc.edu/(Gh)/wwhlpr/zr_swrp.rxml?hret=/guides/mtr/cld/prcp/zr/prcs/ice.rxml |title=Supercooled Warm-Rain Processes |date=不明 |accessdate=2012-12-21 |ref=uiuc-ice}}
+**{{Cite web |url=http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/cld/prcp/zr/dang/home.rxml |title=Freezing Rain - Dangers to People |date=不明 |accessdate=2012-12-21 |ref=uiuc-home}}
+**{{Cite web |url=http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/cld/prcp/zr/cond/cyc.rxml |title=Freezing Rain - Cyclones and Fronts |date=不明 |accessdate=2012-12-21 |ref=uiuc-cyc}}
+**{{Cite web |url=http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/cld/prcp/zr/fcst/fcst.rxml |title=Freezing Rain - Forecasting |date=不明 |accessdate=2012-12-21 |ref=uiuc-fcst}}
+**{{Cite web |url=http://ww2010.atmos.uiuc.edu/(Gh)/wwhlpr/zr_sounding.rxml?hret=/guides/mtr/cld/prcp/zr/fcst/fcst.rxml |title=Common Freezing Rain Sounding |date=不明 |accessdate=2012-12-21 |ref=uiuc-sounding}}
+*{{Cite web |url=https://www.weather.gov/safety/winter-ww |title=Winter Weather Warnings, Watches and Advisories |publisher=アメリカ国立気象局(NWS) |date=不明 |accessdate=2022-09-02 |ref=nwswwea}}
+*{{Cite web |url=https://www.canada.ca/en/environment-climate-change/services/types-weather-forecasts-use/public/criteria-alerts.html#freezingDrizzle |title=Criteria for public weather alerts |publisher=[[環境・気候変動省 (カナダ)|カナダ環境・気候変動省]](ECCC) |date=不明 |accessdate=2022-09-02 |ref=ecccfzra}}
+*{{Cite web |url=http://www.dandantheweatherman.com/Bereklauw/Freezingrain23jan96.htm |title=A British Ice Pellet, Freezing Rain and Glaze Event During the Cold Snap of Late January 1996 |author=Dan Suri |date=2001-03-05 |accessdate=2012-12-25 |ref=Suri(2001)}}
+*{{Cite web |url=http://www.islandnet.com/~see/weather/elements/icestorm.htm |title=ICE STORMS: HAZARDOUS BEAUTY |publisher=THE WEATHER DOCTOR |accessdate=2012-12-25 |archiveurl=https://web.archive.org/web/20160511055708/http://www.islandnet.com/~see/weather/elements/icestorm.htm |archivedate=2016-05-11 |deadlinkdate=2022-09-02 |ref=twd}}
+*{{Cite web |url=http://archives.cbc.ca/IDD-1-70-258/disasters_tragedies/ice_storm/ |title=The Ice Storm of 1998 |publisher=CBC Archives |accessdate=2012-12-25 |archiveurl=https://web.archive.org/web/20070202162929/http://archives.cbc.ca/IDD-1-70-258/disasters_tragedies/ice_storm/ |archivedate=2007-02-02 |deadlinkdate=2022-09-02 |ref=cbc}}
+
+== 関連項目 ==
+{{Commonscat|Freezing rain}}
+{{Wt|雨氷}}
+* [[着氷]]
+* [[霧氷]]
+* [[着氷性の霧]]
+* [[雨]]
+* [[氷雨]]
+* [[過冷却]]
+* [[逆転層]]
+* [[除氷]]
+
+== 外部リンク ==
+* [https://www.jma-net.go.jp/nagano/shosai/kikou/document/haru.html 長野県の春の特徴] [[長野地方気象台]] - 中盤に雨氷に関する解説を掲載。
+* {{YouTube|yzoB1jUzp2Il|Springfield Missouri Ice Storm - January 2007（雨氷の被害映像）}}{{en icon}}
+* CFI Japan 「[http://www.cfijapan.com/study/html/to199/html-to125/120a-icing.htm Icing 着氷]」 - 航空機の着氷に関する解説
+
+{{気象現象}}
+{{自然災害}}
+{{雪氷学}}
+{{Normdaten}}
+{{DEFAULTSORT:うひよう}}
+[[Category:着氷]]
+[[Category:森林]]
+[[Category:冬の季語]]
+{{Featured article}}
+[[nn:Vêris]]</text>
+      <sha1>q5s5faon03lrhgz8jm0kqivxr83zfo9</sha1>
+    </revision>
+  </page>
+  

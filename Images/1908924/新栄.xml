@@ -1,0 +1,485 @@
+<page>
+    <title>新栄</title>
+    <ns>0</ns>
+    <id>1908924</id>
+    <revision>
+      <id>95111118</id>
+      <parentid>88145300</parentid>
+      <timestamp>2023-05-08T00:46:57Z</timestamp>
+      <contributor>
+        <username>Bcxfubot</username>
+        <id>291984</id>
+      </contributor>
+      <minor />
+      <comment>外部リンクの修正 http:// -&gt; https:// (www.city.nagoya.jp) ([[Wikipedia:Bot|Bot]]による編集)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28308" xml:space="preserve">{{Otheruses|名古屋市の地名|[[埼玉県]][[草加市]]の町名|新栄 (草加市)|中国山西省大同市の区|新栄区}}
+{{Pathnavbox|
+* {{Pathnav|日本|愛知県|名古屋市|[[中区 (名古屋市)|中区]]|'''新栄・新栄町'''|hide=1}}
+* {{Pathnav|日本|愛知県|名古屋市|千種区}}
+}}
+{{Infobox settlement
+| name = 新栄
+| settlement_type = [[町丁]]
+| image_skyline = &lt;!--- 関連する画像ファイル ---&gt;
+| imagesize = 270px
+| image_caption = &lt;!--- 画像の説明 ---&gt;
+| image_map = 
+| map_caption = 新栄の位置
+| pushpin_map = Japan Aichi#Nagoya
+| latd = 35 | latm = 9 | lats = 55.31 | latNS = N
+| longd = 136 | longm = 55 | longs = 13.0 | longEW = E
+| subdivision_type = [[国の一覧|国]]
+| subdivision_name = {{JPN}}
+| subdivision_type1 = [[都道府県]]
+| subdivision_name1 = {{Flag|愛知県}}
+| subdivision_type2 = [[市町村]]
+| subdivision_name2 = [[File:Flag of Nagoya, Aichi.svg|border|25px]] [[名古屋市]]
+| subdivision_type3 = [[区 (行政区画)|区]]
+| subdivision_name3 = [[中区 (名古屋市)|中区]]&lt;br/&gt;[[千種区]]
+| established_title1 = &lt;!--- 制定・制定(&lt;ref&gt;) ---&gt;
+| established_date1 = &lt;!--- 制定日 ---&gt;
+| area_footnotes = &lt;ref name="面積中区"/&gt;&lt;ref name="面積千種区"/&gt;
+| area_total_km2 = 0.91877554
+| elevation_footnotes = &lt;!--- 標高(&lt;ref&gt;) ---&gt;
+| elevation_m = &lt;!--- 標高 ---&gt;
+| population_as_of= [[2019年]]（平成31年）[[1月1日]]現在
+| population_footnotes = &lt;ref name="population"&gt;{{Cite web|url=https://www.city.nagoya.jp/shisei/category/67-5-5-2-0-0-0-0-0-0.html|title=町・丁目(大字)別、年齢(10歳階級)別公簿人口(全市・区別)|publisher=名古屋市|language=日本語|date=2019-01-23|accessdate=2019-01-23}}&lt;/ref&gt;
+| population_total = 13288
+| population_density_km2 = auto
+| timezone1 = [[日本標準時]]
+| utc_offset1 = +9
+| postal_code_type = [[日本の郵便番号|郵便番号]]
+| postal_code = 460-0007（中区）&lt;ref name="postal_naka"&gt;{{Cite web |url=https://www.post.japanpost.jp/cgi-zip/zipcode.php?zip=4600007|title=郵便番号|publisher=[[日本郵便]]|accessdate=2019-01-06}}&lt;/ref&gt;&lt;br/&gt;464-0859（千種区）&lt;ref name="postal_chikusa"&gt;{{Cite web |url=https://www.post.japanpost.jp/cgi-zip/zipcode.php?zip=4640859|title=郵便番号|publisher=[[日本郵便]]|accessdate=2019-01-06}}&lt;/ref&gt;
+| area_code = 052 ([[日本の市外局番#番号区画|名古屋MA]])&lt;ref name="areacode"&gt;{{Cite web|url=https://www.soumu.go.jp/main_sosiki/joho_tsusin/top/tel_number/shigai_list.html|title=市外局番の一覧|publisher=総務省|accessdate=2019-01-06}}&lt;/ref&gt;
+| registration_plate = [[愛知運輸支局|名古屋]]
+| footnotes = 
+}}
+{{Infobox settlement
+| name = 新栄町
+| settlement_type = [[町丁]]
+| image_skyline = &lt;!--- 関連する画像ファイル ---&gt;
+| imagesize = 270px
+| image_caption = &lt;!--- 画像の説明 ---&gt;
+| image_map = 
+| subdivision_type = [[国の一覧|国]]
+| subdivision_name = {{JPN}}
+| subdivision_type1 = [[都道府県]]
+| subdivision_name1 = {{Flag|愛知県}}
+| subdivision_type2 = [[市町村]]
+| subdivision_name2 = [[File:Flag of Nagoya, Aichi.svg|border|25px]] [[名古屋市]]
+| subdivision_type3 = [[区 (行政区画)|区]]
+| subdivision_name3 = [[中区 (名古屋市)|中区]]
+| established_title1 = &lt;!--- 制定・制定(&lt;ref&gt;) ---&gt;
+| established_date1 = &lt;!--- 制定日 ---&gt;
+| area_footnotes = &lt;ref name="面積中区"/&gt;
+| area_total_km2 = 0.034787142
+| elevation_footnotes = &lt;!--- 標高(&lt;ref&gt;) ---&gt;
+| elevation_m = &lt;!--- 標高 ---&gt;
+| population_as_of= [[2019年]]（平成31年）[[1月1日]]現在
+| population_footnotes = &lt;ref name="population"&gt;{{Cite web|url=https://www.city.nagoya.jp/shisei/category/67-5-5-2-0-0-0-0-0-0.html|title=町・丁目(大字)別、年齢(10歳階級)別公簿人口(全市・区別)|publisher=名古屋市|language=日本語|date=2019-01-23|accessdate=2019-01-23}}&lt;/ref&gt;
+| population_total = 12
+| population_density_km2 = auto
+| timezone1 = [[日本標準時]]
+| utc_offset1 = +9
+| postal_code_type = [[日本の郵便番号|郵便番号]]
+| postal_code = 460-0004&lt;ref name="postal_shinsakaecho"&gt;{{Cite web |url=https://www.post.japanpost.jp/cgi-zip/zipcode.php?zip=4600004|title=郵便番号|publisher=[[日本郵便]]|accessdate=2019-01-06}}&lt;/ref&gt;
+| area_code = 052 ([[日本の市外局番#番号区画|名古屋MA]])&lt;ref name="areacode"&gt;{{Cite web|url=https://www.soumu.go.jp/main_sosiki/joho_tsusin/top/tel_number/shigai_list.html|title=市外局番の一覧|publisher=総務省|accessdate=2019-01-06}}&lt;/ref&gt;
+| registration_plate = [[愛知運輸支局|名古屋]]
+| footnotes = 
+}}
+[[File:Unryu-FLEXBuilding2015.JPG|thumb|right|240px|雲竜フレックスビル（新栄二丁目）]]
+'''新栄'''（しんさかえ）は、[[愛知県]][[名古屋市]][[中区 (名古屋市)|中区]]及び[[千種区]]にある地名。従来からの町名である「'''新栄町（しんさかえまち）'''」と[[住居表示]]の実施による「'''新栄（しんさかえ）'''」がある。
+
+== 概要 ==
+本項で扱う地域には、[[1907年]]（明治40年）に成立し現存する町である「'''新栄町'''」と[[1977年]]（昭和52年）の[[住居表示]]の実施により生まれた[[町丁]]である「'''新栄一丁目・二丁目・三丁目'''」がある&lt;ref name="kadokawa"&gt;『角川日本地名大辞典第23巻 愛知県』 P708。&lt;/ref&gt;&lt;ref name="nagoyanochoumei"&gt;『なごやの町名』（名古屋市計画局　1992年3月31日発行） P308-P314。&lt;/ref&gt;。以降では両者を「新栄町」「新栄」と記述分けする。
+
+なお日常会話等で'''「新栄にある～」'''という表現がされた場合、その意味するところが'''「[[新栄町駅 (愛知県)|（地下鉄）新栄（町駅]]の近隣）にある～」'''であることも現実には多い。その場合の「新栄」は、新栄町駅南側の住居表示地域「新栄」のみならず、新栄町駅北側に位置する「東区葵一丁目・二丁目」「東区東桜二丁目」、広小路通沿い北側に位置する「中区葵一丁目・二丁目」「中区東桜二丁目」なども併せた一帯を示す概念として用いられている&lt;ref group="注"&gt;[[ケヴィン・リンチ]]「都市のイメージ」におけるイメージアビリティ5要素のうち「ディストリクト（一定の2次元の広がりを持つエリア）」の意味合いが強く出た用法である（鉄道駅の利用者に対するわかりやすさ（[[日建設計]]総合研究所）参照）。&lt;/ref&gt;&lt;ref&gt;{{Cite news
+|url=http://www.nikken-ri.com/valueup/column19.html|date=2010年02月15日|title= Topic19　鉄道駅の利用者に対するわかりやすさ|work= 都市のバリューを考える会　都市の価値を紡ぐ50のトピックス（日建設計総合研究所）|accessdate=2012年4月9日}}&lt;/ref&gt;。
+本用法における「新栄」が指し示す地域の範囲については、明確に定義づけることが現状困難なため、以下の本項では取り扱わない&lt;ref group="注"&gt;本項にて住居表示名で掲げた地域の中においても、同様の理由により他の駅の周辺とされる地域も含まれることとなるため、どの駅の周辺地域とするか客観的かつ合理的な線引きは現状困難である。&lt;/ref&gt;。
+
+住居表示「新栄」は、当地域の大部分が[[名古屋市立新栄小学校]]区であること、および「'''新'''しく'''栄'''える町であって欲しい」という願いを込めて付けられた&lt;ref name="kadokawa"&gt;&lt;/ref&gt;&lt;ref name="nagoyanochoumei"&gt;&lt;/ref&gt;とされる。
+
+「新栄町」は全域が中区所在、「新栄」はそのほとんどが中区所在であるが、[[東海旅客鉄道|JR]][[中央線 (名古屋地区)|中央本線]]沿いの新栄三丁目の一部は千種区所在となっている。
+
+特色としてはビジネス街、商業地、住宅街が混在した地域であると言える。「新栄町」地区は広小路通沿いに大小のオフィスビルが立ち並ぶ。「新栄」地区のうち[[名古屋市道堀田高岳線|空港線]]と[[広小路通 (名古屋市)|広小路通]]に面した地域は[[歓楽街]]（東新町）としても発展している。外国系の店も多く、それに伴って外国人の居住者も多い。「新栄」地区南部の新栄二丁目・三丁目の市道赤萩町線沿線、新栄一丁目の[[若宮大通]]沿線には、広範囲にわたって名古屋市市営住宅（新栄荘1棟～7棟、千種荘、千早荘1棟～2棟）が点在する。
+
+[[ランドマーク]]としては[[雲竜フレックスビル]]（新栄二丁目、地上高90m）、[[アクシオス千種]]（新栄三丁目、地上高108.43m）などが挙げられる。
+
+== 沿革 ==
+以下『なごやの町名&lt;ref name="nagoyanochoumei"&gt;&lt;/ref&gt;&lt;ref name="nagoyanotyoumei2"&gt;『なごやの町名』 P727・P784-P786 区別町名編成表。&lt;/ref&gt;』を主な出典として記述する。
+
+=== 新栄町 ===
+[[1907年]]（明治40年）7月15日、名古屋市内16町&lt;ref group="注"&gt;[[辰巳町 (名古屋市中区)|辰巳町]]・[[添地町 (名古屋市)|添地町]]・[[葵 (名古屋市)|葵町]]・[[東田町 (名古屋市)|東田町]]・[[春庵横町]]・[[車道東町]]・[[南小川町]]・[[車道町]]・[[南辰巳町]]・[[東新町 (名古屋市)|東新町]]・[[宮出町]]・[[西新町 (名古屋市)|西新町]]・[[南新町 (名古屋市)|南新町]]・[[七曲町]]・[[南武平町]]・[[南久屋町]]&lt;/ref&gt;の一部の区域を統合する形により新栄町が成立した。翌年名古屋市において区政が実施され、新栄町は中区に属することとなる。[[1944年]]（昭和19年）には中区から新設された栄区に属することとなるが、[[第二次世界大戦]]の戦災により人口が激減したため翌年栄区は中区と統合され、再び中区に属することとなる。
+
+大正期から昭和50年代にかけて周囲の6町&lt;ref group="注"&gt;東区東新町・東区辰巳町・中区西新町・中区東新町・中区南新町・東区[[武平町]]&lt;/ref&gt;の全部または一部を町域として編入しつつ、[[1969年]]（昭和44年）から[[1981年]]（昭和56年）にかけ住居表示実施により町域の一部が栄四丁目などの9町に組み入れられ、現在に至っている。なお、住居表示による「新栄町」町域の編入先には「新栄」もある。
+
+=== 新栄 ===
+[[1977年]]（昭和52年）10月23日、名古屋市中区20町の全部および中区・千種区13町の一部&lt;ref group="注"&gt;[[西瓦町]]・[[東瓦町]]・[[南瓦町 (名古屋市)|南瓦町]]・南小川町・南新町・宮出町・[[老松町 (名古屋市)|老松町]]・新栄町・[[千代田 (名古屋市)|千代田]]一丁目・[[東陽町 (名古屋市)|東陽町]]・[[流川町 (名古屋市)|流川町]]・[[西境町]]・[[西白山町]]・[[東桜]]二丁目・東田町・[[丸田町 (名古屋市)|丸田町]]・[[宮前町 (名古屋市)|宮前町]]・[[養老町 (名古屋市)|養老町]]・[[葵 (名古屋市)|葵]]一丁目・[[青木町 (名古屋市)|青木町]]・[[王子町 (名古屋市)|王子町]]・[[千早町]]・[[塚越町]]・[[西塚町]]・[[白山町 (名古屋市)|白山町]]・南辰巳町・[[菊里町]]・車道町・[[下奥田町]]・[[千種町 (名古屋市)|千種町]]・車道東町・[[千郷町]]（以上中区）・千種区千種町&lt;/ref&gt;により新栄一丁目・二丁目・三丁目が成立した。その後[[1979年]]（昭和54年）・[[1981年]]（昭和56年）に周囲の5町&lt;ref group="注"&gt;中区葵町・中区新栄町・中区添地町・中区千郷町・千種区千種町&lt;/ref&gt;の全部または一部を編入し、現在に至っている。
+
+== 地理 ==
+「新栄町」地区は[[広小路通 (名古屋市)|広小路通]]の北側（広小路久屋東交差点－東新町交差点間）に接する地域であり、[[錦通 (名古屋市)|錦通]]（錦通久屋交差点－東新町北交差点間）との間に挟まれる形となっている&lt;ref name="nagoyanochoumei"&gt;&lt;/ref&gt;&lt;ref group="注"&gt;これらの広小路通と錦通に挟まれる地域がすべて「新栄町」ではなく、一部は[[東区 (名古屋市)|東区]]所在地域（久屋町・武平町・西新町・東新町）である。&lt;/ref&gt;。「新栄」地区は、北側の境は広小路通、南側の境は[[若宮大通]]、東側の境はJR中央線、西側の境は空港線となる地域である&lt;ref name="nagoyanochoumei"&gt;&lt;/ref&gt;。また、新栄二丁目・三丁目を[[国道153号]]（[[飯田街道]]）が貫通している&lt;ref name="nagoyanochoumei"&gt;&lt;/ref&gt;。
+
+地形的な面では「新栄町」地区は、東新町交差点から広小路久屋東交差点に向け西向きに登り坂となっている。「新栄」地区はアクシオス千種が所在する北東端が明確な登り坂となっているが、[[熱田台地|名古屋台地]]の特徴である緩やかな南西方向への下り斜面となっている（体感的にはほぼ平坦である）&lt;ref group="注"&gt;週刊東洋経済臨時増刊号『進化する名古屋2012』P104 - P105掲載の図には、この状況がよく示されている。&lt;/ref&gt;&lt;ref&gt;『週刊東洋経済臨時増刊号 進化する名古屋2012』（東洋経済新報社、2012年5月16日発行）。&lt;/ref&gt;。
+
+地名を冠する[[名古屋市営地下鉄]][[名古屋市営地下鉄東山線|東山線]][[新栄町駅 (愛知県)|新栄町駅]]は、当地区内ではなく東区葵一丁目の錦通地下に所在している。新栄町駅から見た場合、「新栄」地区は区境を越えた駅南側に位置することとなる。
+
+「新栄」地区の北部では基本的に新栄町駅が最寄り駅となるが、地区北部でも東寄りの千郷町交差点（広小路通・市道赤萩町線交点）周辺では[[千種駅]]の方が利便性が高い。新栄町駅・千種駅とも地区の南部から見ると距離が開いており、千早交差点（若宮大通・市道赤萩町線・市道葵町線交点）周辺では、[[鶴舞駅#JR東海|JR鶴舞駅]]の方が便が良い。さらに、南西端の丸田町交差点（空港線・若宮大通交点）付近では、わずかな差ではあるが[[矢場町駅]]（地下鉄名城線）が徒歩での最寄り駅となる。
+
+「新栄町」地区の場合は、[[栄 (名古屋市)|広義の栄地区]]に属することもあり、最寄り駅として[[栄駅 (愛知県)|栄駅]]（地下鉄東山線・名城線）を利用するのが最も便利である。
+
+== 世帯数と人口 ==
+[[2019年]]（平成31年）[[1月1日]]現在の世帯数と人口は以下の通りである&lt;ref name="population" /&gt;。
+
+=== 新栄 ===
+{| class="wikitable"
+![[区 (行政区画)|区]]!![[丁目]]!![[世帯|世帯数]]!![[人口]]
+|-
+|rowspan=4|中区
+|新栄一丁目
+|style="text-align:right"|3,961世帯
+|style="text-align:right"|5,189人
+|-
+|新栄二丁目
+|style="text-align:right"|3,088世帯
+|style="text-align:right"|4,212人
+|-
+|新栄三丁目
+|style="text-align:right"|2,481世帯
+|style="text-align:right"|3,697人
+|-
+|style="text-align:center"|中区 計
+|style="text-align:right"|9,530世帯
+|style="text-align:right"|13,098人
+|-
+|colspan=4|
+|-
+|千種区
+|新栄三丁目
+|style="text-align:right"|90世帯
+|style="text-align:right"|190人
+|-
+|colspan=4|
+|-
+|colspan=2 style="text-align:center"|計
+|style="text-align:right"|9,620世帯
+|style="text-align:right"|13,288人
+|}
+
+=== 新栄町 ===
+{| class="wikitable"
+![[町丁]]!![[世帯|世帯数]]!![[人口]]
+|-
+|新栄町
+|style="text-align:right"|10世帯
+|style="text-align:right"|12人
+|}
+
+== 公立小中学校の学区 ==
+「新栄町」地区は名古屋市立新栄小学校区に属している。「新栄」地区もその大部分を新栄小学校区が占めるが、地区南部は[[名古屋市立千早小学校]]区であり、南東部丸田町交差点周辺には名古屋市立老松小学校区となっている地域がある&lt;ref group="注"&gt;地域としては老松小学校区となっているが、2010年国勢調査実施時においては当該地域の世帯数・人口ともにゼロとなっている。&lt;/ref&gt;。また千種区新栄三丁目については、名古屋市立千石小学校区となっている。
+
+中区の3小学校の進学先となる公立中学校は名古屋市立白山中学校である。また千石小学校の進学先中学校は名古屋市立今池中学校である。名古屋市では[[公立学校選択制]]が導入されていないため、住居の移転を伴わない場合、卒業した小学校により進学先の公立中学校が決まることとなる。
+
+※記述にあたっては、『名古屋の町（大字）・丁目別人口（平成22年国勢調査）』行政区別統計表&lt;ref &gt;{{Cite news|url=https://www.city.nagoya.jp/somu/page/0000023639.html|title=名古屋の町（大字）・丁目別人口（平成22年国勢調査）統計表（区別）（1）千種区・（6）中区|work= 名古屋市総務局企画部統計課|date=2011年4月22日|accessdate=2012年9月18日}}&lt;/ref&gt;を参照した。
+
+== 本社を置く企業 ==
+[[ファイル:CBC Hall of Chubu-Nippon Broadcasting.jpg|thumb|right|220px|中部日本放送社屋（新栄一丁目）]]
+=== 新栄一丁目 ===
+* [[中部日本放送]] (CBC)
+** 後述する[[CBCテレビ]]及び[[CBCラジオ]]を子会社に持つ[[認定放送持株会社]]である。
+* [[CBCテレビ]]
+** CBCの子会社。[[TBSテレビ]]をキー局とする[[Japan News Network|JNN]]系列のテレビ局である。
+* [[CBCラジオ]]
+** CBCの子会社。[[TBSラジオ]]をキー局とする[[Japan Radio Network|JRN]]系列のラジオ局である。
+* [[流行発信ホールディングス]]
+** [[流行発信]]
+*** 東海地区向けファッション誌などを発行する出版社。
+* [[サンワハウス]]
+* [[エスワイフード]]
+** 居酒屋チェーン「世界の山ちゃん」などを展開する。
+* [[東海労働金庫]]
+* エムリット&lt;ref&gt;{{Cite web |url=https://www.mlitfilter.com/about.html |title=会社概要 |publisher=エムリット |accessdate=2019-03-03 }}&lt;/ref&gt;
+** [[カーエアコン]]用[[クリーンエアフィルタ (自動車用)|クリーンエアフィルタ]]「[[エムリットフィルター]]」を販売する。
+
+=== 新栄二丁目 ===
+* [[佐波商事]]
+** [[DIAMOND HALL]]の運営や多目的スペースのレンタルを行っている。
+* [[明倫ゼミナール]]
+
+=== 新栄町 ===
+* [[丸八証券]]
+* [[アイホン]]
+
+== 主な施設 ==
+=== 新栄一丁目 ===
+{{OSM Location map
+| coord = {{coord|35.165677|N|136.917346|E}} | zoom = 15
+| float = right
+| width = 250 | height = 250
+| caption = 略地図 | auto-caption = 1
+| scalemark = 60
+
+| mark-coord1 = {{coord|35.161749|N|136.919818|E}}
+| mark-title1 = 愛知県教育会館
+| shape1 = n-circle
+| shape-color1 = green
+| shape-outline1 = white
+| mark-size1 = 12
+
+| mark-coord2 = {{coord|35.162455|N|136.917004|E}}
+| mark-title2 = 千早公園
+| shape2 = n-circle
+| shape-color2 = green
+| shape-outline2 = white
+| mark-size2 = 12
+
+| mark-coord3 = {{coord|35.167093|N|136.917965|E}}
+| mark-title3 = 名古屋市立白山中学校
+| shape3 = n-circle
+| shape-color3 = green
+| shape-outline3 = white
+| mark-size3 = 12
+
+| mark-coord4 = {{coord|35.162468|N|136.918471|E}}
+| mark-title4 = 名古屋市立千早小学校
+| shape4 = n-circle
+| shape-color4 = green
+| shape-outline4 = white
+| mark-size4 = 12
+}}
+&lt;!-- * CLUB ROCK'N'ROLL（ライブハウス）--&gt;
+* 愛知県教育会館
+:愛知県教育・スポーツ振興財団が管理する施設で、愛知県内の公立学校の校長会、PTA会、教員組合などの事務所がある&lt;ref name="aichi-kyoiku"&gt;{{citeweb|url=http://aichi-kyo-spo.sakura.ne.jp/management/nyuukyo/huroa_new.html |title=愛知県教育会館　入居団体 |publisher=愛知県教育・スポーツ振興財団 |accessdate=2012-03-07}}&lt;/ref&gt;。
+* 千早公園
+* [[名古屋市立白山中学校]]
+* [[名古屋市立千早小学校]]
+&lt;gallery&gt;
+Chihaya Park 20171217.jpg|千早公園
+Nagoya City Hakusan Junior High School 20131124-1.JPG|名古屋市立白山中学校
+Nagoya City Chihaya Elementary School 20141018.JPG|名古屋市立千早小学校
+&lt;/gallery&gt;
+
+=== 新栄二丁目 ===
+{{OSM Location map
+| coord = {{coord|35.166173|N|136.922106|E}} | zoom = 15
+| float = right
+| width = 250 | height = 270
+| caption = 略地図 | auto-caption = 1
+| scalemark = 60
+
+| mark-coord1 = {{coord|35.169371|N|136.920500|E}}
+| mark-title1 = 雲龍フレックスビル
+| shape1 = n-circle
+| shape-color1 = green
+| shape-outline1 = white
+| mark-size1 = 12
+
+| mark-coord2 = {{coord|35.161643|N|136.921725|E}}
+| mark-title2 = スポルト名古屋
+| shape2 = n-circle
+| shape-color2 = green
+| shape-outline2 = white
+| mark-size2 = 12
+
+| mark-coord3 = {{coord|35.166075|N|136.922556|E}}
+| mark-title3 = 白山神社
+| shape3 = n-circle
+| shape-color3 = green
+| shape-outline3 = white
+| mark-size3 = 12
+
+| mark-coord4 = {{coord|35.163785|N|136.920492|E}}
+| mark-title4 = バロー新栄店
+| shape4 = n-circle
+| shape-color4 = green
+| shape-outline4 = white
+| mark-size4 = 12
+
+| mark-coord5 = {{coord|35.169229|N|136.922492|E}}
+| mark-title5 = パルル parlwr
+| shape5 = n-circle
+| shape-color5 = green
+| shape-outline5 = white
+| mark-size5 = 12
+
+| mark-coord6 = {{coord|35.165044|N|136.920314|E}}
+| mark-title6 = 名古屋白山郵便局
+| shape6 = n-circle
+| shape-color6 = green
+| shape-outline6 = white
+| mark-size6 = 12
+}}
+* [[雲竜フレックスビル]]
+** [[DIAMOND HALL]]（[[ライブハウス]]）
+** [[HeartLand STUDIO|HeartLand]]（ライブハウス)
+** 名古屋新栄郵便局
+&lt;!-- ** APOLLO THEATER（ライブハウス） --&gt;
+* [[コシダカホールディングス|スポルト]]名古屋（[[ボウリング|ボウリング場]]）
+** 新栄フットサルアリーナ（[[フットサル]][[コート (スポーツ)|コート]]）
+* 白山神社
+:神社内に白山古墳がある&lt;ref name="nagoyanochoumei"&gt;&lt;/ref&gt;。
+* [[バロー (チェーンストア)|バロー]]新栄店
+*パルル parlwr
+* 名古屋白山郵便局
+&lt;!--&lt;gallery&gt;
+&lt;/gallery&gt;--&gt;
+
+=== 新栄三丁目 ===
+{{OSM Location map
+| coord = {{coord|35.167415|N|136.925069|E}} | zoom = 15
+| float = right
+| width = 250 | height = 250
+| caption = 略地図 | auto-caption = 1
+| scalemark = 60
+
+| mark-coord1 = {{coord|35.169113|N|136.928753|E}}
+| mark-title1 = アクシオス千種
+| shape1 = n-circle
+| shape-color1 = green
+| shape-outline1 = white
+| mark-size1 = 12
+
+| mark-coord2 = {{coord|35.167818|N|136.924192|E}}
+| mark-title2 = 新栄公園
+| shape2 = n-circle
+| shape-color2 = green
+| shape-outline2 = white
+| mark-size2 = 12
+
+| mark-coord3 = {{coord|35.167125|N|136.925287|E}}
+| mark-title3 = 名古屋市立中央高校
+| shape3 = n-circle
+| shape-color3 = green
+| shape-outline3 = white
+| mark-size3 = 12
+
+| mark-coord4 = {{coord|35.167731|N|136.925694|E}}
+| mark-title4 = 名古屋市立新栄小学校
+| shape4 = n-circle
+| shape-color4 = green
+| shape-outline4 = white
+| mark-size4 = 12
+
+| mark-coord5 = {{coord|35.166333|N|136.926225|E}}
+| mark-title5 = 名古屋千郷郵便局
+| shape5 = n-circle
+| shape-color5 = green
+| shape-outline5 = white
+| mark-size5 = 12
+}}
+* [[アクシオス千種]]
+* 新栄公園
+* [[名古屋市立中央高等学校]]
+* [[名古屋市立新栄小学校]]
+:地区の住居表示名の由来の一つとなった&lt;ref name="kadokawa"&gt;&lt;/ref&gt;&lt;ref name="nagoyanochoumei"&gt;&lt;/ref&gt;。市立中央高等学校の北側に隣接している。
+* 名古屋千郷郵便局
+&lt;gallery&gt;
+Life-and-Senior-House-Chikusa.jpg|アクシオス千種
+Nagoya City Chuo Senior High School1.jpg|市立中央高等学校
+&lt;/gallery&gt;
+
+=== 新栄町 ===
+{{OSM Location map
+| coord = {{coord|35.169640|N|136.911647|E}} | zoom = 15
+| float = right
+| width = 250 | height = 150
+| caption = 略地図 | auto-caption = 1
+| scalemark = 60
+
+| mark-coord1 = {{coord|35.169463|N|136.909734|E}}
+| mark-title1 = 明治安田生命名古屋ビル
+| shape1 = n-circle
+| shape-color1 = green
+| shape-outline1 = white
+| mark-size1 = 12
+
+| mark-coord2 = {{coord|35.169623|N|136.912764|E}}
+| mark-title2 = 名古屋東部県税事務所・名古屋音楽学校
+| shape2 = n-circle
+| shape-color2 = green
+| shape-outline2 = white
+| mark-size2 = 12
+
+| mark-coord3 = {{coord|35.169600|N|136.913990|E}}
+| mark-title3 = 名古屋東新町郵便局
+| shape3 = n-circle
+| shape-color3 = green
+| shape-outline3 = white
+| mark-size3 = 12
+}}
+* [[明治安田生命保険|明治安田生命]]名古屋ビル
+* 名古屋東部県税事務所
+* [[名古屋音楽学校]]
+* 名古屋東新町郵便局
+&lt;gallery&gt;
+Meiji-Yasuda_Life_Insurance_Nagoya_Building_20150426.JPG|明治安田生命名古屋ビル
+Nagoya School of Music Entrance 20141030.JPG|名古屋音楽学校
+&lt;/gallery&gt;
+
+== 交通 ==
+[[鉄道駅]]は当地域内にはない。新栄町駅などの近隣地域に所在する駅を利用するか、[[名古屋市営バス]]などを用いて[[栄 (名古屋市)|栄]]、[[名古屋駅]]などの[[バスターミナル|ターミナル駅]]に出ることとなる。
+
+道路についても、名古屋市内の主要幹線道路は当地域と他地域の境に位置しているケースが大半であり&lt;ref group="注"&gt;名古屋市における住居表示は[[住居表示#街区方式|街区方式]]で行われたため、主要幹線道路が地区の境となるケースが多い。&lt;/ref&gt;、当地域内を通過するものは国道153号（飯田街道）ぐらいである。
+なお、名古屋高速都心環状線の東新町入口は新栄一丁目に接する空港線に所在しており、当地域から利用可能である（東新町出口は東区東桜に所在する）。
+また、「新栄」地区南西端の丸田町交差点上で名古屋高速都心環状線と2号東山線が交差し、丸田町ジャンクションとなっている。
+
+=== 鉄道 ===
+当地域内には所在しない
+&lt;!-- 観光ガイドではありません。当地域内に所在する鉄道駅名のみ記載 --&gt;
+=== 道路 ===
+* [[飯田街道]]（[[国道153号]]）
+* [[広小路通 (名古屋市)|広小路通]]（[[愛知県道60号名古屋長久手線]]）
+* 空港線（[[名古屋市道堀田高岳線]]）
+* [[若宮大通]]
+* 名古屋市道葵町線
+* 名古屋市道赤萩町線
+
+=== 高速道路 ===
+* [[名古屋高速都心環状線]]
+* [[名古屋高速2号東山線]]
+* [[丸田町ジャンクション]]
+* [[東新町入口]]
+
+== その他 ==
+=== 日本郵便 ===
+* 集配担当する郵便局は以下の通りである&lt;ref&gt;{{PDFlink|[https://www.post.japanpost.jp/zipcode/dl/bangobo/zip_bgb02.pdf 郵便番号簿 平成29年度版] - 日本郵便. 2019年01月06日閲覧}}&lt;/ref&gt;。
+{| class="wikitable"
+!区!!町丁!!郵便番号!!郵便局
+|-
+||千種区||新栄||464-0859&lt;ref name="postal_chikusa" /&gt;||[[千種郵便局]]
+|-
+|rowspan=2|中区||新栄||460-0007&lt;ref name="postal_naka" /&gt;||rowspan=2|[[名古屋中郵便局]]
+|-
+||新栄町||460-0004&lt;ref name="postal_shinsakaecho" /&gt;
+|}
+
+== 脚注 ==
+=== 注釈 ===
+&lt;div class="references-small"&gt;&lt;references group="注"/&gt;&lt;/div&gt;
+=== 出典 ===
+{{脚注ヘルプ}}
+{{Reflist|refs=
+&lt;ref name="面積中区"&gt;{{Cite web|url=https://toukei-labo.com/2010/?tdfk=23&amp;city=23106|title=愛知県名古屋市中区の町丁・字一覧|publisher=人口統計ラボ|language=日本語|accessdate=2017-10-07}}&lt;/ref&gt;
+&lt;ref name="面積千種区"&gt;{{Cite web|url=https://toukei-labo.com/2010/?tdfk=23&amp;city=23106|title=愛知県名古屋市中区の町丁・字一覧|publisher=人口統計ラボ|language=日本語|accessdate=2017-10-07}}&lt;/ref&gt;
+}}
+
+== 関連項目 ==
+* [[名古屋市の地名]]
+
+ {{Commonscat}}
+
+{{Japan-geo-stub}}
+
+{{名古屋市の地域}}
+{{名古屋市中区の町名}}
+{{名古屋市千種区の町・字}}
+
+{{DEFAULTSORT:しんさかえ}}
+[[Category:新栄|*]]
+[[Category:1907年制定の町・字]]
+[[Category:1977年制定の町・字]]</text>
+      <sha1>8vtbtixse4st9lk2iwfra4ynvfwjuap</sha1>
+    </revision>
+  </page>
+  

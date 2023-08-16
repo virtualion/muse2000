@@ -1,0 +1,127 @@
+<page>
+    <title>オストヴァルト熟成</title>
+    <ns>0</ns>
+    <id>3829135</id>
+    <revision>
+      <id>94483362</id>
+      <parentid>92394726</parentid>
+      <timestamp>2023-03-25T12:01:26Z</timestamp>
+      <contributor>
+        <ip>60.115.220.47</ip>
+      </contributor>
+      <comment>/* 外部リンク */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16382" xml:space="preserve">[[File:TEM of Ostwald ripening in Pd nanoparticles.jpg|thumb| [[ホルムアルデヒド]]に溶解した [[パラジウム|Pd]][[ナノ粒子]]におけるオストヴァルト熟成、6 (a)・24 (b)・48 (c)・72時間後 (d)。微小なPd粒子が消費されるとともにより大きな粒子が成長する&lt;ref&gt;{{cite journal|doi=10.1039/C5SC01787D|title=Redox reaction induced Ostwald ripening for size- and shape-focusing of palladium nanocrystals|journal=Chem. Sci|volume=6|issue=9|pages=5197|year=2015|last1=Zhang|first1=Zhaorui|last2=Wang|first2=Zhenni|last3=He|first3=Shengnan|last4=Wang|first4=Chaoqi|last5=Jin|first5=Mingshang|last6=Yin|first6=Yadong}}{{Open access}}&lt;/ref&gt;。]] 
+[[File:A-general-patterning-approach-by-manipulating-the-evolution-of-two-dimensional-liquid-foams-ncomms14110-s2.ogv|thumb|オストヴァルト熟成による液中の泡の成長&lt;ref&gt;{{cite journal|doi=10.1038/ncomms14110|pmid=28134337|pmc=5290267|title=A general patterning approach by manipulating the evolution of two-dimensional liquid foams|journal=Nature Communications|volume=8|pages=14110|year=2017|last1=Huang|first1=Zhandong|last2=Su|first2=Meng|last3=Yang|first3=Qiang|last4=Li|first4=Zheng|last5=Chen|first5=Shuoran|last6=Li|first6=Yifan|last7=Zhou|first7=Xue|last8=Li|first8=Fengyu|last9=Song|first9=Yanlin|bibcode=2017NatCo...814110H}}&lt;/ref&gt;。]]
+
+'''オストヴァルト熟成'''（Ostwald ripening、''オストヴァルト成長'' ともいう）とは、固体溶液または液状[[ゾル]]に観察される現象で、時間とともに不均一な構造が変化すること、つまり微小な結晶やゾル粒子が溶解し、より大きい結晶やゾル粒子に再沈着することである&lt;ref&gt;{{GoldBookRef | title = Ostwald ripening | file = O04348}}&lt;/ref&gt;。
+
+微小な結晶やゾル粒子の溶解とより大きい粒子への溶質の再沈着は、[[ヴィルヘルム・オストヴァルト]]により1896年に初めて記載された&lt;ref&gt;Ostwald, W. (1896). ''Lehrbuch der Allgemeinen Chemie'', vol. 2, part 1. Leipzig, Germany.&lt;/ref&gt;&lt;ref&gt;{{cite journal|author=Ostwald, W. |year=1897|url=https://commons.wikimedia.org/wiki/File:Wilhelm_Ostwald_-_Studien_%C3%BCber_die_Bildung_und_Umwandlung_fester_K%C3%B6rper.pdf|title=Studien über die Bildung und Umwandlung fester Körper|trans-title=Studies on the formation and transformation of solid bodies|journal=Zeitschrift für physikalische Chemie|volume=22|pages=289–330}}&lt;/ref&gt;。オストヴァルト熟成は一般に油中水[[エマルジョン]]で見られ、一方、水中油エマルジョンでは[[凝析|凝集]]が見られる&lt;ref name="Hubbard 2004 4230"&gt;{{cite book
+  | last = Hubbard
+  | first = Arthur T.
+  | title = Encyclopedia of Surface and Colloid science
+  | publisher = CRC Press
+  | year = 2004
+  | url = https://books.google.com/books?id=vnb2X7Q8_cYC&amp;pg=PA4230&amp;lpg=PA4230&amp;dq=ostwald+ripening+emulsion+polymerization
+  | accessdate = 2007-11-13
+  | isbn = 0-8247-0759-1
+  | page = 4230 }}&lt;/ref&gt;。
+
+==メカニズム==
+この過程は、大きな粒子が小さな粒子よりエネルギー的に有利なため、[[熱力学]]的に駆動されて自然に起こる&lt;ref name="GandC"&gt;{{cite book
+  | last = Ratke
+  | first = Lorenz
+  |author2=Voorhees, Peter W.
+  | title = Growth and Coarsening: Ostwald Ripening in Material Processing
+  | publisher = Springer
+  | year = 2002
+  | url = https://books.google.com/books?id=baKRnEuSBXkC&amp;dq=ostwald+ripening&amp;printsec=frontcover
+  | pages = 117–118
+  | isbn = 3-540-42563-2 }}&lt;/ref&gt;。これは、粒子表面の分子は内部の分子に比べてエネルギー的に不安定であるという事実から生じる。[[File:Sodium-chloride-3D-ionic.png|thumb|立方晶系結晶構造（塩化ナトリウム）]]原子の立方晶系結晶を考えよう。内部の原子はすべて6個の隣接する原子に結合し完全に安定であるが、表面の原子は5個またはそれ以下の隣接する原子にしか結合していないから、表面の原子はより不安定である。この例によれば、大きい粒子は、6個の隣接原子に結合した原子の数は多く、不安定な表面にある原子の数は少ないので、よりエネルギー的に有利である。[[熱力学系|系]]がその全エネルギーを下げようとすれば、[[ケルビン方程式]]に従い、小さな粒子の表面にある分子（3、4、または5個の隣接分子としか結合せずエネルギー的に不利）は粒子から解離して液中に溶解する傾向がある。小さな粒子がすべてこうなると、それにより液中の遊離分子の濃度が増す。液中の遊離分子が[[過飽和]]になると、遊離分子はより大きい粒子の表面に[[濃縮]]される傾向が生じる&lt;ref name="GandC" /&gt;。 従って、小さな粒子はすべて縮み、大きな粒子は成長して、平均サイズは増加する。時間が無限大に近づくと、全粒子が1つの巨大な球状粒子になって、全表面積が最小となる。
+
+オストヴァルト熟成の量的モデル化の研究の歴史は長く、派生した研究も多い&lt;ref&gt;{{cite journal |author=Baldan, A. |year=2002 |title=Review Progress in Ostwald ripening theories and their applications to nickel-base superalloys Part I: Ostwald ripening theories|doi=10.1023/A:1015388912729 |volume=37 |issue=11 |journal=Journal of Materials Science |pages=2171–2202|bibcode=2002JMatS..37.2171B }}&lt;/ref&gt;。1958年には、イリヤ・リフシッツ(Lifshitz)とSlyozov&lt;ref&gt;{{cite journal |author1=Lifshitz, I.M. |author2=Slyozov, V.V. |title=The Kinetics of Precipitation from Supersaturated Solid Solutions |journal=Journal of Physics and Chemistry of Solids |volume=19 |issue=1–2 |pages=35–50 |year=1961|bibcode = 1961JPCS...19...35L |doi = 10.1016/0022-3697(61)90054-3 }}&lt;/ref&gt;が、材料の [[拡散]]が律速段階である場合のオストヴァルト熟成を数学的に検討した。彼らはまず溶液中で単一の粒子がどのように成長するかを記述した。この方程式は、小さな収縮する粒子と大きな成長する粒子との間に境界がある場合を記述する。彼らは最後に、粒子の平均半径⟨R⟩が次のように増すことを結論付けた:
+:&lt;math&gt;\langle R \rangle ^3 - \langle R \rangle _0 ^3 = \frac {8 \gamma c_{\infty}v^2D} {9R_g T} t &lt;/math&gt;
+ここで
+{|
+|-
+| align = "right" | &lt;math&gt; \langle R \rangle &lt;/math&gt; || = || 全粒子の平均半径
+|-
+| align = "right" | &lt;math&gt; \gamma &lt;/math&gt; || = || 粒子の[[表面張力]]または[[表面エネルギー]]
+|-
+| align = "right" | &lt;math&gt; c_{\infty} &lt;/math&gt; || = || 粒子材料の[[溶解度]]
+|-
+| align = "right" | &lt;math&gt; v &lt;/math&gt; || = || 粒子材料の[[分子体積]]
+|-
+| align = "right" | &lt;math&gt; D &lt;/math&gt; || = || 粒子材料の[[拡散係数]]
+|-
+| align = "right" | &lt;math&gt; R_g &lt;/math&gt; || = || [[気体定数]]
+|-
+| align = "right" | &lt;math&gt; T &lt;/math&gt; || = || [[絶対温度]]
+|-
+| align = "right" | &lt;math&gt; t &lt;/math&gt; || = ||時間
+|}
+
+ただし、量{{math|⟨R⟩&lt;sup&gt;3&lt;/sup&gt;}}は{{math|⟨R&lt;sup&gt;3&lt;/sup&gt;⟩}}とは違い、平均体積の計算には後者だけが使えること、そして⟨R⟩が{{math|t&lt;sup&gt;1/3&lt;/sup&gt;}}に従うという主張は{{math|⟨R⟩&lt;sub&gt;0&lt;/sub&gt;}}（ゼロである）に依存することに注意。しかし[[核形成]]は成長とは別の過程だから、{{math|⟨R⟩&lt;sub&gt;0&lt;/sub&gt;}}は方程式の有効範囲外にあることとなる。{{math|⟨R⟩&lt;sub&gt;0&lt;/sub&gt;}}の実際の値と無関係な文脈では、すべての項の意味を考慮するアプローチは、{{math|⟨R⟩&lt;sub&gt;0&lt;/sub&gt;}}と{{math|t}}を消去するために、方程式の時間微分をとることになる。他のこのようなアプローチとしては、初期時間{{math|i}}が正の値をとるとして{{math|⟨R⟩&lt;sub&gt;0&lt;/sub&gt;}}を{{math|⟨R⟩&lt;sub&gt;i&lt;/sub&gt;}}に変える方法がある{{Citation needed|date=January 2015}}。
+
+またリフシッツとSlyozovの解法には、粒径[[分布関数]] {{math|f(R, t)}}の方程式が含まれる。簡単にするために粒子の半径を平均半径で割り、新しい変数ρ = {{math|R(⟨R⟩)&lt;sup&gt;−1&lt;/sup&gt;}}を導入する。
+
+:&lt;math&gt; f(R,t) = \frac {4}{9} \rho^2 \left(\frac {3}{3+\rho}\right)^\frac {7}{3} \left(\frac {1.5} {1.5 - \rho}\right)^\frac {11}{3} \exp \left(- \frac {1.5}{1.5 - \rho}\right),         \rho &lt; 1.5 &lt;/math&gt;
+
+リフシッツとSlyozovがその発見を公にした（ロシア語、1958年）3年後に、Carl Wagnerはオストヴァルト熟成についての独自の数学的検討&lt;ref&gt;{{cite journal |author=Wagner, C. |title= Theorie der Alterung von Niederschlägen durch Umlösen (Ostwald-Reifung)|trans-title=Theory of the aging of precipitates by dissolution-reprecipitation (Ostwald ripening) |doi=10.1002/bbpc.19610650704|url=http://onlinelibrary.wiley.com/doi/10.1002/bbpc.19610650704/abstract|journal=Zeitschrift für Elektrochemie |volume=65 |issue=7 |pages=581–591 |year=1961|doi-broken-date= 2017-03-07}}&lt;/ref&gt;を行い、[[拡散]]が遅い系、それに粒子表面での着脱が遅い系の両方を調べた。 計算とアプローチは異なるものの、WagnerもリフシッツとSlyozovの拡散律速系と同じ結論に至った。これらの解法は重複するものだが、2報の論文は1961年当時の[[鉄のカーテン]]の反対側で公にされたため、何年も気付かれなかった。1975年に初めて、Kahlweitがこれらの理論は同じであることを指摘し&lt;ref&gt;{{cite journal |author=Kahlweit, M. |title = Ostwald Ripening of Precipitates | journal=Advances in Colloid and Interface Science |volume=5 |issue=1 |pages=1–35 |year=1975 |doi=10.1016/0001-8686(75)85001-9}}&lt;/ref&gt;、これらをオストヴァルト熟成の「Lifshitz-Slyozov-Wagner理論」（LSW理論）としてまとめた。多くの実験や[[シミュレーション]]により、LSW理論は頑健で正確なことが示された。[[スピノーダル分解]]を受けるいくつかの系でさえ、成長の初期段階後には[[量的]]にLSW理論に従うことが示されている&lt;ref&gt;{{cite journal |author1=Vladimirova, N. |author2=Malagoli, A. |author3=Mauri, R. |title=Diffusion-driven phase separation of deeply quenched mixtures |journal=Physical Review E |volume=58 |issue=6 |pages=7691–7699 |year=1998|bibcode = 1998PhRvE..58.7691V |doi = 10.1103/PhysRevE.58.7691 }}&lt;/ref&gt;。
+
+Wagnerは、分子の着脱が拡散より遅い場合に 、成長速度は次のようになることを導いた。
+:&lt;math&gt; \langle R \rangle ^2 = \frac {64 \gamma c_{\infty} v^2 k_s} {81 R_g T} t &lt;/math&gt;
+ここで{{math|k&lt;sub&gt;s&lt;/sub&gt;}}は沈着の[[反応速度定数]]で、時間当たり長さの[[単位]]をもつ。平均半径は普通実験的に測定できるから、系が拡散律速の方程式、沈着律速の方程式のいずれに従うかを言うのはかなり簡単である。実験データがどちらの方程式にも従わなかったら、他のメカニズムが働いていてオストヴァルト熟成が起こっていない可能性が高い。
+
+LSW理論やオストヴァルト熟成では流体中での固体の熟成が意図されていたが、オストヴァルト熟成は液液系、例えば水中油[[乳化重合]]でも見られる&lt;ref name="Hubbard 2004 4230"/&gt;。この場合、オストヴァルト熟成は、小さい液滴から大きい液滴への[[モノマー]]（つまり個別の分子や原子）の[[拡散]]を引き起こす。これは、大きいモノマー液滴中の単一のモノマー分子の方が溶解度が大きいためである。この拡散過程の速度は、エマルジョンの連続（水）相中でのモノマーの溶解度に関係している。これは（例えばクリーミングや沈殿により）エマルジョンの不安定化につながり得る&lt;ref&gt;{{cite book
+  | last = Branen
+  | first = Alfred Larry
+  | title = Food Additives
+  | publisher = CRC Press
+  | year = 2002
+  | url = https://books.google.com/books?id=K8urEPJvXNsC&amp;pg=PA724&amp;lpg=PA724&amp;dq=ostwald+ripening+destabilization+emulsion
+  | isbn = 0-8247-9343-9
+  | page = 724 }}&lt;/ref&gt;。
+
+==特殊な例==
+[[File:Pastis1.jpg|thumb|right|水と混ぜた[[パスティス]]中の油滴はオストヴァルト熟成により成長する。]]
+オストヴァルト熟成の日常見かける例には、アイスクリーム中での水の結晶化がある。このせいで古いアイスクリームはザラザラ、ガリガリした食感となる。アイスクリーム中で大きい氷の結晶は小さいそれを消費して成長し、より粗い食感をもたらす&lt;ref&gt;{{cite book
+  | last = Clark
+  | first = Chris
+  | title = The Science of Ice Cream
+  | publisher = Royal Society of Chemistry
+  | year = 2004
+  | pages = 78–79
+  | url = https://books.google.com/books?id=bKZ1oICZWywC&amp;pg=PA78&amp;lpg=PA78&amp;dq=ice+cream+ostwald
+  | isbn = 0-85404-629-1 }}&lt;/ref&gt;。
+
+ガストロノミーに関するもうひとつの例は[[ウーゾ効果]]で、濁った[[マイクロエマルジョン]]中の油滴がオストヴァルト熟成により成長する。
+
+[[地質学]]では、岩石組織の粗大化、老化、あるいは[[斑晶]]と[[固相線]]以下の温度での固体岩石中の結晶の成長がある。[[正長石]][[巨晶]]の形成過程については、[[核形成]]からの結晶成長と成長速度の[[熱化学]]的限界を支配する物理過程ではなく、以上の現象が原因であるともされる&lt;ref&gt;{{cite journal |last= Mock |first= A. |year=2003 |title= Using Quantitative Textural Analysis to Understand the Emplacement of Shallow-Level Rhyolitic Laccoliths—a Case Study from the Halle Volcanic Complex, Germany|journal=Journal of Petrology |volume= 44|issue=5 |pages=833–849|doi= 10.1093/petrology/44.5.833 |bibcode=2003JPet...44..833M}}&lt;/ref&gt;。
+
+化学で、オストヴァルト熟成という用語は、大型結晶より高い溶解度をもつ小型結晶から大型結晶が成長することを指す。この過程では、初期に形成された多くの小型結晶が徐々に消失する一方、少数の結晶は小型結晶を消費して大きく成長して残る。つまり小型結晶は大型結晶が成長するための燃料として働く。現代の技術では、[[量子ドット]]の溶液合成で、オストヴァルト熟成を制限することが基本となる&lt;ref&gt;{{cite journal |last=Vengrenovich |first=R.D. |date=December 2001 |title=Ostwald ripening of quantum-dot nanostructures |journal=Semiconductors |volume=35 |issue=12 |pages=1378–1382 |doi=10.1134/1.1427975 |last2=Gudyma |first2=Yu. V. |last3=Yarema |first3=S. V.|bibcode = 2001Semic..35.1378V }}&lt;/ref&gt;。オストヴァルト熟成はまた、沈殿物の消化[[:en:precipitation (chemistry)#Digestion|digestion|digestion]]における中心的な過程である。これは[[質量分析]]における重要な工程である。消化された沈殿物は消化されることで一般に高純度となり、洗浄と濾過が容易になる。
+
+オストヴァルト熟成は[[エマルション]]系でも起こり、小さい油滴から出た分子が連続相を通って大きい油滴へと拡散する。[[ミニエマルション]]が必要ならば、極端に[[疎水的]]な化合物を加えてこの過程を妨げればよい。
+
+大気中の液体水からなる雲で、小さい水滴が消費されて大きい水滴が拡散成長する現象も、オストヴァルト熟成として特徴付けられる&lt;ref&gt;Wood, R., Irons, S. and Jonas, P.R., 2002. How important is the spectral ripening effect in stratiform boundary layer clouds? Studies using simple trajectory analysis. Journal of the atmospheric sciences, 59(18), pp.2681-2693.&lt;/ref&gt;。
+
+==出典==
+{{Reflist}}
+
+==外部リンク==
+{{Commons category|Ostwald ripening}}
+* [http://www.roentzsch.org/OR/index.html Ostwald Ripening] a 3D Kinetic Monte Carlo simulation
+
+{{DEFAULTSORT:おすとうあるとしゆくせい}}
+[[Category:物理化学]]
+[[Category:化学工学]] 
+[[Category:熱力学]]
+[[Category:界面化学]]
+[[Category:分散系]]
+[[Category:物理学のエポニム]]
+[[Category:化学のエポニム]]</text>
+      <sha1>t1uoe70cnfm69fj5wqo7w7w17se7e9o</sha1>
+    </revision>
+  </page>
+  

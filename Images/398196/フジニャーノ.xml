@@ -1,0 +1,93 @@
+<page>
+    <title>フジニャーノ</title>
+    <ns>0</ns>
+    <id>398196</id>
+    <revision>
+      <id>95836206</id>
+      <parentid>95836192</parentid>
+      <timestamp>2023-07-01T04:34:46Z</timestamp>
+      <contributor>
+        <ip>61.46.222.53</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3553" xml:space="preserve">{{コムーネ
+|nomeComune_ja = フジニャーノ
+|nomeComune = Fusignano
+|linkStemma = 
+|siglaRegione = EMR
+|siglaProvincia  = RA
+|latitudineGradi = 44
+|latitudineMinuti = 28
+|latitudineSecondi = 0
+|longitudineGradi = 11
+|longitudineMinuti = 57
+|longitudineSecondi = 0
+|mappaX = 133
+|mappaY = 89
+|altitudine = 9 (5 - 12) &lt;ref name="istat2001"&gt;{{Cite web|author=[[国立統計研究所 (イタリア)|国立統計研究所（ISTAT）]]|url=http://dawinci.istat.it/daWinci/jsp/MD/dawinciMD.jsp?a1=m0GG0c0I0&amp;a2=mG0Y8048f8&amp;n=1UH90T07S25&amp;v=1UH07B07S950000|title=Tavola: Popolazione residente - Ravenna (dettaglio loc. abitate) - Censimento 2001.|language=イタリア語|accessdate=2018-08-24}}&lt;/ref&gt;
+|superficie = 24.60 &lt;ref name="kmq"&gt;{{Cite web|author=[[国立統計研究所 (イタリア)|国立統計研究所（ISTAT）]]|url=http://dawinci.istat.it/MD/dawinciMD.jsp?a1=m0I040WI0&amp;a2=mG0y8048f8&amp;n=1UH90007S04&amp;v=1UH0D807S940000|title=Tavola: Superficie territoriale (Kmq) - Ravenna (dettaglio comunale) - Censimento 2001.|language=イタリア語|accessdate=2018-08-24}}&lt;/ref&gt;
+|abitanti = 8,607 &lt;ref name="demo.istat"&gt;{{Cite web|author=[[国立統計研究所 (イタリア)|国立統計研究所（ISTAT）]]|url=http://demo.istat.it/pop2017/index1_e.html|title=Total Resident Population on 1st January 2017 by sex and marital status|language=英語|accessdate=2018-08-22}}&lt;/ref&gt;
+|anno = 2023-01-01
+|densita = {{formatnum:{{#expr:8607/24.60 round 1}}}}
+|frazioni = [[#分離集落]]参照
+|comuniLimitrofi = [[#隣接コムーネ]]参照
+|cap = 48010
+|prefisso = 0545
+|istat = 039011
+|fiscale = D829
+|nomeAbitanti = fusignanesi
+|patrono = [[生神女誕生祭]](natività B. V. Maria)
+|festivo  = [[9月8日]]
+|sito = http://www.comune.fusignano.ra.it/
+|Mappa=Map of comune of Fusignano (province of Ravenna, region Emilia-Romagna, Italy).svg
+|Didascalia mappa=ラヴェンナ県におけるコムーネの領域
+}}
+'''フジニャーノ'''（{{lang-it|'''Fusignano'''}}）は、[[イタリア|イタリア共和国]][[エミリア＝ロマーニャ州]][[ラヴェンナ県]]にある、人口約8,200人の[[基礎自治体]]（[[コムーネ]]）。
+
+== 地理 ==
+=== 位置・広がり ===
+==== 隣接コムーネ ====
+隣接するコムーネは以下の通り。
+*[[アルフォンシーネ]]
+*[[バニャカヴァッロ]]
+*[[ルーゴ (イタリア)|ルーゴ]]
+
+== 行政 == 
+=== 分離集落 ===
+フジニャーノには、以下の[[分離集落]]（フラツィオーネ）がある。
+*San Savino, Maiano Monti, Maiano Nuovo, Scambio, Rossetta
+
+== フジニャーノ生まれの有名人==
+* [[アルカンジェロ・コレッリ]](Arcangelo Corelli, Fusignano [[1653年]] - Roma [[1713年]])
+* [[アリゴ・サッキ]](Arrigo Sacchi, Fusignano [[1946年]] - )。[[サッカーイタリア代表]]監督([[1991年]]から[[1996年]])
+
+== 姉妹都市 ==
+* {{flagicon|GBR}} [[:en:Biddulph|Biddulph]]、イギリス 1986年
+
+== ギャラリー ==
+&lt;gallery&gt;
+File:Fusignano, Piazza e mercato.jpg
+File:Chiesa del suffragio 2584.JPG
+File:Chiesa arcipretale di San Giovanni Battista (Fusignano).jpg
+File:Fusignano - oratorio dell Annunziata sepolcro Piancastelli 1020251.JPG
+&lt;/gallery&gt;
+
+== 脚注 ==
+{{Reflist}}
+
+==外部リンク==
+*[http://www.passatore.it/comune/fusignano.htm Sulla storia di Fusignano]
+{{commonscat|Fusignano}}
+
+{{Italia-comune-stub}}
+{{ラヴェンナ県}}
+{{デフォルトソート:ふしにやの}}
+{{normdaten}}
+
+[[Category:イタリアのコムーネ ふ|しにやの]]
+[[Category:ラヴェンナ県のコムーネ]]</text>
+      <sha1>r19vv363219izzpxe968ysnsfu5hn6i</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,152 @@
+<page>
+    <title>デヒドロアスコルビン酸</title>
+    <ns>0</ns>
+    <id>2301243</id>
+    <revision>
+      <id>92928147</id>
+      <parentid>87881697</parentid>
+      <timestamp>2022-12-16T14:36:31Z</timestamp>
+      <contributor>
+        <username>とろ肉ハウス</username>
+        <id>1371889</id>
+      </contributor>
+      <minor />
+      <comment>[[特別:LintErrors/bogus-image-options]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15205" xml:space="preserve">{{chembox
+|  ImageFile1 = Dehydroascorbic acid 2.svg
+|  ImageSize 1= 100px 
+|  ImageFile2 =Dehydroascorbic acid-3D-balls.jpg
+| ImageSize2 = 200px
+|   IUPAC名 = (5''R'')-5-[(1''S'')-1,2-dihydroxyethyl]furan-2,3,4(5''H'')-trione
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 389547
+| InChI = 1/C6H6O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-8H,1H2/t2-,5+/m0/s1
+| InChIKey = SBJKKFFYIZUCET-JLAZNSOCBE
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H6O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-8H,1H2/t2-,5+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SBJKKFFYIZUCET-JLAZNSOCSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS番号 = 490-83-5
+| 日化辞番号 = J12.580F
+| EINECS番号 = 2077206
+|   PubChem = 440667
+|   SMILES = O=C1C(=O)C(=O)O[C@@H]1[C@@H](O)CO
+}}
+| Section2 = {{Chembox Properties
+|   C=6|H=6|O=6
+|   外観 = 固体
+|   密度 =
+|   融点 = 225 °C（分解）
+|   沸点 =
+  }}
+| Section3 = {{Chembox Hazards
+| 外部MSDS = [http://www.sciencelab.com/msds.php?msdsId=9923672 Sciencelab.com, Inc.]
+}}
+}}
+
+'''デヒドロアスコルビン酸'''（デヒドロアスコルビンさん、{{lang-en-short|Dehydroascorbic acid}}、DHA）は、[[アスコルビン酸]]が[[酸化]]された化合物である。デヒドロアスコルビン酸は、[[グルコース]]輸送を介して[[細胞]]内の[[小胞体]]に積極的に輸送される。デヒドロアスコルビン酸は、小胞体に捕捉されて[[グルタチオン]]および他の[[チオール]]によってアスコルビン酸に[[還元]]される&lt;ref&gt;{{cite journal|author= Welch, R.W.; Wang, Y.; Crossman, A., Jr.; Park, J.B.; Kirk, K.L.; Levine, M.|title=Accumulation of Vitamin C (Ascorbate) and Its Oxidized Metabolite Dehydroascorbic Acid Occurs by Separate Mechanisms|journal=J. Biol. Chem.|year=1995|volume=270|pages=12584-92|pmid=7759506|doi=10.1074/jbc.270.21.12584}}&lt;/ref&gt;。それゆえ&lt;small&gt;L&lt;/small&gt;-デヒドロアスコルビン酸は、&lt;small&gt;L&lt;/small&gt;-アスコルビン酸と同様の[[ビタミンC]]化合物である。 [[フリーラジカル]]セミデヒドロアスコルビン酸（SDA）もまた、酸化型のアスコルビン酸のグループに属している。
+
+==構造および生理学==
+&lt;div class="thumb tright"  style="float: right; background-color: #f9f9f9; border: 1px solid #CCCCCC; margin:0.5em;"&gt;
+{|border="0" width=100px border="0" cellpadding="2" cellspacing="0" style="font-size: 85%; border: 1px solid #CCCCCC; margin: 0.3em;"
+|[[Image:Ascorbic acid structure.png|100px]]
+|}
+{|border="0" width=100px border="0" cellpadding="2" cellspacing="0" style="font-size: 85%; border: 1px solid #CCCCCC; margin: 0.3em;"
+|[[Image:Dehydroascorbic acid.png|100px]]
+|}
+&lt;div style="border: none; width:100px;"&gt;&lt;div class="thumbcaption"&gt;&lt;small&gt;上部:[[アスコルビン酸]]&lt;br /&gt;([[ビタミンC]])の還元型&lt;br /&gt;下部:デヒドロアスコルビン酸&lt;br /&gt;([[ビタミンC]])の酸化型&lt;/small&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+ビタミンCの[[ナトリウム]]依存性輸送体が存在するが、そのナトリウム依存性輸送体は、[[グルコース輸送体]]、特に、アスコルビン酸に戻る[[リサイクル]]において必要な[[酵素]][[補因子]]と細胞内[[抗酸化物質]]を生成する体のほとんどの細胞でビタミンC（その酸化型であるデヒドロアスコルビン酸）&lt;ref&gt;{{cite journal|author=KC, S.; Carcamo, J. M.; Golde, D. W.|year= 2005|title=Vitamin C enters mitochondria via facilitative glucose transporter 1 (Glut1) and confers mitochondrial protection against oxidative injury|journal=FASEB J.|volume= 19 |issue=12|pages= 1657–67|doi=10.1096/fj.05-4107com|pmid= 16195374}}&lt;/ref&gt;の輸送を担当するGLUT1で、特殊化した細胞内に主に存在する（後述の[[#ミトコンドリアへの輸送]]を参照）。
+
+ここで示したデヒドロアスコルビン酸の構造は、一般的な教科書で示されている構造である。しかし、この1,2,3-トリカルボニルは、あまりにも[[求電子性]]が高すぎて[[水溶液]]中で数ミリ秒以上残存することができない。分光学的研究で示される実際の構造は6-[[ヒドロキシル基]]および3-[[カルボニル基]]間の迅速な[[ヘミアセタール]]形成の結果である。 2-[[カルボニル基]]の[[水和]]も観察される&lt;ref&gt;{{cite journal|author=Kerber, R. C.; |title='As Simple as Possible, but not Simpler' -- The Case of Dehydroascorbic Acid|journal=J. Chem. Educ.|volume=85 |year=2007|pages= 1541-5|doi=10.1021/ed085p1237}}&lt;/ref&gt;。安定種の寿命は、一般的に生体条件下で約6分と言われている&lt;ref&gt;{{cite journal|author=May, J. M.|title=Ascorbate Function and Metabolism in the Human Erythrocyte|journal=Front. Biosci.|volume= 3|year=1981|pages= d1-10|pmid=9405334}} &lt;/ref&gt;。[[エステル]]結合の不可逆的な[[加水分解]]から分解が始まり、追加の分解反応が続く&lt;ref&gt;{{cite journal|author=Kimoto, E.; Tanaka, H.; Ohmoto, T.; Choami, M.|title=Analysis of the Transformation Products of Dehydro-L-Ascorbic Acid by Ion-Pairing High-Performance Liquid Chromatography|journal=Anal. Biochem.|volume=214|year= 1993|pages= 38-44|pmid=8250252|doi=10.1006/abio.1993.1453}}&lt;/ref&gt;。デヒドロアスコルビン酸の溶液の[[結晶]]化は無期限の安定性を有する五環[[二量体]]構造を形成する。還元や再利用に引き続き、細胞内へのデヒドロアスコルビン酸の[[能動輸送]]を介してアスコルビン酸のリサイクルは、[[ヒト]]がグルコースからアスコルビン酸を合成できないことを軽減している&lt;ref&gt;{{cite journal|author=Montel-Hagen, A.; Kinet, S.; Manel, N.; Mongellaz, C.; Prohaska, R.; Battini, J. L.; Delaunay, J.; Sitbon, M.; Taylor, N.|title=Erythrocyte GLUT1 triggers Dehydroascorbic Acid Uptake in Mammals unable to Synthesize Vitamin C|journal=[[セル (雑誌)|Cell]]|volume=132|year=2008|pages=1039-48|pmid=18358815|doi=10.1016/j.cell.2008.01.042 }} &lt;/ref&gt;。 
+[[Image:Dehydroascorbic_acid.svg|thumb|none|600px|link=|デヒドロアスコルビン酸の水和平衡。ヘミアセタール構造（中央）が優勢となる。]]
+
+==グルタチオン-アスコルビン酸回路==
+[[File:Glutathione-ascorbate_cycle_4.png|thumb|right|300px|[[グルタチオン-アスコルビン酸回路]]、[[NADPH]]、[[NADP+|NADP&lt;sup&gt;+&lt;/sup&gt;]]、GR:[[グルタチオンレダクターゼ]]、GSH:[[グルタチオン]]、GSSG:[[グルタチオンジスルフィド]]、DHAR:[[デヒドロアスコルビン酸レダクターゼ]]、DHA:'''デヒドロアスコルビン酸'''、MDAR:[[モノデヒドロアスコルビン酸レダクターゼ (NADH)]]、MDA:[[モノデヒドロアスコルビン酸]]、ASC:[[アスコルビン酸]]、APX:[[アスコルビン酸ペルオキシダーゼ]]、[[過酸化水素|H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;]]、[[水|H&lt;sub&gt;2&lt;/sub&gt;O]]]]
+[[グルタチオン-アスコルビン酸回路]]は、[[代謝]]の過程で発生する[[活性酸素]]種である[[過酸化水素]]（H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;）を解毒化する代謝経路である。グルタチオン-アスコルビン酸回路には、[[アスコルビン酸]]、[[グルタチオン]]、[[NADPH]]及び代謝に関連する[[酵素]]等の[[抗酸化物質]]が含まれている&lt;ref name=Noctor &gt;{{cite journal |author=Noctor G, Foyer CH |title= ASCORBATE AND GLUTATHIONE: Keeping Active Oxygen Under Control |journal=Annu. Rev. Plant Physiol. Plant Mol. Biol.|volume=49 |pages=249–279 |year=1998 |month=Jun |pmid=15012235 |doi=10.1146/annurev.arplant.49.1.249}}&lt;/ref&gt;。 
+
+[[モノデヒドロアスコルビン酸]]は反応性が高く、迅速に還元されない場合にはアスコルビン酸とデヒドロアスコルビン酸（DHA）に[[不均化]]する。デヒドロアスコルビン酸は、還元型[[グルタチオン]]（GSH）を消費して[[デヒドロアスコルビン酸レダクターゼ]]によってアスコルビン酸に還元され、酸化型グルタチオン（GSSG）（[[グルタチオンジスルフィド]]）を生成する。最後に、酸化型グルタチオンは、[[NADPH]]を[[電子供与体]]として利用して[[グルタチオンレダクターゼ]]（GR）によって還元される。こうしてこの回路では、アスコルビン酸とグルタチオンが消費されることはない。[[電子]]は実質的にNADPHからH&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;に流れることとなる。デヒドロアスコルビン酸の還元は、非酵素的または例えばグルタチオンS -トランスフェラーゼオメガ1やグルタレドキシンなどのようにデヒドロアスコルビン酸還元酵素（DHAR）活性を有した[[タンパク質]]によって触媒される&lt;ref&gt;{{cite journal |author=Whitbread, A. K.; Masoumi, A.; Tetlow, N.; Schmuck, E.; Coggan, M.; Board, P. G. |title=Characterization of the omega class of glutathione transferases |journal=Meth. Enzymol. |volume=401 |issue= |pages=78–99 |year=2005 |pmid=16399380 |doi=10.1016/S0076-6879(05)01005-0}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Rouhier, N.; Gelhaye, E.; Jacquot, J. P. |title=Exploring the active site of plant glutaredoxin by site-directed mutagenesis |journal=FEBS Lett.|volume=511 |issue=1-3 |pages=145–9 |year=2002 |pmid=16399380 |doi=10.1016/S0076-6879(05)01005-0}}&lt;/ref&gt;。
+
+==ミトコンドリアへの輸送==
+ビタミンCは、[[グルコーストランスポーター]]GLUT1を介してデヒドロアスコルビン酸が輸送され、還元され、[[フリーラジカル]]の大部分が生成される場所である[[ミトコンドリア]]に蓄積される。アスコルビン酸は、ミトコンドリアの[[ゲノム]]と[[膜]]を保護する&lt;ref name="MitoGolde"&gt;
+{{cite journal
+|author=KC S, Carcamo JM, Golde DW
+|title=Vitamin C enters mitochondria via facilitative glucose transporter 1 (Glut1) and confers mitochondrial protection against oxidative injury
+|url=http://www.fasebj.org/cgi/content/full/19/12/1657
+|journal=FASEB J
+|volume=19
+|issue=12
+|pages=1657–67
+|year=2005
+|pmid=16195374
+|doi=10.1096/fj.05-4107com}}&lt;/ref&gt;。
+
+==脳への輸送==
+[[脳]]は、ビタミンCの最大濃度を有する[[器官]]の一つであるが、ビタミンCは血流から脳への関門を通過しない。このためアスコルビン酸に代わって、デヒドロアスコルビン酸がGLUT1トランスポーターを介して[[血液脳関門]]を通過して輸送され、その後にアスコルビン酸に変換される&lt;ref name="ascorBBB"&gt;{{cite journal
+|author=Huang, J.; Agus, D. B.; Winfree, C. J.; Kiss, S.; Mack, W. J.; McTaggart, R. A.; Choudhri, T. F.; Kim, L. J.; Mocco, J.; Pinsky, D. J.; Fox, W. D.; Israel, R. J.; Boyd, T. A.; Golde, D. W.; Connolly, E. S., Jr.
+|title=Dehydroascorbic acid, a blood-brain barrier transportable form of vitamin C, mediates potent cerebroprotection in experimental stroke
+|url=http://www.pnas.org/cgi/content/full/98/20/11720
+|journal=[[米国科学アカデミー紀要|Proc. Natl. Acad. Sci. USA]]
+|volume=98
+|issue=20
+|pages=11720–11724
+|year=2001
+|pmid=11573006
+|doi=10.1073/pnas.171325998
+|pmc=58796}}&lt;/ref&gt;。
+
+==利用==
+[[栄養補助食品]]として、デヒドロアスコルビン酸は、いくつかのビタミンCの錠剤に含まれている&lt;ref&gt; {{cite web | url = http://lpi.oregonstate.edu/ss01/bioavailability.html | title = The Bioavailability of Different Forms of Vitamin C | accessdate = 2010-11-10 | last = Higdon | first = Jane | date = May, 2001 | publisher = The Linus Pauling Institute}}&lt;/ref&gt;。
+
+[[化粧品]]の[[成分]]としては、デヒドロアスコルビン酸は、[[皮膚]]の外観を向上させるために使用されている&lt;ref&gt;{{cite web | url = http://recverin.com | title = ReCverin | accessdate = 2010-11-10}}&lt;/ref&gt;。これは、[[髪]]の[[パーマネントウエーブ]]&lt;ref name="US6506373"&gt;
+[http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=6506373.PN.&amp;OS=PN/6506373&amp;RS=PN/6506373 US Patent 6,506,373] (issued Jan. 14, 2003)&lt;/ref&gt;や皮膚の[[日焼け]]&lt;ref name="LOreal"&gt;[http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=%2220100221203%22.PGNR.&amp;OS=DN/20100221203&amp;RS=DN/20100221203 U.S. Patent Application No. 10/685,073] Publication No. 20100221203 (published Sept. 2, 2010)&lt;/ref&gt;を解消する可能性があるために使用されている。
+
+[[細胞培養]][[培地]]では、デヒドロアスコルビン酸は、アスコルビン酸トランスポーターが含まれていないタイプの細胞へのビタミンCの取り込みの有無を確認するために使用される&lt;ref name="cellculture"&gt;
+{{cite journal
+|author=Heaney, M. L.; Gardner, J. R.; Karasavvas, N.; Golde, D. W.; Scheinberg, D. A.; Smith, E. A.; O'Conner, O. A.
+|title=Vitamin C antagonizes the cytotoxic effects of antineoplastic drugs
+|url=http://cancerres.aacrjournals.org/content/68/19/8031.full
+|journal=Cancer Res.
+|volume=68
+|issue=19
+|pages=8031–8038
+|year=2008
+|pmid=18829561
+|doi=10.1158/0008-5472.CAN-08-1490}}&lt;/ref&gt;。
+
+[[医薬品]]としては、ある研究は、デヒドロアスコルビン酸の投与は、[[虚血]]性[[脳卒中]]に引き続いて発生する[[神経細胞]]障害を予防することを示唆している&lt;ref name="ascorBBB"/&gt;。ビタミンCの抗[[ウイルス]]効果に関する多くのレポート文献がある&lt;ref&gt;{{cite book|author=Jariwalla, R. J.; Harakeh, S. |year=1997|chapter= Mechanisms underlying the action of vitamin C in viral and immunodeficiency disease|editor= L. Packer &amp; J. Fuchs|title=Vitamin C in health and disease|pages= 309-322|location=New York|publisher=Marcell Dekker, Inc.}}&lt;/ref&gt;。ある研究は、デヒドロアスコルビン酸がより強い抗ウイルス効果を有し、アスコルビン酸と異なる作用機序があることが示唆されている&lt;ref name="antiviral"&gt;
+{{cite journal
+|author=Furuya, A.; Uozaki, M.; Yamasaki, H.; Arakawa, T.; Arita, M.; Koyama, A. H.
+|title=Antiviral effects of ascorbic and dehydroascorbic acids in vitro
+|url=http://www.spandidos-publications.com/ijmm/22/4/541
+|journal=Int. J. Mol. Med.
+|volume=22
+|issue=4
+|pages=541–545
+|year=2008
+|pmid=18813862
+|doi=10.3892/ijmm_00000053}}&lt;/ref&gt;。
+
+==脚注==
+{{reflist|2}}
+
+==参考文献==
+&lt;div class="references-small"&gt;
+* {{cite journal |author=Nualart, F.; Rivas, C.; Montecinos, V.; Godoy, A.; Guaiquil, V.; Golde, D.; Vera, J. |title=Recycling of vitamin C by a bystander effect |journal=J. Biol. Chem. |volume=278 |issue=12 |pages=10128–33 |year=2003 |pmid=12435736 | url = http://www.jbc.org/cgi/content/full/278/12/10128 |doi=10.1074/jbc.M210686200
+}}
+&lt;/div&gt;
+{{ビタミン}}
+
+{{DEFAULTSORT:てひとろあすこるひんさん}}
+[[Category:ビタミン]]
+[[Category:アスコルビン酸]]
+[[Category:テトラヒドロフラン]]
+[[de:Ascorbinsäure#Dehydroascorbinsäure]]</text>
+      <sha1>q92flmmevftbh6y2qe7ndcfdjbnrm77</sha1>
+    </revision>
+  </page>
+  

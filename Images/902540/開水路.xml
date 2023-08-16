@@ -1,0 +1,464 @@
+<page>
+    <title>開水路</title>
+    <ns>0</ns>
+    <id>902540</id>
+    <revision>
+      <id>95393680</id>
+      <parentid>95393087</parentid>
+      <timestamp>2023-05-28T11:47:34Z</timestamp>
+      <contributor>
+        <username>Glayhours</username>
+        <id>685752</id>
+      </contributor>
+      <minor />
+      <comment>[[Special:Contributions/BlueSleptsong|BlueSleptsong]] ([[User talk:BlueSleptsong|会話]]) による ID:95393087 の版を[[H:RV|取り消し]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39891" xml:space="preserve">[[Image:Japan Kyoto philosophers walk DSC00297.jpg|thumb|300px|典型的な開水路である[[琵琶湖疏水]]]]
+[[Image:琵琶湖疏水.jpg|thumb|240px|水深の深い開水路]]
+'''開水路'''（かいすいろ、{{lang-en|open channel}}）とは、[[水面]]を持つ[[水路]]およびその流れの区分のことである&lt;ref name="kdy_38"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.38&lt;/ref&gt;。
+
+== 概要 ==
+[[Image:Classification of open channel flow.svg|thumb|350px|図1: ユニフローな開水路流れの区分&lt;ref&gt;[[#kdy|日下部・檀・湯城『水理学』]]、pp.38-39。&lt;/ref&gt;&lt;ref&gt;[[#nz|禰津『水理学・流体力学』]]、pp.168-172。&lt;/ref&gt;]]
+水がある容器の中（[[水路]]）を流れているとき、その流れが水面を持つかどうかによって開水路と[[管路]]（管水路）に区分され、水面を持つものが開水路、持たないものが管路と呼ばれる&lt;ref name="kdy_38"/&gt;。工学的な定義では、潤辺が[[閉曲線]]となるものが管路であり、そうでないものが開水路となる&lt;ref name="nt_201"&gt;[[#nt|禰津・冨永『水理学』]]、p.201。&lt;/ref&gt;（潤辺については[[#図2|図2]]を参照のこと）。
+
+例としては、船が使う[[運河]]や農業灌漑などに使う[[用水路]]、さらには[[下水道]]のようなものであっても水が満杯ではなく自由表面が現れるものも開水路として扱われる&lt;ref name="bf_140"&gt;[[#bf|ブレビア・フェラント『コンピュータ水理学』]]、p.140。&lt;/ref&gt;。つまり、開水路かどうかは水路の形状そのものではなく、水の流れ方によって区別されるものである&lt;!-- 以上までをまとめた文 --&gt;。
+
+実際の河川など現実の開水路においてはある一方向（基本的には[[河道]]に沿った方向）の流れ成分が他の成分と比べて大きく（これを、流れが卓越しているという）、その他の方向の流速成分は無視できる場合が多い&lt;ref name="nt_147"&gt;[[#nt|禰津・冨永『水理学』]]、p.147。&lt;/ref&gt;。このような性質を持つ流れは'''ユニフロー'''({{lang|en|uni-flow}})あるいは'''プリズム的水路流れ'''({{lang|en|prismatic channel flow}})と呼ばれ&lt;ref name="nezu_28"&gt;[[#nz|禰津『水理学・流体力学』]]、p.28。&lt;/ref&gt;、このユニフローにおいて、卓越した方向の流れを'''主流'''、主流に垂直な方向の流れを'''2次流'''({{lang|en|secondary currents}})と呼ぶ&lt;ref name="nezu_28"/&gt;。この2次流のうち、河川の蛇行などの遠心力によって発生する2次流を'''プラントルの第1種2次流'''といい、この場合は主流の20％以上になることもある&lt;ref name="nt_147"/&gt;。一方、直線的な水路に発生する2次流を'''プラントルの第2種2次流'''という&lt;ref name="nt_147"/&gt;。上で述べたような無視できる2次流はこちらの第2種2次流であり、層流では理論的にゼロ、乱流でも平均して主流の約3％程度の大きさである&lt;ref name="nt_147"/&gt;。
+
+全ての水の流れは、3次元空間における[[ナビエ・ストークス方程式]]によって再現されるが、厳密解は一般的に得られない&lt;ref name="nezu_26"&gt;[[#nz|禰津『水理学・流体力学』]]、p.26。&lt;/ref&gt;。しかし、このようなユニフローを対象とした'''一次元水理解析法'''と呼ばれる解析手法は、ほぼ解明されており&lt;ref name="nezu_145"&gt;[[#nz|禰津『水理学・流体力学』]]、p.145。&lt;/ref&gt;、水路内の水理量を平均量で代表させるなど簡便で合理的なため、多くの河川計画に使われている&lt;ref name="kwks_53"&gt;[[#kwks|川合・和田・神田・鈴木『河川工学』]]、p.53。&lt;/ref&gt;。以下では基本的にこの一次元水理解析法を元にした記述を行う（2次元ないしは3次元的構造の流れについては[[#高次元流解析|高次元流解析]]の節を参照のこと）。
+
+開水路の流れは、時間的にその水理量（水深や平均流速）が変化しない'''[[定常]]流'''({{lang|en|steady flow}})と、変化する'''[[非定常]]流'''({{lang|en|unsteady flow}})に分けられる&lt;ref name="kdy_38"/&gt;。定常流のうち、さらに空間的に（流れ方向に）変化しない流れを'''等流'''({{lang|en|uniform flow}})と呼び、そうでないものを'''不等流'''({{lang|en|non-uniform flow}})と呼ぶ&lt;ref name="kwks_39"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.39。&lt;/ref&gt;。[[#射流と常流、限界水深|射流と常流、限界水深]]で後述するように、流速によって'''常流'''と'''射流'''にも区別される&lt;ref name="kwks_39"/&gt;。また、非定常流であってもその変化が緩やかな流れは'''準定流'''({{lang|en|quasi-steady flow}})となり、後述の[[#キネマティックウェーブ理論|キネマティックウェーブ理論]]で扱われる&lt;ref name="kwks_54"&gt;[[#kwks|川合・和田・神田・鈴木『河川工学』]]、p.54。&lt;/ref&gt;。
+
+== 基礎方程式と理論 ==
+以下で説明する開水路における一次元解析法では、以下の仮定を行う&lt;ref name="nezu_130"&gt;[[#nz|禰津『水理学・流体力学』]]、p.130。&lt;/ref&gt;。
+* 2次流は無視できるため、流速は主流の断面平均流速&lt;math&gt;v&lt;/math&gt;で代表される。
+* [[レイノルズ数]]が大きく十分に発達した[[乱流]]&lt;ref group="注"&gt;流れの性質が、空間的にある程度均質であるとみなせる状態。&lt;/ref&gt;であるが、乱れによる損失は損失水頭に含めて考慮する。
+* 圧力は[[静水圧]]近似できる。
+
+=== 開水路のパラメーター ===
+[[Image:Open Channel Section (ja).svg|thumb|350px
+|{{Visible anchor|図2}}: 開水路の断面図と断面を決定する諸量&lt;ref name="kdy_38"/&gt;
+{{Indent|&lt;math&gt;A&lt;/math&gt; - 流積}}
+{{Indent|&lt;math&gt;S&lt;/math&gt; - 潤辺}}
+{{Indent|&lt;math&gt;R&lt;/math&gt; - 径深}}
+]]
+[[Image:Open Channel Flow (ja).svg|thumb|350px
+|{{Visible anchor|図3}}: 定常開水路流れの概念図&lt;ref name="kdy_115"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.115。&lt;/ref&gt;&lt;ref name="nt_202"&gt;[[#nt|禰津・冨永『水理学』]]、p.202。&lt;/ref&gt;
+{{Indent|&lt;math&gt;v&lt;/math&gt; - 平均断面流速}}
+{{Indent|&lt;math&gt;U, p, z&lt;/math&gt; - ある点での主流速、圧力、高さ}}
+{{Indent|&lt;math&gt;h&lt;/math&gt; - 水深}}
+{{Indent|&lt;math&gt;z_b&lt;/math&gt; - 河床高}}
+{{Indent|&lt;math&gt;\theta&lt;/math&gt; - 河床勾配(&lt;math&gt;I_b&lt;/math&gt;)}}
+{{Indent|&lt;math&gt;g&lt;/math&gt; - 重力（加速度）}}
+{{Indent|緑 - 検査面}}
+{{Indent|赤 - コントロール・ボリューム}}
+{{Indent|青 - 自由水面}}
+{{Indent|黒＆茶 - 河床}}
+{{Indent|灰 - 基準線}}
+{{Indent|水色 - 主流速分布}}
+]]
+
+開水路の一次元解析では、いくつかのパラメーターが定義される。
+
+まず、開水路を流れ方向に切った垂直にみた断面図が[[#図2|図2]]である&lt;ref name="kdy_38"/&gt;。&lt;!-- 以下は&lt;ref name="kdy_38"/&gt;をまとめたもの --&gt;この図において青色で示された線が'''水面'''({{lang|en|water surface}})または'''自由水面'''({{lang|en|free surface}})であり、茶色で描かれたものが開水路の形状となっている。また、水色で囲われた領域が実際に水が流れている部分であり、この面積を流水断面積または'''流積'''({{lang|en|cross section area}})といい&lt;math&gt;A&lt;/math&gt;で表す。[[河川工学]]では'''河積'''とも呼ばれる&lt;ref name="nt_221"&gt;[[#nt|禰津・冨永『水理学』]]、p.221。&lt;/ref&gt;。さらに、緑色で示されている、水と水路が接している部分の長さを'''潤辺'''({{lang|en|wetted perimeter}})といい&lt;math&gt;S&lt;/math&gt;で表す。そして、この潤辺で断面積を割ったものを'''径深'''({{lang|en|hydraulic radius}})といい&lt;math&gt;R&lt;/math&gt;で表される。
+
+次に、開水路を流れ方向に平行に切った断面図が[[#図3|図3]]である&lt;ref name="kdy_115" /&gt;&lt;ref name="nt_202" /&gt;。先と同じように、青色で示された線は自由水面、茶色で描かれたものが'''水路床'''あるいは'''河床'''({{lang|en|bed}})である。この図では、河床に平行に&lt;math&gt;x&lt;/math&gt;軸を取り、それに垂直方向に&lt;math&gt;y&lt;/math&gt;軸をとっている。この河床から&lt;math&gt;y&lt;/math&gt;軸に測った時の水面までの距離が'''水深'''と定義され、&lt;math&gt;h&lt;/math&gt;で表される。このy軸とは別に、重力&lt;math&gt;g&lt;/math&gt;に対して垂直な'''基準線'''あるいは'''基準レベル'''({{lang|en|base level}})から測った高さ&lt;math&gt;z&lt;/math&gt;も定義される。例えば、河床までの高さは&lt;math&gt;z_b&lt;/math&gt;で表される。また、基準線から水面までの距離を'''水位'''と言う。そして、この基準線と河床のなす角を&lt;math&gt;\theta&lt;/math&gt;とした時、'''河床勾配'''({{lang|en|bed gradient}})は&lt;math&gt;I_b = \sin \theta&lt;/math&gt;で定義される。ただし、一般的に河床勾配は小さいと考えられるため、&lt;math&gt;\sin \theta = \theta, \cos \theta = 1&lt;/math&gt;とすることがあり、この場合は&lt;math&gt;\theta&lt;/math&gt;自身を河床勾配と呼ぶこともある。このような流れの状態の時、'''主流速'''は水色の矢印で示したような分布をしていると考えられる。ある高さ&lt;math&gt;z&lt;/math&gt;の点での主流速は&lt;math&gt;U&lt;/math&gt;、圧力は&lt;math&gt;p&lt;/math&gt;で表される。この主流速を断面平均したものが'''断面平均流速'''&lt;math&gt;v&lt;/math&gt;である。一次元解析では単に流速({{lang|en|velocity}})と呼ばれることもある&lt;ref name="nt_29"&gt;[[#nt|禰津・冨永『水理学』]]、p.29。&lt;/ref&gt;。
+
+一方、一次元解析を行う時には、赤色で示したような空間的に固定されたある領域を考え、緑色で示したようなその領域の断面を考えて、そこを通過する水理量を考えることがある。この領域で水を検査するという意味から&lt;ref name="nt_28"&gt;[[#nt|禰津・冨永『水理学』]]、p.28。&lt;/ref&gt;、この固定された領域を'''検査領域'''&lt;ref name="kdy_52"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.52。&lt;/ref&gt;または'''コントロール・ボリューム'''({{lang|en|control volume}})と呼び、その断面を'''検査面'''({{lang|en|control surface}}&lt;ref name="kdy_52" /&gt;、{{lang|en|test section}}&lt;ref name="nt_28" /&gt;)という。
+
+=== 比エネルギーと比力 ===
+'''比エネルギー'''({{lang|en|specific energy}})とは、河床から測った時のエネルギーで長さの単位を持ち、&lt;math&gt;H_0&lt;/math&gt;で表されるもので、以下の式で与えられる&lt;ref name="nezu_145"&gt;[[#nz|禰津『水理学・流体力学』]]、p.145。&lt;/ref&gt;。
+{{Indent|
+&lt;math&gt;
+H_0 = \alpha \frac{v^2}{ 2g } + h \cos \theta
+&lt;/math&gt;}}
+ここで&lt;math&gt;\alpha&lt;/math&gt;はエネルギー補正係数、&lt;math&gt;v&lt;/math&gt;は断面平均流速、&lt;math&gt;g&lt;/math&gt;は[[重力加速度]]、&lt;math&gt;h&lt;/math&gt;は水深、&lt;math&gt;\theta&lt;/math&gt;は[[河床勾配]]で、この式は開水路における流れのエネルギーの評価が、平均流速の速度[[水頭]]（第1項）とピエゾ水頭（第2項）との和で評価できることを意味する&lt;ref name="nt_203"&gt;[[#nt|禰津・冨永『水理学』]]、p.203。&lt;/ref&gt;。「比」と付いているが、この「比」は「何か特定の」と言う意味で、「何かと比べて」という意味ではない&lt;ref name="nezu_146"&gt;[[#nz|禰津『水理学・流体力学』]]、p.146。&lt;/ref&gt;。
+
+また、運動量に関しても次の'''比力'''({{lang|en|specific force}})：&lt;math&gt;M_0{\rm [L^3]}&lt;/math&gt;が定義される&lt;ref name="nezu_145" /&gt;。
+{{Indent|
+&lt;math&gt;
+M_0 = \left( \beta \frac{ v^2}{g } + \frac{1}{2}h \cos \theta \right) A
+&lt;/math&gt;}}
+ここで&lt;math&gt;\beta&lt;/math&gt;は運動量補正係数、&lt;math&gt;A&lt;/math&gt;は流水断面積（流積）である。この比力も、比エネルギーと同様に「比」は「何か特定の」と言う意味である&lt;ref name="nezu_146" /&gt;。
+
+これらは、上で述べたユニフローに対する開水路一次元解析法により[[ナビエ・ストークス方程式]]から導くことができる&lt;ref name="nt_203" /&gt;。
+
+=== 保存則 ===
+==== 連続式（質量保存則） ====
+ユニフロー開水路定常流における'''連続式'''は
+{{Indent|
+&lt;math&gt;Q = A_1 v_1 = A_2 v_2 = {\rm const.}&lt;/math&gt;}}
+という、''流量&lt;math&gt;Q&lt;/math&gt;（流水断面積&lt;math&gt;A&lt;/math&gt;と断面平均流速&lt;math&gt;v&lt;/math&gt;の積）が保存される''ことを表す&lt;ref name="nt_204"&gt;[[#nt|禰津・冨永『水理学』]]、p.204。&lt;/ref&gt;。
+これは、以下のように導出される。
+
+まず、水（非圧縮性流体）の[[質量保存則]]にあたる[[連続式]]は以下のように記述される&lt;ref name="nezu_22"&gt;[[#nz|禰津『水理学・流体力学』]]、p.22。&lt;/ref&gt;。
+{{Indent|
+&lt;math&gt;\frac{\partial U_i}{\partial x_i} = 0&lt;/math&gt;}}
+これに対し、主流に垂直な面&lt;math&gt;A_1&lt;/math&gt;、&lt;math&gt;A_2&lt;/math&gt;と水面および河床に囲まれた範囲（コントロール・ボリューム）で[[発散定理]]を適用すると、
+{{Indent|
+&lt;math&gt;Q = \iint_{A_1} U dA = \iint_{A_2} U dA = {\rm const.}&lt;/math&gt;}}
+となる。ここで&lt;math&gt;Q&lt;/math&gt;:流量、&lt;math&gt;U&lt;/math&gt;:主流速である。
+断面&lt;math&gt;A&lt;/math&gt;における断面平均流速&lt;math&gt;v&lt;/math&gt;は
+{{Indent|
+&lt;math&gt;v = \frac{1}{A} \iint_A U dA&lt;/math&gt;}}
+となるので&lt;ref name="nt_148"&gt;[[#nt|禰津・冨永『水理学』]]、p.148。&lt;/ref&gt;、これを代入して
+{{Indent|
+&lt;math&gt;Q = Av = {\rm const.}&lt;/math&gt;}}
+が得られる&lt;ref name="nt_204"/&gt;。
+
+==== エネルギー式（ベルヌーイの定理） ====
+'''開水路のベルヌーイの定理'''は
+{{Indent|
+&lt;math&gt;
+\frac{dH_0}{dx} = I_b - I_e
+&lt;/math&gt;}}
+で与えられる&lt;ref name="nt_204"/&gt;。ここで、&lt;math&gt;H_0&lt;/math&gt;は比エネルギー、&lt;math&gt;I_b&lt;/math&gt;は河床勾配、&lt;math&gt;I_e&lt;/math&gt;はエネルギー勾配であり、河床勾配とエネルギー勾配の差が、比エネルギーの変化量に等しいことを表す。また、''河床勾配とエネルギー勾配が等しければ''比エネルギーは保存され（'''比エネルギー保存則'''）&lt;ref name="nt_204" /&gt;、この時の流れの状態が[[#等流|等流]]である&lt;ref name="nezu_146"&gt;[[#nz|禰津『水理学・流体力学』]]、p.146。&lt;/ref&gt;。
+
+この式は以下のように導出される。
+
+連続式と同様のコントロール・ボリュームを考え[[ナビエ・ストークス方程式]]に発散定理を適用すれば
+{{Indent|
+&lt;math&gt;\frac{d}{dx} \frac{1}{Q} \iint_A \left( \frac{U^2}{2g} + z + \frac{p}{\rho g} \right) \cdot U dA = -I_e&lt;/math&gt;}}
+を得る&lt;ref name="nt_154"&gt;[[#nt|禰津・冨永『水理学』]]、p.154。&lt;/ref&gt;。ここで、&lt;math&gt;U&lt;/math&gt;は主流速、&lt;math&gt;\rho&lt;/math&gt;は水の密度、&lt;math&gt;g&lt;/math&gt;は重力加速度、&lt;math&gt;z&lt;/math&gt;は考えている点までの高さ、&lt;math&gt;p&lt;/math&gt;は考えている点での圧力である。これに対して断面平均を行い、比エネルギーを適用すれば
+{{Indent|
+&lt;math&gt;
+\frac{d}{dx} \left( H_0 + z_b\right) = - I_e
+&lt;/math&gt;}}
+となる&lt;ref name="nt_204"/&gt;。ここで、&lt;math&gt;z_b&lt;/math&gt;はある基準面から河床までの位置水頭であるので、その変化率は河床勾配&lt;math&gt;I_b&lt;/math&gt;である。よって、最終的に、
+{{Indent|
+&lt;math&gt;
+\frac{dH_0}{dx} = I_b - I_e
+&lt;/math&gt;}}
+が導かれる&lt;ref name="nt_204"/&gt;。
+
+==== 運動量式（運動量保存則） ====
+開水路における運動量式は
+{{Indent|
+&lt;math&gt;\left(M_0\right)_2 - \left(M_0\right)_1 = V \sin \theta - \frac{F}{\rho g}&lt;/math&gt;}}
+で与えられる。ここで、&lt;math&gt;\left(M_0\right)_1, \left(M_0\right)_2&lt;/math&gt;：検査面1, 2での比力、&lt;math&gt;V&lt;/math&gt;：コントロールボリュームの体積、&lt;math&gt;\theta&lt;/math&gt;：河床勾配、&lt;math&gt;F&lt;/math&gt;：外力（摩擦力）である。これから、勾配が水平で外力が無視できるとき、比力が保存されることが分かり、'''比力保存則'''となる&lt;ref name="nt_204"/&gt;。
+
+これは以下のようにして得られる。
+
+まず、拡張された運動量を用いて{{仮リンク|RANS方程式|en|Reynolds-averaged Navier–Stokes equations}}をユニフローにおいて他の保存則と同様のコントロールボリュームで積分すると、以下の式を得ることができる&lt;ref name="nt_149"&gt;[[#nt|禰津・冨永『水理学』]]、p.149。&lt;/ref&gt;。
+{{Indent|
+&lt;math&gt;\iint_{A_1} \hat{M}_{11} dA = \iint_{A_2} \hat{M}_{11} dA = {\rm const.}&lt;/math&gt;}}
+これが'''拡張された運動量の保存則'''であり、ここで、&lt;math&gt;\hat{M}_{11}&lt;/math&gt;は主流に垂直な面における主流方向の運動量であり以下で与えられる&lt;ref name="nt_149"/&gt;。
+{{Indent|
+&lt;math&gt;\hat{M}_{11} = \rho {U}^2 + \left( \rho g z + p \right)&lt;/math&gt;}}
+この式において、&lt;math&gt;U&lt;/math&gt;は主流速、&lt;math&gt;\rho&lt;/math&gt;は水の密度、&lt;math&gt;g&lt;/math&gt;は重力加速度、&lt;math&gt;z&lt;/math&gt;は考えている点までの高さ、&lt;math&gt;p&lt;/math&gt;は考えている点での圧力である。これに対して断面平均を行い比力を適用すれば
+{{Indent|
+&lt;math&gt;\left(M_0\right)_2 - \left(M_0\right)_1 = V \sin \theta - \frac{F}{\rho g}&lt;/math&gt;}}
+となる&lt;ref name="nt_204"/&gt;。
+
+=== 射流と常流、限界水深 ===
+[[Image:Specific energy-Water depth.png|thumb|300px
+|{{Visible anchor|図4}}: 比エネルギー・水深曲線&lt;ref name="nt_206"&gt;[[#nt|禰津・冨永『水理学』]]、p.206。&lt;/ref&gt;
+{{Indent|&lt;math&gt;h&lt;/math&gt; - 水深}}
+{{Indent|&lt;math&gt;H_0&lt;/math&gt;（赤線） - 比エネルギー}}
+{{Indent|&lt;math&gt;h_1, h_2&lt;/math&gt; - 常流水深、射流水深}}
+{{Indent|&lt;math&gt;h_c&lt;/math&gt; - 限界水深}}
+{{Indent|&lt;math&gt;H_c&lt;/math&gt; - 限界（最小）比エネルギー}}
+{{Indent|''supercritical flow''（青色の領域） - 射流}}
+{{Indent|''subcritical flow''（緑色の領域） - 常流}}
+]]
+[[Image:Quantity-Water depth.png|thumb|300px
+|{{Visible anchor|図5}}: 流量・水深曲線&lt;ref name="kwks_118"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.118。&lt;/ref&gt;
+{{Indent|&lt;math&gt;h&lt;/math&gt; - 水深}}
+{{Indent|&lt;math&gt;Q&lt;/math&gt;（赤線） - 流量}}
+{{Indent|&lt;math&gt;H_0&lt;/math&gt; - 比エネルギー}}
+{{Indent|&lt;math&gt;h_1, h_2&lt;/math&gt; - 常流水深、射流水深}}
+{{Indent|&lt;math&gt;h_c&lt;/math&gt; - 限界水深}}
+{{Indent|&lt;math&gt;Q_c&lt;/math&gt; - 限界（最大）流量}}
+{{Indent|''supercritical flow''（青色の領域） - 射流}}
+{{Indent|''subcritical flow''（緑色の領域） - 常流}}
+]]
+[[#比エネルギーと比力|比エネルギーと比力]]は水深&lt;math&gt;h&lt;/math&gt;に関して[[三次関数]]であり、これらが保存される場合は水深が2つの正の実根を持つこととなる&lt;ref name="nt_205"&gt;[[#nt|禰津・冨永『水理学』]]、p.205。&lt;/ref&gt;。つまり、''同じ大きさのエネルギーを持つ流れに対してとりうる水深が2つ存在すること''になり、小さいほうの水深を'''射流水深'''({{lang|en|supercritical depth}})、大きいほうの水深を'''常流水深'''({{lang|en|subcritical depth}})といい、両者の関係を'''交代水深関係'''({{lang|en|alternative depth}})という&lt;ref name="nz_148"&gt;[[#nz|禰津『水理学・流体力学』]]、p.148。&lt;/ref&gt;。このような現象は管路にはなく開水路に特有の現象である&lt;ref name="nz_147"&gt;[[#nz|禰津『水理学・流体力学』]]、p.147。&lt;/ref&gt;。
+
+同じ比エネルギーに対して水深が2つ存在するということは、[[ロルの定理]]よりその間に[[極値]]をとりうる点が存在する。[[#図4|図4]]を見ると分かる通りある水深において比エネルギーは最小となり、常流水深と射流水深が一致する。この水深を'''限界水深'''({{lang|en|critical depth}})といい&lt;ref name="nt_206" /&gt;、このときの流れを'''限界流'''({{lang|en|critical flow}})と呼ぶ&lt;ref name="nt_207" /&gt;。つまり、エネルギーを最小で水を流すためには水深を限界水深と一致させればよく、これを'''ベスの定理'''という&lt;ref name="nt_207" /&gt;。
+
+この限界水深は比エネルギーを水深で微分して、その微分係数が0となる点で求めることができ（'''最小比エネルギーの原理'''）、流量&lt;math&gt;Q&lt;/math&gt;が流れている幅&lt;math&gt;B&lt;/math&gt;の長方形断面開水路の場合
+{{Indent|
+&lt;math&gt;h_c = \sqrt[3]{\frac{Q^2}{g B^2}}&lt;/math&gt;}}
+となり、限界水深は流量の2/3乗に比例する&lt;ref name="kwks_117"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.117。&lt;/ref&gt;。また、その比エネルギー（限界比エネルギー）は、
+{{Indent|
+&lt;math&gt;H_c = \frac{3}{2} h_c&lt;/math&gt;}}
+となり、''限界水深は限界比エネルギーの2/3''となって、速度水頭（≒運動エネルギー）がピエゾ水頭（水深≒位置エネルギー）の半分になることが分かる&lt;ref name="nt_207"&gt;[[#nt|禰津・冨永『水理学』]]、p.207。&lt;/ref&gt;。
+
+限界流の時の流速は'''限界流速'''({{lang|en|critical velocity}})と呼ばれ、その大きさは[[長波]]の伝播速度と等しくなり[[フルード数]]がちょうど1となる&lt;ref name="kwks_117" /&gt;。そして、フルード数が1より小さい流れを'''常流'''({{lang|en|subcritical flow}})といい、フルード数が1より大きい場合を'''射流'''({{lang|en|supercritical flow}})という&lt;ref name="nt_207" /&gt;。これから、流速が長波の伝播速度より大きい射流の場合は水面波が上流に伝播せず下流にしか伝わらないことが分かる&lt;ref name="kwks_118" /&gt;（[[#微小かく乱|微小かく乱波]]も参照）。
+
+射流の場合、流速が「射るように」速くなるため、[[橋脚]]等に作用する[[流体力]]が大きくなったり、河床せん断力が強くなり[[洗掘]]されやすくなるため危険である&lt;ref name="nz_149"&gt;[[#nz|禰津『水理学・流体力学』]]、p.149。&lt;/ref&gt;。そのため、普通の河川では常流水深となるように水深を調整して水を流すのでその時が「通常の流れ」であり、これが常流という用語の由来である（英語でも常流を{{lang|en|normal flow}}ということがある）&lt;ref name="nz_149" /&gt;。
+
+以上は流量を一定として比エネルギーが水深によって変化する場合の考察であるが、逆に比エネルギーを一定として流量を変化させる場合も考えられる。その時、流量&lt;math&gt;Q&lt;/math&gt;は
+{{Indent|
+&lt;math&gt;Q = bh \sqrt{2g (H_0 - h)}&lt;/math&gt;}}
+となり、グラフは[[#図5|図5]]のようになって流量はある水深で最大となることが分かる&lt;ref name="kwks_117" /&gt;。この時の水深を計算すると、上記「流量一定」の時の限界水深と一致する&lt;ref name="nt_208"&gt;[[#nt|禰津・冨永『水理学』]]、p.208。&lt;/ref&gt;。つまり、''比エネルギーが一定の時、限界水深において流量が最大''になり、これを'''最大流量の原理'''（あるいは'''ベランジェの定理'''）という&lt;ref name="nt_208" /&gt;。
+
+また、後述の[[#漸変流近似|漸変流近似]]で述べるとおり、不等流の時、限界水深において水面勾配が（計算上）無限大となる（ブレスの定義）。さらに、[[#跳水|跳水]]で述べる特性も追加した、常流・射流・限界流のそれぞれの特性をまとめたものが[[#表1|表1]]である。
+
+{| class="wikitable" style="align:left; text-align:center; font-size:90%; margin: 0em 2em;"
+|+ {{Visible anchor|表1}}: 常流・射流・限界流の特性
+! 特性 !! 常流 !! 限界流 !! 射流
+|-
+! フルード数
+| style="width: 27%" | &lt;1
+| style="width: 27%" | 1
+| style="width: 27%" | 1&lt;
+|-
+! 水深&lt;br /&gt;（ピエゾ水頭）
+| &lt;math&gt;h&gt;h_c&lt;/math&gt; || &lt;math&gt;h_c = \sqrt[3]{\frac{Q^2}{g B^2}}&lt;/math&gt;|| &lt;math&gt;h_c&gt;h&lt;/math&gt;
+|-
+! 平均流速&lt;br /&gt;
+| &lt;math&gt;v&gt;v_c&lt;/math&gt; || &lt;math&gt;v_c = \sqrt{g h_c}&lt;/math&gt;&lt;br /&gt;長波の伝播速度 || &lt;math&gt;v_c&gt;v&lt;/math&gt;
+|-
+! 比エネルギー
+| &lt;math&gt;H_0&gt;H_c&lt;/math&gt; || &lt;math&gt;H_c = \frac{3}{2} h_c&lt;/math&gt;&lt;br /&gt;最小&lt;br /&gt;（ベスの定理） || &lt;math&gt;H_c&lt;H_0&lt;/math&gt;
+|-
+! 流量
+| &lt;math&gt;Q&lt;Q_c&lt;/math&gt; || &lt;math&gt;Q_c = bh v_c&lt;/math&gt;&lt;br /&gt;最大&lt;br /&gt;（ベランジェの定理） || &lt;math&gt;Q_c&gt;Q&lt;/math&gt;
+|-
+! 比力
+| &lt;math&gt;M&gt;M_c&lt;/math&gt; || &lt;math&gt;M_c&lt;/math&gt;（最小） || &lt;math&gt;M_c&lt;M&lt;/math&gt;
+|-
+! 水面勾配
+| 有限 || 無限大&lt;br /&gt;（ブレスの定義） || 有限
+|-
+! 微小かく乱波の&lt;br /&gt;上流側の波
+| 上流へ伝播 || その場にとどまる || 下流に伝播
+|-
+! 微小かく乱波の&lt;br /&gt;下流側の波
+| colspan="3" | 下流に伝播
+|}
+
+== 等流 ==
+開水路が
+* 河床勾配が一定
+* 断面積が一定
+* 流量が一定
+* 十分に長い
+という条件を満たす時この流れは'''等流'''({{lang|en|uniform flow}})となり、この時
+* 水深および流速が一定
+* 水面勾配・エネルギー勾配・河床勾配が全て平行（同じ）&lt;ref group="注"&gt;全ての勾配が同じなので、以降これらを全て&lt;math&gt;I&lt;/math&gt;と書く。&lt;/ref&gt;
+という特徴を持つ&lt;ref name="kwks_123"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.123。&lt;/ref&gt;。
+
+=== 平均流速公式 ===
+[[Image:Laminer channel velocity.png|thumb|250px
+|{{Visible anchor|図6}}: 層流の流速分布
+{{Indent|&lt;math&gt;U&lt;/math&gt;（赤線） - 流速}}
+{{Indent|&lt;math&gt;h&lt;/math&gt;（青線） - 水深}}
+{{Indent|&lt;math&gt;U_{\rm max}&lt;/math&gt; - 最大流速}}
+{{Indent|&lt;math&gt;v&lt;/math&gt; - 平均流速}}
+{{Indent|茶色のハッチング - 河床（地盤）}}
+]]
+[[Image:Velocity-Depth (open channel).png|thumb|300px
+|{{Visible anchor|図7}}: 各平均流速公式による平均流速の変化概形
+{{Indent|&lt;math&gt;v&lt;/math&gt;（赤線） - 平均流速}}
+{{Indent|&lt;math&gt;h&lt;/math&gt; - 水深}}
+{{Indent|''laminer flow'' - 層流の平均流速公式}}
+{{Indent|''turbulent flow'' - 乱流の平均流速公式（対数則）}}
+{{Indent|''Chezy formula'' - シェジー式}}
+{{Indent|''Manning formula'' - マニング式}}
+]]
+流れの平均流速を算出する式として、ここでは層流の場合の理論式と、乱流の場合の対数則、および経験則としてシェジー式とマニング式を説明する&lt;ref name="symbol" group="注"&gt;記号については特に断らない限り[[#開水路のパラメーター|開水路のパラメーター]]節で定義したものとする。&lt;/ref&gt;。
+
+まず、流れが[[層流]]の場合を考える。するとこの時、主流速&lt;math&gt;U&lt;/math&gt;の河床に垂直方向の分布は
+{{Indent|
+&lt;math&gt;U = \frac{g I}{2\nu} y \left( 2h - y \right)&lt;/math&gt;}}
+となり、[[#図6|図6]]のように[[放物線]]を描く&lt;ref name="bf_141"&gt;[[#bf|ブレビア・フェラント『コンピュータ水理学』]]、p.141。&lt;/ref&gt;。よって、その最大流速&lt;math&gt;u_{\rm max}&lt;/math&gt;は水面で最大値
+{{Indent|
+&lt;math&gt;U_{\rm max} = \frac{g I h^2}{2\nu}&lt;/math&gt;}}
+をとり、平均流速&lt;math&gt;v&lt;/math&gt;は
+{{Indent|
+&lt;math&gt;v = \frac{g I h^2}{3\nu} = \frac{2}{3} U_{\rm max}&lt;/math&gt;}}
+となる&lt;ref name="bf_141" /&gt;。これが流れが層流の場合の平均流速公式である。
+
+またこの時、河床から&lt;math&gt;0.42h&lt;/math&gt;の点で平均流速をとることが分かり、実際に平均流速を測定するためには
+* 水面下&lt;math&gt;0.6h&lt;/math&gt;の点の流速を直接測定する
+* 水面下&lt;math&gt;0.2h&lt;/math&gt;と&lt;math&gt;0.8h&lt;/math&gt;の点の流速を測定し、放物線で当てはめる
+といった方法が使われる&lt;ref name="bf_142"&gt;[[#bf|ブレビア・フェラント『コンピュータ水理学』]]、p.142。&lt;/ref&gt;。
+
+しかし一方、自然界の流れの大半は乱流であり&lt;ref name="nt_143"&gt;[[#nt|禰津・冨永『水理学』]]、p.143。&lt;/ref&gt;、この層流の場合の式は厳密に言えば適合しない。乱流の場合は、[[プラントル]]と[[セオドア・フォン・カルマン|カルマン]]が管路流に対して提案した流速分布の'''{{仮リンク|対数則|en|Law of the wall}}'''を開水路に適用して
+{{Indent|
+&lt;math&gt;\frac{u}{u_*} = A + 5.75 \log_{10} \frac{y}{k}&lt;/math&gt;
+および
+&lt;math&gt;\frac{v}{u_*} = B + 5.75 \log_{10} \frac{h}{k}&lt;/math&gt;}}
+を使うことができる&lt;ref name="kwks_124"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.124。&lt;/ref&gt;。
+ここで、&lt;math&gt;u_*&lt;/math&gt;は摩擦速度、&lt;math&gt;A, B&lt;/math&gt;はパラメータ&lt;math&gt;\frac{u_* k}{\nu}&lt;/math&gt;によって決まる定数、&lt;math&gt;k&lt;/math&gt;は壁面粗さの平均高さである。
+
+以上までは理論的あるいは半理論的に導出した公式であるが&lt;ref name="kwks_124" /&gt;、経験則として、昔から様々な等流公式が提案されてきた&lt;ref name="nt_217"&gt;[[#nt|禰津・冨永『水理学』]]、p.217。&lt;/ref&gt;。その中で現在よく使われる公式は次の2つである&lt;ref name="nz_155"&gt;[[#nz|禰津『水理学・流体力学』]]、p.155。&lt;/ref&gt;。
+; シェジー式
+: &lt;math&gt;v = C \sqrt{R I}&lt;/math&gt;
+; マニング式
+: &lt;math&gt;v = \frac{1}{n} R^{\frac{2}{3}} I^{\frac{1}{2}}&lt;/math&gt;
+ここで、&lt;math&gt;C, n&lt;/math&gt;はそれぞれ'''シェジー係数'''、'''[[粗度係数|マニングの粗度係数]]'''と呼ばれる係数であり、流れやすさあるいは流れにくさを表すものである。この2つの係数と[[摩擦損失係数]]&lt;math&gt;f&lt;/math&gt;は以下のような関係式を満たす&lt;ref name="kwks_126"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.126。&lt;/ref&gt;。
+{| border="0" cellpadding="0" cellspacing="5" style="margin: 0 auto"
+|-
+! style="width:33%;" | &lt;math&gt;n-C&lt;/math&gt; 関係
+! style="width:33%;" | &lt;math&gt;n-f&lt;/math&gt; 関係
+!&lt;math&gt;C-f&lt;/math&gt; 関係
+|- style="vertical-align:top;"
+|
+&lt;math&gt;n = \frac{R^{ \frac{1}{6} }}{C}&lt;/math&gt;
+|
+&lt;math&gt;n^2 = \frac{f R^{\frac{1}{3}}}{2g}&lt;/math&gt;
+|
+&lt;math&gt;C^2 = \frac{2g}{f}&lt;/math&gt;
+|}
+
+シェジー式もマニング式も平均流速が勾配&lt;math&gt;I&lt;/math&gt;の1/2乗に比例しているという点で共通しており、[[ダルシー・ワイスバッハ式]]と同形であるので、粗面乱流（摩擦損失係数がレイノルズ数に依存しない領域）で妥当であると考えられる&lt;ref name="nz_155" /&gt;。式の上での違いは径深の1/6乗分だけであるが、水理学的意味合いにおいて両者には大きな違いがある&lt;ref name="nt_218"&gt;[[#nt|禰津・冨永『水理学』]]、p.218。&lt;/ref&gt;。
+
+まず、シェジー式はコントロールボリュームに作用する圧力・重力および河床摩擦力がつりあっているという条件とダルシー・ワイスバッハ式から導くことができる&lt;ref name="kwks_125"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.125。&lt;/ref&gt;。一方のマニング式は、（半）理論的な対数則によって比較的広い範囲で&lt;math&gt;n \simeq \frac{1}{24} {k_s}^{\frac{1}{6}}&lt;/math&gt;（ただし単位は[[メートル]]と[[秒]]）と関連付けられ、粗度粒径&lt;math&gt;k_s&lt;/math&gt;が一定ならば流れに関係なくマニング係数が一定となるので、水理学的合理性がある&lt;ref name="nt_218"&gt;[[#nt|禰津・冨永『水理学』]]、p.218。&lt;/ref&gt;。
+
+また、水深に対して水路幅が十分に広い長方形水路において、等流となる水深（'''等流水深'''）&lt;math&gt;h_o&lt;/math&gt;を平均流速公式から逆算すると
+; シェジー式
+: &lt;math&gt;h_o = \left( \frac{Q^2}{C^2 B^2 I} \right)^{\frac{1}{3}}&lt;/math&gt;
+; マニング式
+: &lt;math&gt;h_o = \left( \frac{n^2 Q^2}{B^2 I} \right)^{0.3}&lt;/math&gt;
+となり（&lt;math&gt;Q&lt;/math&gt;: 流量、&lt;math&gt;B&lt;/math&gt;: 水路幅）、[[#射流と常流、限界水深|射流と常流、限界水深]]でみた限界水深の算出式と比べるとマニング式よりシェジー式の方が同形で解析上見通しがよいことが分かる&lt;ref name="nt_219" /&gt;。
+
+一方、マニング式はシェジー式と比べて自然河川における等流状態を良好に表現しているため、河川工学上優れている&lt;ref name="nt_219"&gt;[[#nt|禰津・冨永『水理学』]]、p.219。&lt;/ref&gt;。そのため、マニング式は世界中で使用されており、日本における河川行政においてはほとんどマニング式のみが用いられている&lt;ref name="nt_219" /&gt;。こういった事情から、マニングの粗度係数は河川データベースに必要不可欠なものであり、この値は、コンクリート開水路(0.015)、土製直線状開水路(0.02)、岩盤直線状開水路(0.03)、直線状自然河川(0.03)、蛇行河川(0.04)程度でこの順に大きくなっている（水が流れにくい）&lt;ref name="nt_219"&gt;[[#nt|禰津・冨永『水理学』]]、p.219。&lt;/ref&gt;。[[#表2|表2]]、[[#表3|表3]]に一般的に知られているマニングの粗度係数の詳しい値を載せる。
+
+&lt;!-- この表は出典に上がっている2つの情報を混ぜ合わせたものです
+・コメントで1が付いているものは[[#kdy|日下部・檀・湯城『水理学』]]、p.126。より
+・コメントで2が付いているものは[[#nt|禰津・冨永『水理学』]]、p.219。より --&gt;
+{| border="0" cellpadding="0" cellspacing="20" style="margin: 0 auto"
+|-
+|
+{| class="wikitable" style="text-align: center; margin: 0 auto"
+|+ {{Visible anchor|表2}}: 人工水路のマニング粗度係数&lt;ref name="kwks_126" /&gt;&lt;ref name="nt_219" /&gt;
+! 水路の状況 !! &lt;math&gt;n {\rm [s^2/m^{1/3}]}&lt;/math&gt;
+|-
+|| &lt;!--2--&gt;滑らかな木材 || 0.010 - 0.014
+|-
+|| &lt;!--2--&gt;切石のモルタル積 || 0.013 - 0.017
+|-
+|| &lt;!--2--&gt;コンクリート水路 || 0.012 - 0.018
+|-
+|| &lt;!--1--&gt;洗掘がない粘土質河床水路 || 0.016 - 0.022
+|-
+|| &lt;!--2--&gt;直線状の土開削水路 || 0.017 - 0.025
+|-
+|| &lt;!--2--&gt;粗石のモルタル積 || 0.017 - 0.030
+|-
+|| &lt;!--1--&gt;砂質・粘土質ローム || 平均して0.020
+|-
+|| &lt;!--1--&gt;スパイラル半管水路 || 0.021 - 0.030
+|-
+|| &lt;!--2--&gt;蛇行した土開削水路 || 0.023 - 0.030
+|-
+|| &lt;!--1--&gt;泥土床の両岸石張水路 || 平均して0.025
+|-
+|| &lt;!--1--&gt;雑草は少なめのドラグライン浚渫 || 0.025 - 0.033
+|-
+|| &lt;!--2--&gt;滑表面の岩盤開削水路 || 0.025 - 0.035
+|-
+|| &lt;!--1--&gt;岩盤整正 || 0.025 - 0.04
+|-
+|| &lt;!--2--&gt;粗表面の岩盤開削水路 || 0.035 - 0.045
+|-
+|| &lt;!--1--&gt;岩盤掘りっ放し || 0.035 - 0.05
+|}
+|
+{| class="wikitable" style="text-align: center; margin: 0 auto"
+|+ {{Visible anchor|表3}}: 自然河川のマニング粗度係数&lt;ref name="kwks_126" /&gt;&lt;ref name="nt_219" /&gt;
+! 水路の状況 !! &lt;math&gt;n {\rm [s^2/m^{1/3}]}&lt;/math&gt;
+|-
+|| &lt;!--1--&gt;蛇行の少ない粘土・砂質河床の大水路 || 0.018 - 0.035
+|-
+|| &lt;!--1--&gt;雑草のない平野の小水路 || 0.025 - 0.033
+|-
+|| &lt;!--2--&gt;流路の線形・断面が規則正しく水深が深い || 0.025 - 0.033  
+|-
+|| &lt;!--1--&gt;礫質河床の大水路 || 0.025 - 0.040 
+|-
+|| &lt;!--1--&gt;雑草・灌木のある平野の小水路 || 0.030 - 0.040
+|-
+|| &lt;!--2--&gt;流路の線形・断面が規則正しく水深が深く河床が礫で草岸 || 0.030 - 0.040 
+|-
+|| &lt;!--1--&gt;山地の砂利あるいは玉石河床の水路 || 0.030 - 0.050
+|-
+|| &lt;!--2--&gt;瀬淵があり蛇行している || 0.033 - 0.045 
+|-
+|| &lt;!--1--&gt;雑草の多い平野の礫質河床の小水路 || 0.040 - 0.055
+|-
+|| &lt;!--2--&gt;瀬淵があり水深が小さい || 0.040 - 0.055 
+|-
+|| &lt;!--1--&gt;山地の玉石あるいは大玉石河床の水路 || 0.040 - 
+|-
+|| &lt;!--2--&gt;水草が多い || 0.050 - 0.080 
+|}
+|}
+
+=== 断面形状と水理量 ===
+[[#平均流速公式|平均流速公式]]により、断面形状が決まれば、任意の水深の時の、流積、径深、流速、流量などを求めることが出来る。
+
+上部が閉じており「満水」状態のある開水路でこれら水理量を各満水時の値と比として、水深と図にしたものを'''水理特性曲線'''({{lang|en|flow characteristics}})という&lt;ref name="kdy_127"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.127。&lt;/ref&gt;。この図を書いておくことで、ある水深のときの流量や流速を計算するのに役立つ&lt;ref name="nt_220"&gt;[[#nt|禰津・冨永『水理学』]]、p.220。&lt;/ref&gt;。
+図は円形断面の場合の水理特性曲線である。これから分かるとおり、円形断面の場合は、満水時より少なめの水深つまり開水路として流れる時に、流量や流速は最大となる&lt;ref name="kdy_128"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.128。&lt;/ref&gt;。実際に計算すると
+;流速 &lt;math&gt;v&lt;/math&gt;
+: &lt;math&gt;\frac{h}{D} \simeq 0.81&lt;/math&gt;のとき、&lt;math&gt;\frac{v}{v_0} = 1.14&lt;/math&gt;
+;流量 &lt;math&gt;v&lt;/math&gt;
+: &lt;math&gt;\frac{h}{D} \simeq 0.94&lt;/math&gt;のとき、&lt;math&gt;\frac{Q}{Q_0} = 1.08&lt;/math&gt;
+でそれぞれ最大値となる&lt;ref name="kdy_128" /&gt;&lt;ref name="nt_221" /&gt;。満水で流れるよりも、開水路として流れていたほうが、抵抗が少なくて済むのである&lt;ref name="nt_221" /&gt;。
+
+一方、ある流積や勾配の時に最大の流量が流れる断面のことを'''水理学的に有利な断面'''という&lt;ref name="kdy_129"&gt;[[#kdy|日下部・檀・湯城『水理学』]]、p.129。&lt;/ref&gt;。あるいは、ある流量の時に流積が最小になる断面ともいえる&lt;ref name="nt_221" /&gt;。このような断面は、例えば長方形断面水路であれば水路幅が水深の2倍の時であり&lt;ref name="kdy_129" /&gt;、台形であれば正六角形の半分の形をしている時である&lt;ref name="nt_222"&gt;[[#nt|禰津・冨永『水理学』]]、p.222。&lt;/ref&gt;。平均流速公式の形から、水理学的に有利な断面は、径深が最大あるいは潤辺が最小の時となっている&lt;ref name="nt_221" /&gt;。
+
+== 不等流 ==
+{{節スタブ}}
+=== 跳水 ===
+[[File:Hydraulic jump on Naramatagawa River's stream.ogv|thumb|right|渓流で見られる跳水]]
+{{main|跳水}}
+射流から常流に変化するときに生じる現象。エネルギーを損失する。
+=== 漸変流近似 ===
+
+=== 水面形の分類 ===
+
+=== 不等流計算 ===
+
+== 非定常流 ==
+{{節スタブ}}
+河川の代表的な非定常流には「洪水」による[[段波]]などが存在する。
+[[Image:Shallow Water Equations(Subcritical).gif|thumbnail|right|300px|[[常流]]の水面波の伝播]]
+[[Image:Shallow Water Equations(Supercritical).gif|thumbnail|right|300px|[[射流]]の水面波の伝播]]
+
+=== 基礎方程式 ===
+==== 連続式 ====
+
+==== エネルギー式 ====
+
+=== 段波・ダムブレーク波 ===
+
+=== 微小かく乱 ===
+
+=== キネマティックウェーブ理論 ===
+
+=== 拡散型洪水波理論 ===
+
+=== ダイナミックウェーブ理論 ===
+
+== 高次元流解析 ==
+{{節スタブ}}
+
+== 開水路と構造物 ==
+{{節スタブ}}
+
+== 参考文献 ==
+* {{Cite book|和書|author=禰津家久|year=1995|title=水理学・流体力学|publisher=朝倉書店|id=ISBN 4-254-26135-7|ref=nz}}
+* {{Cite book|和書|author=禰津家久、冨永晃宏|year=2006|title=水理学|publisher=朝倉書店|id=ISBN 4-254-26139-X|ref=nt}}
+* {{Cite book|和書|author=日下部重幸、檀和幸、湯城豊勝|year=2003|title=水理学|publisher=コロナ社|id=ISBN 4-339-05507-7|ref=kdy}}
+* {{Cite book|和書|author=川合茂、和田清、神田佳一、鈴木正人|year=2002|title=河川工学|publisher=コロナ社|id=ISBN 4-339-05506-9|ref=kwks}}
+* {{Cite book|和書|author=C.A.ブレビア、S.J.フェラント|translator=磯部雅彦|year=1988|title=コンピュータ水理学|publisher=サイエンス社|id=ISBN 4-7819-0505-6|ref=bf}}
+{{reflist|3|group=""}}
+
+== 脚注 ==
+&lt;div class="references-small"&gt;&lt;references group="注"/&gt;&lt;/div&gt;
+
+== 関連項目 ==
+* [[水理学]]
+
+{{DEFAULTSORT:かいすいろ}}
+[[Category:水理学]]
+[[Category:水路]]</text>
+      <sha1>5kel40kme1jeamiex8db3ndvcta7xzd</sha1>
+    </revision>
+  </page>
+  

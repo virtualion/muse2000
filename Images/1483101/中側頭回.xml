@@ -1,0 +1,60 @@
+<page>
+    <title>中側頭回</title>
+    <ns>0</ns>
+    <id>1483101</id>
+    <revision>
+      <id>82059145</id>
+      <parentid>50817727</parentid>
+      <timestamp>2021-02-28T06:28:22Z</timestamp>
+      <contributor>
+        <username>SeitenBot</username>
+        <id>1037035</id>
+      </contributor>
+      <minor />
+      <comment>Botによる: [[特別:PermaLink/82058247#Template:Normdatenを記事に追加する|{{Normdaten}}を追加]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2465" xml:space="preserve">{{Infobox Brain
+ | Width =300
+ | 名称 =中側頭回
+ | 英語 = Middle temporal gyrus
+ | ラテン語  = Gyrus temporalis medius
+ | 略号 = MTG, GTm
+ | 画像  =
+ | 脚注  = 中側頭回の脳における位置 
+ | 画像2   =Gray726 middle temporal gyrus.png
+ | 脚注2    =ヒトの大脳半球外側面を横から見た図。オレンジ色のところが中側頭回。 
+ | 上位構造   =[[側頭葉]]
+ | 構成要素 =
+ | 動脈  =[[中大脳動脈]] &lt;br/&gt; [[後大脳動脈]]
+ | 静脈  = 
+ | AnatomographyPartsID = FMA61906
+ | DA ={{DA|atlas=Neuroanatomy|frame_file_path^=Index/Brain^Surface/Left^Hemisphere,^lateral^view|strings=middle+temporal+gyrus|表示=左側面}}&lt;br /&gt;{{DA|atlas=Neuroanatomy|frame_file_path^=Index/Brain^Surface/Right^Hemisphere,^lateral^view|strings=middle+temporal+gyrus|表示=右側面}}&lt;br /&gt;{{DA|atlas=Neuroanatomy|frame_file_path^=Index/Brain^Surface/Left^Insula|strings=middle+temporal+gyrus|表示=左側面+島}}&lt;br /&gt;{{DA|atlas=Neuroanatomy|frame_file_path^=Index/Brain^Surface/Ventral^view^3|strings=middle+temporal+gyrus|表示=下方}}&lt;br /&gt;{{DA|atlas=Neuroanatomy|frame_file_path^=Index/Brain^Surface/Anterior^view|strings=middle+temporal+gyrus|表示=前方}}
+ | BredeROI_number = 60
+ | NeuroNamesID = 137
+ | NIF = Middle temporal gyrus
+ | グレイの解剖学  =189
+ | GrayPage  =824
+}}
+
+'''中側頭回'''（ちゅうそくとうかい、{{lang-en-short|Middle temporal gyrus}}）は、[[側頭葉]]にある[[脳回]]の1つである。中側頭回は[[上側頭回]]と[[下側頭回]]の間に存在する。その正確な機能はまだ分かっていないが、距離の認知、[[顔認知]]、読み課題の際の単語の認知などの異なる処理に関与しているとされている。
+
+==参考画像==
+{{Commonscat|Middle temporal gyrus}}
+&lt;gallery&gt;
+ File:Middle temporal gyrus animation small.gif|中側頭回の位置を色々な角度から見た動画。赤く塗られているところが中側頭回。
+ File:250px-Gray726-STS.png|[[上側頭溝]]。中側頭回の上側の境界を定める[[脳溝]]。
+ File:Gray726 middle temporal sulcus.svg|[[中側頭溝]]。中側頭回の下側の境界を定める[[脳溝]]。
+ Image:Gray1197.png|脳と頭蓋骨の関係を示した図。中側頭回は緑色の部分（[[側頭葉]]）の中部分。
+&lt;/gallery&gt;
+
+{{大脳回}}
+{{終脳}}
+{{Medical-stub}}
+{{Normdaten}}
+{{DEFAULTSORT:ちゆうそくとうかい}}
+[[Category:脳回]]</text>
+      <sha1>93qogp2pl6k5j75y537bat0nc44kq5h</sha1>
+    </revision>
+  </page>
+  

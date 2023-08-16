@@ -1,0 +1,90 @@
+<page>
+    <title>リング共振器</title>
+    <ns>0</ns>
+    <id>3511571</id>
+    <revision>
+      <id>93437641</id>
+      <parentid>93437635</parentid>
+      <timestamp>2023-01-17T03:56:32Z</timestamp>
+      <contributor>
+        <username>Minimarhythm</username>
+        <id>1342471</id>
+      </contributor>
+      <comment>/* 光学カップリング */文法の修正</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18239" xml:space="preserve">{{翻訳直後|[[Special:Redirect/revision/746423209|en:Optical ring resonator]]|date=2016年11月}}
+[[ファイル:RingResonatorCW.png|サムネイル|331x331ピクセル|リング共振器に連続波を入力した際の共振の様子を示すコンピュータシミュレーション。]]
+'''リング共振器'''（リングきょうしんき {{lang-en-short|optical ring resonator}}) はなんらかの光入力と出力とカップリングさせた、少なくとも一つが閉じたループを成す[[導波管|導波路]]の集合をいう。リング共振器の背景にある概念は、[[ささやきの回廊]]の背景にあるものと同一である。光と音という違いはあるが、[[全反射]]と[[干渉 (物理学)|干渉]]という背景は変わらない。[[共鳴|共振]][[波長]]と一致する光がループに入射すると、何周もするうちに[[干渉 (物理学)|強め合う干渉]]によって強度を増し、出力される。いくつかの波長のみがループ内で共振を起こすため、リング共振器をフィルターとして使うこともできる。また、入力および出力を複数カップリングさせ、Add/Drop光学フィルタを構成することもできる。
+
+== 背景 ==
+[[ファイル:TIR_in_PMMA.jpg|サムネイル|225x225ピクセル|[[アクリル樹脂|PMMA]]樹脂内での全反射]]
+リング共振器は、[[全反射]]、[[干渉 (物理学)|干渉]]、光学カップリングの原理によって動作する。
+
+=== 全反射 ===
+リング共振器の導波路を伝播している光は全反射と呼ばれる[[幾何光学]]的現象により、導波路内に留まる。全反射とは光線が媒質の境界に入射したとき、屈折して媒質から出ていく光が全くなくなるという光学的現象である。外側の媒質の[[屈折率]]が内側のものよりも小さく、光線の入射角（境界面の法線との成す角度）が臨界角よりも大きい場合は全反射が起こり、光は境界面を越えて出て行くことはなくなる。リング共振器がうまく動作するためには全反射の条件が満たされており、導波路内の光が決して外に出ていかないことが必要である。
+
+=== 干渉 ===
+干渉とは、二つの波が重なり合った結果、振幅の大きくもしくは小さくなった波になる現象をいう。通常、干渉とは互いに相関のある、コヒーレントな光の間の相互作用を指す。強め合う干渉が起きるのは、二つの波が同位相で干渉したときで、この場合は生じる波の振幅は元の波それぞれの振幅を足し合せたものとなる。リング共振器にはリング要素中に複数の光回路を持つため、ループに残った他の光との干渉が起きる。このような場合、[[吸光]]や[[エバネッセント場|近接場光]]、不完全結合などによる損失が無く、共振条件が満たされているものと仮定すると、リング共振器から出力される光の強度は系に加えられた光の強度と等しくなる。
+
+=== 光学カップリング ===
+[[ファイル:CouplingCoefficients.png|サムネイル|225x225ピクセル|結合係数の図示]]
+リング共振器の動作を理解するために不可欠な概念として、線形導波路とリング導波路との間の光学カップリングが挙げられる。図のように光線が導波路を通るとき、一部の光がリング共振器とカップリングする。この現象が起きる理由は光の波動的性質である。また、幾何光学的に考えるならば透過効果に起因すると考えることもできる。つまり、リング共振器と導波路が十分近いとき、導波路の光がリング共振器へと透過するのである。ここに、光学カップリングに影響する三つの側面が挙げられる。距離と、カップリング長、導波路およびリング共振器の間の屈折率である。カップリングを最適化するため、通常は導波路とリング共振器との距離は狭くとる。距離がより狭いほど光学カップリングはより容易に起こるようになる。それに加え、カップリング長も光学カップリングに影響を与える。カップリング長とはリング共振器の導波路とのカップリング現象を起こす曲線部分の長さを表わす。カップリング長が増えれば、光学カップリングに要する困難は現象することが研究により知られている{{要出典|date=2016年10月}}。さらに、導波路とリング共振器の間の材質の屈折率によってもカップリングに影響が出る。間の材質は透過光に大きな影響を与えるため、重要な研究対象である。この材質の屈折率は用途によって大きいものが使われたり小さいものが使われたりする。
+
+光学カップリングに関するもうひとつの特徴は、臨界カップリングである。臨界カップリングが起こると、全ての光がリング共振器へと透過し、導波路には全く光が残らなくなる。光はリング共振器内へと蓄えられ、減衰する&lt;ref name="Xiaoetal"&gt;{{Cite book|author=Xiao, Min, Jiang, Dong, and Yang|title=Coupling Whispering-Gallery-Mode Microcavities With Modal Coupling Mechanism|publisher=IEEE Journal of Quantum Electronics (44.11, November 2008)}}&lt;/ref&gt;。導波路の入力から出力へと全く光が透過せず、全てがリング共振器とカップリングす場合、無損失カップリングという（この項の冒頭の図がそれにあたる）&lt;ref name="Caietal"&gt;{{Cite book|author=Cai, Painter, and Vahala|title=Observation of Critical Coupling in a Fiber Taper to a Silica-Microsphere Whispering-Gallery Mode System|publisher=Physical Review Letters (85.1, July 2000)}}&lt;/ref&gt;。無損失カップリングが起こるためには、次の式が満たされている必要がある。
+: &lt;math&gt;|\Kappa|^2 + |t|^2 = \mathbf{1}&lt;/math&gt;
+ここで、{{mvar|t}} はカプラーの透過係数、 {{Math|&amp;Kappa;}} はテーパー球モードのカップリング振幅で、カップリング係数とも呼ばれる。
+
+== 理論 ==
+リング共振器の動作を理解するためには、まずリング共振器の光路長差 (OPD) を理解する必要がある。この値は単リング共振器の場合は次のように計算される。
+: &lt;math&gt;\mathbf{OPD} = 2 \pi r n_\mathrm{eff}&lt;/math&gt;
+ここで、{{mvar|r}} はリング共振器の直径、{{math|''n''&lt;sub&gt;eff&lt;/sub&gt;}} は導波路の材質の有効[[屈折率]]である。全反射条件を満たすため、{{math|''n''&lt;sub&gt;eff&lt;/sub&gt;}} は共振器をとりまく流体（空気など）よりも大きい必要がある。共振が起きるためには、次の共振条件が満たされる必要がある。
+: &lt;math&gt;\mathbf{OPD} = m \lambda_{m}&lt;/math&gt;
+ここで、{{mvar|&amp;lambda;&lt;sub&gt;m&lt;/sub&gt;}} は共振波長、{{mvar|m}} はリング共振器のモード指数である。この方程式は、光がリング共振器中で強め合う干渉を起こすためにはリングの円周が光の波長の正整数倍でなければならないということを示す。したがって、モード指数は正整数でなければならない。結果として、入射光が（白色光のように）複数の波長成分を含んでいる場合は共振周波数のみがリング共振器を通過できることになる。
+
+リング共振器の[[Q値]]は次の公式により定量的に記述される。
+: &lt;math&gt;\mathbf{Q} = m \mathcal{F} = m \frac{\nu_\mathrm{f}}{\delta\nu}&lt;/math&gt;
+ここで、''&lt;math&gt;\mathcal{F}&lt;/math&gt;'' はリング共振器のフィネス値、{{Math|''&amp;nu;''&lt;sub&gt;f&lt;/sub&gt;}} は{{仮リンク|自由スペクトル領域|en|Free_spectral_range}}、{{Math|&amp;delta;''&amp;nu;''}} は透過スペクトルの[[半値幅|半値全幅]]である。リング共振器の共振条件のスペクトル領域を決定するためにQ値が通常つかわれる。Q値はリング共振器における損失を定量するのにも便利で、Q値が低いほど通常は損失が大きい。
+[[ファイル:MultipleResonances.png|中央|サムネイル|600x600ピクセル|複数の共振モードを示す透過スペクトルと{{仮リンク|自由スペクトル領域|en|Free_spectral_range}}]]
+
+== ダブルリング共振器 ==
+[[ファイル:Double_Optical_Ring_Resonator.png|サムネイル|225x225ピクセル|半径を変えたリングを直列に繋いだダブルリング共振器。一週目における相対強度を示してある。この図とは異り、実際には光は各ループを何周もすることに注意されたい。]]
+ダブルリング共振器では、リング状導波路を一つではなく二つ用いる。二つのリングは（図のように）直列に繋ぐことも並列に繋ぐこともある。直列に繋いだリング状導波路を用いる場合、入力方向と出力方向は（ラテラルシフトにより）同方向となる。光が一つ目のリングの共鳴条件を満した場合、光は二つ目のリングとカップリングし、その内部へと伝播する。一つ目のリングを何周もするうちに光は二つ目のリングの共振条件へと一致していき、二つのリングはカップリングして二つ目のリングへと光が伝播する。同じ方法で、やがて光は出力バス導波管へと伝播する。したがって、光がダブルリング共振器を透過するためには、次の二つのリングの共振条件をどちらも満たす必要がある。
+: &lt;math&gt;\ 2 \pi n_{1} R_{1} = m_{1} \lambda_{1}&lt;/math&gt;
+
+: &lt;math&gt;\ 2 \pi n_{2} R_{2} = m_{2} \lambda_{2}&lt;/math&gt;
+ここで、{{math|''m''&lt;sub&gt;1&lt;/sub&gt;}} および {{math|''m''&lt;sub&gt;2&lt;/sub&gt;}} はそれぞれ一つ目と二つ目のリングのモード指数であり、どちらも正整数でなければならない。光がリング共振器を抜けて出力バス導波管へ抜けるためには、どちらのリングでも波長が同じでなければならない。つまり、共振が起こるためには上の式で {{Math|1=''&amp;lambda;''&lt;sub&gt;1&lt;/sub&gt; = ''&amp;lambda;''&lt;sub&gt;2&lt;/sub&gt;}} でなければならない。よって、次の方程式により共振は支配される。
+: &lt;math&gt;\ \frac{n_{1} R_{1}}{m_{1}} = \frac{n_{2} R_{2}}{m_{2}} &lt;/math&gt;
+やはりここでも、{{math|''m''&lt;sub&gt;1&lt;/sub&gt;}} および {{math|''m''&lt;sub&gt;2&lt;/sub&gt;}} は整数でなければならない。
+
+== 応用 ==
+リング共振器の性質と、特定の波長の光のみを通す「フィルタ」としての挙動から、多数のリングを直列につなぐことによって高次の光学フィルターを構成することが可能である。これにより「小サイズ、低損失で（既存の）光ネットワークに組み込み可能」な光学フィルターを構成可能である&lt;ref name="IlchenkoandMatsko"&gt;{{Cite book|author=Ilchenko and Matsko|title=Optical Resonators With Whispering-Gallery Modes — Part II: Applications|publisher=IEEE Journal of Selected Topics in Quantum Electronics (12.1, January 2006)}}&lt;/ref&gt;。加えて、共振周波数は単純にリングの半径を増やしたり減らしたりすることで変更が可能であり、フィルターのチューニングの可能性も考えられる。この基本的な性質を用いてある種の機械的センサを構成することができる。光ファイバーになんらかの[[変形|機械的応力]]が加わったとき、光ファイバーの形状に変化が生じ、したがって共振条件も変化する。このことを利用して光ファイバーや導波路の形状変化を監視することができる&lt;ref&gt;{{Cite journal|last=Westerveld|first=W.J.|date=10 January 2014|title=Characterization of Integrated Optical Strain Sensors Based on Silicon Waveguides|journal=IEEE Journal of Selected Topics in Quantum Electronics|volume=20|issue=4|doi=10.1109/JSTQE.2013.2289992}}&lt;/ref&gt;。電磁光学的&lt;ref&gt;{{Cite journal|last=Sadasivan|first=Viswas|date=2014|title=QCSE Tuned Embedded Ring Modulator|journal=Journal of Lightwave Technology|volume=32|issue=1|page=107-114|doi=10.1109/JLT.2013.2289324}}&lt;/ref&gt;もしくは全光学的&lt;ref&gt;{{Cite journal|last=Ibrahim,and|first=Tarek A.|date=2003|title=All-optical switching using a critically coupled InP micro-racetrack resonator|journal=OSA Trends in Optics and Photonics (Optical Society of America, 2003)|page=ITuE4|doi=10.1364/IPR.2003.ITuE4}}&lt;/ref&gt;効果などの様々な方法によって屈折率を変化させることによってもチューニングを行なうことができる。電磁光学的・全光学的チューニングは熱的および機械的チューニングよりも高速であり、光通信などの様々分野に応用例がある。高Q値マイクロリングを備えた光変調器により、入力光へのチューニングというコストを払えば著しく小さな変調電力で {{Val|50 |e=|ul=Gbps|p=&gt;}} の高速の変調が可能であることが報告されている。[[ファブリ・ペロー干渉計|ファブリ・ペローレーザー共振器]]の内部にリング変調器を設置することにより、レーザー周波数への自動整合が生じるため、チューニング電力を不要とすることができ、Si マイクロリング変調器による高速・超低電力変調が可能となる。
+
+リング状、円筒上、球状の共振器は[[バイオセンサー|バイオセンシング]]の分野でも有用性が証明されつつある&lt;ref&gt;{{Cite journal|year=2005|title=Integrated optics ring-resonator sensors for protein detection|journal=Opt. Lett.|volume=30|issue=24|pages=3344–3346|bibcode=2005OptL...30.3344K|doi=10.1364/ol.30.003344}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|author1=K. D. Vos|author2=I. Bartolozzi|author3=E. Schacht|author4=P. Bienstman|author5=R. Baets|year=2007|journal=Opt. Express|title=Silicon-on-Insulator microring resonator for sensitive and label-free biosensing|volume=15|issue=12|pages=7610–7615}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|author=Witzens, J., Hochberg, M.|year=2011|title=Optical detection of target molecule induced aggregation of nanoparticles by means of high-Q resonators|url=https://doi.org/10.1364/OE.19.007034|journal=Optics Express|volume=19|pages=7034–7061|bibcode=2011OExpr..19.7034W|doi=10.1364/OE.19.007034}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|year=2013|title=Trapping-Assisted Sensing of Particles and Proteins Using On-Chip Optical Microcavities|url=http://pubs.acs.org/doi/abs/10.1021/nn305826j|journal=ACS Nano|doi=10.1021/nn305826j}}&lt;/ref&gt;。バイオセンシングの分野でリング共振器を用いる主要な利点の一つは、溶媒やその他の不純物からのラマンおよび蛍光信号などを含む背景から、所望の[[分光法|分光学]]的結果を得るために必要な試料体積が大幅に低減できるという点にある。他にも、特に気相中における化学的同定などの様々な吸光スペクトル特性解析において共振器が応用されている&lt;ref name="BlairandChen"&gt;{{Cite book|author=Blair and Chen|title=Resonant-Enhanced Evanescent-Wave Fluorescence Biosensing with Cylindrical Optical Cavities|publisher=Applied Optics (40.4, February 2001)}}&lt;/ref&gt;。
+
+リング共振器のさらなる潜在的応用例として、ささやきの回廊形式のモードスイッチが挙げられる。「ささやきの回廊」マイクロディスクレーザーは安定で、スイッチングの信頼性が高いので、全光学ネットワークのスイッチング素子として適している。高Q値円筒状共振器を用いた全光学スイッチにより高速バイナリスイッチングを低消費電力で行うことが提案されている&lt;ref name="IlchenkoandMatsko"&gt;{{Cite book|author=Ilchenko and Matsko|title=Optical Resonators With Whispering-Gallery Modes — Part II: Applications|publisher=IEEE Journal of Selected Topics in Quantum Electronics (12.1, January 2006)}}&lt;/ref&gt;。
+
+Q値の非常に高い三次元的リング共振器の開発は、多くの研究者から興味を集めている。これらはマイクロスフィア共振器とも呼ばれる誘電体球から構成され、レーザー冷却原子もしくは単一トラップ原子検知用超感度検出器をもちいた共振器QED研究用の低損失光学共振器として提案されている&lt;ref name="Gotzingeretal"&gt;{{Cite book|author=Götzinger, Benson, and Sandoghdar|title=Influence of a Sharp Fiber Tip on High-Q Modes of a Microsphere Resonator|publisher=Optics Letters (27.2, January 2002)}}&lt;/ref&gt;。
+
+リング共振器は量子情報実験用の単一光子源としても有用であることが実証されている&lt;ref&gt;{{Cite journal|year=2013|title=Photon pair generation in a silicon micro-ring resonator with reverse bias enhancement|journal=Opt. Lett.|issue=21|pages=27826–27834|arxiv=1204.4922|bibcode=2013OExpr..2127826E|doi=10.1364/OE.21.027826}}&lt;/ref&gt;。リング共振器回路の構成材料の多くが、十分に光の強度が高ければ非線形応答を示す。この非線形性により{{仮リンク|四光波混合|en|Four-wave_mixing}}や{{仮リンク|自発的パラメトリックダウンコンバージョン|en|Spontaneous_parametric_down-conversion}}などの光子対生成を伴う周波数変調過程が可能となる。リング共振器は光を還流させることで、これらの過程の効率を増幅する。
+
+== 関連項目 ==
+* [[共振器]]
+* {{仮リンク|リングレーザー|en|Ring_laser}}
+* [[全反射]]
+* [[光学フィルター]]
+* {{仮リンク|光スイッチ|en|Optical_switch}}
+* {{仮リンク|結合モード理論|en|Coupled_mode_theory}}
+
+== 出典 ==
+{{reflist|colwidth=30em}}
+
+== 外部リンク ==
+* {{Youtube|KR8u3uu7RpI|Animation of optical ring resonator}}
+
+{{デフォルトソート:りんくきようしんき}}
+[[Category:光学機器]]</text>
+      <sha1>so2rfjqxabvkb804qsk8advdirektpa</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,10 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/24005/title_panel.png	-356.89473684210526,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/24005/word_cloud.png	-372.34736842105264,38,367.65473684210525	0,0,1	0,1,0	-1,0,0	257.35831578947364	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/24005/Seinansenso snou.jpg	-372.34736842105264,38,363.9781894736842	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/24005/Brooklyn Museum - Battle Scene (recto) and Battle Scene of a Rebellion verso.jpg	0,38,733.4526315789474	1,0,0	0,1,0	0,0,1	-173.67368421052632	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/24005/caption/caption1.png	0,38,733.4526315789474	1,0,0	0,1,0	0,0,1	-151.67368421052632	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/24005/SaigoWithOfficers.jpg	372.34736842105264,38,371.36842105263156	0,0,-1	0,1,0	1,0,0	200.18800421052634	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/24005/caption/caption2.png	372.34736842105264,38,371.36842105263156	0,0,-1	0,1,0	1,0,0	222.18800421052634	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/24005/SanoTsunetami-hakuaisha-ceremony.jpg	372.34736842105264,38,371.36842105263156	0,0,-1	0,1,0	1,0,0	-200.1880042105264	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/24005/caption/caption3.png	372.34736842105264,38,371.36842105263156	0,0,-1	0,1,0	1,0,0	-178.1880042105264	-20	1.5	0.7	none(caption)	-1:-1	8

@@ -1,0 +1,60 @@
+<page>
+    <title>たんぽぽ計画</title>
+    <ns>0</ns>
+    <id>3313716</id>
+    <revision>
+      <id>73732500</id>
+      <parentid>73629167</parentid>
+      <timestamp>2019-08-04T22:51:45Z</timestamp>
+      <contributor>
+        <username>610CH-405</username>
+        <id>1372204</id>
+      </contributor>
+      <minor />
+      <comment>角括弧の終了違反</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7967" xml:space="preserve">[[ファイル:Japanese_Experiment_Module_exterior_-_cropped.jpg|thumb|259x259px|[[きぼう|きぼう実験棟]]（左)と船外実験プラットフォーム(右)]]
+'''たんぽぽ計画''' ('''Tanpopo mission''') は、[[生命]]および[[有機化合物]]の[[惑星]]間移動の可能性、および[[地球]]の[[低軌道]]における地球由来の粒子を調査中の[[宇宙生物学]]的プロジェクトである。 その目的は、[[パンスペルミア説|パンスペルミア仮説]]と、生命そのものおよび生命の源が惑星間を移動する可能性の検証である。
+
+実験は[[日本]]の科学者により開発され、2015年5月に[[国際宇宙ステーション]] (ISS) の[[きぼう|きぼう実験棟]]に設置された船外実験プラットフォームにて開始された&lt;ref&gt;[http://spaceref.com/international-space-station/nasa-iss-on-orbit-status-13-may-2015.html NASA ISS On-Orbit Status 13 May 2015]&lt;/ref&gt;。計画では、超低密度シリカゲル（[[エアロゲル]]）を用いて[[宇宙塵]] を捕集し、地球に持ち帰り調査することになっている。リーダーの山岸明彦をはじめ、[[宇宙航空研究開発機構]]（JAXA）など26の大学と団体の研究者が参加している。
+
+== 計画とその成果 ==
+[[ファイル:Piratpartiets_principprogram_illustrations_(1).jpg|thumb|150x150px|風に運ばれるたんぽぽの種]]
+もし、たんぽぽ計画により地球[[低軌道]]（高度400[[キロメートル]]）において[[微生物]]が検出されれば、その事実は地球上の生命が他の惑星へと移動する可能性があることを示す&lt;ref&gt;[http://www.researchgate.net/publication/241270775_Microbe_space_exposure_experiment_at_International_Space_Station_(ISS)_proposed_in_Tanpopo_mission Microbe space exposure experiment at International Space Station (ISS) proposed in "Tanpopo” mission]. &lt;/ref&gt;。計画名は、宇宙へ飛んでいく生命の種を、風に運ばれる[[タンポポ|たんぽぽ]]の種に重ね合わせて命名されている。
+
+たんぽぽ計画は、ISSの[[きぼう|きぼう実験棟]]船外実験[[モジュール]]にて行なわれている。[[宇宙塵]]の捕集と乾燥した微生物を地表から高度400キロメートルの軌道を周回するISSの船外に曝露する実験が進行中である。生命の起源は地球外にあり、[[流星物質|流星]]、[[小惑星]]、[[彗星]]、[[宇宙塵]]などにより拡散したとする仮説、[[パンスペルミア説]]のいくつかの側面をこれらの実験により検証する予定である&lt;ref name="Conference2014"&gt;"[http://www.hou.usra.edu/meetings/lpsc2014/pdf/2934.pdf Tanpopo Experiment for Wastrobiology Exposure and Micrometeoroid Capture Onboard the ISS-JEM Exposed Facility]." &lt;/ref&gt;。この計画では、地球上の微生物（微生物コロニーを埋め込んだエアロゾル）が、一時的にでも[[フリーズドライ]]状態で低軌道上において生存できるかどうかも検証する&lt;ref name="Conference2014"&gt;"[http://www.hou.usra.edu/meetings/lpsc2014/pdf/2934.pdf Tanpopo Experiment for Wastrobiology Exposure and Micrometeoroid Capture Onboard the ISS-JEM Exposed Facility]." &lt;/ref&gt;。
+[[ファイル:Stardust_Dust_Collector_with_aerogel.jpg|thumb|[[スターダスト (探査機)|スターダスト]]計画で使用された[[エアロゲル]]ブロック製の宇宙塵捕集器]]
+三つの重要な微生物として、{{仮リンク|デイノコッカス属|en|Deinococcus}}の ''[[デイノコッカス・ラディオデュランス|D. radiodurans]]''、 ''D. aerius''、''D. aetherius'' が挙げられる&lt;ref&gt;"[http://www.ncbi.nlm.nih.gov/pubmed/24132659 The possible interplanetary transfer of microbes: assessing the viability of Deinococcus spp. under the ISS Environmental conditions for performing exposure experiments of microbes in the Tanpopo mission]." &lt;/ref&gt;。[[酵母]]などの他の微生物の容器もきぼう実験棟外部に設置され、微生物が[[宇宙空間]]の冷たく厳しい環境に曝されながら長時間の旅を生き残ることができるのかどうかを検証する。また、曝露された地球上の微生物のサンプルと地球外からの物質を評価することで、惑星間移動の期間中に生き残ることができるのか、及び、どのように変化するのかを調べることができる。
+
+2017年5月に公表された報告では、4種類の[[細菌]]を含む[[バイオフィルム]]を穴に入れた[[アルミニウム]]製パネル3枚をISS外壁に2015年5月に設置し、宇宙空間に晒した。うち1枚を約1年後に取り外して地球に持ち帰り分析したところ、[[宇宙線]]に含まれる[[放射線]]や[[紫外線]]への耐性が強い上記のデイノコッカス・ラディオデュランス（D. radiodurans）など3種類が、最大10％程度生き延びたことが確認された&lt;ref&gt;{{Cite news|url=https://mainichi.jp/articles/20170524/ddm/008/040/106000c|title=細菌 宇宙で生き延びた／東京薬科大教授ら解明「生命 地球外から」の裏付け？|work=|publisher=『[[毎日新聞]]』朝刊|date=2017年5月24日}}&lt;/ref&gt;。
+
+加えて、宇宙を漂う前生物的[[有機化合物]]（例えば[[アミノ酸]]）を捕える狙いもある&lt;ref name="Yomiuri"&gt;[http://the-japan-news.com/news/article/0002066967 Tanpopo mission to search space for origins of life]. &lt;/ref&gt;。計画では、3年間にわたって宇宙塵やその他の粒子を[[エアロゲル]]と呼ばれる超低密度シリカゲルを用いて捕集することになっている。これらのエアロゲルは、2018年まで1～2年ごとに取り替えられることになっている&lt;ref name="Yomiuri"&gt;[http://the-japan-news.com/news/article/0002066967 Tanpopo mission to search space for origins of life]. &lt;/ref&gt;。
+
+== 解析 ==
+エアロゲルは[[きぼう|きぼう実験棟]]船外のロボットアームにより設置および回収される。その後、2018年に「着陸・帰還カプセル」に搭載されて地球に向け射出される&lt;ref name="Conference2014"&gt;"[http://www.hou.usra.edu/meetings/lpsc2014/pdf/2934.pdf Tanpopo Experiment for Wastrobiology Exposure and Micrometeoroid Capture Onboard the ISS-JEM Exposed Facility]." &lt;/ref&gt;。エアロゲル回収後、科学者により捕集された微粒子とその軌跡が調査され、微生物学的、[[有機化学]]的、[[無機化学]]的解析が続いて行なわれる。微生物を含む可能性のある粒子は[[ポリメラーゼ連鎖反応|PCR]]により[[リボソームRNA|rRNA]]遺伝子を増幅させた後に [[DNAシークエンシング]]にかけられる&lt;ref&gt;[http://www.dlr.de/me/en/Portaldata/25/Resources/dokumente/institut_me/institutsseminar/abstracts_2014/abstract_kawaguchi_y_09102014.pdf Tanpopo mission: Astrobiology exposure and capture experiments of microbes and micrometeoroid]. &lt;/ref&gt;。
+
+== 関連項目 ==
+* [[宇宙生物学]]
+* [[ビオン]]
+* {{仮リンク|BIOPAN|en|BIOPAN}}
+* {{仮リンク|バイオサテライト計画|en|Biosatellite_program}}
+* {{仮リンク|EXPOSE実験|en|EXPOSE}}
+* {{仮リンク|大気圏外における生存試験が行なわれた微生物の一覧|en|List_of_microorganisms_tested_in_outer_space}}
+* {{仮リンク|O/OREOS|en|O/OREOS}}
+* {{仮リンク|OREOcube|en|OREOcube}}
+* [[スターダスト (探査機)|スターダスト]]計画
+
+== 出典 ==
+{{Reflist}}
+
+== 外部リンク ==
+* {{Cite web|url = http://logos.ls.toyaku.ac.jp/~lcb-7/tanpopo/index.html|title = たんぽぽ計画ホームページ|accessdate = 2015-11-13|publisher = [[東京薬科大学]] 極限環境生物学研究室}}
+* [http://www.mpi-hd.mpg.de/cosmicdust/ Cosmic Dust Group]
+
+{{デフォルトソート:たんほほけいかく}}
+[[Category:生命の起源]]</text>
+      <sha1>2witpe74laqc770i4cmddkl3bs1qqrg</sha1>
+    </revision>
+  </page>
+  

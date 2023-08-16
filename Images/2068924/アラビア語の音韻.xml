@@ -1,0 +1,391 @@
+<page>
+    <title>アラビア語の音韻</title>
+    <ns>0</ns>
+    <id>2068924</id>
+    <revision>
+      <id>89880439</id>
+      <parentid>83118555</parentid>
+      <timestamp>2022-06-06T20:17:10Z</timestamp>
+      <contributor>
+        <username>Dušan Kreheľ (bot)</username>
+        <id>1934112</id>
+      </contributor>
+      <comment>More used with only one reference definition: 8 new references and 12 new reference calls.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26578" xml:space="preserve">[[アラビア語]]はさまざまな変種の集合である&lt;ref&gt;{{Harvcoltxt|Kirchhoff|Vergyri|2005|p=38}}&lt;/ref&gt;。この記事ではアラビア語が使用されている地域全体で教育のある話者に共有されている標準的な変種である'''[[フスハー#現代標準アラビア語|現代標準アラビア語]]の発音'''を主に扱う。現代標準アラビア語（Modern Standard Arabic, MSA）はあらゆる印刷メディアの文章、および口頭でもニュース、演説、あらゆる種類の公式宣言で使用される&lt;ref&gt;{{Harvcoltxt|Kirchhoff|Vergyri|2005|p=38-39}}&lt;/ref&gt;。
+
+現代標準アラビア語には28の[[子音]]音素があり、「強調のある」（[[咽頭化]]もしくは[[軟口蓋音|軟口蓋音化]]した）子音と強調のない子音との間にコントラストがある。[[母音]]音素は3つある。[[アラビア文字]]28文字は28の子音に対応するが、8世紀までには[[ا|アリフ]]はもはや[[声門閉鎖音]]ではなく、長い{{IPA2|/aː/}}を表すようになっていた。結果として、[[ダイアクリティカルマーク]]の[[ء|ハムザ]]がこの音を表すために導入された{{要出典|date=2008年9月}}。さらに、これらの音素のいくつかは多くの現代方言で融合し、また借用や音素分裂を通じて新しい音素も加わってきている。&lt;!-- Compare [[Classical Arabic#Phonology|Classical Arabic Phonology]]: ない --&gt; 
+
+{{特殊文字|説明=アラビア文字}}
+{{特殊文字|説明=国際音声記号}}
+{{ウィキポータルリンク|言語学|[[画像:Logo sillabazione.png|none|38px]]}}
+
+== 母音 ==
+3つの短母音、3つの[[長母音]]、2つの[[二重母音]]（短母音{{IPA2|/a/}}に、半母音の{{IPA2|/j/}}と{{IPA2|/w/}}が結合）がある。同じ語の中で隣接する子音によって[[異音]]が部分的に条件付けられる。一般的には、例えば{{IPA2|/a/}}と{{IPA2|/aː/}}は――
+
+* {{IPA2|/r/}}、{{IPA2|/x/}}、{{IPA2|/ɣ/}}、{{IPA2|/q/}}もしくは[[強勢音|強調子音]]（[[咽頭化]]子音の{{IPA2|/sˤ/}}、{{IPA2|/dˤ/}}、{{IPA2|/tˤ/}}、{{IPA2|/ðˤ/}}、{{IPA2|/lˤ/}}）と隣接する時は後舌化して{{IPA2|[ɑ]}}となる&lt;ref name="#1"&gt;{{Harvcoltxt|Thelwall|1990|p=39}}&lt;/ref&gt;。
+* 語の境界の前では{{IPA2|[ɐ]}}となる&lt;ref name="#1"/&gt; 。
+* 以下の環境では前舌化して{{IPA2|[æ]}}となる&lt;ref&gt;{{Harvcoltxt|Holes|2004|p=60}}&lt;/ref&gt;――
+** [[唇音]]（{{IPA2|/m/}}、{{IPA2|/b/}}、{{IPA2|/f/}}）
+** 強調のない（[[咽頭化]]していない）[[舌頂音]]のうち{{IPA2|/r/}}以外のもの（{{IPA2|/θ/}}、{{IPA2|/ð/}}、{{IPA2|/n/}}、{{IPA2|/t/}}、{{IPA2|/d/}}、{{IPA2|/s/}}、{{IPA2|/z/}}、{{IPA2|/l/}}、{{IPA2|/ʃ/}}、{{IPA2|/dʒ/}} ）
+** [[咽頭音]]（{{IPA2|/ħ/}}、{{IPA2|/ʕ/}}）
+** [[声門音]]（{{IPA2|/h/}}、{{IPA2|/ʔ/}} ）
+** {{IPA2|/j/}}、{{IPA2|/k/}}、{{IPA2|/w/}}
+
+しかしながら、[[母音]]の後舌化&lt;!--vowel-retraction--&gt;を支配する実際の規則はこれより遥かに複雑なもので、現代標準アラビア語として合意された標準としてはあまり確立されておらず、何が「威信のある」形を構成するのかに関しては矛盾する意見もしばしば見られる。非常に堪能な現代標準アラビア語の話者であってさえも母音の後舌化規則は自分の母語である方言のものを持ち込むことがしばしばある&lt;ref&gt;{{Harvcoltxt|Abd-El-Jawad|1987|p=361}}&lt;/ref&gt;。
+
+よって、例えば、カイロ出身者のアラビア語では強調子音が語の境界の間の全ての母音に影響するが、サウジ出身の話者の中には強調子音に隣接する母音のみで強調する者もいる&lt;ref name="#2"&gt;{{Harvcoltxt|Watson|1999|p=290}}&lt;/ref&gt;。一部の話者（特に[[レバント]]人）には左方向と右方向とで母音後舌化の広がりに非対称性が見られる&lt;ref name="#2"/&gt;&lt;ref&gt;{{Harvcoltxt|Davis|1995|p=466}}&lt;/ref&gt;。
+
+[[Image:Arabic vowels (Monophthongs).svg|thumb|250px|ベイルートで教育を受けたパレスチナ人話者の母音&lt;ref name="#3"&gt;{{Harvcoltxt|Thelwall|1990|p=38}}&lt;/ref&gt;]]
+{| class="wikitable"
+|+単語例&lt;ref name="#3"/&gt;
+!
+! colspan=2|短母音
+! colspan=2|長母音
+|-align=center
+!i 
+| {{rtl-lang|ar|عـِد}} {{IPA2|/ʕidd/}} || 約束|| {{rtl-lang|ar|عيد}} {{IPA2|/ʕiːd/}} || 祝宴
+|-align=center
+!u 
+|  {{rtl-lang|ar|عـُد}} {{IPA2|/ʕudd/}} || 戻れ！|| {{rtl-lang|ar|عود}} {{IPA2|/ʕuːd/}} || リュート
+|-align=center
+!a  
+| {{rtl-lang|ar|عـَد}} {{IPA2|/ʕadd/}} || 数えた|| {{rtl-lang|ar|عاد}}  {{IPA2|/ʕaːd/}} || 戻って来た
+|-align=center
+!aj 
+|
+|
+| {{rtl-lang|ar|عين}} {{IPA2|/ʕajn/}} || 目
+|-align=center
+!aw 
+|
+|
+| {{rtl-lang|ar|عود}} {{IPA2|/ʕawd/}} || 帰還
+|}
+
+[[語根]]&lt;!-- root [[morpheme]]: 根形態素--&gt;の最後の重音節には強勢が置かれる&lt;ref name="#3"/&gt;。
+
+定着した借用語や外国人名では{{IPA2|/o/}}、{{IPA2|/oː/}}、{{IPA2|/e/}}、{{IPA2|/eː/}}も出現する&lt;ref name="EMSA1"&gt;Elementary Modern Standard Arabic: Volume 1, by Peter F. Abboud (Editor), Ernest N. McCarus (Editor)&lt;/ref&gt;。例えば كوكاكولا {{IPA2|/koːkaˈkoːla/}} ('Coca-Cola')、ليمون {{IPA2|/lajˈmoːn/}}、{{IPA2|/liˈmoːn/}} ('lemon')、شوكولاتة {{IPA2|/ʃokoˈlaːta/}} ('chocolate')、دكتور {{IPA2|/dukˈtoːr/}}、{{IPA2|/dokˈtoːr/}} ('doctor')、جون {{IPA2|/dʒon/}}、{{IPA2|/ʒoːn/}} ('John')、توم {{IPA2|/tom/}} ('Tom')、بلجيكا {{IPA2|/belˈdʒiːka/}}、{{IPA2|/belˈʒiːka/}} ('Belgium')、سكرتير {{IPA2|/sekreˈteːr/}} ('secretary')など。外来語ではその語形が短母音を表すのには利用できる通常のガイドラインに適合しないのでしばしば自由な位置に長母音が現れる&lt;ref name="TYA"&gt;Teach Yourself Arabic, by Jack Smart (Author), Frances Altorfer (Author)&lt;/ref&gt;。外来語での短母音{{IPA2|/e/}}と{{IPA2|/o/}}については、通常のアラビア語と同様に、（語頭以外では）文字としては書き表されないか、長母音の文字ي（{{IPA2|/e/}}）もしくはو（{{IPA2|/o/}}）が用いられる場合がある。يとوは長母音{{IPA2|/eː/}}と{{IPA2|/oː/}}を表す時には必ず用いられる。
+
+== 子音 ==
+最も正統な方式においてでさえも、発音は話者のバックグラウンドによって違いがある&lt;ref&gt;{{Harvcoltxt|Holes|2004|p=58}}&lt;/ref&gt;。とは言え、28という[[子音]]の数およびその大部分の音声的な性質はアラビア語を話す地域の間で広く規則性を保っている。アラビア語は[[口蓋垂音]]、[[咽頭音]]、[[咽頭化]]（[[強調音|強調]]）音にとりわけ富んでいる。強調舌頂音（{{IPA2|/sˤ/}}、{{IPA2|/dˤ/}}、{{IPA2|/tˤ/}}、{{IPA2|/ðˤ/}}）は隣接する強調のない舌頂音にも強調の同化を引き起こす{{要出典|date=2008年9月}}。
+
+{| class="wikitable" style="text-align: center;"
+|+ '''標準アラビア語の子音音素'''&lt;/CAPTION&gt;
+|-
+! rowspan="2" colspan=2 | &amp;nbsp;
+! rowspan="2" |[[唇音]]
+! colspan="2" |強調なし
+! colspan="2" |強調音{{footnote|1}}
+! rowspan="2" |[[硬口蓋音]]
+! rowspan="2" |[[軟口蓋音]]
+! rowspan="2" |[[口蓋垂音]]
+! rowspan="2" |[[咽頭音]]{{footnote|2}} 
+! rowspan="2" style="width: 7em;" | [[声門音]]
+|-class=small
+! [[歯音]]
+! [[歯茎音]]
+! [[歯音]]
+! [[歯茎音]]
+|-
+! colspan=2 | [[鼻音]] 
+| {{rtl-lang|ar|[[م]]}} {{IPA2|m}} || colspan=2| {{rtl-lang|ar|[[ن]]}} {{IPA2|n}} || &amp;nbsp; || &amp;nbsp; || &amp;nbsp; || &amp;nbsp; || &amp;nbsp; || &amp;nbsp; || &amp;nbsp;
+|-
+! rowspan=2 | [[閉鎖音]]
+! &lt;small&gt;[[無声音]]&lt;/small&gt;
+| || colspan="2" |{{rtl-lang|ar|[[ت]]}} {{IPA2|t}} || colspan=2| {{rtl-lang|ar|[[ط]]}} {{IPA2|tˤ}} || &amp;nbsp; || {{rtl-lang|ar|[[ك]]}} {{IPA2|k}} || {{rtl-lang|ar|[[ق]]}} {{IPA2|q}} || &amp;nbsp; || {{rtl-lang|ar|[[ء]]}} {{IPA2|ʔ}}
+|-
+! &lt;small&gt;[[有声音]]&lt;/small&gt;
+| {{rtl-lang|ar|[[ب]]}} {{IPA2|b}} || colspan=2| {{rtl-lang|ar|[[د]]}} {{IPA2|d}} || colspan=2| {{rtl-lang|ar|[[ض]]}} {{IPA2|dˤ}}|| {{rtl-lang|ar|[[ج]]}} {{IPA2|dʒ}}{{footnote|3}}
+|
+|&amp;nbsp; || &amp;nbsp; || &amp;nbsp;
+|-
+! rowspan=2 | [[摩擦音]]
+! &lt;small&gt;[[無声音]]&lt;/small&gt;
+| {{rtl-lang|ar|[[ف]]}} {{IPA2|f}} || {{rtl-lang|ar|[[ث]]}} {{IPA2|θ}} || {{rtl-lang|ar|[[س]]}} {{IPA2|s}} || &amp;nbsp; || {{rtl-lang|ar|[[ص]]}} {{IPA2|sˤ}} || {{rtl-lang|ar|[[ش]]}} {{IPA2|ʃ}} || colspan=2| {{rtl-lang|ar|[[خ]]}} {{IPA2|x}} ~ {{IPA2|χ}}{{footnote|4}}  || {{rtl-lang|ar|[[ح]]}} {{IPA2|ħ}} || {{rtl-lang|ar|[[ه]]}} {{IPA2|h}}
+|-
+! &lt;small&gt;[[有声音]]&lt;/small&gt;
+| ||{{rtl-lang|ar|[[ذ]]}} {{IPA2|ð}} || {{rtl-lang|ar|[[ز]]}} {{IPA2|z}} || {{rtl-lang|ar|[[ظ]]}} {{IPA2|ðˤ}}|| &amp;nbsp; || &amp;nbsp; || colspan=2| {{rtl-lang|ar|[[غ]]}} {{IPA2|ɣ}} ~ {{IPA2|ʁ}}{{footnote|4}} || {{rtl-lang|ar|[[ع]]}} {{IPA2|ʕ}}|| &amp;nbsp;
+|-
+! colspan=2 | [[ふるえ音]] 
+| &amp;nbsp; || &amp;nbsp; || colspan=2| {{rtl-lang|ar|[[ر]]}} {{IPA2|r}} || &amp;nbsp; || &amp;nbsp; || &amp;nbsp; || &amp;nbsp; || &amp;nbsp; || &amp;nbsp;
+|-
+! colspan=2 | [[接近音]]
+| &amp;nbsp; || colspan=4| {{rtl-lang|ar|[[ل]]}} {{IPA2|l}} ~ {{IPA2|lˤ}}{{footnote|5}} || {{rtl-lang|ar|[[ي]]}} {{IPA2|j}} || {{rtl-lang|ar|[[و]]}} {{IPA2|w}} || &amp;nbsp;
+| &amp;nbsp; || &amp;nbsp;
+|}
+
+[[Image:Places of articulation.svg|thumb|[[調音部位]]。図の8が軟口蓋、9が口蓋垂。後部軟口蓋（post-velar）は8と9の中間]]
+# 強調子音は[[舌背]]が[[咽頭]]に接近した状態で発音される（[[咽頭化]]参照）。{{IPA2|/q/}}、{{IPA2|/ħ/}}、{{IPA2|/ʕ/}} はそれぞれ{{IPA2|/k/}}、{{IPA2|/h/}}、{{IPA2|/ʔ/}}の強調されたものと考えることができる&lt;ref&gt;{{Harvcoltxt|Watson|2002|p=44}}&lt;/ref&gt;。
+# アラビア語での[[有声咽頭摩擦音]]という表現は不正確であり、アラビア語の各変種は咽頭化した声門閉鎖音（{{IPA2|[ʔˤ]}}）を持つのであると、{{Harvcoltxt|Thelwall|1990}}は異論を唱えている&lt;ref&gt;Thelwall cites {{Harvcoltxt|Gairdner|1925}}, {{Harvcoltxt|Al Ani|1970}}, and {{Harvcoltxt|Käster|1981}}&lt;/ref&gt; 。{{IPA2|/ħ/}}と{{IPA2|/ʕ/}}の喉頭蓋音化も報告されている&lt;ref&gt;{{Harvcoltxt|Ladefoged|Maddieson|1996|p=167-168}}&lt;/ref&gt;。
+# 一部の話者は{{rtl-lang|ar|ج}} ({{IPA2|/dʒ/}}) を{{IPA2|[ɡ]}}と発音する。これはエジプトと南イエメンの方言で特に顕著である&lt;ref name="#4"&gt;{{Harvcoltxt|Watson|2002|p=16}}&lt;/ref&gt;。北アフリカの多くの地域および[[レバント]]では{{IPA2|[ʒ]}}と、ペルシャ湾沿岸の一部地域では{{IPA2|[j]}}と発音する。古典アラビア語ではこれは{{IPA2|[ɟ]}} もしくは{{IPA2|[ɡʲ]}}であった。{{IPA2|/ɡ/}}を含む外来語は{{rtl-lang|ar|ج}}（エジプト綴り）、{{rtl-lang|ar|غ}}、{{rtl-lang|ar|ك}}もしくは[[ペルシア語]]文字の{{rtl-lang|ar|گ}}を用いて表される場合がある。例えば、'golf'はجولفともغولفとも（قولفやگولفとさえも）綴ることができる&lt;ref name="TYA"/&gt;。
+# 古典期の口蓋垂摩擦音は多くの方言で軟口蓋音もしくは{{訳語疑問点範囲|後部軟口蓋音|date=2010年4月|post-velar}}となった&lt;ref&gt;{{Harvcoltxt|Watson|2002|p=18}}&lt;/ref&gt;。
+# 標準アラビア語の発音の大部分では、音素としての{{IPA2|/lˤ/}}は少数の借用語にのみ出現する。これは神の名すなわち[[アッラーフ]]الله {{IPA2|/ʔalˤˈlˤaːh/}}にも出現する&lt;ref name="#4"/&gt;。ただし長音または短音の{{IPA2|/i/}}の後で、強調音でもない時は除く。بسم الله ''bismi l-lāh'' {{IPA2|[bismilˈlaːh]}} （「神の名において」）&lt;ref&gt;{{Harvcoltxt|Holes|2004|p=95}}&lt;/ref&gt;。しかしながら、イラク方言など一部の方言では{{IPA2|/lˤ/}}はより一般的であり、{{訳語疑問点範囲|口蓋垂音がある種の環境において/l/の軟口蓋音化した周辺段階を持つ|date=2010年4月|where the uvulars have velarized surrounding instances of /l/ in certain environments.|cand_prefix=原文}}。{{IPA2|/lˤ/}}はまた、そのような方言に影響された標準アラビア語でも（カイロでのように、時として{{IPA2|/rˤ/}}、{{IPA2|/bˤ/}}、{{IPA2|/mˤ/}}などと並んで）より一般的に音素としての地位を帯びるが、いずれにしても重要でない音素であることに変わりはない。さらに、{{IPA2|/lˤ/}}はまた強調子音の環境において（/i/を挟まない場合に）/l/の異音として出現する&lt;ref&gt;{{Harvcoltxt|Ferguson|1956|p=449}}&lt;/ref&gt;。
+
+外国語の音の/p/と/v/は通常それぞれب /b/とف /f/に書き換えられる。一部の語では、これらは元の言語と同じように/p/と/v/として発音される。例えばباكستان or پاکستان /pakistaːn/ 「パキスタン」、فيروس or ﭬيروس /viːrus, vajrus/ 「ウイルス」など。時折、（3つの点のある）ペルシア語の文字ﭖ /p/ と ﭪ /v/ﭪ{{要出典|date=2009年6月}}がこの目的に用いられる。これらの文字は標準的なキーボードには存在しないので、単にب /b/とف /f/とも書かれ、例えばنوفمبر と  نوڤمبر/nuːfambar/,/novambar/ または /novembir/ ''November''、كاپريس と كابريس /kaː'priːs/ ''caprice''の両方が用いられる&lt;ref name="TYA"/&gt;&lt;ref&gt;Dictionary of Modern Written Arabic by Hans Wehr&lt;/ref&gt;。これらの音の使用は重要なことではないと考えられており、アラブ人はこうした語をどちらでも発音する。加えて、多くの借用語はアラビア化された。
+
+[[長子音]]は短子音と全く同じ発音であるが、長く続く。アラビア語では、長子音は"mushaddadah"（強化された）と言うが、実際には強く発音するわけではなく、ただ長く発音する。重複子音と休止の間には、挿入音の{{IPA2|[ə]}}が発生する&lt;ref name="#3"/&gt;。
+
+{{See also|アラビア文字#太陽文字・月文字}}
+
+== 地方差 ==
+口語的な諸変種は、特定の単語だけでなく発音でも標準アラビア語とは異なっている。大半、もしくは多くの方言に共通する傾向には以下のようなものがある――
+
+* 有声強調摩擦歯音{{IPA2|[ðˤ]}}が{{IPA2|[zˤ]}}と発音され、または{{IPA2|[dˤ]}}と{{訳語疑問点範囲|同化する|date=2010年4月|merging it with|cand_prefix=原文}}。もしくはその両方。
+* {{IPA2|/q/}}が[[非口腔音化]]して{{IPA2|[ʔ]}}に、もしくは前舌化して{{IPA2|[k]}}になる。
+* {{IPA2|/aj/}}と{{IPA2|/aw/}}がそれぞれ{{IPA2|/eː/}}と{{IPA2|/oː/}}になるといった二重母音の単母音化。ملبورن (''Melbórn'' [[メルボルン]])、 سكرتير ({{IPA2|/sikriteːr/}} '(male) secretary')、دكتور ({{IPA2|/duktoːr/}}, 'doctor')などのように、借用語では中母音も存在しうる&lt;ref name="EMSA1"/&gt;。
+* {{IPA2|/samaːʔ/}}に見られるような、歴史的に[[声門破裂音]]があった場所でのその消失。
+* 語末の{{IPA2|/a/}}が舌先が高くなり&lt;!--raising--&gt;{{IPA2|[e]}}となる。
+* 北メソポタミア、マグリブのベドウィン方言の多く、モーリタニアなどの方言では、{{IPA2|/i/}}と{{IPA2|/u/}}が崩れて[[シュワー]]（曖昧母音）となり、非常に小さい差しか示さなくなっているので、そうした方言には（長短の）{{IPA2|/a/}}と{{IPA2|/ə/}}しか母音がない。
+* 同様に、スーダンとカイロの方言の中には{{IPA2|/i/}}と{{IPA2|/u/}}の対比が限られた文脈においてしか見られないものがある&lt;ref name="#5"&gt;{{Harvcoltxt|Watson|2002|p=22}}&lt;/ref&gt;。
+* 副次的な音素{{IPA2|/v/}}（教養のある話者）と{{IPA2|/p/}}を、主にڤولڤو (''Volvo'' 「[[ボルボ]]」）やسڤن أپ (''sevn-ap'' 「[[セブンアップ (飲料)|セブンアップ]]」)などの借用語を起源として持つ方言がある&lt;ref name="#6"&gt;{{Harvcoltxt|Watson|2002|p=14}}&lt;/ref&gt;。ندوتش(''sandawitsh'' 「サンドイッチ」)などのように、{{IPA2|/tʃ/}}も借用語の音素としてありうるが、挿入母音&lt;!--epenthetic vowel--&gt;を挟み分離した{{IPA2|/t/}}と{{IPA2|/ʃ/}}の音になる方言も多い&lt;ref&gt;{{Harvcoltxt|Watson|2002|p=60-62}}; サヌアとカイロの方言を、それぞれこの音素を持つものと持たないものの例として挙げている。&lt;/ref&gt;。
+
+口語での変種間にある差異にもかかわらず、多くの話者は標準の発音を流暢に話し理解することができ、[[クルアーン]]の朗読には地方差が極めて小さい。
+
+=== カイロ方言 ===
+{{See also|アラビア語エジプト方言}}
+[[カイロ]]のアラビア語には、二次的な音素として強調唇音の{{IPA2|[mˤ]}}と{{IPA2|[bˤ]}} &lt;ref name="#6"/&gt;、および{{IPA2|[rˤ]}}強調された{{IPA2|[rˤ]}} &lt;ref name="#4"/&gt;が存在する。カイロ方言ではまた歯間子音を破裂歯音に吸収させている(例：{{IPA2|/θalaːθa/}} → {{IPA2|/talaːta/}}, 「3」)が、これらが歯擦摩擦音として取り入れられている標準アラビア語からの借用語ではこの限りではない(例：{{IPA2|/θaːnawiːja/}} → {{IPA2|/saːnawiːja/}}, 「高等学校」)。{{IPA2|/dʒ/}} を{{IPA2|/ɡ/}}に後退させ、{{IPA|/q/}}を{{IPA2|[ʔ]}}に非口腔音化させている（これらも、標準アラビア語からの借用語では以前の音を再導入している）&lt;ref name="#5"/&gt;。古典アラビア語の二重母音{{IPA2|/aj/}}と{{IPA2|/aw/}}はそれぞれ{{IPA2|/eː/}}、{{IPA2|/oː/}}と発音される。標準アラビア語からの借用語では二重母音が再導入され、{{IPA2|/ʃajla/}} (「運搬」 {{訳語疑問点範囲|f.s.|date=2010年4月}})と{{IPA2|/ʃeːla/}} (「荷物」) 、{{IPA2|[ˈɡibnɐ]}} (「チーズ」) と {{IPA2|[ˈɡebnɐ]}} (「我々のポケット」)のような[[ミニマル・ペア|最小対]]を構成することもある&lt;ref name="#7"&gt;{{Harvcoltxt|Watson|2002|p=23}}&lt;/ref&gt;（最後の2つは{{IPA2|[ˈɡebnæ]}}と発音される&lt;!--to the extent, there is a famous joke mocking this indistinguishable pronunciation “gebna gebna, ħattenāha f-gebna, waʔʔaʕet gebna”, meaning: we got cheese, we put it in our pocket, Cheese dropped.  The study of Watson fails to precisely explain the Egyptian pronunciation, especially in vowels.  In Egyptian Arabic, you can never pronounce [i(ː)], [u(ː)] before two consonants, they are changed to [e], [o], or [ɪ], [ɵ].  The so called [ɒ] before word boundaries, is only in East of the Arabian Peninsula &amp; Iraq.  It is pronounced [æ] in Egypt, even when pronouncing Modern Standard Arabic.  In Lebanon, it is [e]--&gt;）。現代標準アラビア語以外の借用語からの二次的な音素として{{IPA2|/ʒ/}}もある&lt;ref&gt;{{Harvcoltxt|Watson|2002|p=21}}&lt;/ref&gt;。
+
+=== サヌア方言 ===
+[[イエメン]]の[[サヌア]]の方言などはより保守的であり、古典アラビア語の音素対立の大部分が保存されている。サヌア方言には音素{{IPA2|/ɡ/}}があるが、これは古典アラビア語の{{IPA2|/q/}}に対応するものであり、依然として強調子音として機能している&lt;ref name="#7"/&gt;。強勢のない音節では、短母音は{{IPA2|[ə]}}となる場合があり&lt;ref&gt;{{Harvcoltxt|Watson|2002|p=40}}&lt;/ref&gt;、語頭や母音間では{{IPA2|/tˤ/}}は有声化されて{{IPA2|[dˤ]}}となる&lt;ref name="#6"/&gt;。
+
+== 分布 ==
+アラビア語で最も多く出現する子音音素は{{IPA2|/r/}}、最も稀なものは{{IPA2|/ðˤ/}}である。{{Harvcoltxt|Wehr|1952}}に掲載された2,967の3子音語根に基づく、28の子音の頻度分布は以下の通りである。
+
+{| class="wikitable" style="text-align: center"
+! 音素
+! 頻度
+!rowspan=15|
+! 音素
+! 頻度
+|-
+|{{IPA2|/r/}}
+|24%
+|{{IPA2|/w/}}
+|18%
+|-
+|{{IPA2|/l/}}
+|17%
+|{{IPA2|/m/}}
+|17%
+|-
+|{{IPA2|/n/}}
+|17%
+|{{IPA2|/b/}}
+|16%
+|-
+|{{IPA2|/f/}}
+|14%
+|{{IPA2|/ʕ/}}
+|13%
+|-
+|{{IPA2|/q/}}
+|13%
+|{{IPA2|/d/}}
+|13%
+|-
+|{{IPA2|/s/}}
+|13%
+|{{IPA2|/ħ/}}
+|12%
+|-
+|{{IPA2|/j/}}
+|12%
+|{{IPA2|/ʃ/}}
+|11%
+|-
+|{{IPA2|/dʒ/}}
+|10%
+|{{IPA2|/k/}}
+|9%
+|-
+|{{IPA2|/h/}}
+|8%
+|{{IPA2|/z/}}
+|8%
+|-
+|{{IPA2|/tˤ/}}
+|8%
+|{{IPA2|/x/}}
+|8%
+|-
+|{{IPA2|/sˤ/}}
+|7%
+|{{IPA2|/ʔ/}}
+|7%
+|-
+|{{IPA2|/t/}}
+|6%
+|{{IPA2|/dˤ/}}
+|5%
+|-
+|{{IPA2|/ɣ/}}
+|5%
+|{{IPA2|/θ/}}
+|3%
+|-
+|{{IPA2|/ð/}}
+|3%
+|{{IPA2|/ðˤ/}}
+|1%
+|}
+
+[[代名詞]]・[[前置詞]]・[[接尾辞]]は含まれておらず、また語根そのものの出現頻度にも差があるので、この表の分布は実際の話し言葉での音素の出現頻度を反映しているとは限らない。とりわけ、{{IPA2|/t/}}はWehrの表では下から6番目であるが、複数の非常にありふれた[[接辞]]に出現する（[[接頭辞]]として二人称および女性三人称の標識に、[[接尾辞]]として一人称および女性三人称の標識に、また[[接中辞]]として[[アラビア語の文法#動詞|第VII形および第X形]]の第2要素に現れる）。しかしながら、この表からどの音素が他のものに比べ周辺的なものであるかを推し量ることはできる。下位5つの文字は、[[フェニキア文字]]から受け継いだものに追加された6つのうちの5つであることに留意。
+
+== 歴史 ==
+[[セム祖語]]の29の子音のうち、失われたのは{{IPA2|*/ʃ/}} 1つのみであり、これは{{IPA2|/s/}}に吸収された&lt;ref&gt;{{Harvcoltxt|Lipinski|1997|p=124}}&lt;/ref&gt;。他の子音にもいくつか音が変化したものがあるが、示差的なものであり続けている。元の{{IPA2|*/p/}}は軟音化して{{IPA2|/f/}}となり、{{IPA2|*/ɡ/}}はクルアーンの時代には口蓋音化して{{IPA2|/ɡʲ/}}もしくは{{IPA2|/ɟ/}}となり現代標準アラビア語では{{IPA2|/dʒ/}}となった（[[#l地方差|上記を参照]]）&lt;ref&gt;{{Harvcoltxt|Watson|2002|p=5, 15-16}}&lt;/ref&gt;。元の[[無声歯茎側面摩擦音]]{{IPA2|*/ɬ/}}は{{IPA2|/ʃ/}}となった&lt;ref name="Harvcoltxt|Watson|2002|p=2"&gt;{{Harvcoltxt|Watson|2002|p=2}}&lt;/ref&gt;。その強調音はアラブ人にとってアラビア語で最も一般的でない音と考えられている（このため古典アラビア語は''{{transl|ar|DIN|luġatu 'ḍ-ḍād}}''、「{{transl|ar|DIN|ḍād}}の言語」と呼ばれる）。最も現代的な諸方言では、この音は側音性を失い強調閉鎖音{{IPA2|/dˤ/}}となっている&lt;ref name="#8"&gt;{{Harvcoltxt|Watson|2002|p=2}}&lt;/ref&gt;。
+
+他の変化も起こっていた可能性がある。古典アラビア語の発音は完全に記録が残っているわけではなく、セム祖語の音声体系の諸々の[[比較方法 (言語学)|比較研究法]]によって異った音価が提案されている。一例として、現代の発音では咽頭音化されている強調子音があり、これは8世紀には軟口蓋音化、セム祖語では声門音化されていた可能性がある&lt;ref name="#8"/&gt;。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist|2}}
+
+== 参考文献 ==
+* {{citation
+|last = Abd-El-Jawad
+|first= Hassan
+|year= 1987
+|title= Cross-Dialectal Variation in Arabic: Competing Prestigious Forms
+|journal=Language in Society 
+|publisher= Cambridge University Press
+|volume=16
+|issue=3
+|pages=359–367
+|doi = 10.1017/S0047404500012446
+}}
+* {{citation
+|last = Al Ani
+|first= S.H.
+|year= 1970
+|title= Arabic Phonology: An Acoustical and Physiological Investigation
+|place=The Hague
+|publisher= Mouton
+}}
+* {{citation
+|last = Davis
+|first= Stuart
+|year= 1995
+|title= Emphasis Spread in Arabic and Grounded Phonology
+|journal=Linguistic Inquiry
+|publisher= The MIT Press
+|volume=26
+|issue=3
+|pages=465–498
+}}
+* {{citation
+|last = Ferguson
+|first= Charles
+|year= 1956
+|title= The Emphatic L in Arabic
+|journal=Language
+|volume=32
+|publisher= Linguistic Society of America
+|doi = 10.2307/410565
+|pages = 446
+}}
+* {{citation
+|last = Gairdner
+|first= W.H.T.
+|year= 1925
+|title= The Phonetics of Arabic.
+|place=London
+|publisher= Oxford University Press
+}}
+* Hans Wehr, (1952) ''Arabisches Wörterbuch für die Schriftsprache der Gegenwart'' 
+* {{citation
+|last = Holes
+|first= Clive
+|year= 2004
+|title= Modern Arabic: Structures, Functions, and Varieties 
+|publisher= Georgetown University Press
+|isbn=1589010221
+}}
+* {{citation
+|last = Kästner
+|first= H.
+|year= 1981
+|title= Phonetik und Phonologie des modernen Hocharabisch
+|place=Leipzig
+|publisher= Verlag Enzyklopädie
+}}
+* {{citation
+|last=Kirchhoff
+|first=Katrin
+|last2=Vergyri
+|first2=Dimitra
+|year=2005
+|title=Cross-dialectal data sharing for acoustic modeling in Arabic speech recognition
+|journal=Speech Communication
+|volume=46
+|issue=1
+|pages=37–51
+|doi=10.1016/j.specom.2005.01.004
+}}
+* {{SOWL}}
+* {{citation
+|last=Lipinski
+|first=E.
+|year=1997
+|title=Semitic Languages
+|place=Leuven
+|publisher=Peters
+}}
+* {{citation
+|last = Thelwall
+|first= Robin
+|year= 1990
+|title= Illustrations of the IPA: Arabic 
+|journal=Journal of the International Phonetic Association
+|volume=20
+|issue=2
+|pages=37–41
+}}
+* {{citation
+|last = Watson
+|first= Janet
+|year= 1999
+|title= The Directionality of Emphasis Spread in Arabic
+|journal=Linguistic Inquiry
+|publisher= The MIT Press
+|volume=30
+|issue=2
+|pages=289–300
+|doi = 10.1162/002438999554066
+}}
+* {{citation
+|last = Watson
+|first= Janet C. E.
+|year= 2002
+|title= The Phonology and Morphology of Arabic 
+|place=New York
+|publisher= Oxford University Press
+}}
+
+== 関連項目 ==
+{{Wikiversity|fr:Alphabet/Arabe}} &lt;!-- jaとenにはこれといった項目がないので… --&gt;
+{{Wikibookslang|fr|Arabe/Sons arabes}}
+{{commonscat|Arabic pronunciation}}
+*[[アラビア語の文法]]
+* [[アラビア語#発音]]
+* [[アラビア文字]]、[[アラビア文字化]]
+* [[音声学]]
+
+== 外部リンク ==
+* [http://www.gulfarabic.com/p11_learn_arabic_sounds.php Gulf Arabic - アラビア語の発音] {{en icon}}
+* [http://www.nicoweb.com/sirpus/cours%20arabe%20ecriture%20mp3.htm Sirpus - アラビア語の発音サンプルmp3] {{fr icon}}
+
+&lt;!--
+{{Language phonologies}}
+{{Varieties of Arabic}}
+--&gt;
+{{アラビア語}}
+
+{{DEFAULTSORT:あらひあこのおんいん}}
+[[Category:アラビア語]]
+[[Category:音韻論]]</text>
+      <sha1>0yp37tpj92jfmwlf0cksannjm686jpb</sha1>
+    </revision>
+  </page>
+  

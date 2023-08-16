@@ -1,0 +1,59 @@
+<page>
+    <title>海洋気象ブイ</title>
+    <ns>0</ns>
+    <id>1696129</id>
+    <revision>
+      <id>91933242</id>
+      <parentid>91933231</parentid>
+      <timestamp>2022-10-13T02:03:47Z</timestamp>
+      <contributor>
+        <ip>124.247.145.128</ip>
+      </contributor>
+      <comment>あ</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4308" xml:space="preserve">[[Image:Weather_Buoy_MDS.jpg|thumb|200px|海洋気象ブイ]]
+'''海洋気象ブイ'''（かいようきしょうブイ）とは[[海面]]、または海水中で自動的に海洋・[[気象観測]]する[[浮き|ブイ]]。漂流型と係留型の二つに大きく分けられる。
+
+== 漂流型 ==
+海面を漂流しながら、観測を行うブイ（ロボット）。さまざまな[[センサー]]を装備しており、自動的に観測した結果を[[人工衛星]]を通じて地上に送信する。また、同時にブイの位置を人工衛星を用いて追跡させれば、[[海流]]を観測（[[海流#直接測流|ラグランジュ的測流]]）できる。[[気象庁]]の漂流型海洋気象ブイでは、通常3時間ごとに[[気圧]]・[[水温]]・波高・波周期のデータとブイの位置情報を、人工衛星を経由して地上に報告されている&lt;ref&gt;[https://www.data.jma.go.jp/gmd/kaiyou/db/buoy/buoy-info.html 気象庁・漂流型海洋気象ブイロボット]&lt;/ref&gt;。[[バッテリー]]の寿命が数か月程度なので、適切な間隔で随時ブイが投入されている。ただし、観測終了後、回収が困難であるため、ブイの材質は[[プラスチック]]ではなく、環境に悪影響を与えにくい[[アルミ合金]]である&lt;ref&gt;{{Cite book|和書
+|author=柳 哲雄
+|year=2002
+|title=海洋観測入門
+|publisher=恒星社厚生閣
+|isbn=4-7699-0958-6
+}}
+&lt;/ref&gt;。
+
+=== 中層フロート ===
+[[Image:2007 floater-release hg.jpg|200px|right|thumb|フロートを投入する光景。2007年。]]
+漂流型海洋観測ブイの一種であるが、あらかじめ漂流させたい深度を決め、その深度において漂流、観測を行う。現在のフロートは設定された時間ごとに海面まで浮上し、自らの位置情報と、浮上する際に得た海水情報を衛星を通じて地上に送信する。[[ARGO計画]]では[[PALACEブイ]] (Profiling Autonomous Lagrangian Circulation Explorer) が3000個使用されており、10日毎に浮上させている。
+
+== 係留型 ==
+設置された後もその場所にとどまりながら観測を行うブイ。[[シンカー]]で海底に固定され、異なる水深における水温や[[塩分濃度]]、流向・流速、風向・風速、日射などを自動観測し、人工衛星を通じて地上に送信する。漂流型と異なり、定期的な[[メンテナンス]]を必要とするため、コストの点では漂流型より劣る。
+
+気象庁は1982年から2000年末までの20年ほど、日本近海の三点に係留気象観測ブイを設置していたが、コスト削減が最大の要因となったほか、衛星観測技術や漂流ブイの発達から、廃止されている。しかし、北米の太平洋地域（主にベーリング海）では、NOAAが10基近くを配備して、観測を続けている。赤道海域で[[海洋研究開発機構]]が中心となって[[トライトンブイ]] (TRITON、TRIangle Trans-Ocean buory Network) を展開した観測が行われていたが&lt;ref&gt;[http://www.jamstec.go.jp/observ/buoy.html 海洋研究開発機構・トライトン (TRITON) ブイとは？]&lt;/ref&gt;、2021年6月14日に最後のトライトンブイが海洋研究開発機構の海洋地球研究船｢[[みらい (海洋地球研究船)|みらい]]｣によって回収されたことが発表され、23年に渡る観測網の運用が終了した。&lt;ref&gt;{{Cite web|title=https://twitter.com/fleet_jamstec/status/1404232895657512964|url=https://twitter.com/fleet_jamstec/status/1404232895657512964|website=Twitter|accessdate=2021-06-24|language=ja}}&lt;/ref&gt;
+
+== 出典 ==
+&lt;references /&gt;
+
+== 関連項目 ==
+* [[浮き]]
+* [[海流]]
+* [[ARGO計画]]
+
+== 外部リンク ==
+{{Commons category|Weather buoys}}
+* [https://www.data.jma.go.jp/gmd/kaiyou/db/vessel_obs/data-report/html/buoy/buoy.php 気象庁・漂流型海洋気象ブイロボット観測データ]
+* [http://tnfri.fra.affrc.go.jp/sage/result/tukuba/2iwao/index.html 中層フロートによる中層循環の観測]
+
+{{気象設備|表示||}}
+{{Climate-stub}}
+{{DEFAULTSORT:かいようきしようふい}}
+[[Category:気象計測機器・設備]]
+[[Category:海洋学]]
+[[Category:海流]]</text>
+      <sha1>4jg57z10kgknwvxpmpipnrtrhpx5u7y</sha1>
+    </revision>
+  </page>
+  

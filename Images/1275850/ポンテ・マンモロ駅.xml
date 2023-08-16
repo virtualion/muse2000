@@ -1,0 +1,108 @@
+<page>
+    <title>ポンテ・マンモロ駅</title>
+    <ns>0</ns>
+    <id>1275850</id>
+    <revision>
+      <id>61100527</id>
+      <parentid>56153401</parentid>
+      <timestamp>2016-09-10T17:59:11Z</timestamp>
+      <contributor>
+        <username>MomijiRoBot</username>
+        <id>1123658</id>
+      </contributor>
+      <minor />
+      <comment>Bot: &lt;/br&gt; → &lt;br /&gt; ∵Tag with incorrect syntax: Check Wikipedia #2</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4967" xml:space="preserve">{{Infobox station 
+| name          = [[File:Logo Metropolitane Italia.svg|20px|left|link=ローマ地下鉄]] Ponte Mammolo
+| type          = 
+| style         = Rome Metro
+| image         = Metro B - stazione Ponte Mammolo 1010801.JPG
+| image_caption = 
+| address       = 
+| coordinates   = {{Coord|41|55|14|N|12|33|54|E|type:railwaystation_region:IT-RM|display=inline,title}}
+| line          = &lt;!-- line information is detailed under "services" --&gt;
+| other         = 
+| structure     = 高架駅
+| platform      = 
+| depth         = 
+| levels        = 
+| tracks        = 
+| parking       = 
+| bicycle       = 
+| baggage_check = 
+| opened        = 1997
+| closed        =  
+| rebuilt       = 
+| electrified   = 
+| ADA           = 
+| code          = 
+| owned         = Atac di Roma
+| zone          = 
+| smartcardname =
+| smartcardstatus =
+| former        = 
+| passengers    = 
+| pass_year     = 
+| pass_percent  = 
+| pass_system   = 
+| mpassengers   = 
+| services      = 
+| map_locator   = 
+| web           = 
+}}
+{{ローマ地下鉄/B線}}
+'''ポンテ・マンモロ''' ('''Ponte Mammolo''') は、[[ローマ地下鉄]]のB線の駅の一つである。1997年9月に高架駅として落成した。
+未開業だったため、長い間B線はこの駅に停車せずに通過していた。
+地下鉄駅の開業とともに元々[[レビッビア駅]]にあった大部分の路線バスや郊外バスの始点がこちらに移動した。
+
+パルミーロ・トリアッティ大通りと[[ティブルティーナ街道]]との接続点の横にある。
+== 周辺 ==
+* [[ポンテ・マンモロ]]
+* [[アニエーネ川]]
+
+== 施設==
+*[[Image:Feature ticket office.svg|24px|切符売場]] [[切符売場]]
+*[[Image:Feature accessible.svg|24px|Accessibile]] [[障害者]]を運ぶ要員
+*[[Image:Feature escalators.svg|24px|エスカレーター]] [[エスカレーター]]
+*[[Image:Feature parking.svg|24px|Parcheggio di scambio]] 乗替え用立体[[駐車場]]約2000 台分
+*[[Image:Feature suburban buses.svg|24px|Biglietteria]]  [[COTRAL]]の幹線バス乗り場:
+
+{|
+|-valign="top"
+| style="width:200px"|{{cassetto|ティブルティーナ街道 - [[アウトストラーダ A24|A 24]]:|testo=
+* [[ティーヴォリ]], [[マンデーラ]], [[ヴィコヴァーロ]], [[アルソリ]], [[リオフレッド]]、[[ヴァッリンフレーダ]]、[[ヴィヴァーロ・ロマーノ]]、[[カルソーリ]]、[[ボルゴローゼ]]、'''[[カメラータ・ヌオーヴァ]]'''線}}
+| style="width:300px"|{{cassetto|ティブルティーナ街道:|testo= 
+* '''[[ティーヴォリ]]'''線
+* [[グイドーニア]]、[[マルチェッリーナ]]、[[パロンバーラ・サビーナ]]、[[モリコーネ]], '''[[モンテフラーヴィオ]]'''線
+* グイドーニア、[[グイドーニア・モンテチェーリオ|モンテチェーリオ]]、'''[[サンタンジェロ・ロマーノ]]'''線&lt;br /&gt;[[グイドーニア]]、[[マルチェッリーナ]]、'''[[サン・ポーロ・デイ・カヴァリエーリ]]'''線
+* ティーヴォリ、[[ヴィコヴァーロ]]、[[マンデーラ]], '''[[スビアーコ]]'''
+* ティーヴォリ、[[ピゾニアーノ]]、[[サン・ヴィート・ロマーノ]]、'''[[ジェナッツァーノ]]'''線}}
+|-valign="top"
+| style="width:300px"|{{cassetto|[[アウトストラーダ A24]]:|testo=
+*[[マンデーラ]]、[[ペルチーレ]]、[[アンティーコリ・コッラード]], '''[[スビアーコ]]'''線
+*[[ティーヴォリ]]、[[カステル・マダーマ]]、[[サンブーチ]]、[[チチリアーノ]]、[[チェッレート・ラツィアーレ|チェッレート]]、'''[[ジェラーノ]]'''線
+*[[ピゾニアーノ]]、[[サン・ヴィート・ロマーノ]]、[[ベッレグラ]]、[[オレーヴァノ・ロマーノ|オレーヴァノ]], '''[[ジェナッツァーノ]]'''線}}
+| style="width:300px"|{{cassetto|プレネスティーナ街道:|testo= 
+*[[サン・ヴィットリーノ・ロマーノ]], '''[[ティーヴォリ]]'''線
+*[[ガッリカーノ]]、'''[[ポーリ]]'''線
+*[[ザガローロ]]、[[パレストリーナ]]、[[カーヴェ]]、[[ジェナッツァーノ]]、[[サン・ヴィート・ロマーノ]]、[[ベッレグラ]]、[[オレーヴァノ・ロマーノ|オレーヴァノ]]、 [[ロッカ・サント・ステーファノ]]、'''[[ピーリオ]]'''線}}
+|}
+
+==外部リンク==
+*[[ATAC]]のサイトにある[http://www.atac.roma.it/linee/m_linee.asp?p=1&amp;i=6&amp;NUM=MAA&amp;st=90048 駅の位置] 入口の移動や乗り換え駐車場のシステム、バスの乗換などの情報。
+*{{googlemap||緯度= 41.920257|経度= 12.566085 |倍率=18}}
+
+== 写真集 ==
+&lt;gallery&gt;
+Image:Stazione bus Cotral-Tiburtina 2686.JPG|CoTraL のポンテ・マンモロ発着場
+Image:Metro B - stazione Ponte Mammolo 1010801.JPG|ポンテ・マンモロ地下鉄駅
+&lt;/gallery&gt;
+
+{{デフォルトソート:ほんて まんもろ}}
+[[Category:ローマ地下鉄]]</text>
+      <sha1>eq3oih19q7zcuwww4wl1swlalp6bz9r</sha1>
+    </revision>
+  </page>
+  
