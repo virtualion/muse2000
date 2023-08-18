@@ -1,0 +1,11 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/75614/title_panel.png	-176.26315789473682,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/75614/word_cloud.png	-196.2315789473684,38,140.05894736842106	0,0,1	0,1,0	-1,0,0	98.04126315789473	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/75614/The Otemachi Tower.JPG	-196.2315789473684,38,138.65835789473684	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/75614/US long grain rice.jpg	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-130.9236842105263	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/75614/caption/caption1.png	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-108.92368421052629	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/75614/Marunouchi Center Building 2012-10-08.JPG	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-40.307894736842115	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/75614/caption/caption2.png	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-18.307894736842115	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/75614/Mizuho Financial Group (headquarters).jpg	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	50.30789473684209	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/75614/caption/caption3.png	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	72.30789473684209	-20	1.5	0.7	none(caption)	-1:-1	8
+9	Images/75614/table/fixed_重要な子会社の状況.png	196.2315789473684,38,141.47368421052633	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	24.385215790834806	Wooden_thin	-1:-1	9
