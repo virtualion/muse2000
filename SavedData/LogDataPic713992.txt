@@ -1,0 +1,7 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/713992/title_panel.png	-24.6758,28.656,34.48	-1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/713992/title_panel.png	-24.6758,28.656,34.48	-1,0,0	0,1,0	0,0,1	0	-2.600999	0.2	1.4	none(caption)	4:3	22
+1	./Images/713992/word_cloud.png	-84.1579,38,83.16	0,0,1	0,1,0	-1,0,0	0	5	0.2	4	Wooden_thin2	-1:-1	23
+2	./Images/713992/mizuho.jpg	0,52.5,165.9	1,0,0	0,1,0	0,0,1	0.198682	-20.39701	0.2	6	Wooden_thin2	-1:-1	23
+3	./Images/713992/Marunouchi Center Building 2012-10-08.JPG	84.1579,52.5,84	0,0,-1	0,1,0	1,0,0	28.96334	-19.38901	0.2	3	Wooden_thin2	-1:-1	24
+4	./Images/713992/US long grain rice.jpg	84.1579,52.5,84	0,0,-1	0,1,0	1,0,0	-37.77422	-19.6725	0.2	2	Wooden_thin2	-1:-1	25
