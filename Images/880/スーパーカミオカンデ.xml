@@ -1,0 +1,202 @@
+<page>
+    <title>スーパーカミオカンデ</title>
+    <ns>0</ns>
+    <id>880</id>
+    <revision>
+      <id>90899037</id>
+      <parentid>90605233</parentid>
+      <timestamp>2022-08-09T13:19:17Z</timestamp>
+      <contributor>
+        <ip>2402:6B00:75B4:FC00:DD66:B86D:8EE4:C63B</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43660" xml:space="preserve">[[ファイル:Super Kamiokande, 1 to 135th.jpg|サムネイル|330x330px|1/135の模型（[[岐阜かかみがはら航空宇宙博物館]]）]]
+[[File:Neutrino detector - National Museum of Nature and Science, Tokyo - DSC07824.JPG|thumb|300x300px|スーパーカミオカンデに設置されている[[光電子増倍管]]（[[国立科学博物館]]の展示。[[浜松ホトニクス]]製）]]'''スーパーカミオカンデ'''（{{lang-en|Super-Kamiokande}}）は、[[岐阜県]][[飛騨市]][[神岡町 (岐阜県)|神岡町]]旧[[神岡鉱山]]内の地下1000mに設置された、[[東京大学宇宙線研究所]]が運用する世界最大の水チェレンコフ宇宙素粒子観測装置である&lt;ref name="icrr" /&gt;。{{en|Super-K}}と略されることもある。[[ニュートリノ]]の性質の全容を解明することを目的として、1991年12月に着工され、1996年4月より運用を開始した&lt;ref name="icrrhistory" /&gt;。
+
+スーパーカミオカンデの検出器は、[[小柴昌俊]]のノーベル賞受賞研究の元となった[[カミオカンデ]]と原理は同じだが性能は大きく向上した。5万トンの[[超純水]]を蓄えた直径39.3m、高さ41.4mの円筒形タンクの内壁に[[光電子増倍管]]と呼ばれる約1万3千本の光センサーが設置されている&lt;ref name="icrr" /&gt;。飛来した[[ニュートリノ]]が貯水槽内を通過する際に、ごくまれに[[水]]分子と衝突して[[電子]]や[[陽電子]]などの[[荷電粒子]]が叩き出される。これらの粒子が水中の光の速度よりも速く水中を走るときに現れる[[チェレンコフ放射|チェレンコフ光]]を、光電子増倍管により検出する仕組みである&lt;ref&gt;{{Cite web |title=検出器について |url=https://www-sk.icrr.u-tokyo.ac.jp/sk/about/detector/ |website=スーパーカミオカンデ 公式ホームページ |access-date=2022-07-04 |language=ja}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=5分でわかるスーパーカミオカンデ |url=https://www-sk.icrr.u-tokyo.ac.jp/sk/about/5min/ |website=スーパーカミオカンデ 公式ホームページ |access-date=2022-07-06 |language=ja}}&lt;/ref&gt;。
+
+1998年、大気ニュートリノの観測により、ニュートリノが飛行する間にその種類が変化する現象（[[ニュートリノ振動]]）を発見した&lt;ref name=":0"&gt;{{Cite journal|和書|author=梶田隆章|date=1998|title=ニュートリノ振動の証拠: スーパーカミオカンデにおける大気ニュートリノの観測から|url=https://doi.org/10.11316/butsuri1946.53.783|journal=日本物理學會誌|volume=53|issue=10|pages=783-784|doi=10.11316/butsuri1946.53.783}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=K2K（長基線ニュートリノ振動実験） {{!}} KEK |url=https://www2.kek.jp/proffice/archives/activity/past/K2K.html |website=www2.kek.jp |access-date=2022-07-04}}&lt;/ref&gt;。2015年、この研究を率いた宇宙線研究所長[[梶田隆章]]が「ニュートリノが質量を持つ事を示す、ニュートリノ振動現象の発見」の成果により[[ノーベル物理学賞]]を受賞した&lt;ref name=":9"&gt;{{Cite web |title=東京大学宇宙線研究所長 梶田隆章教授 ノーベル物理学賞受賞 {{!}} 受賞理由 |url=https://www.icrr.u-tokyo.ac.jp/prwps/commemorative/nobel/description.html |website=www.icrr.u-tokyo.ac.jp |access-date=2022-07-04}}&lt;/ref&gt;&lt;ref name=":1"&gt;{{Cite news|title=ノーベル物理学賞に梶田隆章氏ら2人、ニュートリノの質量実証|url=https://jp.reuters.com/article/nobel-kajita-physics-idJPKCN0S011X20151006|work=Reuters|date=2015-10-07|access-date=2022-07-04|language=ja}}&lt;/ref&gt;。
+
+2020年8月より、スーパーカミオカンデの純水中に[[ガドリニウム]]を加え、新生スーパーカミオカンデとして観測を開始した。これによりニュートリノの観測感度向上、特に「超新星背景ニュートリノ」の観測を目指している&lt;ref name="icrrhistory" /&gt;。
+
+== 目的と研究成果 ==
+
+=== ニュートリノの性質の研究 ===
+ニュートリノの質量やそれらの混合行列に関する詳細な分析を、大気ニュートリノ、[[太陽ニュートリノ]]、人工ニュートリノなどを用いて研究している&lt;ref name="icrr" /&gt;。
+
+==== ニュートリノ振動 ====
+{{詳細記事|ニュートリノ|ニュートリノ振動}}
+ニュートリノは、反応した際に放出する[[荷電レプトン]]によって''[[電子ニュートリノ]]（''ν&lt;sub&gt;e&lt;/sub&gt;''）''、[[ミューニュートリノ]]（ν&lt;sub&gt;μ&lt;/sub&gt;）、[[タウニュートリノ]]（ν&lt;sub&gt;τ&lt;/sub&gt;）に分けられる。ニュートリノが飛行する間に、量子力学的な効果でニュートリノの種類が入れ替わる現象をニュートリノ振動と呼ぶが&lt;ref&gt;{{Cite web |title=ニュートリノ振動 {{!}} 天文学辞典 |url=https://astro-dic.jp/neutrino-oscillation/ |website=astro-dic.jp |date=2017-08-26 |access-date=2022-07-04 |language=ja}}&lt;/ref&gt;、このような現象が生じるためには、ニュートリノが質量を持つことと、混合していることの両条件が必要である&lt;ref name=":2"&gt;{{Cite journal|和書|title=ニュートリノ振動それによるニュートリノ質量の発見 |url=https://doi.org/10.5363/tits.21.2_28 |author=中畑雅行 |journal=学術の動向 |volume=21 |issue=2 |pages=2_28-2_34 |year=2016 |doi=10.5363/tits.21.2_28 |publisher=日本学術協力財団 |access-date=2022-08-04}}&lt;/ref&gt;。旧カミオカンデにおいて、宇宙線が大気中で反応して発生する大気ニュートリノを観測した結果、理論値ではν&lt;sub&gt;μ&lt;/sub&gt;とν&lt;sub&gt;e&lt;/sub&gt;の比はほぼ2となるはずであったが、得られた値はおよそ1.2と小さな値であった&lt;ref name=":0" /&gt;&lt;ref name=":2" /&gt;。これはニュートリノ振動によるものと考えられたが、サンプル数が277事象と少ないため十分な支持は得られなかった&lt;ref name=":2" /&gt;。
+
+カミオカンデを大きく上回る規模と精度を持つスーパーカミオカンデは、運用開始当初からこのニュートリノ振動の検出に利用された&lt;ref name=":2" /&gt;。東京大学宇宙線研究所教授の[[梶田隆章]]率いるグループがスーパーカミオカンデにおける535日間の観測で4654事象を分析して得られた結果は、やはり理論値の63?65%程度で有意に小さな値であった&lt;ref name=":0" /&gt;&lt;ref name=":11"&gt;{{Cite journal|last=Fukuda|first=Y.|last2=Hayakawa|first2=T.|last3=Ichihara|first3=E.|last4=Inoue|first4=K.|last5=Ishihara|first5=K.|last6=Ishino|first6=H.|last7=Itow|first7=Y.|last8=Kajita|first8=T.|last9=Kameda|first9=J.|date=1998-08-24|title=Evidence for Oscillation of Atmospheric Neutrinos|url=https://link.aps.org/doi/10.1103/PhysRevLett.81.1562|journal=Physical Review Letters|volume=81|issue=8|pages=1562-1567|language=en|doi=10.1103/PhysRevLett.81.1562|issn=0031-9007}}&lt;/ref&gt;。さらにニュートリノが飛来してきた角度を分析し、上方向からのものはν&lt;sub&gt;μ&lt;/sub&gt;の数が予測値と合致した一方、長距離を飛来してきた下方向からのものはν&lt;sub&gt;τ&lt;/sub&gt;に振動し、数が約半分に減っていることがわかった&lt;ref name=":0" /&gt;&lt;ref name=":2" /&gt;&lt;ref name=":11" /&gt;。これはニュートリノ振動を想定しなければ説明がつかない結果であり&lt;ref name=":0" /&gt;、ニュートリノ振動の最初の発見となった&lt;ref name=":2" /&gt;。1998年、梶田は[[岐阜県]][[高山市]]で開催されたニュートリノ国際会議においてこの研究結果を報告した&lt;ref name=":2" /&gt;。この研究成果により梶田は2015年のノーベル物理学賞を受賞した&lt;ref name=":9" /&gt;&lt;ref name=":1" /&gt;。
+
+==== 太陽ニュートリノ問題 ====
+{{詳細記事|太陽ニュートリノ問題}}
+太陽における核融合反応の際、大量の電子ニュートリノが発生する&lt;ref&gt;{{Cite web |title=ニュートリノは宇宙のどこでつくられる？ |url=https://www.icrr.u-tokyo.ac.jp/rccn/doc2/cn2.html |website=www.icrr.u-tokyo.ac.jp |access-date=2022-07-04}}&lt;/ref&gt;。地球上でこの太陽ニュートリノを観測した結果は、{{仮リンク|標準太陽モデル|en|Standard solar model}}から得られる予想値に比べて3分の1から半分程度しかなく、長らく「太陽ニュートリノ問題」として議論されてきた&lt;ref name=":3"&gt;{{Cite web |title=研究内容 |url=https://www-sk.icrr.u-tokyo.ac.jp/sk/about/research/ |website=スーパーカミオカンデ 公式ホームページ |access-date=2022-07-04 |language=ja}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=太陽ニュートリノとは |url=https://kotobank.jp/word/%E5%A4%AA%E9%99%BD%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E-558652 |website=コトバンク |access-date=2022-07-04 |language=ja |last=日本大百科全書(ニッポニカ),デジタル大辞泉}}&lt;/ref&gt;。
+
+2001年、カナダの[[サドベリー・ニュートリノ天文台]]（SNO）は、重水を使った実験により電子ニュートリノが重陽子と反応して電子を生む反応（荷電カレント反応）の観測結果を報告した&lt;ref&gt;{{Cite journal|last=Ahmad|first=Q. R.|last2=Allen|first2=R. C.|last3=Andersen|first3=T. C.|last4=Anglin|first4=J. D.|last5=Bühler|first5=G.|last6=Barton|first6=J. C.|last7=Beier|first7=E. W.|last8=Bercovitch|first8=M.|last9=Bigu|first9=J.|date=2001-07-25|title=Measurement of the Rate of ν e + d → p + p + e − Interactions Produced by B 8 Solar Neutrinos at the Sudbury Neutrino Observatory|url=https://link.aps.org/doi/10.1103/PhysRevLett.87.071301|journal=Physical Review Letters|volume=87|issue=7|pages=071301|language=en|doi=10.1103/PhysRevLett.87.071301|issn=0031-9007}}&lt;/ref&gt;。一方スーパーカミオカンデは、SNOよりも高精度の電子弾性散乱の検出により太陽ニュートリノ全体の観測を行っていた&lt;ref name=":4"&gt;{{Cite journal|和書|title=太陽ニュートリノの物理 |url=https://doi.org/10.11316/butsuri1946.57.171 |author=中畑雅行 |author2=鈴木洋一郎 |journal=日本物理學會誌 |volume=57 |issue=3 |pages=171-179 |year=2002 |doi=10.11316/butsuri1946.57.171}}&lt;/ref&gt;。この2つの観測結果には有意な違いがあり、太陽ニュートリノ問題の原因がニュートリノ振動であることの有力な根拠となった&lt;ref name=":3" /&gt;&lt;ref name=":4" /&gt;。SNOでの研究を率いた[[クイーンズ大学 (カナダ)|クイーンズ大学]]教授[[アーサー・B・マクドナルド]]は、2015年のノーベル物理学賞を梶田隆章とともに受賞した&lt;ref name=":1" /&gt;&lt;ref&gt;{{Cite news|title=Takaaki Kajita and Arthur McDonald Share Nobel in Physics for Work on Neutrinos|url=https://www.nytimes.com/2015/10/07/science/nobel-prize-physics-takaaki-kajita-arthur-b-mcdonald.html|work=The New York Times|date=2015-10-06|access-date=2022-07-04|issn=0362-4331|language=en-US|first=Dennis|last=Overbye}}&lt;/ref&gt;。
+
+==== 第3の振動モード ====
+1999年、[[つくば市]]の[[高エネルギー加速器研究機構]]で作ったν&lt;sub&gt;μ&lt;/sub&gt;を、250km離れたスーパーカミオカンデで捉える実験（K2K実験）が開始された。これは世界初の人工ニュートリノによる実験であった&lt;ref name=":2" /&gt;。K2K実験は2004年まで行われ、観測の結果、大気ニュートリノで発見されたニュートリノ振動を99.9%以上の精度で確認することができた&lt;ref name=":3" /&gt;。
+
+2009年には、[[茨城県]][[東海村]]の大強度陽子加速器施設（[[J-PARC]]）で作られたニュートリノビームを295km離れたスーパーカミオカンデに打ち込む[[T2K]]実験が開始された&lt;ref name=":3" /&gt;。ニュートリノの混ざり具合を示す3つの混合角のうちθ&lt;sub&gt;13&lt;/sub&gt;だけは未測定であり、この発見が期待されていた。2011年6月、ミューニュートリノから電子ニュートリノへ変化する「電子ニュートリノ出現事象」を示唆する観測結果を世界で初めてとらえ&lt;ref&gt;{{Cite web |title=世界初、電子型ニュートリノ出現現象の兆候を捉える {{!}} KEK |url=https://www2.kek.jp/ja/news/press/2011/J-PARC_T2Kneutrino.html |website=www2.kek.jp |access-date=2022-07-04}}&lt;/ref&gt;、混合角θ&lt;sub&gt;13&lt;/sub&gt;が予想されていた値よりは大きい可能性を指摘した&lt;ref&gt;{{Cite journal|last=T2K Collaboration|last2=Abe|first2=K.|last3=Abgrall|first3=N.|last4=Ajima|first4=Y.|last5=Aihara|first5=H.|last6=Albert|first6=J. B.|last7=Andreopoulos|first7=C.|last8=Andrieu|first8=B.|last9=Aoki|first9=S.|date=2011-07-25|title=Indication of Electron Neutrino Appearance from an Accelerator-produced Off-axis Muon Neutrino Beam|url=http://arxiv.org/abs/1106.2822|journal=arXiv:1106.2822 [hep-ex]|doi=10.1103/PhysRevLett.107.041801}}&lt;/ref&gt;&lt;ref name=":5"&gt;{{Cite web |title=発見と発明のデジタル博物館： ミューニュートリノビームからの電子ニュートリノ出現事象の発見 (専門向け) |url=https://dbnst.nii.ac.jp/pro/detail/2179 |website=dbnst.nii.ac.jp |access-date=2022-07-04}}&lt;/ref&gt;。2013年には実際にミューニュートリノから電子ニュートリノへの変化を世界で初めて観測し、[[ポンテコルボ・牧・中川・坂田行列]]が示唆するようにニュートリノが3世代間で混合していることを明らかにした&lt;ref&gt;{{Cite journal|last=T2K Collaboration|last2=Abe|first2=K.|last3=Abgrall|first3=N.|last4=Aihara|first4=H.|last5=Akiri|first5=T.|last6=Albert|first6=J. B.|last7=Andreopoulos|first7=C.|last8=Aoki|first8=S.|last9=Ariga|first9=A.|date=2013-08-05|title=Evidence of Electron Neutrino Appearance in a Muon Neutrino Beam|url=http://arxiv.org/abs/1304.0841|journal=Physical Review D|volume=88|issue=3|pages=032002|doi=10.1103/PhysRevD.88.032002|issn=1550-7998}}&lt;/ref&gt;&lt;ref name=":5"&gt;{{Cite web |title=発見と発明のデジタル博物館： ミューニュートリノビームからの電子ニュートリノ出現事象の発見 (専門向け) |url=https://dbnst.nii.ac.jp/pro/detail/2179 |website=dbnst.nii.ac.jp |access-date=2022-07-04}}&lt;/ref&gt;。この業績により、高エネルギー加速器研究機構教授小林隆、京都大学教授[[中家剛]]が2014年度の[[仁科記念賞]]を受賞した。
+
+=== ニュートリノを利用した星や宇宙の観測 ===
+太陽や[[超新星爆発]]によって生成されるニュートリノを観測することにより天文現象の解明を目指す[[ニュートリノ天文学]]が発達しつつある&lt;ref name=":6"&gt;{{Cite web |title=ニュートリノ天文学 {{!}} 天文学辞典 |url=https://astro-dic.jp/neutrino-astronomy/ |website=astro-dic.jp |date=2017-08-26 |access-date=2022-07-04 |language=ja}}&lt;/ref&gt;。
+
+1987年2月23日、東京大学教授[[小柴昌俊]]らは[[カミオカンデ]]によって[[大マゼラン雲]]で起こった超新星爆発[[SN 1987A]]からのニュートリノバーストを観測し、同年4月に発表した&lt;ref&gt;{{Cite journal|last=Hirata|first=K.|last2=Kajita|first2=T.|last3=Koshiba|first3=M.|last4=Nakahata|first4=M.|last5=Oyama|first5=Y.|last6=Sato|first6=N.|last7=Suzuki|first7=A.|last8=Takita|first8=M.|last9=Totsuka|first9=Y.|date=1987-04-06|title=Observation of a neutrino burst from the supernova SN1987A|url=https://link.aps.org/doi/10.1103/PhysRevLett.58.1490|journal=Physical Review Letters|volume=58|issue=14|pages=1490-1493|doi=10.1103/PhysRevLett.58.1490}}&lt;/ref&gt;。これは超新星爆発の理論モデルの妥当性を裏付けるものであり、一般にはこの出来事をもってニュートリノ天文学の幕開けとされる&lt;ref name=":6" /&gt;。小柴はこの業績により1989年に[[日本学士院賞]]を受賞&lt;ref&gt;{{Cite web |title=物故会員個人情報 - 小柴昌俊｜日本学士院 |url=https://www.japan-acad.go.jp/japanese/members/bukko/k_gyo/koshiba_masatoshi.html |website=www.japan-acad.go.jp |access-date=2022-07-04}}&lt;/ref&gt;、2002年に[[ノーベル物理学賞]]を受賞した&lt;ref&gt;{{Cite web |url=https://www.nobelprize.org/uploads/2018/06/press-ja.pdf |title=2002年 ノーベル物理学賞 |access-date=2022-07-05 |publisher=www.nobelprize.org}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=小柴さん、2002年ノーベル物理学賞を受賞（NAOニュース） |url=https://www.astroarts.co.jp/news/2002/10/11nao591/index-j.shtml#:~:text=%E3%82%B9%E3%82%A8%E3%83%BC%E3%83%87%E3%83%B3%E7%8E%8B%E7%AB%8B%E7%A7%91%E5%AD%A6%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E3%81%AF,%E3%81%AB%E4%B8%8E%E3%81%88%E3%82%89%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82 |website=www.astroarts.co.jp |access-date=2022-07-04}}&lt;/ref&gt;。
+
+スーパーカミオカンデでは、超新星爆発が銀河中心で起こった場合、超新星ニュートリノを約8000例捕獲することが可能とされ、絶え間なく監視を続けている&lt;ref name=":3" /&gt;。超新星爆発からの光はニュートリノよりも遅れて星の外に放出されるため、スーパーカミオカンデは光を捉える[[天文台]]よりも前にその爆発を観測することができる&lt;ref name=":3" /&gt;。
+
+==== 超新星背景ニュートリノの観測 ====
+宇宙が誕生してから現在までに、約10&lt;sup&gt;17&lt;/sup&gt;個の星が超新星爆発を起こしてきたと考えられている&lt;ref name=":7"&gt;{{Cite web |url=https://www.ipmu.jp/sites/default/files/webfm/pdfs/news11/J_FEATURE.pdf |title=超新星爆発とニュートリノ |access-date=2022-07-05 |author=中畑雅行}}&lt;/ref&gt;。宇宙空間にはこの超新星爆発によって放出された「超新星背景ニュートリノ」が存在するはずである&lt;ref name=":7"&gt;{{Cite web |url=https://www.ipmu.jp/sites/default/files/webfm/pdfs/news11/J_FEATURE.pdf |title=超新星爆発とニュートリノ |access-date=2022-07-05 |author=中畑雅行}}&lt;/ref&gt;。この検出に向けて、2020年8月より、スーパーカミオカンデの純水中に[[ガドリニウム]]を加え、新生スーパーカミオカンデとして観測をスタートした&lt;ref&gt;{{Cite web |title=新生スーパーカミオカンデがスタート、ガドリニウムを加え、新たに観測開始 |url=https://www-sk.icrr.u-tokyo.ac.jp/news/detail/304/ |website=東京大学宇宙線研究所付属神岡宇宙素粒子研究施設 |access-date=2022-07-04 |language=ja}}&lt;/ref&gt;。これにより、ニュートリノの観測感度向上、特に「超新星背景ニュートリノ」の世界初の観測が期待されている。
+
+=== 大統一理論の実験的検証 ===
+旧カミオカンデの建設は、[[大統一理論]]が予言する[[陽子]]崩壊の実証が主な目的であった&lt;ref name=":2" /&gt;&lt;ref name=":8"&gt;{{Cite journal|和書|author=梶田隆章|date=2017|title=神岡での基礎科学研究|url=https://doi.org/10.5363/tits.22.7_91|journal=学術の動向|volume=22|issue=7|pages=7_91-7_105|doi=10.5363/tits.22.7_91}}&lt;/ref&gt;。この理論の有力候補と考えられていたSU(5)モデルの予想する陽子の寿命は10{{sup|30}}-10{{sup|32}}年であったが、カミオカンデでは陽子崩壊は観測されず陽子の寿命は10{{sup|34}}年以上であることが示され、SU(5)モデルは否定された&lt;ref name=":12"&gt;{{Cite journal|和書|author=中村健蔵|date=2016|title=カミオカンデからスーパーカミオカンデへ：歴史的経緯と研究成果の概要|url=https://doi,org/10.11316/butsuri.71.4_214|journal=日本物理学会誌|volume=71|issue=4|pages=214-217|doi=10.11316/butsuri.71.4_214}}&lt;/ref&gt;。なお、SO(10)理論等他のモデルも存在するため、大統一理論という考え方がすべて否定されたわけではない。観測期間が延びれば延びるほど、たとえ極小の確率であっても検出が可能になるため、スーパーカミオカンデでは引き続き陽子崩壊の観測を行っている。
+
+== 名称 ==
+陽子崩壊観測を主目的としたカミオカンデは、'''Kamioka''' '''N'''ucleon '''D'''ecay '''E'''xperiment（神岡核子崩壊実験）の略した名称だった&lt;ref name=":8" /&gt;&lt;ref name=":13"&gt;{{Cite web |title=KAMIOKANDEのこと |url=https://www.jps.or.jp/books/50thkinen/50th_05/003.html |website=www.jps.or.jp |access-date=2022-07-05 |author=小柴昌俊}}&lt;/ref&gt;。
+
+上記の目的に加え、ニュートリノによる天体観測を当初から目的のひとつとしていたスーパーカミオカンデは、'''Super'''-'''Kamioka''' &lt;u&gt;'''N'''eutrino '''D'''etection&lt;/u&gt; '''E'''xperiment（超神岡ニュートリノ検出実験）と'''Super'''-'''Kamioka''' &lt;u&gt;'''N'''ucleon '''D'''ecay&lt;/u&gt; '''E'''xperiment（超神岡核子崩壊実験）の双方を略した名称となっている&lt;ref&gt;{{Cite web |title=スーパーカミオカンデとは |url=https://kotobank.jp/word/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%9F%E3%82%AA%E3%82%AB%E3%83%B3%E3%83%87-176690 |website=コトバンク |access-date=2022-07-04 |language=ja |first=日本大百科全書(ニッポニカ),ブリタニカ国際大百科事典 小項目事典,化学辞典 |last=第2版,百科事典マイペディア,デジタル大辞泉,知恵蔵}}&lt;/ref&gt;。
+
+スーパーカミオカンデを、'''東京大学宇宙線研究所附属神岡宇宙素粒子研究施設'''と紹介する文献もあるが、正確には東京大学宇宙線研究所附属神岡宇宙素粒子研究施設に存在する「装置の名前」がスーパーカミオカンデである。同施設はスーパーカミオカンデを中心に、ニュートリノや陽子の研究を行うための施設となっている。
+
+== 歴史 ==
+
+=== スーパーカミオカンデの建造 ===
+1983年に運用が開始された旧カミオカンデの当初の目的は陽子崩壊の観測であった&lt;ref name=":2" /&gt;&lt;ref name=":8" /&gt;。地下深くに多量の水を蓄えてそれを常時四方八方から観測しつづけるというアイデアは小柴昌俊によるものであったが、米国でも同様のアイデアで[[アーバイン＝ミシガン＝ブルックヘブン]]（IMB）実験が計画されていた&lt;ref name=":13" /&gt;。IMBが深度610mに直径5インチの光電子増倍管を2048個設置したのに対し、カミオカンデはより深い地下1000mに20インチ光電子増倍管を1000本設置した&lt;ref name=":13" /&gt;。貯水槽の容量は7000トン対3000トンとIMBのほうが大きかったが、光の検出効率はカミオカンデが16倍も良好であった&lt;ref name=":13" /&gt;。
+
+1987年の超新星爆発に伴うニュートリノの検出・分析はのちの小柴のノーベル賞受賞につながる一大業績であったが、太陽ニュートリノ検出の面では運用当初から貯水槽と検出器の規模の不足が実感されており&lt;ref name=":8" /&gt;&lt;ref name=":12" /&gt;、1983年末の時点で早くも小柴は新たな検出装置建造についての提案を行っていた&lt;ref name=":12" /&gt;。
+
+実際にスーパーカミオカンデの建造が開始されるのは1991年のことであった。建造には民間企業が多く参加した&lt;ref&gt;{{Cite web |title=ファイナンス 2017年4月号 Vol.53 |url=https://www.mof.go.jp/public_relations/finance/denshi/201704/pageindices/index71.html#page=71 |website=www.mof.go.jp |access-date=2022-07-05}}&lt;/ref&gt;。[[三井金属鉱業]]が掘削&lt;ref&gt;{{Cite web |title=スーパーカミオカンデと神岡鉱山 {{!}} 宇宙誕生の謎に挑む神岡鉱山 {{!}} 三井金属鉱業株式会社 |url=https://www.mitsui-kinzoku.com/nobel/page-02/ |website=www.mitsui-kinzoku.com |access-date=2022-07-05}}&lt;/ref&gt;、[[三井E&amp;Sホールディングス|三井造船]]が水槽を建造し&lt;ref&gt;{{Cite web |title=三井E＆Sプロジェクトストーリー「地球には夢がある。」vol.05 |url=https://www.mes.co.jp/project_story/05.html |website=MITSUI E＆S |access-date=2022-07-05}}&lt;/ref&gt;、データ処理は[[富士通]]&lt;ref&gt;{{Cite web |title=東京大学宇宙線研究所様 スーパーカミオカンデ - 富士通 |url=https://www.fujitsu.com/jp/solutions/business-technology/tc/fields/research/super-kamiokande/ |website=www.fujitsu.com |access-date=2022-07-05}}&lt;/ref&gt;、超純水は[[オルガノ]]&lt;ref&gt;{{Cite web |title=「宇宙劇場へ、ようこそ。」オルガノの超純水｜オルガノ株式会社 |url=http://www.organo.co.jp/uchu-gekijyo/ep2.html |website=www.organo.co.jp |access-date=2022-07-05}}&lt;/ref&gt;、大口径光電子倍増管は旧カミオカンデに引き続いて[[浜松ホトニクス]]が担当した&lt;ref&gt;{{Cite web |title=20インチ光電子増倍管開発ストーリー {{!}} 浜松ホトニクス |url=https://www.hamamatsu.com/jp/ja/why-hamamatsu/20inch-pmts.html |website=www.hamamatsu.com |access-date=2022-07-05 |language=ja}}&lt;/ref&gt;。
+
+1994年7月、空洞掘削工事が完了&lt;ref&gt;{{Cite web |title=年表 |url=https://www-sk.icrr.u-tokyo.ac.jp/about/history/ |website=東京大学宇宙線研究所付属神岡宇宙素粒子研究施設 |access-date=2022-07-05 |language=ja}}&lt;/ref&gt;。1995年中頃にタンクの建設が完了した。1995年6月から光電子増倍管の取り付け作業と電子回路への接続が行われ、同年12月に完了した。その後2か月以上を要して5万トンのタンクを超純水で満たし、1996年4月1日0時に完成した&lt;ref name="icrrhistory" /&gt;。
+
+=== 初期の成果 ===
+スーパーカミオカンデは当初から日米の研究者の共同研究という形で開始された。IMB試験が1991年初頭に終了し、その主力メンバーがスーパーカミオカンデに合流することとなったのである&lt;ref name=":12" /&gt;。
+
+1996年4月1日0時から後述の破損事故までの時期を Super-Kamiokande I (SK-I) と呼称する&lt;ref name=":10"&gt;{{Cite web |title=スーパーカミオカンデの歴史 {{!}} スーパーカミオカンデ 公式ホームページ |url=http://www-sk.icrr.u-tokyo.ac.jp/sk/sk/history.html |website=web.archive.org |date=2020-11-14 |access-date=2022-07-05 |archive-url=https://web.archive.org/web/20201114125930/http://www-sk.icrr.u-tokyo.ac.jp/sk/sk/history.html |archive-date=2020-11-14}}&lt;/ref&gt;。1998年には地球の反対側から飛来する大気ニュートリノの数が少ないことを示し、ニュートリノ振動の証拠として世界に発信した&lt;ref name=":0" /&gt;。これにより、スーパーカミオカンデ実験グループはこの年の[[朝日賞]]を受賞した&lt;ref&gt;{{Cite journal|和書|author=荒船次郎|date=1999|title=1998年度朝日賞: 1) スーパーカミオカンデ観測グループ: ニュートリノに質量が存在する強い証拠の発見|url=https://doi.org/10.11316/butsuri1946.54.3.219_2|journal=日本物理學會誌|volume=54|issue=3|page=219|doi=10.11316/butsuri1946.54.3.219_2}}&lt;/ref&gt;。1999年には世界初の長基線ニュートリノ実験[[K2K]]を開始し、大気ニュートリノで発見されたニュートリノ振動の検証に成功した。2001年にはカナダのSNO実験の結果と合わせ、太陽から来るニュートリノも振動していることを発見した&lt;ref name="icrrhistory" /&gt;。
+
+=== 光電子増倍管破損事故とSuper-Kamiokande Ⅱ ===
+[[ファイル:Masatoshi Koshiba and Junichiro Koizumi 20030827.jpg|thumb|200px|2003年8月27日、[[東京大学]][[東京大学宇宙線研究所|宇宙線研究所]]神岡宇宙素粒子研究施設にて[[内閣総理大臣]][[小泉純一郎]]（右端）らにスーパーカミオカンデを説明する東京大学名誉教授[[小柴昌俊]]（左端）]]
+2001年11月12日11時01分、光電子増倍管の70%を損失するという大規模な破損事故が発生した。光電管[[爆縮]]時の[[衝撃波]]による連鎖破壊で、原因は補修作業時の負荷で基部にクラックが入ったためとされた&lt;ref&gt;{{Cite web |url=http://www-sk.icrr.u-tokyo.ac.jp/cause-committee/1st/report-nov22.pdf |title=スーパーカミオカンデ事故等報告（平成13年11月22現在） |accessdate=2015-12-04 |publisher=東京大学宇宙線研究所 |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304233426/http://www-sk.icrr.u-tokyo.ac.jp/cause-committee/1st/report-nov22.pdf}} &lt;/ref&gt;&lt;ref&gt;{{Cite web |url=https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/2019/07/ICRRnews48.pdf |title=スーパーカミオカンデ事故原因究明等委員会報告 |access-date=2022-07-05 |author=吉村太彦}}&lt;/ref&gt;&lt;ref&gt;{{Cite web
+| url= http://www2.kek.jp/ja/newskek/2002/janfeb/k2k.html
+| title= 衝撃の光センサー破損事故
+| accessdate=2015-12-04
+| publisher=高エネルギー加速器研究機構
+}} &lt;/ref&gt;。破壊された数量の光電子増倍管の生産には約4年を要するため、2002年光電子増倍管にプラスチックカバーを被せる防爆措置を行った上で、予備を加えた5,200本の光電子増倍管を再配置し、部分復旧された。これを「Super-Kamiokande II」と呼称する&lt;ref name=":10" /&gt;。この破損事故の震動は、近くの[[高感度地震観測網]] (Hi-net) 神岡観測点 (KOKH) において観測されている&lt;ref name="bosai" /&gt;。
+
+=== 完全復旧 (Super-Kamiokande Ⅲ) ===
+2005年7月より、スーパーカミオカンデの完全再建計画が[[文部科学省]]によって承認された。同年10月から観測を中止して破損光電管の交換作業を開始、2006年4月にほぼ完了した&lt;ref&gt;{{Cite web |title=スーパーカミオカンデ、中身はこうなってます - withnews（ウィズニュース） |url=https://withnews.jp/photo-gallery/1000000175/1?article=f0151006003qq000000000000000G0010901qq000012591A |website=withnews.jp |access-date=2022-07-04 |language=ja}}&lt;/ref&gt;。2006年7月11日に建造時と同数の光電管を備えた「Super-Kamiokande III」として観測を再開した&lt;ref name=":10" /&gt;。
+
+=== Super-Kamiokande IV ===
+2008年夏には、さらなる性能向上のために、信号読み出し回路の総入れ替えを行った&lt;ref name="icrrhistory" /&gt;。以降を「Super-Kamiokande IV」と呼ぶ&lt;ref name=":10" /&gt;。
+
+=== Super-Kamiokande V ===
+2018年、反電子ニュートリノに加えて中性子による信号を捉えるため純水に[[ガドリニウム]]を添加し新たな観測を行うための改修が行われた。この際12年ぶりにスーパーカミオカンデ内の水槽内部を報道陣に公開した&lt;ref&gt;{{Cite web |title=スーパーカミオカンデの水ぜんぶ抜いた 12年ぶり公開：朝日新聞デジタル |url=https://www.asahi.com/articles/ASL9B4KC0L9BOIPE00S.html?iref=ogimage_rek |website=朝日新聞デジタル |access-date=2022-07-06 |language=ja}}&lt;/ref&gt;。止水補強工事、タンク内配管の改良、不具合のある光電子増倍管の交換も実施した&lt;ref&gt;{{Cite web |title=スーパーカミオカンデ改修工事開始についての概要 |url=https://www-sk.icrr.u-tokyo.ac.jp/news/detail/459/ |website=東京大学宇宙線研究所付属神岡宇宙素粒子研究施設 |access-date=2022-07-06 |language=ja}}&lt;/ref&gt;。
+
+2019年1月より超純水による試運転を兼ねた観測が行われた。これ以降を「Super-Kamiokande V」と呼ぶ&lt;ref&gt;{{Cite journal|和書|title=SK-Vにおけるニュートリノ事象再構成性能の評価 |url=https://doi.org/10.11316/jpsgaiyo.75.1.0_499 |author=小川夏実, 他Super-Kamiokande Collaboration |journal=日本物理学会講演概要集 |volume=75.1 |issue=セッションID: 17pK16-4 |page=499 |year=2020 |doi=10.11316/jpsgaiyo.75.1.0_499 |publisher=日本物理学会 |access-date=2022-08-05}}&lt;/ref&gt;。2020年8月よりガドリニウム添加後の本格的な観測が始まった&lt;ref&gt;{{Cite web |title=スーパーカミオカンデへのガドリニウム追加を開始しました |url=https://www-sk.icrr.u-tokyo.ac.jp/news/detail/390/ |website=東京大学宇宙線研究所付属神岡宇宙素粒子研究施設 |access-date=2022-07-06 |language=ja}}&lt;/ref&gt;。
+
+=== 事業仕分けの影響 ===
+2009年11月、[[民主党 (日本 1998-2016)|民主党]]が行った[[行政刷新会議]][[事業仕分け (行政刷新会議)|事業仕分け]]において「国立大学運営費交付金(2)特別教育研究経費」の交付額についての評定がなされ、「廃止6名、縮減6名、要求どおり2名」となり予算の縮減が決定した&lt;ref&gt;{{Cite web |title=行政刷新会議、事業仕分け作業ワーキンググループが、「スーパーカミオカンデによるニュートリノ研究」を含む経費を予算縮減と評定 {{!}} ICRR {{!}} Institute for Cosmic Ray Research University of Tokyo |url=https://www.icrr.u-tokyo.ac.jp/news/2018/ |website=ICRR {{!}} Institute for Cosmic Ray Research University of Tokyo {{!}} マルチメッセンジャーの観測を通じ、宇宙の謎に迫ります |date=2009-11-26 |access-date=2022-07-05 |language=ja}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=東京大学宇宙線研究所付属神岡宇宙素粒子研究施設 |url=https://www-sk.icrr.u-tokyo.ac.jp/whatsnew/new-20091127.html |website=web.archive.org |date=2020-11-08 |access-date=2022-07-05 |archive-url=https://web.archive.org/web/20201108171338/https://www-sk.icrr.u-tokyo.ac.jp/whatsnew/new-20091127.html |archive-date=2020-11-08}}&lt;/ref&gt;。この評議では研究の意義などは一切議論されず、ただ単純に予算全体を一括して縮減すべきであるという判断がなされた。実験代表者の[[鈴木洋一郎]]は、予算の縮減による影響で観測が止まってしまう可能性もあり、そうなると稀有なニュートリノの検出を逃してしまうこと、測定器の質を維持できなくなることなどによって、世界トップとなった日本のニュートリノの研究のはずが二流、三流となってしまうと主張した&lt;ref name="icrr20091127" /&gt;。
+
+== 他の関連プロジェクト ==
+
+=== カミオカンデ、カムランド ===
+{{詳細記事|カミオカンデ|カムランド}}
+カミオカンデは、1983年から1996年まで東京大学宇宙線研究所により運用された。その後解体され、跡地に[[東北大学]]が[[反ニュートリノ]]検出器である[[カムランド]]を設置し2002年より運用を開始した&lt;ref&gt;{{Cite web |url=http://www.scienceweb.tohoku.ac.jp/publicj/wp-content/uploads/2009/01/scienceweb02.pdf |title=物質階層を紡ぐ科学フロンティアの新展開 |access-date=2022-07-06}}&lt;/ref&gt;。カミオカンデとは異なり体[[シンチレータ]]を用いた装置で、原子炉ニュートリノをはじめとした各種研究を行い成果を上げている&lt;ref&gt;{{Cite web |title=What Keeps the Earth Cooking? |url=https://newscenter.lbl.gov/2011/07/17/kamland-geoneutrinos/ |website=News Center |date=2011-07-17 |access-date=2022-07-06 |language=en-US |last=paulpreuss}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=KamLAND |url=https://www.awa.tohoku.ac.jp/kamland/About_KamLAND.html |website=www.awa.tohoku.ac.jp |access-date=2022-07-06}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=反ニュートリノ検出装置カムランド(KamLAND) |url=http://www.rada.or.jp/database/home4/normal/ht-docs/member/synopsis/040281.html#:~:text=%E5%8F%8D%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%83%8E%E6%A4%9C%E5%87%BA%E8%A3%85%E7%BD%AE%E3%82%AB%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%89(KamLAND)&amp;text=%E6%A6%82%E8%A6%81%20%EF%BC%9A,%E3%82%92%E8%AA%BF%E3%81%B9%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82 |website=www.rada.or.jp |access-date=2022-07-05}}&lt;/ref&gt;。
+
+=== ハイパーカミオカンデ ===
+{{詳細記事|ハイパーカミオカンデ}}
+スーパーカミオカンデをさらに上回る性能を持つ超大型地下実験装置[[ハイパーカミオカンデ]]計画が進行中である&lt;ref&gt;{{Cite web |title=プロジェクト報告 |url=https://www-sk.icrr.u-tokyo.ac.jp/hk/report/ |website=ハイパーカミオカンデ |access-date=2022-07-06 |language=ja}}&lt;/ref&gt;。2027年の実験開始を目指している&lt;ref name="chonnichi" /&gt;&lt;ref name="hk" /&gt;&lt;ref name=":15"&gt;{{Cite web |title=ハイパーカミオカンデの着工記念式典を開催 |url=https://www.u-tokyo.ac.jp/focus/ja/articles/z0208_00112.html |website=東京大学 |access-date=2022-07-05 |language=ja}}&lt;/ref&gt;。
+
+タンクの体積は26万トン、有効体積は19万トンでスーパーカミオカンデの約10倍となる&lt;ref name=":14"&gt;{{Cite web |title=ハイパーカミオカンデ概要 |url=https://www-sk.icrr.u-tokyo.ac.jp/hk/about/outline/ |website=ハイパーカミオカンデ |access-date=2022-07-06 |language=ja}}&lt;/ref&gt;。内水槽の側面には50cm径の超高感度光センサーが4万本取り付けられる予定である&lt;ref name=":14" /&gt;&lt;ref&gt;{{Cite web |title=検出器について |url=https://www-sk.icrr.u-tokyo.ac.jp/hk/about/detector/ |website=ハイパーカミオカンデ |access-date=2022-07-06 |language=ja}}&lt;/ref&gt;。ニュートリノと反ニュートリノの振動の違い（CP対称性の破れ）の発見と精密測定による宇宙の物質の起源の解明、ニュートリノ天文学のさらなる発展、陽子崩壊の発見による「素粒子の統一」と「電磁力・弱い力・強い力の統一」の証明を目的とする&lt;ref name=":14" /&gt;。
+
+2015年1月に13カ国の研究機関や大学が参加する国際共同研究グループが正式発足した&lt;ref&gt;{{Cite web |title=ハイパーカミオカンデ国際共同研究グループ結成記念シンポジウム及び調印式が開催されました |url=https://www2.kek.jp/ipns/ja/post/2015/01/hk-symposium/ |website=素核研 |date=2015-02-16 |access-date=2022-07-06 |language=ja}}&lt;/ref&gt;。
+
+2020年1月、ハイパーカミオカンデ計画の初年度予算35億円を含む2019年度補正予算が成立し&lt;ref&gt;{{Cite web |title=ハイパーカミオカンデ計画の開始について {{!}} ICRR {{!}} Institute for Cosmic Ray Research University of Tokyo |url=https://www.icrr.u-tokyo.ac.jp/news/8499/ |website=ICRR {{!}} Institute for Cosmic Ray Research University of Tokyo {{!}} マルチメッセンジャーの観測を通じ、宇宙の謎に迫ります |date=2020-02-12 |access-date=2022-07-06 |language=ja}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=https://www.mext.go.jp/kaigisiryo/content/000033178.pdf |title=令和2年度文部科学省予算(案)のポイント |access-date=2022-07-06 |author=研究振興局 |date=2020-02-12}}&lt;/ref&gt;、2021年5月に着工した&lt;ref name=":15" /&gt;&lt;ref&gt;{{Cite web |title=ハイパーカミオカンデ着工 3度目のノーベル賞に期待 |url=https://www.sankeibiz.jp/business/news/210528/cpc2105281746005-n1.htm |website=SankeiBiz |date=2021-05-28 |access-date=2022-07-06 |language=ja |first=SANKEI DIGITAL |last=INC}}&lt;/ref&gt;。
+
+2022年6月現在、アルメニア、ブラジル、カナダ、チェコ、フランス、ドイツ、インド、イタリア、日本、韓国、メキシコ、モロッコ、ポーランド、ロシア、スペイン、スウェーデン、スイス、イギリス、ウクライナ、アメリカの20ヶ国の研究者が参加している&lt;ref&gt;{{Cite web |title=共同研究機関 |url=https://www-sk.icrr.u-tokyo.ac.jp/hk/about/collaboration/ |website=ハイパーカミオカンデ |access-date=2022-07-06 |language=ja}}&lt;/ref&gt;。
+
+== 広報活動 ==
+スーパーカミオカンデ一般公開は年1回秋に行われてきた。2020年、2021年はオンラインで行われた&lt;ref&gt;{{Cite web |title=施設見学 |url=https://www-sk.icrr.u-tokyo.ac.jp/sk/experience/facility/ |website=スーパーカミオカンデ 公式ホームページ |access-date=2022-07-05 |language=ja}}&lt;/ref&gt;。
+
+2017年には広報と寄付募集のためにスーパーカミオカンデの[[ジグソーパズル]]を制作し、東大柏キャンパス一般公開や東大生協などで販売した&lt;ref&gt;{{Cite web |title=「激ムズです」東大発ニュートリノを感じる超難度ジグソーパズルが超クール |url=https://www.buzzfeed.com/jp/harunayamazaki/icrr-puzle |website=BuzzFeed |access-date=2022-07-05 |language=ja |first=Haruna |last=Yamazaki}}&lt;/ref&gt;。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+
+=== 出典 ===
+{{Reflist|2
+|refs=
+&lt;ref name="icrr"&gt;{{Cite web
+ |title=スーパーカミオカンデ概要
+ |url=https://www-sk.icrr.u-tokyo.ac.jp/sk/about/outline/
+ |website=スーパーカミオカンデ 公式ホームページ
+ |access-date=2022-07-04
+ |language=ja
+ |publisher=[[東京大学宇宙線研究所]]
+}}&lt;/ref&gt;
+&lt;ref name="icrrhistory"&gt;{{Cite web
+ |title=スーパーカミオカンデの歴史
+ |url=https://www-sk.icrr.u-tokyo.ac.jp/sk/about/history/
+ |accessdate=2022-07-04
+ |publisher=[[東京大学宇宙線研究所]]}}&lt;/ref&gt;
+&lt;ref name="icrr20091127"&gt;{{Cite web
+ |archiveurl=https://web.archive.org/web/20100108140910/http://www-sk.icrr.u-tokyo.ac.jp/whatsnew/new-20091127.html
+ |archivedate=2010-01-08
+ |title=行政刷新会議、事業仕分け作業ワーキンググループが、「スーパーカミオカンデによるニュートリノ研究」を含む経費を予算縮減と評定
+ |publisher=東京大学宇宙線研究所
+ |date=2009-11-26
+ |url=http://www-sk.icrr.u-tokyo.ac.jp/whatsnew/new-20091127.html
+ |accessdate=2022-07-04}}&lt;/ref&gt;
+&lt;ref name="chonnichi"&gt;{{cite news
+ | title = 「ハイパーカミオカンデ」実現へ 素粒子観測「スーパー」の20倍
+ | url = http://www.chunichi.co.jp/article/front/list/CK2015012902000241.html
+ | publisher = 中日新聞
+ | date = 2015-01-29
+ | accessdate = 2022-07-04
+ |archiveurl=https://web.archive.org/web/20150202020033/http://www.chunichi.co.jp/article/front/list/CK2015012902000241.html
+ |archivedate=2015-02-02}}&lt;/ref&gt;
+&lt;ref name="bosai"&gt;{{Cite web
+ |url=http://www.hinet.bosai.go.jp/topics/kam011112/
+ |title=Hi-netが観測したスーパーカミオカンデ事故による震動
+ |publisher=[[防災科学技術研究所]]
+ |accessdate=2022-07-04
+ |date=2011-11-22}}&lt;/ref&gt;
+&lt;ref name="hk"&gt;{{cite news
+ | title = ハイパーカミオカンデ
+ | url = https://www-sk.icrr.u-tokyo.ac.jp/hk/
+ | publisher = ハイパーカミオカンデ ホームページ
+ | accessdate = 2022-07-04}}&lt;/ref&gt;
+
+}}
+
+== 関連項目 ==
+* [[素粒子物理学]]
+* [[ニュートリノ検出器]]
+* [[戸塚洋二]]
+* [[大型ハドロン衝突型加速器]]
+
+== 外部リンク ==
+* [https://www-sk.icrr.u-tokyo.ac.jp/sk/ スーパーカミオカンデ 公式ホームページ]
+* [https://www-sk.icrr.u-tokyo.ac.jp/index.php 東京大学宇宙線研究所 神岡宇宙素粒子研究施設]
+* [http://neutrino.kek.jp/index-j.html K2K つくば-神岡間 長基線ニュートリノ振動実験（KEK-PS-E362）公式ホームページ]
+* {{youTube|T4iZaAGdi4s|スーパーカミオカンデの建設記録}}
+* {{youTube|2dXd_g9ZthM|失敗に学ぶ-泡が機械を破壊「スーパーカミオカンデの増倍管破損}}
+{{coord|36|25|N|137|18|E|region:JP|display=title}}
+
+{{DEFAULTSORT:すうはあかみおかんて}}
+[[Category:ニュートリノ観測所]]
+[[Category:素粒子物理学の施設]]
+[[Category:素粒子実験]]
+[[Category:地下研究所]]
+[[Category:岐阜県の研究所]]
+[[Category:天文学に関する記事]]
+[[Category:飛騨市の建築物]]
+[[Category:東京大学]]</text>
+      <sha1>40y0josed5icwnh55enmbt5axx7tnye</sha1>
+    </revision>
+  </page>
+  

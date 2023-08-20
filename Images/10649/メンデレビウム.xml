@@ -1,0 +1,164 @@
+<page>
+    <title>メンデレビウム</title>
+    <ns>0</ns>
+    <id>10649</id>
+    <revision>
+      <id>94312612</id>
+      <parentid>92874216</parentid>
+      <timestamp>2023-03-16T03:53:16Z</timestamp>
+      <contributor>
+        <username>Kanto Yamasaki</username>
+        <id>1091654</id>
+      </contributor>
+      <minor />
+      <comment>誤字の修正</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="40434" xml:space="preserve">{{Elementbox
+|name=mendelevium
+|japanese name=メンデレビウム
+|pronounce={{IPAc-en|icon|ˌ|m|ɛ|n|d|ə|ˈ|l|ɛ|v|i|əm}}&lt;br /&gt;{{IPAc-en|ˌ|m|ɛ|n|d|ə|ˈ|l|iː|v|i|əm}}
+|number=101
+|symbol=Md
+|left=[[フェルミウム]]
+|right=[[ノーベリウム]]
+|above=[[ツリウム|Tm]]
+|below=[[ウンペントウニウム|Upu]]
+|series=アクチノイド
+|group=n/a
+|period=7
+|block=f
+|appearance=不明
+|atomic mass=[258]
+|electron configuration=&amp;#91;[[ラドン|Rn]]&amp;#93; 5f&lt;sup&gt;13&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;
+|electrons per shell=2, 8, 18, 32, 31, 8, 2
+|phase=固体
+|melting point K=1100
+|melting point C=827
+|oxidation states=2, '''3'''
+|electronegativity=1.3
+|number of ionization energies=1
+|1st ionization energy=635
+|magnetic ordering=no data
+|CAS number=7440-11-1
+|isotopes=
+{{Elementbox_isotopes_decay3 | mn=[[メンデレビウム257|257]] | sym=Md
+ | na=[[人工放射性同位体|syn]] | hl=[[1 E4 s|5.52 h]]
+ | dm1=[[電子捕獲|ε]] | de1=0.406 | pn1=[[フェルミウム257|257]] | ps1=[[フェルミウム|Fm]]
+ | dm2=[[アルファ崩壊|α]] | de2=7.558 | pn2=[[アインスタイニウム253|253]] | ps2=[[アインスタイニウム|Es]]
+ | dm3=[[自発核分裂|SF]] | de3=- | pn3= | ps3=-}}
+{{Elementbox_isotopes_decay | mn=[[メンデレビウム258|258]] | sym=Md
+ | na=[[人工放射性同位体|syn]] | hl=[[1 E6 s|51.5 d]]
+ | dm=[[電子捕獲|ε]] | de=1.230 | pn=[[フェルミウム258|258]] | ps=[[フェルミウム|Fm]]}}
+{{Elementbox_isotopes_decay4 | mn=[[メンデレビウム260|260]] | sym=Md
+ | na=[[人工放射性同位体|syn]] | hl=[[1 E6 s|31.8 d]]
+ | dm1=[[自発核分裂|SF]] | de1=- | pn1= | ps1=-
+ | dm2=[[アルファ崩壊|α]] | de2=7.000 | pn2=[[アインスタイニウム256|256]] | ps2=[[アインスタイニウム|Es]]
+ | dm3=[[電子捕獲|ε]] | de3=- | pn3=[[フェルミウム260|260]] | ps3=[[フェルミウム|Fm]]
+ | dm4=[[ベータ崩壊|β&lt;sup&gt;-&lt;/sup&gt;]] | de4=1.000 | pn4=[[ノーベリウム260|260]] | ps4=[[ノーベリウム|No]]}}
+|isotopes comment=
+|covalent radius=173|melting point F=1521}}
+'''メンデレビウム'''（{{lang-en-short|mendelevium}} {{IPA-en|ˌmɛndəˈlɛviəm, -ˈliːviəm|}}）は、[[原子番号]]101の[[元素]]。[[元素記号]]は '''Md'''。[[アクチノイド]]系列の金属放射性[[超ウラン元素]]であり、今日、より軽い元素の[[中性子]]の衝突により巨視的量精製することができない元素のうち、原子番号が最も小さい元素である。最後から3番目のアクチノイドであり、9番目の超ウラン元素である。軽い元素に荷電粒子を衝突させることによってのみ、[[粒子加速器]]で生成することができる。17個の[[メンデレビウムの同位体]]が知られており、最も安定であるのは&lt;sup&gt;258&lt;/sup&gt;Mdで[[半減期]]は51日である。しかし、より半減期の短い&lt;sup&gt;256&lt;/sup&gt;Md（半減期1.17時間）はより大規模に生産できるため、化学において最も一般的に使用される。
+
+メンデレビウムは1955年に[[アインスタイニウム]]に[[アルファ粒子]]を衝突させることにより発見された。これは今日でも生産するのに使われる方法と同じである。名前は[[周期表]]の父である[[ドミトリー・メンデレーエフ]]にちなんで名づけられた。使用可能なマイクログラム量の同位体アインスタイニウム253を使用すると、1時間に100万以上のメンデレビウム原子が生成される可能性がある。メンデレビウムの化学的性質は後半のアクチノイドの典型であり、+3の酸化状態が優勢であるが+2もとることができる。知られている全ての同位体は比較的半減期が短い。現在、基礎的な科学研究以外での用途はなく、少量しか生産されていない。
+
+==発見==
+[[File:Berkeley 60-inch cyclotron.jpg|thumb|upright=0.7|left|[[カリフォルニア大学バークレー校]]のローレンス放射線研究所の60インチのサイクロトロン（1939年8月）|alt=2人のオペレーターが横に座っている重機械の白黒写真]]
+メンデレビウムは、合成された9番目の[[超ウラン元素]]である。1955年初頭にカリフォルニア大学バークレー校にて[[アルバート・ギオルソ]]、[[グレン・シーボーグ]]、[[:en:Gregory Robert Choppin|Gregory Robert Choppin]]、Bernard G. Harvey、およびチームリーダーの[[:en:Stanley G. Thompson|Stanley G. Thompson]]により最初に合成された。チームは[[ローレンス・バークレー国立研究所]]の60インチの[[サイクロトロン]]で10億個(10&lt;sup&gt;9&lt;/sup&gt;個)の[[アインスタイニウム]](&lt;sup&gt;253&lt;/sup&gt;Es)のターゲットに[[アルファ粒子]]（ヘリウム原子核）を衝突させることでターゲットの原子番号を2大きくし&lt;sup&gt;256&lt;/sup&gt;Md（[[半減期]]77分&lt;ref name="NUBASE2003"/&gt;）を生成した。これにより&lt;sup&gt;256&lt;/sup&gt;Mdは1つの原子から1ずつ合成された最初の同位体となった。合計で17個のメンデレビウム原子が生成された&lt;ref name=discovery&gt;{{cite book|doi=10.1103/PhysRev.98.1518|url=https://books.google.com/books?id=e53sNAOXrdMC&amp;pg=PA101|title=New Element Mendelevium, Atomic Number 101|date=1955|last1=Ghiorso|first1=A.|last2=Harvey|first2=B.|last3=Choppin|first3=G.|last4=Thompson|first4=S.|last5=Seaborg|first5=Glenn T.|journal=Physical Review|volume=98|pages=1518–1519|bibcode = 1955PhRv...98.1518G|isbn=9789810214401|issue=5 }}&lt;/ref&gt;。この発見は1952年に始まった[[プルトニウム]]に中性子を照射してより重いアクチノイドに変えるプログラムの一部であった&lt;ref name="Choppin"&gt;{{cite journal|first = Gregory R.|last = Choppin|date = 2003 |title = Mendelevium|journal = Chemical and Engineering News|url = http://pubs.acs.org/cen/80th/mendelevium.html|volume = 81|issue = 36}}&lt;/ref&gt;。それ以前に超ウラン元素を合成するために使用された方法である中性子捕獲は。次の元素であるメンデレビウムを生成する[[ベータ崩壊]]する[[フェルミウムの同位体]]が知られていなかったため上手くいかず、また、&lt;sup&gt;258&lt;/sup&gt;[[フェルミウム|Fm]]の[[自発核分裂]]までの半減期は非常に短く、このことが中性子捕獲プロセスの成功を難しくしていたため、この方法が必要であった&lt;ref name="NUBASE2003"/&gt;。
+{{External media
+| align= left
+| video1= [https://www.youtube.com/watch?v=DrssJRb301k バークレーにおけるメンデレビウムの発見の再現]
+}}
+メンデレビウムの生成が可能かどうかを予測するために、チームは大まかな計算を行った。生成される原子の数は、ターゲット材料の原子数、ターゲットの断面積、イオンビームの強度、および衝撃時間の積とほぼ等しくなる。この最後の項は生成物の半減期のオーダーの時間で衝突させたときの生成物の半減期に関連していた。これにより1実験ごとに1つの元素が得られることが分かった。よって、最適条件下では、1回の実験で原子番号101の1つの元素が生成されることが期待される。この計算により実験が実行可能であることが示された&lt;ref name=discovery/&gt;。ターゲット材料であるアインスタイニウム253は[[プルトニウム]]に照射することで簡単に生成することができた。1年間照射することで10億個の原子が得られ、[[半減期]]が3週間であることから原子番号101の実験は生成されたアインスタイニウムを分離精製しターゲットを作成した後1週間で行うことができた。しかし、毎秒10&lt;sup&gt;14&lt;/sup&gt;個のアルファ粒子という強度を得るためにサイクロトロンをアップデートする必要があった。そのためシーボーグは資金を申請する必要があった&lt;ref name=Choppin/&gt;。
+
+{{ external media | align=left | image1 = [[:en:File:Md datasheet.jpg|メンデレビウムの発見を証明するスタイラスのトレースとメモを示すデータシート]]}}
+シーボーグが資金の申請をしている間、Harveyはアインスタイニウムのターゲットに取り組み、ThomsonとChoppinは化学的分離の方法に焦点を合わせ研究した。Choppinは軽いアクチノイドの原子からメンデレビウム原子を分離するために[[αヒドロキシイソ酪酸]]を使用することを提案した&lt;ref name=Choppin/&gt;。実際の合成はギオルソにより導入された反跳法により行われた。この手法では、アインスタイニウムがビームのターゲットの反対側に配置されたため、反跳するメンデレビウム原子はターゲットを離れ金でできたキャッチャー箔により捕らえられるのに十分な[[運動量]]を得る。この反跳ターゲットは、Alfred Chetham-Strodeにより開発された電気めっき法により作られた。この方法は非常に高い収率をもたらし、アインスタイニウムのターゲット材料などの珍しく貴重な生成物を研究する際に絶対的に必要なものであった&lt;ref name=discovery/&gt;。反跳ターゲットは、薄い金箔上に電解的に堆積された&lt;sup&gt;253&lt;/sup&gt;Esの10&lt;sup&gt;9&lt;/sup&gt;個の原子で構成されていた。これにバークレーのサイクロトロン内で41&amp;nbsp;[[MeV]]の[[アルファ粒子]]が、0.05&amp;nbsp;cm&lt;sup&gt;2&lt;/sup&gt;の面積で毎秒6×10&lt;sup&gt;13&lt;/sup&gt;粒子という非常に高いビーム密度で当てられた。ターゲットは水または[[液体ヘリウム]]で冷却され、箔は交換することができた&lt;ref name=discovery/&gt;&lt;ref name=book1&gt;{{cite book|url=https://books.google.com/books?id=4KcVj3xqsrAC&amp;pg=PA40|pages=40–42|title=On beyond uranium: journey to the end of the periodic table|author=Hofmann, Sigurd|publisher=CRC Press|isbn=978-0-415-28496-7|date=2002}}&lt;/ref&gt;。
+
+最初の実験は1954年9月に行われた。メンデレビウム原子からはアルファ崩壊は見られず、ゆえにギオルソはメンデレビウムは全て[[電子捕獲]]により崩壊して[[フェルミウム]]になり、代わりに実験を繰り返して、[[自発核分裂]]の事象を探す必要があることを提案した&lt;ref name=Choppin/&gt;。繰り返しの実験は1955年2月に行われた&lt;ref name=Choppin/&gt;。
+
+[[File:DIMendeleevCab.jpg|thumb|right|この元素は[[ドミトリー・メンデレーエフ]]にその名を由来する。]]
+発見した日である2月19日にはアインスタイニウムのターゲットのアルファ線照射が3時間のセッションで3度生じた。サイクロトロンは[[カリフォルニア大学]]のキャンパスにあり、放射線研究所は隣の丘にあったため、この状況を対処するために複雑な手順が使われた。ギオルソはキャッチャー箔（3つのターゲットと3つの箔があった）をサイクロトロンからハーベイに渡し、彼は[[王水]]を使用してそれを溶解し、[[陰イオン]]交換[[樹脂]]カラムに通し金や他の生成物から[[超ウラン元素]]を分離した&lt;ref name=Choppin/&gt;&lt;ref name=book2&gt;{{cite book|url=https://archive.org/details/newchemistry00hall|url-access=registration|pages=[https://archive.org/details/newchemistry00hall/page/9 9]–11|title=The new chemistry|author=Hall, Nina|publisher=Cambridge University Press|date=2000|isbn=978-0-521-45224-3}}&lt;/ref&gt;。結果として生じた滴が[[試験管]]に入り、Choppinとギオルソはそれをできるだけ早く放射線研究所に運ぶために車で移動した。そこでThompsonとChoppinは[[陽イオン]]交換樹脂カラムとαヒドロキシイソ酪酸を使用した。溶液の滴を[[白金]]のディスクに集め、加熱ランプ下で乾燥させた。3つのディスクにはそれぞれフェルミウム、新しい元素なし、メンデレビウムが含まれていると予想されていた。最終的にそれらは自発核分裂の事象が崩壊の数と時間を示すグラフの巨大なふれとして記録されるように、レコーダーに接続された独自のカウンターに設置された。したがって、直接的には検出されなかったが、電子捕獲娘の&lt;sup&gt;256&lt;/sup&gt;Fmから生じる自発核分裂の事象が観測された。最初の1つは「フレー」という声とともに同定され、その後「2番目のフレー」と「3番目のフレー」が続いた。4番目のものにより最終的に公式に101番目の元素であるメンデレビウムの化学的同定が証明された。合計で午前4時までに5つの崩壊が報告された。シーボーグはこのことが知らされ、チームは眠りについた&lt;ref name=Choppin/&gt;。さらなる分析と実験により生成されたメンデレビウム同位体は質量256であり、電子捕獲により半減期1.5時間でフェルミウム256に崩壊することが示された&lt;ref name="NUBASE2003"/&gt;。
+
+{{quotation|We thought it fitting that there be an element named for the Russian chemist Dmitri Mendeleev, who had developed the periodic table. In nearly all our experiments discovering transuranium elements, we'd depended on his method of predicting chemical properties based on the element's position in the table. But in the middle of the Cold War, naming an element for a Russian was a somewhat bold gesture that did not sit well with some American critics.&lt;ref name="名前なし-1"&gt;[http://www.vanderkrogt.net/elements/element.php?sym=Md 101. Mendelevium - Elementymology &amp; Elements Multidict]. Peter van der Krogt.&lt;/ref&gt;|Glenn T. Seaborg}}
+
+{{quotation|（日本語訳）われわれは周期表を発展させたドミトリー・メンデレーエフにちなんで名付けられた元素があるのはふさわしいことだと考えた。超ウラン元素を発見するほとんどすべての実験において、われわれは周期表内の元素の位置に基づいて化学的性質を予測する彼の手法に依存していた。しかし、冷戦の真っただ中に元素にロシア人の名前をつけることは、一部のアメリカの批評家にとっては納得できないやや大胆な振る舞いであった&lt;ref name="名前なし-1"/&gt;。|Glenn T. Seaborg}}
+
+これは原子番号101以上の最初の元素であり、[[周期表]]の父であるロシアの化学者[[ドミトリー・メンデレーエフ]]にちなんで「メンデレビウム」と命名されることになった。この発見は[[冷戦]]中に行われたため、シーボーグはこの元素をロシア人にちなんで命名することを提案するように[[米国]]政府の許可を求める必要があったが、その後許可された&lt;ref name=Choppin/&gt; {{Anchors|rename}}。「メンデレビウム」という名称は1955年に記号"Mv"で[[IUPAC]]により承認され&lt;ref&gt;{{cite book |title=Comptes rendus de la confèrence IUPAC|date=1955|url=https://books.google.com/books?id=WJhYAAAAYAAJ |last1=Chemistry |first1=International Union of Pure and Applied}}&lt;/ref&gt;、次のIUPACの総会（パリ、1957年）で"Md"に変更された&lt;ref&gt;{{cite book |title=Comptes rendus de la confèrence IUPAC|date=1957|url=https://books.google.com/books?id=f5hYAAAAYAAJ |last1=Chemistry |first1=International Union of Pure and Applied}}&lt;/ref&gt;。
+
+==特徴==
+
+===物理的特性===
+[[File:Fblock fd promotion energy.png|thumb|upright=1.6|right|fブロックランタノイドとアクチノイドのf電子をd亜殻に昇位するために必要なエネルギー。約210&amp;nbsp;kJ/molを超えるとこのエネルギーは高すぎて3価状態の[[結晶エネルギー]]が大きくなるため、アインスタイニウム、フェルミウム、メンデレビウムはランタノイドの[[ユーロピウム]]や[[イッテルビウム]]などと同様に2価の金属を形成する（ノーベリウムも2価の金属を形成すると予想されているが未だ確認されていない）&lt;ref&gt;{{cite book|first = Richard G.|last = Haire|ref=Haire|contribution = Einsteinium|title = The Chemistry of the Actinide and Transactinide Elements|editor1-first = Lester R.|editor1-last = Morss|editor2-first = Norman M.|editor2-last = Edelstein|editor3-first = Jean|editor3-last = Fuger|edition = 3rd|date = 2006|volume = 3|publisher = Springer|location = Dordrecht, the Netherlands|pages = 1577–1620|url = http://radchem.nevada.edu/classes/rdch710/files/einsteinium.pdf|doi = 10.1007/1-4020-3598-5_12|isbn = 978-1-4020-3555-5}}&lt;/ref&gt;。]]
+[[周期表]]において、メンデレビウムはアクチノイドの[[フェルミウム]]の右、アクチノイドの[[ノーベリウム]]の左、ランタノイドの[[ツリウム]]の下に位置する。メンデレビウム金属はまだバルク量精製されておらず、バルク量の精製は現在不可能である&lt;ref name=Silva16345&gt;Silva, pp. 1634–5&lt;/ref&gt;。そうではあるが、その特性に関していくつかの予測といくつかの予備実験の結果が行われている&lt;ref name=Silva16345/&gt;。
+
+ランタノイドとアクチノイドは金属状態では2価（[[ユーロピウム]]や[[イッテルビウム]]など）または3価（他のほとんどのランタノイド）の金属として存在することができる。前者はf&lt;sup&gt;''n''&lt;/sup&gt;d&lt;sup&gt;1&lt;/sup&gt;s&lt;sup&gt;2&lt;/sup&gt;配置であり、後者はf&lt;sup&gt;''n''+1&lt;/sup&gt;s&lt;sup&gt;2&lt;/sup&gt;配置である。1975年にJohanssonとRosengrenは金属[[ランタノイド]]と[[アクチノイド]]の[[凝集エネルギー]]（結晶化の[[エンタルピー]]）の測定値と予測値を、ともに2価金属と3価金属として調べた&lt;ref name=Silva16268&gt;Silva, pp. 1626–8&lt;/ref&gt;&lt;ref&gt;{{cite journal|doi=10.1103/PhysRevB.11.2836|title=Generalized phase diagram for the rare-earth elements: Calculations and correlations of bulk properties|date=1975|last1=Johansson|first1=Börje|last2=Rosengren|first2=Anders|journal=Physical Review B|volume=11|pages=2836–2857|bibcode = 1975PhRvB..11.2836J|issue=8 }}&lt;/ref&gt;。結論は、メンデレビウムの[Rn]5f&lt;sup&gt;13&lt;/sup&gt;7s&lt;sup&gt;2&lt;/sup&gt;配置よりも[Rn]5f&lt;sup&gt;12&lt;/sup&gt;6d&lt;sup&gt;1&lt;/sup&gt;7s&lt;sup&gt;2&lt;/sup&gt;配置で結合エネルギーの増加分は、ずっと後半のアクチノイドにもあてはまるように1つの5f電子を6dに昇位させるのに必要なエネルギーを補償するには不十分であった。それゆえ、[[アインスタイニウム]]、[[フェルミウム]]、メンデレビウム、[[ノーベリウム]]は2価の金属であると予想されていた&lt;ref name=Silva16268/&gt;。アクチノイド系列が終わるずっと前に2価状態の優位性が増加しているのは、原子番号の増加と共に増加する5f電子の[[相対論]]的安定化に起因する&lt;ref&gt;{{cite book|doi=10.1021/bk-1980-0131.ch012|title=Lanthanide and Actinide Chemistry and Spectroscopy|volume=131|pages=[https://archive.org/details/lanthanideactini0000unse/page/239 239–263]|date=1980|isbn=9780841205680|author=Hulet, E. K.|editor=Edelstein, Norman M.|chapter=Chapter 12. Chemistry of the Heaviest Actinides: Fermium, Mendelevium, Nobelium, and Lawrencium|series=ACS Symposium Series|chapter-url=https://archive.org/details/lanthanideactini0000unse|url=https://archive.org/details/lanthanideactini0000unse/page/239}}&lt;/ref&gt;。1976年から1982年までZvaraとHübenerによる微量のメンデレビウムを用いた[[熱クロマトグラフィー]]研究により、この予測が確認された&lt;ref name=Silva16345/&gt;。1990年、HaireとGibsonはメンデレビウム金属は134から142&amp;nbsp;kJ/molの間の昇華のエンタルピーを持っていると推定した&lt;ref name=Silva16345/&gt;。2価メンデレビウム金属の[[金属半径]]は約{{val|194|10|u=[[ピコメートル|pm]]}}でなければならない&lt;ref name=Silva16345/&gt;。他の2価の後半のアクチノイドと同様に（再度3価の[[ローレンシウム]]を除く）、金属メンデレビウムは[[立方晶系|面心立方結晶]]構造をとるはずである&lt;ref name=density&gt;{{cite journal |last=Fournier |first=Jean-Marc |date=1976 |title=Bonding and the electronic structure of the actinide metals |journal=Journal of Physics and Chemistry of Solids |volume=37 |issue=2 |pages=235–244 |doi=10.1016/0022-3697(76)90167-0|bibcode=1976JPCS...37..235F }}&lt;/ref&gt;。融点は827&amp;nbsp;°Cと推定されており、隣接する元素であるノーベリウムで予測されたものと同じ値である&lt;ref&gt;{{cite book|ref=Haynes|editor=Haynes, William M.|date=2011|title= CRC Handbook of Chemistry and Physics |edition=92nd|publisher= CRC Press|isbn=978-1439855119|pages=4.121–4.123}}&lt;/ref&gt;。密度は約{{val|10.3|0.7|u=g/cm&lt;sup&gt;3&lt;/sup&gt;}}であると予測されている&lt;ref name=density/&gt;。
+
+===化学的特性===
+メンデレビウムの化学的特性はほとんどが溶液中でのみ知られており、+3または+2の[[酸化数]]をとることができる。+1の状態も報告されているが、まだ確認されていない&lt;ref name=Silva16356&gt;Silva, pp. 1635–6&lt;/ref&gt;。
+
+メンデレビウムが発見される前に、[[グレン・シーボーグ]]とKatzはそれが主に水溶液中で3価であるべきであり、したがって他の3陽性のランタノイドとアクチノイドと同様に振る舞うべきであると予測した。1955年にメンデレビウムが合成された後、これらの予測が確認された。1955年にメンデレビウムが合成された後、これらの予測が確認された。最初は樹脂の陽イオン交換カラムからの3価アクチノイド溶出順序でフェルミウムの直後に読王出したことが発見され、後の1967年にはメンデレビウムが3価のランタノイド塩と共沈する不溶性の[[水酸化物]]及び[[フッ化物]]を形成する可能性があることが観察された&lt;ref name=Silva16356/&gt;。陽イオン交換及び溶媒抽出の研究により、メンデレビウムがそれより前のアクチノイドであるフェルミウムよりもイオン半径がやや小さい3価のアクチノイドであるという結論にいたった&lt;ref name=Silva16356/&gt;。メンデレビウムは1,2-シクロヘキサンジニトリロ四酢酸(DCTA)と配位[[錯体]]を形成することができる&lt;ref name=Silva16356/&gt;。
+
+還元条件では、メンデレビウム(III)は、水溶液中で安定なメンデレビウム(II)に容易に還元される&lt;ref name=Silva16356/&gt;。''E''°(Md&lt;sup&gt;3+&lt;/sup&gt;→Md&lt;sup&gt;2+&lt;/sup&gt;)の標準還元電位は1967年に−0.10&amp;nbsp;V や −0.20&amp;nbsp;Vとさまざまに推定された&lt;ref name=Silva16356/&gt;。2013年以降の実験では、値は{{val|−0.16|0.05|u=V}}と確立された&lt;ref&gt;
+{{cite journal |last1=Toyoshima |first1=Atsushi |last2=Li |first2=Zijie |first3=Masato |last3=Asai |first4=Nozomi |last4=Sato |first5=Tetsuya K. |last5=Sato |first6=Takahiro |last6=Kikuchi |first7=Yusuke |last7=Kaneya |first8=Yoshihiro |last8=Kitatsuji |first9=Kazuaki |last9=Tsukada |first10=Yuichiro |last10=Nagame |first11=Matthias |last11=Schädel |first12=Kazuhiro |last12=Ooe |first13=Yoshitaka |last13=Kasamatsu |first14=Atsushi |last14=Shinohara |first15=Hiromitsu |last15=Haba |first16=Julia |last16=Even |date=11 October 2013 |title=Measurement of the Md&lt;sup&gt;3+&lt;/sup&gt;/Md&lt;sup&gt;2+&lt;/sup&gt; Reduction Potential Studied with Flow Electrolytic Chromatography |journal=Inorganic Chemistry |volume=52 |issue=21 |pages=12311–3 |doi=10.1021/ic401571h|pmid=24116851 }}&lt;/ref&gt;。比較すると、''E''°(Md&lt;sup&gt;3+&lt;/sup&gt;→Md&lt;sup&gt;0&lt;/sup&gt;) は約−1.74&amp;nbsp;Vであり、''E''°(Md&lt;sup&gt;2+&lt;/sup&gt;→Md&lt;sup&gt;0&lt;/sup&gt;) は約−2.5&amp;nbsp;Vであるべきである&lt;ref name=Silva16356/&gt;。メンデレビウム(II)の溶出挙動は、[[ストロンチウム]](II)及び[[ユウロピウム]](II)の溶出挙動と比較されている&lt;ref name=Silva16356/&gt;。
+
+1973年、メンデレビウム(I)はロシアの科学者たちによって、より高い酸化状態メンデレビウムを[[サマリウム]](II)で還元することで得たと報告された。これは中性の水-[[エタノール]]溶液中で安定であり、[[セシウム]](I)と同族であることがわかった。しかし、その後の実験ではメンデレビウム(I)の証拠は見つからず、メンデレビウムは還元されると一価の[[アルカリ金属]]ではなく二価の元素のように振る舞うことが分かった&lt;ref name=Silva16356/&gt;。それにもかかわらず、ロシアのチームはメンデレビウムをアルカリ金属の[[塩化物]]と共結晶化する[[熱力学]]についてさらに研究を行い、メンデレビウム(I)が形成され、二価の元素と混合結晶を形成し、それらと共結晶化すると結論付けた。+1の酸化状態は未だ仮説である&lt;ref name=Silva16356/&gt;。
+
+''E''°(Md&lt;sup&gt;4+&lt;/sup&gt;→Md&lt;sup&gt;3+&lt;/sup&gt;) は1975年に+5.4&amp;nbsp;Vと予測され、このことはメンデレビウム(III)がメンデレビウム(IV)に酸化される可能性があることを示唆しているが、強力な酸化剤である[[ビスマス酸ナトリウム]]を使用した1967年の実験ではメンデレビウム(III)をメンデレビウム(IV)に酸化することができなかった&lt;ref name=Silva16356/&gt;。
+
+===原子的性質===
+メンデレビウム原子には101個の電子があり、そのうち少なくとも3個（そしておそらく4個）が[[価電子]]として機能する。これは電子配置[Rn]5f&lt;sup&gt;13&lt;/sup&gt;7s&lt;sup&gt;2&lt;/sup&gt;（基底状態の[[項記号]]&lt;sup&gt;2&lt;/sup&gt;F&lt;sub&gt;7/2&lt;/sub&gt;）と予想されるが、この電子配置の実験的検証は2006年の時点ではまだ行われていない&lt;ref name=Silva16334&gt;Silva, pp. 1633–4&lt;/ref&gt;。化合物を形成する際に、3個の価電子が失われ、[Rn]5f&lt;sup&gt;12&lt;/sup&gt;コアが残る場合があるが、これは+3状態の[Rn]&amp;nbsp;5f&lt;sup&gt;''n''&lt;/sup&gt;電子配置を持つ他のアクチノイドにより定められた傾向に一致する。メンデレビウムの最初の[[イオン化ポテンシャル]]は、7s電子が5f電子より前にイオン化するという仮定に基づいて、1974年に最大(6.58&amp;nbsp;±&amp;nbsp;0.07)&amp;nbsp;[[電子ボルト|eV]]であると測定された&lt;ref name=NIST&gt;{{cite journal|first1=W. C. |last1=Martin |first2=Lucy |last2=Hagan |first3=Joseph |last3=Reader |first4=Jack |last4=Sugan |date=1974 |title=Ground Levels and Ionization Potentials for Lanthanide and Actinide Atoms and Ions |url=https://www.nist.gov/data/PDFfiles/jpcrd54.pdf |journal=J. Phys. Chem. Ref. Data |volume=3 |issue=3 |pages=771–9 |accessdate=2013-10-19 |doi=10.1063/1.3253147 |url-status=dead |archiveurl=https://web.archive.org/web/20140211144635/https://www.nist.gov/data/PDFfiles/jpcrd54.pdf |archivedate=2014-02-11 |bibcode=1974JPCRD...3..771M }}&lt;/ref&gt;。この値は、その後メンデレビウムの希少性と高い放射性のために、さらなる精度の向上はない&lt;ref&gt;David R. Lide (ed), ''CRC Handbook of Chemistry and Physics, 84th Edition''. CRC Press. Boca Raton, Florida, 2003; Section 10, Atomic, Molecular, and Optical Physics; Ionization Potentials of Atoms and Atomic Ions&lt;/ref&gt;。[[配位数|六配位]]のMd&lt;sup&gt;3+&lt;/sup&gt;のイオン半径は、1978年に事前に約91.2&amp;nbsp;pmと推定されていた&lt;ref name=Silva16356/&gt;。[[分配係数]]とイオン半径の間の対数傾向に基づく1988年の計算により、{{val|−3654|12|u=kJ/mol}}の水和エンタルピーとともに、89.6pmというイオン半径が算出された&lt;ref name=Silva16356/&gt;。Md&lt;sup&gt;2+&lt;/sup&gt;のイオン半径は115&amp;nbsp;pm、水和エンタルピーが−1413&amp;nbsp;kJ/molである必要があり、Md&lt;sup&gt;+&lt;/sup&gt;のイオン半径は117&amp;nbsp;pmである必要がある&lt;ref name=Silva16356/&gt;。
+
+===同位体===
+{{main|メンデレビウムの同位体}}
+
+メンデレビウムの同位体は、質量数が244から260まで17個知られており、全てが放射性である&lt;ref name=Silva16301&gt;Silva, pp. 1630–1&lt;/ref&gt;。さらに、5つの[[核異性体]]、&lt;sup&gt;245m&lt;/sup&gt;Md, &lt;sup&gt;247m&lt;/sup&gt;Md, &lt;sup&gt;249m&lt;/sup&gt;Md, &lt;sup&gt;254m&lt;/sup&gt;Md, および&lt;sup&gt;258m&lt;/sup&gt;Mdが知られている&lt;ref name="NUBASE2003"/&gt;&lt;ref name=unc&gt;{{cite web |url=http://www.nucleonica.net/unc.aspx |title=Universal Nuclide Chart |author=Nucleonica |date=2007–2014 |website=Nucleonica |accessdate=22 May 2011}}&lt;/ref&gt;。これらのうち、半減期が最長の同位体は&lt;sup&gt;258&lt;/sup&gt;Mdで、51.5日であり、半減期が最長の異性体は&lt;sup&gt;258m&lt;/sup&gt;Mdで58.0分である&lt;ref name="NUBASE2003"&gt;{{citation |title=The N&lt;small&gt;UBASE&lt;/small&gt; evaluation of nuclear and decay properties |doi=10.1016/j.nuclphysa.2003.11.001 |last1=Audi |first1=Georges |last2=Bersillon |first2=Olivier |last3=Blachot |first3=Jean |last4=Wapstra |first4=Aaldert Hendrik |authorlink4=Aaldert Wapstra |journal=Nuclear Physics A |volume=729 |pages=3–128 |year=2003 |url=&lt;!-- dead: http://amdc.in2p3.fr/nubase/Nubase2003.pdf --&gt;https://hal.archives-ouvertes.fr/in2p3-00020241/document |bibcode=2003NuPhA.729....3A}}&lt;/ref&gt;&lt;ref name=unc/&gt;。それにもかかわらず、半減期の短い&lt;sup&gt;256&lt;/sup&gt;Md（1.17時間）は、アインスタイニウムの[[アルファ粒子]]照射から大量に生成できるため、化学実験でより頻繁に使用される&lt;ref name=Silva16301/&gt;。&lt;sup&gt;258&lt;/sup&gt;Mdの次に安定したメンデレビウムの同位体は、半減期が31.8日の&lt;sup&gt;260&lt;/sup&gt;Md、5.52時間の&lt;sup&gt;257&lt;/sup&gt;Md、1.60時間の&lt;sup&gt;259&lt;/sup&gt;、1.17時間の&lt;sup&gt;256&lt;/sup&gt;Mdである。残りのメンデレビウムの同位体はすべて半減期が1時間未満であり、大部分は5分未満である&lt;ref name="NUBASE2003"/&gt;&lt;ref name=Silva16301/&gt;&lt;ref name=unc/&gt;。
+
+メンデレビウムの同位体の半減期は、ほとんどが&lt;sup&gt;244&lt;/sup&gt;Md以降滑らかに増加し、&lt;sup&gt;258&lt;/sup&gt;Mdで最大となる&lt;ref name="NUBASE2003"/&gt;&lt;ref name=Silva16301/&gt;&lt;ref name=unc/&gt;。実験と予測によると、半減期は半減期が31.8日の&lt;sup&gt;260&lt;/sup&gt;Md以降は減少する&lt;ref name="NUBASE2003"/&gt;&lt;ref name=Silva16301/&gt;&lt;ref name=unc/&gt;。これは、[[アクチノイド]]系列において長寿命原子核の[[安定の島|相対的安定の島]]に限界をもたらす陽子の相互反発が理由で、[[自発核分裂]]が支配的な崩壊モードになるためである&lt;ref name="NUBASE2003"/&gt;&lt;ref name=Nurmia&gt;{{cite journal|first = Matti|last = Nurmia|date = 2003 |title = Nobelium|journal = Chemical and Engineering News|url = http://pubs.acs.org/cen/80th/nobelium.html|volume = 81|issue = 36|page = 178|doi = 10.1021/cen-v081n036.p178}}&lt;/ref&gt;。
+
+化学的に重要なメンデレビウムの同位体であるメンデレビウム256は、[[電子捕獲]]により90%の確率で崩壊し、10%の確率で[[アルファ崩壊]]する&lt;ref name=Silva16301/&gt;。これは電子捕獲娘の[[フェルミウムの同位体|フェルミウム256]]の[[自発核分裂]]によって最も簡単に検出されるが、自発核分裂を起こす他の核種の存在下ではメンデレビウム256の特徴的なエネルギー（7.205及び7.139&amp;nbsp;[[電子ボルト|MeV]]）でのアルファ崩壊は、より有用な識別情報を提供しうる&lt;ref name=Silva16313/&gt;。
+
+==生産・分離==
+最も軽いメンデレビウムの同位体（&lt;sup&gt;244&lt;/sup&gt;Mdから&lt;sup&gt;247&lt;/sup&gt;Md）は、主に[[ビスマス]]のターゲットに重い[[アルゴン]]イオンを衝突させることにより生成されるが、わずかに重い同位体（&lt;sup&gt;248&lt;/sup&gt;Mdから&lt;sup&gt;253&lt;/sup&gt;Md）は[[プルトニウム]]と[[アメリシウム]]のターゲットに軽い[[炭素]]と[[窒素]]のイオンを衝突させることにより生成される。最も重要で最も安定した同位体は&lt;sup&gt;254&lt;/sup&gt;Mdから&lt;sup&gt;258&lt;/sup&gt;Mdの範囲であり、[[アルファ粒子]]を[[アインスタイニウム]]の導体に衝突させることで生成される（アインスタイニウム253, 254, 255の全てが使用できる）。&lt;sup&gt;259&lt;/sup&gt;Mdは&lt;sup&gt;259&lt;/sup&gt;[[ノーベリウム|No]]の娘として生成され、&lt;sup&gt;260&lt;/sup&gt;Mdはアインスタイニウム254と酸素18の間の移動反応で生成される&lt;ref name=Silva16301/&gt;。通常、最も一般的に使用される同位体&lt;sup&gt;256&lt;/sup&gt;Mdはアインスタイニウム253, 254のいずれかにアルファ粒子を照射することにより生成される。アインスタイニウム254は半減期が長く、ターゲットとしてより長い間使用できるため、入手可能である場合好まれる&lt;ref name=Silva16301/&gt;。利用可能なマイクログラム量のアインスタイニウムを使用することで、[[フェムトグラム]]量のメンデレビウム256を生成することができる&lt;ref name=Silva16301/&gt;。
+
+生成されたメンデレビウム256の反跳[[運動量]]は、それらが生成された元のアインスタイニウムのターゲットから物理的に遠く離し、真空中でターゲットのちょうど後ろの金属の薄い箔（通常、[[ベリリウム]]、[[アルミニウム]]、[[白金]]、または[[金]]）の上に付くのに使われる&lt;ref name=Silva16313&gt;Silva, pp. 1631–3&lt;/ref&gt;。これにより、費用がかかり高価なアインスタイニウムのターゲットの再利用を妨げる即時の化学的分離の必要性がなくなる&lt;ref name=Silva16313/&gt;。次に、メンデレビウムの原子は気体雰囲気（多くの場合[[ヘリウム]]）に閉じ込められ、反応室の小さな開口部からの気体ジェットがメンデレビウムを運ぶ&lt;ref name=Silva16313/&gt;。長い[[毛細管]]を使用し、ヘリウムガスに[[塩化カリウム]]エアロゾルを含めることで、メンデレビウム原子を数十メートル以上輸送して化学的に分析し、その量を決定することができる&lt;ref name=book2/&gt;&lt;ref name=Silva16313/&gt;。次に、箔に酸を適用し、メンデレビウムを[[フッ化ランタン]]と[[共沈]]させ、[[塩酸]]で飽和させた10%[[エタノール]]溶液を含む[[イオン交換|陽イオン交換]]樹脂カラムを使用し[[溶出|溶離剤]]として働かせることで、箔材料及び他の核分裂生成物からメンデレビウムを分離することができる。ただし、箔が金でできており十分に薄い場合は、[[イオン交換|陰イオン交換]][[クロマトグラフィー]]を使用して金から3価のアクチノイドを分離する（溶離液はM塩酸である）前に、[[王水]]に金を溶かすだけで十分である&lt;ref name=Silva16313/&gt;。
+
+メンデレビウムは最終的に陽イオン交換樹脂カラムからの選択的溶出（溶離液はアンモニアα-HIB）を利用することで、他の3価のアクチノイドから分離できる&lt;ref name=Silva16313/&gt;。気体ジェット法を使用すると、最初の2つのステップが不要になることがしばしばある&lt;ref name=Silva16313/&gt;。上記の手順では超アインスタイニウム元素の分離に最も一般的に使用される手順である&lt;ref name=Silva16313/&gt;。
+
+3価のアクチノイドを分離する別の可能な方法は、固定有機相としてビス-(2-エチルヘキシル)リン酸（HDEHPと略す）及び移動水相として[[硝酸]]を使用するという溶媒抽出クロマトグラフィーによるものである。アクチノイドの溶出の順序は陽イオン交換樹脂カラムにおいてとは逆になっているため、重いアクチノイドは後で溶出する。この方法で分離されたメンデレビウムには樹脂カラムと比較して有機錯化剤が含まれていないという利点がある。不利な点は、メンデレビウムがフェルミウムの後、溶出の順番の非常に遅い段階で溶出することである&lt;ref name=book2/&gt;&lt;ref name=Silva16313/&gt;。
+
+メンデレビウムを分離するもう1つの方法は、Es&lt;sup&gt;3+&lt;/sup&gt;及びFm&lt;sup&gt;3+&lt;/sup&gt;の溶出特性とは異なるMd&lt;sup&gt;2+&lt;/sup&gt;の溶出特性を利用する。最初の段階は、上記と同じで、抽出クロマトグラフィーにHDEHPを使用するが、メンデレビウムをフッ化ランタンではなくフッ化テルビウムと共沈させる。次に、50&amp;nbsp;mgの[[クロム]]をメンデレビウムに加え、[[亜鉛]]または[[水銀]]を含む0.1M塩酸中で+2状態に還元する&lt;ref name=Silva16313/&gt;。次に、溶媒抽出が進み、3価および4価のランタノイドとアクチノイドがカラムに残るがメンデレビウム(II)は塩酸中に留まらない。次に、[[過酸化水素]]を使用して+3状態に再び酸化し、2M塩酸（クロム含む不純物を除去するため）、最終的には6M塩酸（メンデレビウムを除去するため）による選択的溶出で分離する&lt;ref name=Silva16313/&gt;。また、1M塩酸を溶離液として使用し、Md(III)をMd(II)に還元し[[アルカリ土類金属]]のように振る舞う、カチオナイトと亜鉛アマルガムのカラムを使用することもできる&lt;ref name=Silva16313/&gt;。サーモクロマトグラフィーによる化学的分離は、揮発性メンデレビウム[[ヘキサフルオロアセチルアセトナート]]を使用することで達成できる。類似のフェルミウム化合物も知られており、揮発性である&lt;ref name=Silva16313/&gt;。
+
+==毒性==
+メンデレビウムと接触する人はほとんどいないが、[[国際放射線防護委員会]]は最も安定した同位体の年間曝露限界を設定している。メンデレビウム258の場合、摂取限界は9×10&lt;sup&gt;5&lt;/sup&gt;Bq（[[ベクレル]]、1ベクレルは1秒当たり1回の崩壊に相当）であり、吸入限界は6000Bqに設定されている&lt;ref&gt;{{cite book|last1=Koch|first1=Lothar|title=Transuranium Elements, in Ullmann's Encyclopedia of Industrial Chemistry|publisher=Wiley|date=2000|doi=10.1002/14356007.a27_167|chapter=Transuranium Elements|isbn=978-3527306732}}&lt;/ref&gt;。
+
+== 出典 ==
+{{脚注ヘルプ}}
+{{Reflist|30em}}
+
+==書誌情報==
+*{{cite book|last=Silva |first=Robert J. |chapter=Fermium, Mendelevium, Nobelium, and Lawrencium |title=The Chemistry of the Actinide and Transactinide Elements |editor1-first=Lester R. |editor1-last=Morss |editor2-first=Norman M. |editor2-last=Edelstein |editor3-first=Jean |editor3-last=Fuger |edition=3rd |date=2006 |volume=3 |publisher=Springer |location=Dordrecht |pages=1621–1651 |chapter-url=http://radchem.nevada.edu/classes/rdch710/files/Fm%20to%20Lr.pdf |doi=10.1007/1-4020-3598-5_13 |isbn=978-1-4020-3555-5 |url-status=dead |archiveurl=https://web.archive.org/web/20100717155410/http://radchem.nevada.edu/classes/rdch710/files/Fm%20to%20Lr.pdf |archivedate=2010-07-17 }}
+
+==関連文献==
+* Hoffman, D.C., Ghiorso, A., Seaborg, G. T. The transuranium people: the inside story, (2000), 201–229
+* Morss, L. R., Edelstein, N. M., Fuger, J., The chemistry of the actinide and transactinide element, 3, (2006), 1630–1636
+* ''A Guide to the Elements – Revised Edition'', Albert Stwertka, (Oxford University Press; 1998) {{ISBN2|0-19-508083-1}}
+
+==外部リンク==
+{{Commons|Mendelevium}}
+{{Wiktionary|mendelevium}}
+*[https://periodic.lanl.gov/101.shtml Los Alamos National Laboratory – Mendelevium]
+*[https://education.jlab.org/itselemental/ele101.html It's Elemental – Mendelevium]
+* [http://www.periodicvideos.com/videos/101.htm Mendelevium] at ''[[The Periodic Table of Videos]]'' (University of Nottingham)
+*[https://environmentalchemistry.com/yogi/periodic/Md.html Environmental Chemistry – Md info]
+{{Commons|Mendelevium}}
+
+{{元素周期表}}
+{{Normdaten}}
+{{DEFAULTSORT:めんてれひうむ}}
+[[Category:メンデレビウム|*]]
+[[Category:ドミトリ・メンデレーエフ]]
+[[Category:エポニム]]</text>
+      <sha1>dlkev132oexp7ro5nykt0jfmhwcn0uq</sha1>
+    </revision>
+  </page>
+  

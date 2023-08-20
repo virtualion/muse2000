@@ -1,0 +1,340 @@
+<page>
+    <title>証券取引所</title>
+    <ns>0</ns>
+    <id>659</id>
+    <revision>
+      <id>91793807</id>
+      <parentid>91698379</parentid>
+      <timestamp>2022-10-05T17:53:05Z</timestamp>
+      <contributor>
+        <username>Gruppetto</username>
+        <id>133749</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20186" xml:space="preserve">{{金融市場}}
+[[ファイル:NYC NYSE.jpg|thumb|200px|[[アメリカ]]の[[ニューヨーク証券取引所]]。世界で最大かつ最も重要な証券取引所である。]]
+[[ファイル:The Tokyo Stock Exchange - main room 3.jpg|thumb|200px|[[日本]]の[[東京証券取引所]]の内部]]
+'''証券取引所'''（しょうけんとりひきじょ、{{Lang-fr-short|Bourse}}、{{Lang-en-short|Stock exchange}}）は、主に[[株式]]や[[債券]]の売買取引を行うための[[施設]]であり、[[資本主義]]経済における中心的な役割を果たしている。
+
+日本においては、[[金融商品取引法]]上の「'''[[金融商品取引所]]'''」の免許を受けなければ証券取引所としての業務を行えない。（なお「証券取引所」とは言えない金融商品取引所（例:[[大阪取引所]]、[[東京金融取引所]]）も存在することからもわかるように、金融商品取引所は証券取引所を包含する概念となっている）
+
+== 概要 ==
+経済の発展に欠かせない資金調達と資本運用の双方が効率的に行われるようにするため、株式および債券の需給を[[取引所]]に集中させ、[[流動性 (経済学)|流動性]]の向上と安定した価格形成を図ることがその主な役割である。
+
+日本国内では元来は金融商品取引法（旧証券取引法）で認められた特別法人であったが、株式会社金融商品取引所への移行が進んでいる（→後述の[[#証券取引所の形態]]参照）。
+なお、証券取引法の金融商品取引法への改正に伴い、日本では法律上「金融商品取引所」と規定されているが、名称又は商号に「取引所」という文字を用いなければならないとされるにとどまるため、各証券取引所においては、[[東京証券取引所]]との経営統合に伴い、[[デリバティブ]]取引専門取引所に転換した[[大阪取引所]]（旧[[大阪証券取引所]]）を除いて従来どおりの名称が2015年現在も利用されている。
+
+株式および債券の購入や売却について、&lt;!--個人--&gt;一般の[[投資家]]（個人投資家、取引所会員証券会社以外の機関投資家）が証券取引所で直接取引を行うことはできず、会員である[[証券会社]]を通じて取引を行う（委託売買）か、直接当事者間で取引を行う相対売買で取引することになる。
+
+== 歴史 ==
+{{see also|取引所}}
+[[12世紀]]頃、[[フランス]]において、[[銀行]]が代表して農村の債務を、取引し管理する「courratiers de change」と呼ばれるシステムが存在していた。そして、現在でいう株式仲介人（ブローカー）がこういった所で債権の取引きを行っていった。
+
+欧米圏での「証券取引所」の語源である[[フランス語]]の「Bourse」は、13世紀頃に[[ラテン語]]で「鞄」を意味する「bursa」から派生して誕生したとも言われている。
+
+13世紀中頃、[[イタリア]]（[[神聖ローマ帝国]]）では、[[ヴェネツィア]]の銀行員が政府の[[証券]]の取引きを行っていたことが知られており、他には[[ピサ]]、[[ヴェローナ]]、[[ジェノヴァ]]、[[フィレンツェ]]等でもそれぞれの政府の証券が取引きされていた。
+
+[[神聖ローマ帝国]]の領邦にあった北ヨーロッパの貿易都市は12世紀初頭に[[ハンザ同盟]]を結成した。その一つである[[ベルギー]]の[[ブルッヘ]]では、証券取引業者らが[[13世紀]]後半頃に「Van der Beurze」と呼ばれる一族の家で集会を行っていたが&lt;ref&gt;{{仮リンク|Van der Beurze|nl|Van_der_Beurze|preserve=1}}&lt;/ref&gt;、これが[[1309年]]に制度化され、「Bruges Bourse」が開催された。 この制度は近隣諸国に広がり、[[ヘント]]や[[アムステルダム]]などヨーロッパ中で次々に「Bourse」が開かれていくようになり、「Bourse」は「証券取引所」を意味するようになった。13世紀末までには[[リューベック]]がハンザ都市のリーダーとして認められるようになった。
+
+14世紀にはハンザ同盟と[[デンマーク王国]]（[[ヴァルデマー4世]]）との戦争が勃発したが1370年には[[シュトラルズントの和議_(1370年)|シュトラルズントの和議]]が締結された。1388年にハンザ同盟はイングランド商人にも特権を与えるようになった。
+
+1531年には[[アントウェルペン証券取引所]]が世界で初めて証券取引所として建設されヨーロッパの貿易拠点として栄えた。ここでは商品それ自体よりもその受領書、さらに、為替手形、預金証書、各種の公債などの証書が取り引きされていた。
+
+[[イングランド]]（[[エリザベス・ステュアート|エリザベス1世]]）は1565年、[[ロンドン王立取引所]]（当初の呼称は「ブルス」、{{lang-fr|Bourse}}）を開いた。一方、[[フランシス・ドレーク]]などスペインなど他国の海上輸送を妨げる[[海賊]]も活動した{{sfn|エイミー・バトラー・グリーンフィールド|2006|p=1}}。
+
+[[株主]]に[[企業]]へ投資させて、その利益と損失を共有する[[株式会社]]のシステムは[[オランダ]]から始まった。[[1602年]]に[[オランダ東インド会社]]が[[アムステルダム証券取引所]]で世界で最初の[[株券]]を発行し、[[有価証券]]を発行した世界初の会社となっている。
+
+株式組織の取引所は、元々諸外国には存在せず、世界に先駆けて日本で特別に発達したが、太平洋戦争中に一時姿を消した。戦後に、株式組織の取引所が諸外国でみられるようになり、日本でも、再びみられるようになった。
+
+== 主要証券取引所 ==
+'''2015年1月31日時点における、国内企業の発行済み株式[[時価総額]]上位20の主要取引所''' ([http://www.world-exchanges.org/statistics/monthly-reports Monthly reports, World Federation of Exchanges])
+{| class="wikitable sortable"
+|-
+! align="left" data-sort-type="number"|順位 !! align="left"|取引所 !! align="left" width=120px|国・地域 !! align="left"|本社所在地 !! align="right" width=70px|時価総額&lt;br/&gt;(10億[[アメリカ合衆国ドル|米ドル]]) !! align="right" width=70px|月間売買代金&lt;br&gt;(10億米ドル) !! 時間帯 !! Δ !! [[夏時間]] !! 開始&lt;br/&gt;(現地時間) !! 終了&lt;br/&gt;(現地時間) !! 昼休み&lt;br/&gt;(現地時間) !! 開始&lt;br/&gt;([[UTC]]) !! 終了&lt;br/&gt;(UTC) 
+|-
+| 1 || [[ニューヨーク証券取引所]] || {{flagu|United States}}|| [[ニューヨーク]]||align="right"| 19,223 ||align="right"| 1,520 
+| [[東部標準時|EST]]/[[東部標準時|EDT]]
+| [http://www.timeanddate.com/worldclock/city.html?n=179 −5]
+| 3-11月
+| 09:30
+| 16:00
+| なし
+| 14:30
+| 21:00
+|-
+| 2 || [[NASDAQ]] || {{flagu|United States}}|| [[ニューヨーク]] ||align="right"| 6,831 ||align="right"| 1,183 
+| [[東部標準時|EST]]/[[東部標準時|EDT]]
+| [http://www.timeanddate.com/worldclock/city.html?n=179 −5]
+| 3-11月
+| 09:30
+| 16:00
+| なし
+| 14:30
+| 21:00
+|-
+| 3&lt;ref&gt;London Stock Exchange. ''[http://www.londonstockexchange.com/statistics/historic/main-market/main-market-factsheet-archive-2015/jan-15.pdf Main Market Factsheet]''. Jan. 2015.&lt;/ref&gt; || [[ロンドン証券取引所グループ]] || {{flagu|United Kingdom}}&lt;br/&gt;{{flagu|Italy}}&lt;br/&gt; || [[ロンドン]] ||align="right"| 6,187 ||align="right"| 165 
+| [[グリニッジ標準時|GMT]]/[[英国夏時間|BST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=136 +0]
+| 3-10月
+| 08:00
+| 16:30
+| なし
+| 08:00
+| 16:30
+|-
+| 4 || [[日本取引所グループ]] – 東京 || {{flagu|Japan}}|| [[東京都|東京]] ||align="right"| 4,485 ||align="right"| 402 
+| [[日本標準時|JST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=248 +9]
+|
+| 09:00
+| 15:00
+| 11:30–12:30
+| 00:00 
+| 06:00
+|-
+| 5 || [[上海証券取引所]] ||{{flagu|China}}|| [[上海市|上海]] ||align="right"| 3,986 ||align="right"| 1,278 
+| [[w:China Standard Time|CST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=237 +8]
+|
+| 09:30
+| 15:00
+| 11:30–13:00
+| 01:30 
+| 07:00
+|-
+| 6 || [[香港証券取引所]]|| {{flagu|Hong Kong}}|| [[香港]] ||align="right"| 3,325 ||align="right"| 155 
+| [[w:Hong Kong Time|HKT]]
+| [http://www.timeanddate.com/worldclock/city.html?n=102 +8]
+|
+| 09:15
+| 16:00
+| 12:00–13:00
+| 01:15
+| 08:00 
+|-
+| 7 || [[ユーロネクスト]] || {{flagu|Netherlands}}&lt;br/&gt;{{flagu|Belgium}}&lt;br/&gt;{{flagu|Portugal}}&lt;br/&gt;{{flagu|France}}|| [[アムステルダム]]&lt;br/&gt;[[ブリュッセル]]&lt;br/&gt;[[リスボン]]&lt;br/&gt;[[パリ]] ||align="right"| 3,321 ||align="right"| 184 
+| [[中央ヨーロッパ時間|CET]]/[[中央ヨーロッパ夏時間|CEST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=16 +1]
+| 3-10月
+| 09:00
+| 17:30
+| なし
+| 08:00
+| 16:30
+|-
+| 8 || [[深圳証券取引所]] || {{flagu|China}}|| [[深圳市|深圳]] ||align="right"| 2,285 ||align="right"| 800 
+| [[w:China Standard Time|CST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=1232 +8]
+|
+| 09:30
+| 15:00
+| 11:30–13:00
+| 01:30
+| 07:00
+|-
+| 9 || [[w:TMX Group|TMX Group]]|| {{flagu|Canada}}|| [[トロント]] ||align="right"| 1,939 ||align="right"| 120 
+| [[東部標準時|EST]]/[[東部標準時|EDT]]
+| [http://www.timeanddate.com/worldclock/city.html?n=250 −5]
+| 3-11月
+| 09:30
+| 16:00
+| なし
+| 14:30
+| 21:00
+|-
+| 10 ||  [[ドイツ取引所]]|| {{flagu|Germany}}|| [[フランクフルト]] ||align="right"| 1,762 ||align="right"| 142
+| [[中央ヨーロッパ時間|CET]]/[[中央ヨーロッパ夏時間|CEST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=83 +1]
+| 3-10月
+| 08:00 (Eurex)&lt;br&gt;8:00 (floor)&lt;br&gt;9:00 (Xetra)
+| 22:00 (Eurex)&lt;br&gt;20:00 (floor)&lt;br&gt;17:30 (Xetra)
+| なし
+| 07:00
+| 21:00
+|-
+| 11 || [[ボンベイ証券取引所]]|| {{flagu|India}}|| [[ムンバイ]] ||align="right"| 1,682 ||align="right"| 11.8
+| [[インド標準時|IST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=44 +5.5]
+|
+| 09:15
+| 15:30
+| なし
+| 03:45
+| 10:00
+|-
+| 12 || [[インド国立証券取引所]]|| {{flagu|India}}|| [[ムンバイ]] ||align="right"| 1,642 ||align="right"| 62.2
+| [[インド標準時|IST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=44 +5.5]
+|
+| 09:15
+| 15:30
+| なし
+| 03:45
+| 10:00
+|-
+| 13 || [[スイス証券取引所]] || {{flagu|Switzerland}}|| [[チューリッヒ]] ||align="right"| 1,516 ||align="right"| 126 
+| [[中央ヨーロッパ時間|CET]]/[[中央ヨーロッパ夏時間|CEST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=268 +1]
+| 3-10月
+| 09:00
+| 17:30
+| なし
+| 08:00 
+| 16:30 
+|-
+| 14 || [[オーストラリア証券取引所]]|| {{flagu|Australia}}|| [[シドニー]] ||align="right"| 1,272 ||align="right"| 55.8
+| [[オーストラリア時間|AEST]]/[[オーストラリア時間|AEDT]]
+| [http://www.timeanddate.com/worldclock/city.html?n=240 +10]
+| 10-4月
+| 09:50
+| 16:12
+| なし
+| 23:50
+| 06:12
+|-
+| 15 || [[韓国取引所]] || {{flagu|South Korea}}|| [[ソウル特別市|ソウル]]||align="right"| 1,251 ||align="right"| 136
+| [[韓国標準時|KST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=594 +9]
+|
+| 09:00
+| 15:00
+| なし
+| 00:00
+| 06:00
+|-
+| 16 || [[OMX|OMX Nordic Exchange]] || {{flagicon|Sweden}} 北欧、アルメニア|| [[ストックホルム]] ||align="right"| 1,212 ||align="right"| 63.2 
+| 
+| 各種
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+| 17 || [[JSE]] || {{flagu|South Africa}}|| [[ヨハネスブルグ]]||align="right"| 951||align="right"| 27.6 
+| [[中央アフリカ時間|CAT]]
+| [http://www.timeanddate.com/worldclock/city.html?n=111 +2]
+|
+| 09:00
+| 17:00
+| なし
+| 07:00
+| 15:00
+|-
+| 18 || [[w:Bolsas y Mercados Españoles|BME Spanish Exchanges]] || {{flagu|Spain}}|| [[マドリード]] ||align="right"| 942 ||align="right"| 94.0
+| [[中央ヨーロッパ時間|CET]]/[[中央ヨーロッパ夏時間|CEST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=141 +1]
+| 3-10月
+| 09:00
+| 17:30
+| なし
+| 08:00
+| 16:30
+|-
+| 19 || [[台湾証券取引所]] || {{flagu|Taiwan}}|| [[台北市|台北]]||align="right"| 861 ||align="right"| 54.3
+| [[w:Time in China|CST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=241 +8]
+|
+| 09:00
+| 13:30
+| なし
+| 01:00
+| 05:30
+|-
+| 20 || [[BM&amp;F Bovespa]]|| {{flagu|Brazil}}|| [[サンパウロ]] ||align="right"| 824 ||align="right"| 51.1 
+| [[ブラジル時間|BRT/BRST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=233 −3]
+| 10-2月
+| 10:00
+| 17:30
+| なし
+| 13:00
+| 20:00
+&lt;!-- |-
+| 21 || [[シンガポール証券取引所]] || {{flagu|Singapore}}|| [[シンガポール]]||align="right"| 755 ||align="right"| 18.7
+| [[w:Singapore Standard Time|SST]]
+| [http://www.timeanddate.com/worldclock/city.html?n=236 +8]
+|
+| 09:00
+| 17:00
+| なし
+| 01:00
+| 09:00
+|-
+| 22 || [[モスクワ証券取引所 ]] || {{flagu|Russia}}|| [[モスクワ]]||align="right"| 392 ||align="right"| 9.7
+| [[モスクワ時間|MSK]]
+| [http://www.timeanddate.com/worldclock/city.html?n=166 +4]
+| 
+| 10:00
+| 18:45
+| なし
+| 06:00 
+| 14:45
+|- --&gt;|}
+
+== 証券取引所の形態 ==
+戦時中までの日本における制度では、[[1875年]]の株式条例では、取引所の組織は株式会社と規定され、最初に設立した株式取引所が株式組織取引所であった。[[1887年]]5月、会員組織化を目的とする取引所条例（ブルース条例）が発布され、取引所は凡て会員組織で経営しなければいけないと定めたが、ブルース条例は、取引所側の猛烈な反対により間もなく廃止され、[[1893年]]に会員組織でも株式組織でもよいとする取引所法が発布された。
+
+現在では、証券取引所は金融商品会員制法人（旧称：証券会員制法人）または[[株式会社]]でなければ開設できない（[[金融商品取引法]]に規定）。金融商品会員制法人とは、[[金融商品取引業者]]（証券会社など）を会員とする社団である。以前は全ての証券取引所が証券会員制法人であったが、[[2001年]]4月に大証、同年11月に東証、[[2002年]]4月に名証がそれぞれ株式会社に組織変更している。過去独立して存在していたジャスダックも株式会社形態であった。
+
+また、近年は[[私設取引システム|私設取引システム（PTS）]]による取引形態も現れてきた。私設取引システムは[[1998年]]12月施行の金融システム改革法で証券会社にその開設と運営が認められたもので、時間外取引市場（主に夜間）として機能している。
+
+== 売買立会い時間 ==
+証券取引所では売買立会い時間が定められている。日本の場合、[[東京証券取引所]]等の現物立会は9時から15時まで行われる。そのうち9時から11時30分を「午前立会い」（前場）、12時30分から15時を「午後立会い」（後場）と称しており、その間は昼休みである。[[名古屋証券取引所]]・[[福岡証券取引所]]・[[札幌証券取引所]]では15時30分までとなっている。[[2008年]]の大納会及び[[2009年]]の大発会までは、[[大発会・大納会|大発会]]と[[大発会・大納会|大納会]]は前場のみで後場の立会いは行われなかった。取引の電子化により半日にする意義が薄れたため、[[2009年]]の大納会及び[[2010年]]の大発会から半日立会いを廃止し、前場・後場共に通常通り取引されている。
+
+東京証券取引所の取引時間は、[[2011年]][[11月20日]]までは、前場が9時から11時、後場が12時30分から15時であった&lt;ref&gt;[https://www.jpx.co.jp/equities/trading/domestic/tvdivq0000006blj-att/tvdivq000000twr8.pdf 東京証券取引所売買立会時間の変遷][https://www.jpx.co.jp/equities/trading/domestic/tvdivq0000006blj-att/tvdivq000000twr8.pdf pdf]&lt;/ref&gt;。2010年[[11月10日]]、東京証券取引所は[[2011年]]の[[ゴールデンウィーク]]明け（同年[[5月9日]]）から、同取引所の前場の時間帯を午前9時から11時30分に拡大、昼休みを実質30分短縮することを目指すと発表した&lt;ref&gt;{{Cite news |title=東証、昼休み30分短縮へ=5月連休明けの実施目指す |newspaper=時事通信社 |date=2010-11-10 |url=http://www.jiji.com/jc/zc?k=201011/2010111000508 |accessdate=2011-02-15}}&lt;/ref&gt;。しかし2011年3月11日に発生した[[東日本大震災]]に伴う[[節電]]対策のため延期され&lt;ref&gt;[http://www.tse.or.jp/news/20/110408_a.html 東京証券取引所 2011年4月8日発表]&lt;/ref&gt;、当初の予定から半年あまり経った2011年11月21日より実施された&lt;ref&gt;[http://www.tse.or.jp/news/20/111119_c.html 東京証券取引所 2011年11月19日発表][http://www.tse.or.jp/news/20/b7gje60000024di1-att/20111119_leaflet(TradingHours).pdf pdf]&lt;/ref&gt;。
+
+== 休業日 ==
+日本の場合、[[1989年]]1月までは土曜日（[[1983年]]8月以降の第2土曜日は全面休場、[[1972年]]頃〜[[1983年]]7月および[[1986年]]8月以降の第3土曜日は全面休場）にも前場のみ取り引きが行われたが、[[金融機関]]の完全[[週休二日制]]への移行に伴い、現在は毎週土曜日・日曜日・[[祝日]]・振替休日・12月31日〜1月3日は全面休場となっている。
+
+天災・戦争・元首の死去等の国家的事態が発生した場合に、臨時に休場となる場合もある。日本では1989年[[1月7日]]の[[昭和天皇]]崩御や、[[1995年]][[1月17日]]には[[阪神・淡路大震災]]のため大阪証券取引所のみ全日休場となったことがあった。
+
+[[2001年]]の[[アメリカ同時多発テロ]]発生の際には、被害を受けた[[ニューヨーク世界貿易センタービル]]（WTC）近在にあるニューヨーク証券取引所を含め、アメリカのすべての証券（金融）市場が数日間に渡り停止したことがある。
+
+[[2018年]]9月6日、[[札幌証券取引所]]が[[北海道胆振東部地震]]の発生による大規模停電で終日取引を停止した。
+
+== 証券取引所の一覧 ==
+* [[証券取引所の一覧]]（[[南アジアの証券取引所の一覧]]、[[アフリカの証券取引所の一覧]]）
+* [[証券取引所がない国の一覧]]
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 参考文献 ==
+* {{Cite book|和書|author=エイミー・バトラー・グリーンフィールド| translator= {{Anchors|佐藤桂}}佐藤桂| title=完璧な赤 -「欲望の色」をめぐる帝国と密偵と大航海の物語| page=| publisher=| location =| year=2006| isbn=| ref=harv}}
+
+== 関連項目 ==
+{{Commons|Category:Stock exchanges}}
+* [[競売]]
+* [[資本市場]]
+* [[w:List of commodities exchanges|Commodities exchange]]
+* [[w:Financial regulation|Financial regulation]]
+* [[証券監督者国際機構]]
+* [[株主]]
+* [[w:Stag profit|Stag profit]]
+* [[w:Stock exchanges of small economies|Stock exchanges for developing countries]]
+* [[w:Stock trader|Stock investor]]
+* [[証券市場]]
+* [[w:Stock market data systems|Stock market data systems]]
+* [[:fr:Histoire des bourses de valeurs|Histoire des bourses de valeurs]] (フランス語)
+* [[大発会・大納会]]
+
+'''一覧:'''
+* [[w:List of stock market indices|List of stock market indices]]
+* [[w:List of financial regulatory authorities by country|List of financial regulatory authorities by country]]
+* [[w:List of Swiss financial market legislation|List of Swiss financial market legislation]]
+
+{{証券取引所}}
+
+{{Normdaten}}
+{{デフォルトソート:しようけんとりひきしよ}}
+[[Category:証券取引所|*しようけんとりひきしよ]]
+[[Category:証券市場]]</text>
+      <sha1>27v6yvazgesm64pnrxbahtbeztqi2kr</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,640 @@
+<page>
+    <title>Python</title>
+    <ns>0</ns>
+    <id>993</id>
+    <revision>
+      <id>95488426</id>
+      <parentid>95473919</parentid>
+      <timestamp>2023-06-04T11:27:27Z</timestamp>
+      <contributor>
+        <username>I8086x89</username>
+        <id>2057917</id>
+      </contributor>
+      <minor />
+      <comment>一部のコードの修正をしました。</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="70284" xml:space="preserve">{{著作権問題調査依頼}}
+
+&lt;!-- [[WP:POV]]に関する議論の形跡がノートなどで見られない (どこがNPOVでないか？など) {{中立|date=2020年3月}} --&gt;
+{{Otheruses|プログラミング言語|その他の用法|パイソン (曖昧さ回避)}}
+{{Infobox プログラミング言語
+| fetchwikidata  = ALL
+| onlysourced    = false
+| name       = Python
+| logo       = File:Python logo and wordmark.svg
+| released   = {{start date and age|1991}}
+| latest release version = {{Latest stable software release/CPython}} &lt;!-- バージョンを更新するときはこのページを編集せず、Template:Latest stable software release/CPython で番号と日付を更新して下さい --&gt;
+| dialects   = [[Cython]], [[RPython]], [[Stackless Python]]
+| typing     = [[強い型付け]] [[動的型付け]]&lt;!--[[ダック・タイピング]]--&gt;
+| implementations = [[CPython]], [[PyPy]], [[IronPython]], [[Jython]]
+| influenced  = [[Boo (プログラミング言語)|Boo]], [[Cobra (プログラミング言語)|Cobra]], [[D言語|D]], [[F Sharp|F#]], [[Falcon]], [[Go (プログラミング言語)|Go]], [[Groovy]], [[JavaScript]]&lt;ref&gt;[http://speakingjs.com/es5/ch03.html Chapter 3. The Nature of JavaScript] - Speaking JavaScript、2019年4月19日閲覧&lt;/ref&gt;, [[Ruby]]&lt;ref name="bini"/&gt;, [[Perl]], [[Swift (プログラミング言語)|Swift]], [[Scala]]
+| website  = {{ConditionalURL}}
+}}
+
+'''Python'''（パイソン）は[[インタプリタ|インタープリタ]]型の[[高水準言語|高水準]]汎用プログラミング言語である。
+
+== 概要 ==
+Pythonは1991年に[[グイド・ヴァンロッサム|グイド・ヴァン・ロッサム]]により開発されたプログラミング言語である。
+
+最初にリリースされたPythonの設計哲学は、ホワイトスペース([[オフサイドルール]])の顕著な使用によってコードの可読性を重視している。その言語構成と[[オブジェクト指向]]のアプローチは、プログラマが小規模なプロジェクトから大規模なプロジェクトまで、明確で論理的なコードを書くのを支援することを目的としている。
+
+Pythonは[[動的プログラミング言語|動的に型付け]]されていて、[[ガベージコレクション]]されている。[[構造化プログラミング|構造化]]（特に[[手続き型プログラミング|手続き型]]）、[[オブジェクト指向]]、[[関数型言語|関数型プログラミング]]を含む複数の[[プログラミングパラダイム]]をサポートしている。Pythonは、その包括的な標準ライブラリのため、しばしば「バッテリーを含む」言語と表現されている&lt;ref group="†"&gt;{{Cite web|title=Welcome to Python.org|url=https://www.python.org/about/|website=Python.org|accessdate=2020-08-10|language=en}}&lt;/ref&gt;。
+
+Pythonのインタプリタは多くのOSに対応している。プログラマーのグローバルコミュニティは、[[FLOSS|無料のオープンソース]] &lt;ref group="†"&gt;{{Cite web|url=https://docs.python.org/3/license.html|title=History and License|accessdate=5 December 2016}} "All Python releases are Open Source"&lt;/ref&gt; [[リファレンス実装]]である[[CPython]]を開発および保守している 。非営利団体である[[Pythonソフトウェア財団]]は、PythonとCPythonの開発のためのリソースを管理・指導している。
+=== 特徴 ===
+Pythonは[[インタプリタ]]上で実行することを前提に設計している。以下の特徴をもっている:
+* [[動的型付け|動的な型付け]]
+* [[ガベージコレクション]]
+* [[マルチパラダイムプログラミング言語|マルチパラダイム]]
+* [[モジュール]]・[[クラス (コンピュータ)|クラス]]・オブジェクト等の言語の要素が内部からアクセス可能であり、[[リフレクション (情報工学)|リフレクション]]を利用した記述が可能。
+
+== 言語 ==
+Pythonには、読みやすく、それでいて効率もよいコードをなるべく簡単に書けるようにするという思想が浸透しており、Pythonコミュニティでも単純で簡潔なコードをよしとする傾向が強い&lt;ref group="†" name="PEP20" /&gt;。
+
+=== 設計思想 ===
+Pythonの本体は、ユーザがいつも必要とする最小限の機能のみを提供する。基本機能以外の専門機能や拡張プログラムはインターネット上にライブラリとして提供されており、別途ダウンロードして保存し、必要なツールはこのツールキットからその都度呼び出して使用する&lt;ref group="†" name="About" /&gt;。
+
+Pythonでは「あることをなすのに唯一の良いやり方があるはず」という哲学がある&lt;ref group="†" name="PEP20" /&gt;（参考: [[Perl]]「やり方は一つじゃない」&lt;ref&gt;TIMTOWTDI。{{lang|en|there's more than one way to do it}}&lt;/ref&gt;）。
+
+Pythonではプログラムの文書化（[[ソフトウェアドキュメンテーション]]）が重視されており、言語の基本機能の一部となっている。
+
+=== 構文 ===
+[[インデント]]が意味を持つ「[[オフサイドルール]]」が特徴的である。
+
+以下に、[[階乗]] (関数名: factorial)を題材にC言語と比較した例を示す。
+
+'''Pythonのコード:'''
+&lt;syntaxhighlight lang="python"&gt;
+def factorial(x):
+    if x == 0:
+        return 1
+    else:
+        return x * factorial(x - 1)
+&lt;/syntaxhighlight&gt;
+
+'''わかりやすく整形されたC言語のコード:'''
+&lt;syntaxhighlight lang="c"&gt;
+int factorial(int x) {
+    if (x == 0) {
+        return 1;
+    } else {
+        return x * factorial(x - 1);
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+この例では、Pythonと整形されたC言語とでは、プログラムコードの間に違いがほとんど見られない。しかし、C言語のインデントは構文規則上のルールではなく、単なる読みやすさを向上させる[[コーディングスタイル]]でしかない。そのためC言語では全く同じプログラムを以下のように書くこともできる。
+
+'''わかりにくいC:'''
+&lt;syntaxhighlight lang="c"&gt;
+int factorial(int x) {
+ if(x == 0) {return 1;} else
+ {return x * factorial(x - 1); } }
+&lt;/syntaxhighlight&gt;
+
+Pythonではインデントは構文規則として決められているため、こうした書き方は不可能である。Pythonではこのように強制することによって、ソースコードのスタイルがその書き手にかかわらずほぼ統一したものになり、その結果読みやすくなるという考え方が取り入れられている。これについては賛否両論があり、批判的立場の人々からは、これはプログラマがスタイルを選ぶ自由を制限するものだ、という意見も出されている。
+
+インデントによる整形は、単に「見かけ」だけではなく品質そのものにも関係する&lt;ref name=":0"&gt;{{Cite web|title=Design and History FAQ — Python 3.9.6 documentation|url=https://docs.python.org/3.9/faq/design.html#why-does-python-use-indentation-for-grouping-of-statements|website=docs.python.org|accessdate=2021-08-26}}&lt;/ref&gt;。例として次のコードを示す。
+
+'''間違えたC:'''
+&lt;syntaxhighlight lang="c"&gt;
+if (x &gt; 10)
+    x = 10;
+    y = 0;
+&lt;/syntaxhighlight&gt;
+
+このコードはC言語の構文規則上は問題無いが、インデントによる見かけのifの範囲と、言語仕様によるifの実際の範囲とが異なっているため、プログラマの意図が曖昧になる。(前者は"y = 0;"がif文に包含され、後者は"{}"がないため"y = 0;"がif文に包含されない)この曖昧さは、検知しにくいバグを生む原因になる。例としては[[到達不能コード#CVE-2014-1266|Apple goto fail]]が挙げられる。
+
+ソースコードを読む際、多くの人はインデントのような空白を元に整列されたコードを読み、コンパイラのように構文解析しながらソースを読むものではない。その結果、一見しただけでは原因を見つけられないバグを作成する危険がある。
+
+Pythonではインデントをルールとすることにより、人間が目視するソースコードの理解とコンパイラの構文解析の間の差を少なくすることで、より正確に意図した通りにコーディングすることができると主張されている&lt;ref name=":0" /&gt;。
+
+=== 型システム ===
+Pythonは[[動的型付け]]システムをもつ。同時に任意の型ヒントを持っており外部ツールによる静的型チェックを可能にしている。
+
+値自身が型を持っており、変数はすべて値への[[参照 (情報工学)|参照]]である。
+
+基本的な[[データ型]]として、[[ブーリアン型|論理型]]・[[整数]]型・[[浮動小数点数]]型・[[複素数]]型・文字列型・バイト列型・関数型がある。整数型は（メモリの許す限り）無制限の桁数で整数計算が可能である。浮動小数点数型を整数型にキャストすると、小数点以下が切り捨てられる。
+
+組み込みの[[コンテナ (データ型)|コンテナ型]]として、[[リスト (抽象データ型)|リスト]]型、[[タプル#Python におけるタプル|タプル]]型、[[連想配列|辞書]]型、[[集合]]型がある。リスト型および辞書型はミュータブル、タプル型は[[イミュータブル]]である。集合型には変更可能なものと変更不能なものの2種類がある。タプル型とリスト型は、多くのプログラミング言語では[[配列]]と呼ばれるものに類似している。しかし、Pythonではタプル型は辞書のキーとして使うことができるが、リスト型は内容が変わるため辞書のキーとして使うことはできないという理由から、これら2つの型を区別している。
+
+多くのオブジェクト指向プログラミング言語と同様、Pythonではユーザが新しく自分の型を定義することも可能である。この場合、組み込み型を含む既存の型を継承して新たな型（クラス）を定義する事も、ゼロから全く新しい型を作り出す事も出来る。
+
+Pythonは基本的にメソッドや関数の引数に型を指定する必要がない。そのため、[[ダック・タイピング]]という、内部で必要とする演算子やメソッドに対応していれば、関数やオブジェクトの設計時点で意図していなかったオブジェクトを引き渡すことも可能である。
+&lt;!--
+ただしPythonではJavaなどの言語よりも型の扱いがルーズであり、既存の型を拡張した新しい型を定義する場合、Pythonではまったく独立した新しいクラスを作成し、模倣したい型と同じメソッドさえ揃えればよい。
+例えば、ファイルのようにふるまう新しいデータ型を定義して既存のファイル型の代わりに使いたい場合、Javaでは&lt;code&gt;InputStream&lt;/code&gt;などのクラスを継承しなければコンパイルエラーとなる。しかしPythonではそのような型のチェック機構が存在しないため、新たなクラスをつくり、そこに&lt;code&gt;read&lt;/code&gt;や&lt;code&gt;seek&lt;/code&gt;、&lt;code&gt;close&lt;/code&gt;など既存のファイル型に対して行うであろう操作と同じメソッドを提供してさえやれば、そのクラスをファイルとして扱うことができるのである。このような型の拡張方法は[[ダック・タイピング]]（{{lang|en|duck typing}}）と呼ばれる。なお、この方法では型の安全性を静的にチェックできないため、ダック・タイピングを用いたPythonプログラムは実行時に型エラー（多くの場合これは「メソッドが定義されていない」というエラーとなって現れる）が発生する危険性がある。したがって新しい型を設計する際には、Python プログラマは（Javaなどよりも）多少は注意深くなる必要がある。
+--&gt;
+==== 型ヒント ====
+Pythonは型ヒントの構文を用意している&lt;ref&gt;[https://docs.python.org/ja/3/library/typing.html typing --- 型ヒントのサポート — Python 3.10.0b2 ドキュメント]&lt;/ref&gt;。これはプログラマ向けの注釈および外部ツールによる静的型チェックに用いられる。
+
+例として、文字列型の値を受け取って文字列型の値を返す関数は次のようにアノテーションできる。&lt;syntaxhighlight lang="python3"&gt;
+def greeting(name: str) -&gt; str:
+    return 'Hello ' + name
+&lt;/syntaxhighlight&gt;
+
+=== メモリ管理 ===
+Pythonは[[ガベージコレクション]]を内蔵しており、参照されなくなったオブジェクトは自動的にメモリから破棄される。CPythonでは、ガベージコレクションの方式として[[参照カウント]]方式と[[マーク・アンド・スイープ]]方式を併用している。マーク・アンド・スイープ方式のみに頼っている言語では、オブジェクトがいつ回収されるか保証されないので、ファイルのクローズなどを[[デストラクタ]]に任せることができない。CPythonは参照カウント方式を併用することで、循環参照が発生しない限り、オブジェクトはスコープアウトした時点で必ずデストラクトされることを保証している。なおJythonおよびIronPythonではマーク・アンド・スイープ方式を採用しているため、スコープアウトした時点で必ずデストラクトされることが前提のコードだとJythonやIronPythonでは正しく動かない。
+
+=== イテレータ ===
+[[イテレータ]]を実装するためのジェネレータが言語仕様に組み込まれており、Pythonでは多くの場面で[[イテレータ]]を使うように設計されている。イテレータの使用はPython全体に普及していて、プログラミングスタイルの統一性をもたらしている。
+
+=== オブジェクト指向プログラミング ===
+Pythonでは扱えるデータの全てがオブジェクトである。単純な数値といった基本的なデータ型をはじめ、組み込みのコンテナ型、組み込み関数など、これらは全て統一的な継承関係をもつオブジェクトであり「型」をもっている。これらの組み込み型とユーザ定義型は区別されず、組み込み型を継承したクラスを定義できる。上の「データ型」の項で述べたように Pythonは静的な型チェックを持たないため、Javaのようなインターフェイスという言語上の仕組みは必要とされない。
+
+クラスの[[継承 (プログラミング)|継承]] ({{lang|en|inheritance}}) メカニズムでは、複数の基底クラスを持つことができ（多重継承）、導出されたクラスでは基底クラスの任意のメソッドをオーバライド（{{lang|en|override}}; 上書き）することが可能である。
+
+また、オブジェクトには任意のデータを入れることができる。これらのメソッドやデータは、基本的に、すべて&lt;code&gt;public&lt;/code&gt;であり、&lt;code&gt;virtual&lt;/code&gt;（仮想）である。ただし、先頭にアンダースコアをもつメンバを&lt;code&gt;private&lt;/code&gt;とすることができる。これは単なるマナーであるが、アンダースコアを2つもつ場合は、クラスの外部からメンバの名前を隠された状態（{{lang|en|mangle}}; 難号化）とすることで[[カプセル化]]を実現できる。また、[[利用者定義演算子]]が機能として用意されており&lt;!-- C++ と同じで、特別な構文を伴う、--&gt;ほとんどの組み込み演算子（算術演算子（{{lang|en|arithmetic operator}}）や添字表記）はクラスインスタンスで使うために再定義することが可能となっている。
+
+=== 標準ライブラリ ===
+Pythonには「電池付属 ({{lang|en|"Battery Included"}})」という思想があり、プログラマがすぐに使えるようなライブラリや統合環境をあらかじめディストリビューションに含めるようにしている。このため標準ライブラリは非常に充実している。
+
+* [[正規表現]]
+* OSの[[システムコール]]
+* [[Extensible Markup Language|XML]]処理系
+* [[シリアライズ|シリアライゼーション]]
+* [[Hypertext Transfer Protocol|HTTP]], [[File Transfer Protocol|FTP]]等の各種[[通信プロトコル]]
+* [[電子メール]]や[[Comma-Separated Values|CSV]]ファイルの処理
+* [[データベース]]接続 ([[SQLite]]を標準で扱える)
+* [[グラフィカルユーザインタフェース|GUI]]フレームワーク ([[Tkinter]])
+* [[HyperText Markup Language|HTML]]のパーサー
+* Python自身のコードの[[構文解析]]ツール
+
+[[サードパーティー|サードパーティ]]によるライブラリも豊富に存在する（参考: [[Python#エコシステム]]）。
+
+==== 組み込み型 ====
+Pythonは様々な組み込み型（built-in types）をサポートする。
+
+===== Mapping型 =====
+Mapping型はハッシュ可能な値を任意のオブジェクトへ対応付ける型である&lt;ref&gt;"A mapping object maps hashable values to arbitrary objects."  [https://docs.python.org/3/library/stdtypes.html#mapping-types-dict The Python Standard Library - Python ver3.11.2]. 2023-03-01閲覧.&lt;/ref&gt;。対応する具象クラスは &lt;code&gt;dict&lt;/code&gt; である。抽象基底クラスに &lt;code&gt;collections.abc.Mapping&lt;/code&gt; があり、抽象メソッドとして &lt;code&gt;__getitem__&lt;/code&gt;, &lt;code&gt;__iter__&lt;/code&gt;, &lt;code&gt;__len__&lt;/code&gt; が定義されている。&lt;code&gt;__getitem__&lt;/code&gt; をもったcollectionとも言える。
+
+=== 多言語の扱い ===
+最初のPythonでは1バイト単位での[[文字列]]型のみ扱い、[[仮名|ひらがな・(全角) カタカナ]]および漢字のような[[マルチバイト文字]]はサポートしていなかったが、その後のPython 2.0からは[[Unicode]]文字型が新たに導入された&lt;ref group="†" name="PEP100" /&gt;。
+
+Python 3.0では、Python 2.xにおける文字列型がバイト列型に、またUnicode文字列型が文字列型に変更された。これにより、文字列をPython 3.0で扱う際には後述の変換処理を必ず行う必要がある。ファイル入出力などでエンコードを明示しなければ、標準エンコードを用いて暗黙に行われる場合も多い。これにより多言語の扱いを一貫したものにしている。
+
+Pythonでは文字の[[エンコード]]とUnicodeの内部表現を明確に区別している。Unicode文字はメモリ中に保持される抽象的なオブジェクトであり、画面表示やファイルへの入出力の際には変換ルーチン（[[コーデック]]）を介して特定のエンコーディングのバイト列表現との間で相互に変換する。また、ソースコード中の文字コードを認識する機能があり、これによって異なる文字コードで書かれたプログラムの動きが異なるリスクを解消している。
+
+Pythonでは変換ルーチンをモジュールとして追加することで、さまざまなエンコーディングに対応できるようになっている。日本語の文字コード (EUC-JP, Shift_JIS, MS932, ISO-2022-JP) に対応したコーデックも作成されている。Python 2.4からは、日中韓国語用のコーデックが標準でディストリビューションに含まれるようになったため&lt;ref group="†" name="whats-new-in-python-24" /&gt;、現在では日本語の処理に関する問題はほとんどなくなった。ただしGUIライブラリである[[Tkinter]]や[[統合開発環境]]の[[IDLE (Python)|IDLE]]は、プラットフォームにもよるが、まだきちんと日本語に対応していないものもある。
+
+ソースコードの文字コードには、ASCIIと互換性があり、Pythonが対応しているものを使用する。ソースコードのデフォルトエンコーディングは、Python 3.xではUTF-8&lt;ref group="†"&gt;[https://www.python.org/dev/peps/pep-3120/ PEP 3120 -- Using UTF-8 as the default source encoding | Python.org]&lt;/ref&gt;（ソースコード以外のPython 3のデフォルトエンコーディングは複雑になっている&lt;ref group="†"&gt;[https://www.python.org/dev/peps/pep-0538/ PEP 538 -- Coercing the legacy C locale to a UTF-8 based locale | Python.org]&lt;/ref&gt;&lt;ref group="†"&gt;[https://www.python.org/dev/peps/pep-0540/ PEP 540 -- Add a new UTF-8 Mode | Python.org]&lt;/ref&gt;）、Python 2.xではASCIIであるが、デフォルトエンコーディング以外の文字コードを使う場合は、ソースファイルの1行目か2行目に一定の書式でコメントとして記述することになっており&lt;ref group="†" name="PEP263" /&gt;、しばしば以下のように[[Emacs]]や[[Vim]]などのテキストエディタにも認識可能な書式で記述される（次の例は Emacs が認識できる書式）。
+
+&lt;syntaxhighlight lang="python"&gt;
+#! /usr/bin/python2
+# -*- coding: utf-8 -*-
+s = '日本語の文字列'
+&lt;/syntaxhighlight&gt;
+
+== 実行環境 ==
+Pythonは[[インタプリタ]]型言語であり（ほとんどの場合）プログラムの実行に際して実行環境（[[ランタイムシステム|ランタイム]]）を必要とする。以下はランタイム（実装）およびそれらが実装されているプラットフォームの一覧である。
+
+=== 動作環境 ===
+Pythonの最初のバージョンは[[Amoeba (オペレーティングシステム)|Amoeba]]上で開発された。のちに多くの計算機環境上で動作するようになった。
+* [[Microsoft Windows|Windows]]&lt;ref name=":2"&gt;Windows (MS)にPython (Anaconda)を導入する（6つの罠） https://qiita.com/kaizen_nagoya/items/7bfd7ecdc4e8edcbd679&lt;/ref&gt;, [[Microsoft Windows CE|Windows CE]]（[[Windows 9x系|9x系]]および[[Windows NT系|NT系]]は最新版、[[Microsoft Windows 3.x|Windows 3.1]]および[[MS-DOS]]は旧版のみ）
+* Macintosh ([[Classic Mac OS]]および[[macOS]]ともに)
+* iOS Pythonista for iOS (omz:software)
+* Android Pydroid3 for Android (IIEC)
+* 各種[[UNIX]]
+* [[Linux]] ([[Linux Standard Base]]3.2で標準仕様となった)
+* [[Plan 9 from Bell Labs|Plan 9]] (Python 3.xは未移植)
+* [[Garnet OS|PalmOS]]
+* [[S60]]
+* [[Javaプラットフォーム]] ([[Jython]])
+* [[.NET Framework]]プラットフォーム ([[IronPython]])
+
+=== ランタイム・コンパイラ ===
+Pythonには複数の実装（ランタイム又はコンパイラ）が存在する。
+* [[CPython]] - 作者によって[[C言語]]で書かれたバージョン。通常「Python」といえばこのCPythonを指す。
+* [[Stackless Python]] - C[[スタック]]を使わずに独自のスタック（Pythonスタック）で実装したもの。
+* [[Unladen Swallow]] - [[Google]]のチームによるPythonの実装。
+* [[Jython]] - [[Java仮想マシン]]上に移植したもの。PythonからJavaのライブラリを使うことができる。
+* [[IronPython]] - .NET Framework/[[Mono (ソフトウェア)|Mono]]で動作するPython。[[C Sharp|C#]]で実装されている。.NET Frameworkのライブラリを使うことができる。[[動的言語ランタイム]]上に構築されているため、既存の.NETアプリケーションへ[[マクロ言語]]として搭載することも可能となっている。
+* [[PyPy]] - Python ([[RPython]]) によるPythonの実装。
+* [[Psyco]] - CPython向けの[[実行時コンパイラ|JITコンパイラ]]
+*[[Cython]] - PythonをC言語化へトランスコードするソフトウェア。静的型付けが可能で速度の向上をはかれる。
+* [[PyMite]] - 組み込み向けの実装、[[Atmel AVR|AVR]]などに対応。
+* [[tinypy]] - 同じく組み込み向けの実装。ソースコードが 64 [[キロバイト|kB]]未満と非常に軽量なことが謳われている。
+* [[MicroPython]] - 組み込み向けの実装。256 kB以上のフラッシュを推奨。
+* [[Pyodide]] - [[WebAssembly]]向けの実装。&lt;ref group="※"&gt;[https://github.com/iodide-project/pyodide GitHub - pyodide/pyodide: Python with the scientific stack, compiled to WebAssembly.]&lt;/ref&gt;
+* [[IPython]] - 対話計算に向けたPythonへのシェル
+* Codon - Python言語ソースから機械語へのコンパイラ処理系&lt;ref&gt;[https://github.com/exaloop/codon exaloop/Codon]&lt;/ref&gt;&lt;ref&gt;[https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314 "Python-based compiler achieves orders-of-magnitude speedups", MIT News, (March 14, 2023).]&lt;/ref&gt;&lt;ref&gt;[https://spectrum.ieee.org/python-compiler "MIT Turbocharges Python’s Notoriously Slow Compiler &gt; Codon lets users run Python code as efficiently as C or C++", IEEE Spectrum (2023年3月30日掲載記事)]&lt;/ref&gt;
+* PyOMP - PythonをOpenMPで並列化するシステム&lt;ref&gt;T. G. Mattson, T. A. Anderson and G. Georgakoudis, "PyOMP: Multithreaded Parallel Programming in Python," in Computing in Science &amp; Engineering, vol. 23, no. 6, pp. 77-80, 1 Nov.-Dec. 2021, doi: 10.1109/MCSE.2021.3128806.&lt;/ref&gt;&lt;ref&gt;[https://www.youtube.com/watch?v=uKD21Yo4yVg PyOMP: Parallel multithreading that is fast AND Pythonic. Presented by Tim Mattson (Intel)]&lt;/ref&gt;
+
+== エコシステム ==
+Pythonはパッケージ管理ソフト・ライブラリ・レポジトリなどからなるエコシステムを形成している。
+
+=== パッケージ管理 ===
+[[ファイル:Python build and install.png|サムネイル|ビルドシステム/wheel/インストーラ]]
+Pythonのパッケージ管理は[[Pip|&lt;code&gt;pip&lt;/code&gt;]]・&lt;code&gt;pipenv&lt;/code&gt;・&lt;code&gt;poetry&lt;/code&gt;・[[EasyInstall]]などの[[パッケージ管理システム]]によっておこなわれる。バイナリパッケージの[[ファイルフォーマット|フォーマット]]には'''wheel'''があり、これを[[インタフェース (情報技術)|インタフェース]]としてビルドシステムとパッケージ管理システムの分離が可能になっている&lt;ref group="†"&gt;"Wheel attempts to remedy these problems by providing a simpler interface between the build system and the installer." [https://www.python.org/dev/peps/pep-0427/ PEP 427 -- The Wheel Binary Package Format 1.0]&lt;/ref&gt;。
+
+[[Python Package Index]] (PyPI) と呼ぶ公式のパッケージリポジトリが存在する。
+
+パッケージ管理および実行環境管理を含めた統合開発環境としては[[Anaconda (Pythonディストリビューション)]]が存在する。
+
+=== ライブラリ ===
+Pythonは多様なコミュニティライブラリによって支えられている。
+*数値計算
+**[[行列]]演算パッケージの [[NumPy]]
+** プログラミング数学、科学、工学のための数値計算 [[SciPy]]
+* データ解析ソフト [[pandas]]
+* データ処理インタフェース [[IPython]]
+* グラフ表示ソフト [[Matplotlib]]
+* 描画ソフト  [[Seaborn]]
+* 数式処理機能 [[SymPy]]
+* データ処理の高速化  [[PyPy]]
+* Pythonアプリのコンパイルによる高速化 [[Numba]]
+* 機械学習
+** [[scikit-learn]]
+** [[TensorFlow]]
+** [[PyTorch]]
+* 画像処理のための [[Python Imaging Library]]
+* [[SDL]]のラッパである [[Pygame]]
+* [[スクレイピング]]ライブラリ [[Beautiful Soup]]
+* クローリング、スクレイピング用のpythonフレームワーク [[Scrapy]]
+* 離散事象シミュレーション [[SimPy]]
+* [[OpenCL]]へのインタフェース [[pyOpenCL]]
+* [[OpenGL]]へのインタフェース [[pyOpenGL]]
+* [[OpenCV]]へのインタフェース [[pyOpenCV]]
+* [[CUDA]]へのインタフェース   [[pyCUDA]]
+* 3Dグラフィックスやアニメーション [[VPython]]
+* [[PyODE]]
+* [[Python(x,y)]]
+* Webアプリケーションフレームワーク
+** [[Bottle]]（ボトル） - https://bottlepy.org/docs/dev/
+** [[CherryPy]]（チェリーパイ） - https://cherrypy.org/
+** [[Django]]（ジャンゴ） - https://www.djangoproject.com/
+** [[Flask]]（フラスク） - http://flask.pocoo.org/
+** [[Pylons#Pyramid|Pyramid]]（ピラミッド） - https://pylonsproject.org/projects/pyramid/
+** [[Plone]]（プローン） - https://plone.org/
+** [[Tornado (Webサーバ)]]（トルネード） - https://sites.google.com/site/tornadowebja/
+** [[Cyclone（C10K問題対応)]]（サイクロン） - http://cyclone.io/
+
+== 利用 ==
+{{seealso|Pythonを使っている製品あるいはソフトウェアの一覧}}
+
+Pythonは全世界で使われているが、欧米の企業でもよく使われている。大企業では[[マイクロソフト]]や[[Apple]]などのパッケージソフトウェア企業をはじめ、[[Google]], [[Yahoo!]], [[YouTube]] などの企業も利用している&lt;ref group="†" name="quotes" /&gt;。また携帯電話メーカーの[[ノキア]]では、S60シリーズでPythonアプリケーションが動く&lt;ref&gt;{{cite web|url=http://forum.nokia.com/python|title=Python for S60|accessdate=2007-01-17}}&lt;/ref&gt;。研究機関では、[[アメリカ航空宇宙局|NASA]]&lt;ref group="†" name="quotes" /&gt;や日本の[[高エネルギー加速器研究機構]]&lt;ref&gt;{{cite web|url=http://www-acc.kek.jp/WWW-ACC-exp/KEKB/control/KEKB-Control-home.html|title=KEKB: An Asymmetric Electron-Positron Collider for B-Factory in KEK|accessdate=2007-01-17}}&lt;/ref&gt;でPythonが使われている。
+
+適応範囲は[[データサイエンス]]、[[Webプログラミング]]、[[グラフィカルユーザインタフェース|GUI]]ベースのアプリケーション、[[CAD]]、[[3Dモデリング]]、[[数式処理]]など幅広い分野に及ぶ。
+
+=== データサイエンスおよび数値計算用途 ===
+[[NumPy]], [[SciPy]]などの高速な数値計算ライブラリの存在により、データサイエンスや科学技術コンピューティングにもよく用いられる。NumPy, SciPyの内部はC言語で書かれているので、動的スクリプト言語の欠点の一つである動作速度の遅さを補っている&lt;ref&gt;{{cite web|url=http://www.computer.org/csdl/mags/cs/2011/02/mcs2011020009.html|title=Python for Scientists and Engineers|accessdate=2015-08-09}}&lt;/ref&gt;。[[Numba]] を使うと、Python のコードが [[LLVM]] に [[JITコンパイル]]して利用可能であり、非常に高速な計算ができる。[[TensorFlow]] などのライブラリにより [[Graphics Processing Unit|GPU]] 上で高速に計算するライブラリも充実している。
+
+[[ジェットブレインズ|JetBrains]] とPythonソフトウェア財団による共同調査によると、2017年10月現在、最も主要な用途は何かというアンケートで、用途の27%がデータサイエンス（そのうち18%がデータ解析、9%が[[機械学習]]）である&lt;ref name="python-developers-survey-2017"/&gt;。
+
+=== Webアプリケーション用途 ===
+[[Django]] や [[Flask]] といった[[Webアプリケーションフレームワーク]]が充実しているため、Webアプリケーション開発用途にも多く使われている。JetBrains とPythonソフトウェア財団による共同調査によると、2017年10月現在、26%の人が最も主要な用途としてWeb開発を選んだ&lt;ref name="python-developers-survey-2017"/&gt;。
+
+=== スマホアプリ用途===
+
+* [[kivy]]：オープンソースで商用利用も可能なので、スマホアプリの販売が可能。androidアプリもiOSアプリも作成することが可能
+* [[tkinter]]：pythonの標準ライブラリで簡単にGUIアプリを作成可能。ネットでの情報が最も多い
+* [[PyQt]]：クロスプラットフォームで作成可能だが、商用利用は有償
+* [[xPython]]：クロスプラットフォームで動作可能なGUIアプリを作成可能
+
+=== システム管理およびグルー言語用途 ===
+[[スクリプト言語]]としての特性から、従来[[Perl]]や[[シェル#シェルスクリプト|シェルスクリプト]]が用いられることの多かったシステム管理用のスクリプトとして複数の[[オペレーティングシステム|OS]]で採用されている。また、異なる言語で書かれた多数のモジュールの機能を貼り合わせる[[グルー言語]]（糊の言語）として利用する例も多い。実際、多くの商用[[アプリケーションソフトウェア|アプリケーション]]で Python は組み込みのスクリプト言語として採用されている。
+
+JetBrains とPythonソフトウェア財団による共同調査によると、2017年10月現在、9%の人が最も主要な用途として[[DevOps]], システム管理, 自動化スクリプトを上げた&lt;ref name="python-developers-survey-2017"/&gt;。
+
+=== 教育用 ===
+Pythonは教育用の目的で設計されたわけではないが&lt;ref name="not-for-education" /&gt;、その単純さから子供が最初に学ぶプログラミングにおける教育用の言語としても利用が増えている。[[グイド・ヴァンロッサム]]はPython設計以前に教育用言語である[[ABC_(プログラミング言語)|ABC]]の開発にかかわり、教育用としての利用について期待感を示したこともあり、方針として非技術者向けといった利用を視野に入れているとされることもある&lt;ref name="edu-sig" /&gt;。
+
+&lt;blockquote&gt;私の大好きなPython利用法は、騒ぎ立てずに、言語教育でプログラミングの原理を教えること。それを考えてくれ――次の世代の話だね。&lt;cite&gt;-- [http://slashdot.jp/story/04/07/24/1020202/ スラッシュドット・ジャパン『 Guido van Rossum へのインタビュー』]&lt;/cite&gt;&lt;/blockquote&gt;
+
+[[情報処理推進機構]] (IPA) は[[国家試験]]の[[基本情報技術者試験]]で2020年の春期試験より [[COBOL]] を廃止して Python を追加した&lt;ref&gt;[https://www.ipa.go.jp/about/press/20190124.html プレス発表 基本情報技術者試験における出題を見直し：IPA 独立行政法人 情報処理推進機構]&lt;/ref&gt;。
+
+日本の[[情報 (教科)|高等学校情報科]]「情報Ⅰ」の教員向け研修教材の中で、プログラミング用言語としてPythonが使われている&lt;ref&gt;[[文部科学省]]初等中等教育局情報教育・外国語教育課 [https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1416756.htm 高等学校情報科「情報Ⅰ」教員研修用教材（本編）]「[http://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2019/05/15/1416758_005.pdf 第3章 コンピューターとプログラミング]」(2019年5月)&lt;/ref&gt;。
+
+ただし、Pythonの言語は，言語自身に組み込まれている型とそれに付随するメソッドの多いことなどから，C言語などと較べて遙かに多くの憶えねばならない事柄があることになる。持つ機能の一部に限定して教育に使えば，憶える事柄を減らせるが，言語の機能をすべて知らなければ他人によって書かれたプログラムを正しく理解することが出来ない可能性がある。変数自身には型が無いことからプログラム上で扱われているデータ・オブジェクトの型が何であるかは実行時に決まるので、それを読み解きながらでないとプログラムの動作をうまく理解しにくい場合もある。
+
+また、Pythonは処理の記述が最低一行で済む位文法がシンプルなため、まだプログラミングについてあまり深く知らない子どもにとっても取り組みやすい言語と言える。&lt;ref name=":5"&gt;{{Cite web |title=Pythonとは？主な特徴や子どもに習得させるメリットを知っておこう |url=https://www.hallo.jp/fs/column/20230202/ |website=www.hallo.jp |access-date=2023-06-02 |language=ja}}&lt;/ref&gt;
+
+&lt;syntaxhighlight lang="python3"&gt;
+# Pythonで記述した「Hello,World!」の例
+# Pythonは最低一行のコードで文字を表示することができる。
+print("Hello, World!")
+&lt;/syntaxhighlight&gt;&lt;syntaxhighlight lang="java"&gt;
+// Javaで記述した「Hello, World!」の例
+// Javaは文字の表示に最低5行(括弧を除くと3行)コードを記述する必要がある。
+public class hoge {
+    public static void main(String...args) {
+        System.out.println("Hello, World!");
+    }
+}
+&lt;/syntaxhighlight&gt;Pythonはその文法のシンプルさのおかげで、 誰が書いても似たようなコードになるという性質があるので、学習していけば大人の作成したコードを理解できるようになる。&lt;ref name=":5" /&gt;
+
+また、シンプルな文法なのでコードを記述している途中で混乱することがあまりなく、子どもが途中で投げ出しにくいという点も教育用として利用される理由でもある。&lt;ref name=":5" /&gt;
+
+=== スポーツパフォーマンス分析 ===
+Pythonはプロスポーツの分析によく使われている。[[メジャーリーグベースボール]]（野球）、[[プレミアリーグ|イングリッシュプレミアリーグ]]（サッカー）、[[NBA|ナショナルバスケットボールアソシエーション]]（バスケットボール）、[[ナショナルホッケーリーグ]]（アイスホッケー）、[[インディアン・プレミアリーグ|インディアンプレミアリーグ]]（クリケット）の実際のデータセットからのスポーツ分析は、ベストセラーの[[マネー・ボール|本]]と[[マネーボール (映画)|映画]]である[[マネー・ボール|マネーボール]]によって示される現実世界の成功によって部分的に推進され、人気が高まっている研究分野として浮上している([[セイバーメトリクス]])。チームとプレーヤーのパフォーマンスデータの分析は、フィールド、コート、氷上だけでなく、ファンタジースポーツプレーヤーやオンラインスポーツギャンブルのリビングルームでもスポーツ業界に革命をもたらし続けている。実際のスポーツデータを使用した予測スポーツ分析の原則を使用して、プレーヤーとチームのパフォーマンスを予測する&lt;ref&gt;{{Cite web |title=Foundations of Sports Analytics: Data, Representation, and Models in Sports |url=https://www.coursera.org/learn/foundations-sports-analytics?specialization=sports-analytics |website=Coursera |accessdate=2022-02-02 |language=ja}}&lt;/ref&gt;。
+
+Pythonを使ってデータをプログラミングする方法を示したり、マネーボールのストーリーの背景にある主張を検証したり、マネーボールの統計の進化を調べたりすることが可能である。公開されているデータセットから野球のパフォーマンス統計を計算するプロセスを案内される。実行期待値マトリックスを使用して導出された、より高度な測定値（Wins Over Replace（[[WAR (野球)|WAR]]）など）に進む。これらの統計を使用して、独自のチームおよびプレーヤーの分析を行うことができるようになる&lt;ref name=":4"&gt;{{Cite web |title=Moneyball and Beyond |url=https://www.coursera.org/learn/moneyball-and-beyond?specialization=sports-analytics |website=Coursera |accessdate=2022-02-02 |language=ja}}&lt;/ref&gt;&lt;ref name=":3"&gt;{{Cite web |title=Prediction Models with Sports Data |url=https://www.coursera.org/learn/prediction-models-sports-data?specialization=sports-analytics |website=Coursera |accessdate=2022-02-02 |language=ja}}&lt;/ref&gt;。
+
+Pythonを使用してプロスポーツの試合結果の予測を生成する方法の主な重点は、チームの支出に関するデータを使用して、ゲームの結果をモデル化する方法として[[ロジスティック回帰]]の方法を教えることである。過去の結果をモデル化し、そのモデルを使用して、まだプレイされていない結果のゲームを予測するプロセスを実行する。ベッティングオッズのデータを使用してモデルの信頼性を評価する方法をオーナーに示す。分析は最初に英国プレミアリーグに適用され、次にNBAとNHLに適用される。データ分析とギャンブルの関係、その歴史、および個人的なリスクを含むスポーツベッティングに関連して発生する社会的問題の概要も説明する。マネーボールは、データ分析を使用してチームの勝率を高めることができることを示すことにより、プロスポーツのパフォーマンス統計の分析に革命を引き起こした&lt;ref name=":4"&gt;{{Cite web |title=Moneyball and Beyond |url=https://www.coursera.org/learn/moneyball-and-beyond?specialization=sports-analytics |website=Coursera |accessdate=2022-02-02 |language=ja}}&lt;/ref&gt;&lt;ref name=":3"&gt;{{Cite web |title=Prediction Models with Sports Data |url=https://www.coursera.org/learn/prediction-models-sports-data?specialization=sports-analytics |website=Coursera |accessdate=2022-02-02 |language=ja}}&lt;/ref&gt;。
+
+Pythonを使用してデータをプログラムし、マネーボールのストーリーの背後にある主張をテストし、マネーボール統計の進化を調べる方法を示し、公開されているデータセットから野球のパフォーマンス統計を計算するプロセスができる&lt;ref name=":4"&gt;{{Cite web |title=Moneyball and Beyond |url=https://www.coursera.org/learn/moneyball-and-beyond?specialization=sports-analytics |website=Coursera |accessdate=2022-02-02 |language=ja}}&lt;/ref&gt;&lt;ref name=":3"&gt;{{Cite web |title=Prediction Models with Sports Data |url=https://www.coursera.org/learn/prediction-models-sports-data?specialization=sports-analytics |website=Coursera |accessdate=2022-02-02 |language=ja}}&lt;/ref&gt;。スポーツ分析には、トレーニングと競技の両方の取り組みを定量化するアスリートとチームからの大量のPythonデータセットが含まれるようになった。ウェアラブルテクノロジーデバイスは、アスリートが毎日着用しており、シーズン全体にわたるアスリートのストレスと回復を詳細に調べるためのかなりの機会を提供する。これらの大規模なデータセットのキャプチャは、怪我の予防に関する新しい仮説と戦略、およびトレーニングと回復を最適化するためのアスリートへの詳細なフィードバックにつながった。Pythonでのプログラミングを使用して、トレーニング、回復、パフォーマンスに関連する概念を調査することもできる&lt;ref&gt;{{Cite web |title=Wearable Technologies and Sports Analytics |url=https://www.coursera.org/learn/wearable-technologies?specialization=sports-analytics |website=Coursera |accessdate=2022-02-02 |language=ja}}&lt;/ref&gt;。
+
+Python [[Scikit-learn]]（sklearn）ツールキットと実際の運動データを使用して教師あり機械学習手法を探索し、機械学習アルゴリズムと運動結果の予測方法の両方を理解する。[[サポートベクターマシン]]（SVM）、[[決定木]]、[[ランダムフォレスト]]、[[線形回帰]]および[[ロジスティック回帰]]、[[統計集団|アンサンブル]]などの方法を適用して、NHLやMLBなどのプロスポーツリーグからのデータを調べる。また、[[Apple Watch]]や[[慣性計測装置|慣性測定ユニット（IMU）]]などのウェアラブルデバイスも含まれる。分類と回帰の手法を使用して、運動活動やイベント全体であるスポーツ分析を可能にする方法を幅広く理解できるようになる。スポーツコンテストのカテゴリ別結果変数（つまり、勝ち、引き分け、負け）を処理する際の回帰モデル、線形確率モデル（LPM）を、その理論的基礎、計算アプリケーション、および経験的制限の観点からモジュールは、カテゴリ従属変数のLPMのより良い代替として、ロジスティック回帰をし、デモンストレーションする。順序付けられたロジットモデルと公開されている情報を使用してEPLサッカーゲームの結果を予測する方法を示す。ベッティングオッズに対してこれらの予測の正確さを評価し、それらが非常に正確であることを示す。北米の3つのチームスポーツリーグ（NHL、NBA、MLB）のコンテキストでモデルを複製することにより、前週に取り上げたEPL予測モデルの有効性を評価する。具体的には、順序付けられたロジットモデルと公開されている情報を使用して、NHL、NBA、MLBのレギュラーシーズンゲームの結果を予測する&lt;ref&gt;{{Cite web |title=Introduction to Machine Learning in Sports Analytics |url=https://www.coursera.org/learn/machine-learning-sports-analytics?specialization=sports-analytics |website=Coursera |accessdate=2022-02-02 |language=ja}}&lt;/ref&gt;。
+
+== 歴史 ==
+元々は[[Amoeba (オペレーティングシステム)|Amoeba]]の使用言語である[[ABC_(プログラミング言語)|ABC言語]]に[[例外処理]]や[[オブジェクト指向]]を対応させるために作られた言語である&lt;ref name="faq-created" /&gt;。
+
+===0.9x===
+[[1991年]]にヴァンロッサムがPython 0.90の[[ソースコード]]を公開した。この時点ですでにオブジェクト指向言語の特徴である[[継承 (プログラミング)|継承]]、[[クラス_(コンピュータ)|クラス]]、[[例外処理]]、[[メソッド (計算機科学)|メソッド]]やさらに[[抽象データ型]]である[[文字列]]、[[リスト (抽象データ型)|リスト]]の概念を利用している。これは[[Modula-3]]の[[モジュール]]を参考にしていた。
+
+===1.x===
+[[1994年]]1月、Python 1.0を公開した。主な特徴として[[関数型言語]]の基本である[[ラムダ計算]]を実装、map関数・reduce関数などを組み込んだ。
+
+バージョン1.4からは[[Common Lisp]]にある機能とよく似た[[キーワード引数]]を導入した。また簡易ながら[[名前修飾]]を用いた[[カプセル化]]も実装した。
+
+===2.x===
+[[2000年]]に公開。[[ガベージコレクション]]や[[Unicode]]、[[リスト (抽象データ型)|リスト]]を導入した。一躍メジャーな言語となった。多くの機能は[[Haskell]]を参考にして導入している。
+
+バージョン2.4には、子プロセスの起動やコマンドを実行できるsubprocessモジュールが実装された。&lt;ref name="about-subprocess-module"&gt;https://www.fenet.jp/dotnet/column/language/7841/ 「Pythonのsubprocessモジュールの使い方｜子プロセスの起動方法からわかりやすく解説」.NET Column (2021年3月25日) 2023年5月17日閲覧。&lt;/ref&gt;
+
+2.6以降のバージョンには、2.xから3.xへの移植を助ける「2to3 ツール」と「lib2to3 モジュール」を含んでいる&lt;ref group="†" name="2to3"&gt;{{cite web|url=http://docs.python.jp/3.3/howto/pyporting.html|title=Python 2 から Python 3 への移植|publisher=Python Software Foundation|accessdate=2014-03-13}}&lt;/ref&gt;。2.7が2.xの最後のバージョンで、2.7のサポートは[[2020年]][[1月1日]]までである&lt;ref group="†"&gt;[https://www.python.org/dev/peps/pep-0373/ PEP 373 -- Python 2.7 Release Schedule | Python.org]&lt;/ref&gt;。ただし、サポート終了後に 2.7.18 を2020年4月にリリースし、これが最後の 2.7.x になる&lt;ref&gt;"Python 2.7.18はPython 2.7の最後のリリースであり、したがってPython 2の最後のリリースである "&lt;/ref&gt;&lt;ref name=":1"&gt;{{Cite web |url=https://pythoninsider.blogspot.com/2020/04/python-2718-last-release-of-python-2.html |title=Python Insider: Python 2.7.18, the last release of Python 2 |last=Peterson |first=Benjamin |date=2020-04-20 |website=Python Insider |access-date=2020-04-27}}&lt;/ref&gt;。これ以上のセキュリティパッチやその他の改善はリリースされない&lt;ref group="†"&gt;{{Cite web |url=https://www.python.org/doc/sunset-python-2/ |title=Sunsetting Python 2 |website=Python.org |language=en |access-date=2019-09-22}}&lt;/ref&gt;。
+
+{| class="wikitable" style="float: center;"
+! バージョン
+! リリース日&lt;ref name="Version_release_date"&gt;{{cite web|url=http://www.python.org/doc/versions/|title=Python Documentation by Version|publisher=Python Software Foundation|accessdate=2014-03-20}}&lt;/ref&gt;
+! サポート期限&lt;ref name="end-of-life-branches"/&gt;
+|-
+| 2.0
+| 2000年10月16日
+|
+|-
+| 2.1
+| 2001年4月15日
+|
+|-
+| 2.2
+| 2001年12月21日
+|
+|-
+| 2.3
+| 2003年7月29日
+|
+|-
+| 2.4
+| 2004年11月30日
+|
+|-
+| 2.5
+| 2006年9月19日
+|
+|-
+| 2.6
+| 2008年10月1日
+| 2013年10月29日
+|-
+| 2.7
+| 2010年7月4日
+| 2020年1月1日
+|}
+
+===3.x===
+[[2008年]]、長い試験期間を経てPython 3.0が公開された。
+開発初期には、西暦3000年に公開予定の理想のPythonとして、Python 3000と呼んでいた。Py3Kと略すこともある。
+
+しかし2.xとの後方互換性が損なわれている。当初は2.xに比べて3.xが利用できるライブラリ等が著しく少ないという問題点があったが、[[Django]]など徐々に3.xに対応したフレームワークやライブラリなどが増えていったこともあり、[[2016年]]時点においては新規のプロジェクトについて3.xで開発することが多くなっている&lt;ref&gt;{{cite web|url=http://www.sejuku.net/blog/8988/|title=【入門者必見】Python2と3、どっちを学習すべき？違いを徹底解説！ |author=佐野裕史|publisher=株式会社 侍 |accessdate=2016-09-21}}&lt;/ref&gt;{{要高次出典|date=2018-11}}。JetBrains とPythonソフトウェア財団による共同調査では、Python の 2 と 3 がどっちがメインであるかというアンケートで、Python 3 がメインであると答えた人が、2016年1月は40%だったが、2017年10月は75%になった&lt;ref name="python-developers-survey-2017"&gt;[https://www.jetbrains.com/research/python-developers-survey-2017/ Python Developers Survey 2017 - Results]&lt;/ref&gt;&lt;ref&gt;[https://opensource.com/article/18/5/numbers-python-community-trends By the numbers: Python community trends in 2017/2018 | Opensource.com]&lt;/ref&gt;。
+
+[[2015年]]11月にリリースされた[[Fedora|Fedora 23]]&lt;ref name="Fedora 23_Python3_Change"&gt;{{cite web|url=https://fedoraproject.org/wiki/Changes/Python_3_as_Default/|title=【Changes/Python 3 as Default |publisher=[[Fedora Project]] |accessdate=2016-09-21}}&lt;/ref&gt;や2016年4月にリリースされた[[Ubuntu|Ubuntu 16.04 LTS]]&lt;ref name="Ubuntu 16.04 LTS_Python3_Change"&gt;{{cite web|url=https://wiki.ubuntu.com/XenialXerus/ReleaseNotes/Ja/|title= Ja |author=kuromabo|publisher=Ubuntu.com |accessdate=2016-09-21}}&lt;/ref&gt;では、デフォルトでインストールされるPythonのバージョンが2.xから3.xに変更されている。[[Red Hat Enterprise Linux]]では7.5をもってPython 2が廃止予定（deprecated）となった&lt;ref&gt;[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.5_release_notes/chap-red_hat_enterprise_linux-7.5_release_notes-deprecated_functionality_in_rhel7 Red Hat Enterprise Linux 7 Chapter 53. Deprecated Functionality - Red Hat Customer Portal]&lt;/ref&gt;。
+
+{| class="wikitable" style="float: center;"
+! バージョン
+! リリース日&lt;ref name="Version_release_date"/&gt;
+! サポート期限&lt;ref name="end-of-life-branches"&gt;[https://devguide.python.org/devcycle/#end-of-life-branches 17. Development Cycle — Python Developer's Guide]&lt;/ref&gt;
+|-
+| 3.0
+| 2008年12月3日
+| 2009年1月13日
+|-
+| 3.1
+| 2009年6月27日
+| 2012年4月9日
+|-
+| 3.2
+| 2011年2月20日
+|2016年2月20日
+|-
+| 3.3
+| 2012年9月29日
+| 2017年9月29日
+|-
+| 3.4
+| 2014年3月16日
+| 2019年3月18日
+|-
+| 3.5
+| 2015年9月13日
+| 2020年9月30日
+|-
+| 3.6
+| 2016年12月23日
+| 2021年12月
+|-
+| 3.7
+| 2018年6月27日
+| 2023年6月
+|-
+| 3.8
+| 2019年10月14日
+| 2024年10月
+|-
+| 3.9
+| 2020年10月5日
+| 2025年10月
+|-
+|3.10
+|2021年10月4日
+|2026年10月
+|-
+|3.11
+|2022年10月24日
+|2027年10月
+|}
+
+'''3.0'''&lt;ref name="Version_3.0"&gt;{{cite web|url=https://news.mynavi.jp/techplus/article/20090101-python3/|title=登場! Python 3.0 - 2系との違いを比較|publisher=[[マイナビ]]|date=2009-01-01|accessdate=2014-03-13}}&lt;/ref&gt;
+* print命令をprint関数へ変更
+* Unicodeを全面採用
+* 整数をint型に一本化
+
+'''3.1'''&lt;ref name="Version_3.1_a"&gt;{{cite web|url=http://sourceforge.jp/magazine/09/06/30/0623238|title=「Python 3.1」正式版リリース|publisher=OSDN Corporation|date=2009-07-01|accessdate=2014-03-13}}&lt;/ref&gt;&lt;ref name="Version_3.1_b"&gt;{{cite web|url=http://slashdot.jp/story/09/07/01/0410243/Python-3.1%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9|title=Python 3.1リリース|publisher=OSDN Corporation|date=2009-06-30|accessdate=2014-03-13}}&lt;/ref&gt;
+* 順序付き辞書
+* 単体テストフレームワーク「unittest」への機能追加
+* TkinterでのTile対応
+* import文のリファレンス実装となる、Pythonで実装したimportlibモジュール
+* ネストしたwith文に対する新たな文法
+
+'''3.2'''&lt;ref name="Version_3.2"&gt;{{cite web|url=http://developers.slashdot.jp/story/11/02/21/221210/Python-3.2-%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9|title=Python 3.2リリース|publisher=OSDN Corporation|date=2011-02-22|accessdate=2014-03-13}}&lt;/ref&gt;
+* 単体テストモジュールのアップデートや拡張モジュール向け stable ABI
+* pyc レポジトリディレクトリのサポート
+* E-mail パッケージや SSL モジュールの改善
+* pdb (Python debugger) の改良
+
+;3.3
+:3.1リリースから2年間、言語仕様を凍結し変更を行わない「モラトリアム期間」を解除した&lt;ref name="Version_3.3"&gt;{{cite web|url=http://sourceforge.jp/magazine/12/10/01/004254|title=仕様変更凍結が解除され新機能が追加された「Python 3.3」、ついにリリース|publisher=[[SourceForge.JP]]|author=末岡洋子|date=2012-10-01|accessdate=2014-03-13}}&lt;/ref&gt;。
+* 新しい文法として、ジェネレータ関数内で別のジェネレータ関数を利用する「yield from」を追加。
+* 「u」や「U」といったプレフィックスを用いたUnicodeリテラルシンタックスを復活
+* UCS-4文字列にも対応し、文字列表現の柔軟性を強化
+* 仮想化Python実行環境を導入するためのvirtualenvパッケージの機能を「venv」機能としてコアに取り込んだ。
+
+;3.4&lt;ref name="Version_3.4_a"&gt;{{cite web|url=https://news.mynavi.jp/techplus/article/20140318-a217/|title=Python 3.4登場|publisher=[[マイナビニュース]]|author=後藤大地|date=2014-03-18|accessdate=2014-03-20}}&lt;/ref&gt;&lt;ref name="Version_3.4_b"&gt;{{cite web|url=http://sourceforge.jp/magazine/14/03/18/170000|title=「Python 3.4」リリース、標準ライブラリを強化|publisher=[[SourceForge.JP]]|author=末岡洋子|date=2014-03-18|accessdate=2014-03-20}}&lt;/ref&gt;
+* オブジェクト指向ファイルシステムパスを提供する「pathlib」モジュールの提供
+* 列挙型を扱うためのenumモジュールの標準化
+* 統計関数を提供するstatisticsモジュールの導入
+* Pythonが割り当てたメモリブロックを追跡するためのデバッグツールのtracemallocモジュールの導入
+* 非同期I/Oを扱うためのフレームワークとなるasyncioモジュールの導入
+* Pythonの組み込み関数に関する分析情報を得るため機構の実装
+
+;3.5&lt;ref name="Version_3.5_a"&gt;{{cite web|url=https://news.mynavi.jp/techplus/article/20150914-a192/|title=Python 3.5.0登場|publisher=[[マイナビニュース]]|author=後藤大地|date=2015-09-13|accessdate=2015-11-05}}&lt;/ref&gt;&lt;ref name="Version_3.5_b"&gt;{{cite web|url=http://www.softantenna.com/wp/software/python-3-5-released/|title=「Python 3.5」正式版がリリース – 新機能が多数追加 |publisher= ソフトアンテナブログ|date=2015-09-14|accessdate=2015-11-05}}&lt;/ref&gt;
+* zipアプリケーションサポートの改良
+* byte/bytearrayオブジェクトのための「%」フォーマット対応の追加
+* 行列乗算演算子@の導入
+* 高速ディレクトリトラバーサル機能os.scandir()の導入
+* 割込がかかったシステムコールのオートリトライ機能追加
+* 近似値であるかどうかをテストする機能の導入
+* .pyoファイルの削除
+* 拡張モジュールをロードするための新しい仕組みの導入
+
+;3.6&lt;ref name="Version_3.6"&gt;{{cite web|url=https://mag.osdn.jp/16/12/26/153000|title=「Python 3.6」がリリース|publisher=[[OSDN]]|author=末岡洋子|date=2016-12-26|accessdate=2017-05-26}}&lt;/ref&gt;
+* 文字列中に式を埋め込める「Formatted string literals」の導入
+* 変数に対して型に関する情報（型ヒント）を与える「Syntax for variable annotations」の導入
+* 「async」および「await」文法 ([[async/await]])でコルーチンを利用可能にする「Asynchronous generators」の導入
+* 標準ライブラリにsecretsモジュールを追加
+* DTraceおよびSystemTapプローブのサポートを追加
+
+;3.7&lt;ref name="Version_3.7"&gt;{{cite web|url=https://mag.osdn.jp/18/06/29/163000|title=「Python 3.7」リリース、型アノーテーションの強化などさまざまな機能が追加される|publisher=[[OSDN]]|author=末岡洋子|date=2018-06-29|accessdate=2018-07-11}}&lt;/ref&gt;&lt;ref group="†"&gt;[https://docs.python.org/ja/3.7/whatsnew/3.7.html What's New In Python 3.7 — Python 3.7.5 ドキュメント]&lt;/ref&gt;
+* 使用時点では宣言されていない型を使った型アノーテーション表記が可能となる
+* レガシーな C ロケールの抑圧、強制 UTF-8 実行モード
+* breakpoint() 関数の追加
+* dict の挿入順の保存
+* [[ナノ秒]] (10&lt;sup&gt;-9&lt;/sup&gt; s) 単位の分解能を持つ新しい時間関数の追加
+* コンテキスト変数
+* データクラス
+
+;3.8&lt;ref group="†"&gt;[https://docs.python.org/ja/3/whatsnew/3.8.html What's New In Python 3.8 — Python 3.8.0 ドキュメント]&lt;/ref&gt;
+* 代入式 :=
+* 位置のみのパラメータ
+* f文字列で f'{expr=}' の形式のサポート
+* pickle プロトコル5
+*dict での reversed のサポート
+
+;3.9&lt;ref&gt;[https://docs.python.org/ja/3.9/whatsnew/3.9.html What's New In Python 3.9 — Python 3.9.12 ドキュメント]&lt;/ref&gt;
+* 辞書のマージ演算子
+* removeprefix(),removesuffix()メソッド追加
+* 組み込みGeneric型
+* zoneinfoモジュール
+
+;3.10&lt;ref&gt;[https://docs.python.org/ja/3/whatsnew/3.10.html What's New In Python 3.10 — Python 3.10.4 ドキュメント]&lt;/ref&gt;
+*構造的パターンマッチング
+*デバッガなどでより正確な行番号を表示
+*型ヒント
+**ユニオン型を X | Y と書けるようになった
+** &lt;code&gt;: TypeAlias&lt;/code&gt; を付与した明示的な型エイリアス
+** 引数仕様変数
+* zip関数の追加パラメータ
+
+=== Python の時系列 ===
+* 1990年代始め - [[オランダ]]にある[https://www.cwi.nl/ Stichting Mathematisch Centrum (CWI)]で、グイド・ヴァンロッサムによってPythonの初期バージョンが作成される。
+* 1995年 - ヴァンロッサムは米国ヴァージニア州レストンにある[https://www.cnri.reston.va.us/ Corporation for National Research Initiatives (CNRI)] に移動。ここでPythonの開発に携わり、いくつかのバージョンを公開する。
+* 2000年3月 - ヴァンロッサムとPythonのコア開発チームは BeOpen.com に移り、BeOpen PythonLabs チームを結成する。同年10月、PythonLabsチームはDigital Creations (現在の[http://www.zope.com/ Zope Corporation]) に移る。
+* 2001年 - Pythonに関する知的財産を保有するための非営利組織[[Pythonソフトウェア財団]] (PSF) が立ち上がる。このときZope CorporationはPSFの賛助会員となる。
+
+=== Pythonに影響を与えた言語 ===
+* [[ABC (プログラミング言語)|ABC]]（[[字下げ|インデント]]による構文）
+* [[Modula-2]], [[Modula-3|-3]]（モジュール機能、オブジェクト指向）
+* [[Icon]]（辞書、スライス演算子など）
+* [[SETL]]（リストの内包表現）
+* [[C言語|C]], [[C++]]（基本的な構文）
+* [[Smalltalk]]（仮想マシン機構、動的性）
+* [[LISP|Lisp]], [[Scheme]]（[[関数型言語]]の機能）
+
+== ライセンス ==
+Pythonは [https://www.python.org/download/releases/2.5/license/ PSF (Python Software Foundationライセンス)] の下、[[オープンソース]]で配布されている。このライセンスの内容は[[GNU General Public License|GPL]]に類似したものであるが、変更したバージョンを配布する際に変更をオープンソースにしなくてもよい、という点がGPLとは異なっている。
+
+== 注釈 ==
+{{Reflist|group="※"}}
+
+== 出典 ==
+{{reflist|30em|refs=
+&lt;ref name="faq-created"&gt;{{cite web | url = http://docs.python.org/faq/general.html#why-was-python-created-in-the-first-place | title = Why was Python created in the first place? | work = General Python FAQ | publisher = Python Software Foundation | accessdate = 22 March 2007 }}&lt;/ref&gt;
+&lt;ref name="bini"&gt;{{ cite book | last = Bini | first = Ola | title = Practical JRuby on Rails Web 2.0 Projects: bringing Ruby on Rails to the Java platform | year = 2007 | publisher = APress | location = Berkeley | isbn = 978-1-59059-881-8 | page = 3 }}&lt;/ref&gt;
+&lt;ref name="faq-created"&gt;{{cite web | url = http://docs.python.org/faq/general.html#why-was-python-created-in-the-first-place | title = Why was Python created in the first place? | work = General Python FAQ | publisher = Python Software Foundation | accessdate = 22 March 2007 }}&lt;/ref&gt;
+&lt;!-- 引用エラーが出ているためコメントアウト。この出典は本文中で使用されていないそうです。再使用する際はコメントアウトを外して下さい。
+&lt;ref name="AutoNT-7"&gt;{{cite web | author = Dave Kuhlman | url = http://cutter.rexx.com/~dkuhlman/python_book_01.html | title = A Python Book: Beginning Python, Advanced Python, and Python Exercises |accessdate=2012-06-11}}&lt;/ref&gt;
+--&gt;
+&lt;ref name="not-for-education"&gt;[http://www.rakunet.org/tsnet/TSpython/35/1067.html TSpython 発言]&lt;/ref&gt;
+&lt;ref name="edu-sig"&gt;{{Cite web | url = http://www.python.org/community/sigs/current/edu-sig/ | title =EDU-SIG: Python in Education|accessdate=2011-05-16}}&lt;/ref&gt;
+}}
+=== 一次文献 ===
+{{Reflist|30em|group="†"|refs=
+&lt;ref name="About"&gt;{{cite web | url = http://www.python.org/about | title = About Python | publisher = Python Software Foundation | accessdate = 24 April 2012}}, second section "Fans of Python use the phrase "batteries included" to describe the standard library, which covers everything from asynchronous processing to zip files."&lt;/ref&gt;
+&lt;ref name="PEP20"&gt;{{cite web | url = http://www.python.org/dev/peps/pep-0020/ | title = PEP 20&amp;nbsp;– The Zen of Python | last = Peters | first = Tim | date = 19 August 2004 | work = Python Enhancement Proposals | publisher = Python Software Foundation | accessdate = 24 November 2008 }}&lt;/ref&gt;
+&lt;ref name="PEP100"&gt;{{cite web | url = http://www.python.org/dev/peps/pep-0100/ | title = PEP 100&amp;nbsp;-- Python Unicode Integration | last = Lemburg | first = Marc-André | date = 10 Mar 2000 | work = Python Enhancement Proposals | publisher = Python Software Foundation | accessdate = 12 February 2014 }}&lt;/ref&gt;
+&lt;ref name="quotes"&gt;{{cite web|url=http://www.python.org/about/quotes/|title=Quotes about Python|accessdate=2007-01-15}}&lt;/ref&gt;
+&lt;ref name="whats-new-in-python-24"&gt;[http://docs.python.org/whatsnew/2.4.html#new-improved-and-deprecated-modules What’s New in Python 2.4]&lt;/ref&gt;
+&lt;ref name="PEP263"&gt;{{cite web | url = https://www.python.org/dev/peps/pep-0263/ | title = PEP 0263 -- Defining Python Source Code Encodings | last1 = Lemburg | first1 = Marc-André | last2 = von Löwis | first2 = Martin | date = 06 Jun 2001 | work = Python Enhancement Proposals | publisher = Python Software Foundation | accessdate = 12 February 2014 }}&lt;/ref&gt;
+}}
+
+== 関連項目 ==
+{{Portal|FLOSS|[[ファイル:FLOSS logo.svg|41px]]}}
+* [[IPython]] - Pythonを対話的に実行するためのシェル。
+* [[MyHDL]] - Python言語ベースのハードウェア記述言語
+* [[Julia (プログラミング言語)]] - PythonのライブラリやC言語、Fortran言語のコードを呼び出せるプログラミング言語。Pythonよりも動作が高速である。
+* [[スクリプト言語]]
+* [[オブジェクト指向プログラミング]]
+* [[空飛ぶモンティ・パイソン]] - これがPythonという言語名の由来である&lt;ref&gt;[https://docs.python.org/3/faq/general.html#why-is-it-called-python Why is it called Python?] - Python Software Foundation&lt;/ref&gt;
+
+==  学習用図書の例 ==
+* 大和田勇人、金盛克俊：「Pythonで始めるプログラミング入門」、コロナ社、ISBN 978-4-339-02498-2（2015年10月13日）。
+* 滝澤成人：「Python [基礎編] ワークブック」、カットシステム、ISBN 978-4-87783-837-9（2018年5月10日）。
+* 松浦健一郎、司ゆき：「わかるPython [決定版] 」、SBクリエイティブ、ISBN 978-4-7973-9544-0（2018年5月22日）。 
+* 柴田望洋：「新・明解Python入門」、SBクリエイティブ 、ISBN 978-4815601522（2019年5月30日）。
+* 亀田健司：「1週間でPythonの基礎が学べる本」、インプレス、ISBN 978-4-295-00853-8（2020年3月11日）。
+* 山田祥寛：「独習Python」、翔泳社、{{ISBN2|978-4-7981-6364-2}}（2020年6月22日）。
+* Guido van Rossum：「Pythonチュートリアル 第4版」、オライリージャパン、ISBN 978-4-87311-935-9（2021年1月27日）。
+* Bill Lubanovic：「入門 Python 3　第2版」、オライリージャパン、ISBN 978-4-87311-932-8（2021年3月22日）。 
+* 松浦健一郎、司ゆき：「Python [完全] 入門」、SBクリエイティブ、ISBN 978-4-8156-0764-7（2021年1月22日）。
+* 小高知宏：「Python言語で学ぶ基礎からのプログラミング」、近代科学社、{{ISBN2| 978-4-7649-0633-4}}（2021年7月31日）。
+* 岩崎圭、北川慎治、寺田学：「スラスラわかるPython 第2版」、ISBN 978-4-7981-6936-1（2021年11月17日）。
+* 松尾正信:「Pythonプログラミング ABCー正確に・美しく・簡潔に! ー」、近代科学社、ISBN 978-4764906426（2022年9月16日）。
+* 上野照正、山崎貴史：「プログラムのつくりかた Python 基礎編 Lv.1」、実教出版、ISBN 978-4-407-35255-9（2022年10月26日）。
+* 山崎貴史、廣田龍之介、森田直人：「Python ハンディプログラミング事典」、実教出版、ISBN 978-4-407-35591-8（2022年11月25日）。
+* Micha Gorelick、Ian Ozsvald：「ハイパフォーマンスPython 第2版」、オライリー・ジャパン、ISBN 978-4873119908 (2023年4月14日)。
+
+== 外部リンク ==
+{{Commonscat|Python (programming language)}}
+{{Wikibooks}}
+* {{Official website|name=Welcome to Python.org}} - Python公式サイト {{En icon}}
+* [https://docs.python.org/ja/3/tutorial/ Python チュートリアル]
+* [https://www.python.jp/ Python Japan] - マニュアル日本語訳の配布
+* [https://pythonawesome.com Python awesome]{{en icon}}
+* [https://cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf Allen B. Downey、相川利樹(訳):「Think Python：コンピュータサイエンティストのように考えてみよう」（原題: "Think Python: How to Think Like a Computer Scientist"）, Creative Common、PDF書籍]
+* [https://runestone.academy/ns/books/published/thinkcspy/index.html How to Think Like a Computer Scientist: Interactive Edition]
+* [https://python.atelierkobato.com/basic/ あとりえこばと：「Python プログラミング講座」(2018年8月13日).]
+* 喜多一：「[https://hdl.handle.net/2433/245698 プログラミング演習 Python 2019]」、京都大学学術情報リポジトリ（2020年2月13日）。
+* [https://utokyo-ipp.github.io Pythonプログラミング入門] - 東京大学
+* [https://www.python.jp/train/ ゼロからのPython入門講座] - Python Japan
+* [http://www.turbare.net/transl/scipy-lecture-notes/intro/ 1. 科学技術計算のために Python を始めよう。]
+* [https://www.kamishima.net/archive/scipy-overview.pdf Python による科学技術計算の概要] 神嶌敏弘（2020年4月21日）。
+* 情報処理学会公開教材 IPSJ　MOOC  # （これらは講義スタイルのビデオ教材です）
+**[https://sites.google.com/a.ipsj.or.jp/mooc/list/C3-1 基本的なプログラミング （Python入門）]
+**[https://sites.google.com/a.ipsj.or.jp/mooc/list/C3-2 アルゴリズム （Pythonを使ったアルゴリズム入門）]
+**[https://sites.google.com/a.ipsj.or.jp/mooc/list/C3-3 モデル化とシミュレーション（Pythonを使ったシミュレーション入門）]
+
+{{Python}}
+{{プログラミング言語一覧}}
+{{Normdaten}}
+{{デフォルトソート:はいそん}}
+[[Category:オブジェクト指向言語|PYTHON]]
+[[Category:スクリプト言語|PYTHON]]
+[[Category:オープンソースソフトウェア|PYTHON]]
+[[Category:Python|*]]
+[[Category:基本情報技術者試験|PYTHON]]
+&lt;references /&gt;</text>
+      <sha1>l49em2gskg71gzn33k4m28o06ble0nt</sha1>
+    </revision>
+  </page>
+  

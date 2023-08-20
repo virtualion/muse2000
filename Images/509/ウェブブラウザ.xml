@@ -1,0 +1,181 @@
+<page>
+    <title>ウェブブラウザ</title>
+    <ns>0</ns>
+    <id>509</id>
+    <revision>
+      <id>95508665</id>
+      <parentid>95508644</parentid>
+      <timestamp>2023-06-06T05:01:10Z</timestamp>
+      <contributor>
+        <username>W4171n64U</username>
+        <id>1961127</id>
+      </contributor>
+      <comment>[[Special:Contributions/126.66.64.161|126.66.64.161]] ([[User talk:126.66.64.161|会話]]) による ID:95508644 の版を[[H:RV|取り消し]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27637" xml:space="preserve">{{Redirect|インターネットブラウザー|ニンテンドー3DSのブラウザ|インターネットブラウザー (ニンテンドー3DS)}}
+{{複数の問題
+| 出典の明記 = 2021年3月
+| 更新 = 2021年3月
+}}
+{{Pie chart
+| caption=2021年12月時点のブラウザシェア- StatCounter&lt;ref&gt;https://news.mynavi.jp/techplus/article/20220106-2242636/&lt;/ref&gt;
+|other = yes
+|value1 = 66.60
+|label1 = [[Google Chrome]]
+|color1 = royalblue
+|value2 = 9.56
+|label2 = [[Safari]]
+|color2 = orangered
+|value3 = 9.22
+|label3 = [[Microsoft Edge]]
+|color3 = gold
+|value4 = 8.49
+|label4 = [[Mozilla Firefox]]
+|color4 = seagreen
+|value5 = 2.95
+|label5 = [[Opera]]
+|color5 = darkorange
+}}
+{{HTML}}
+'''ウェブブラウザ'''（'''インターネットブラウザ'''、web browser）とは、[[パーソナルコンピュータ|パソコン]]や[[スマートフォン]]等を利用して[[Webサーバ]]に接続するためのソフトウェアであり、[[ウェブページ]]を表示したり、[[ハイパーリンク]]をたどったりするなどの機能がある。単に'''ブラウザ'''（ブラウザー）とも呼ばれる。
+
+主なウェブブラウザとして、[[Google Chrome]]、[[Safari]]、[[Microsoft Edge]]、[[Mozilla Firefox]]、[[Opera]]、[[Internet Explorer]]、[[Vivaldi (ウェブブラウザ)|Vivaldi]]等がある。[[Microsoft Windows 7|Windows 7]]など古いOSではサポートが終了しているものがある。
+
+== 構造と動作 ==
+大まかに言うと、ウェブブラウザには3つの機能がある。
+# 主として[[Hypertext Transfer Protocol|HTTP]]により[[Webサーバ|サーバ]]と[[通信]]し、コンテンツを取得する。接続先を指定する際には、[[Uniform Resource Identifier]] (URI) を使用する&lt;ref&gt;{{Cite web|url=http://www.w3.org/TR/webarch/#id-resources|title=URI/Resource Relationships|work=Architecture of the World Wide Web, Volume One|last=Jacobs|first=Ian|coauthors=Walsh, Norman|publisher=[[World Wide Web Consortium]]|date=15 December 2004|accessdate=2009-06-30}}&lt;/ref&gt;。
+# 取得したコンテンツに対して、その種類（[[HyperText Markup Language|HTML]]/[[Extensible HyperText Markup Language|XHTML]]/[[Extensible Markup Language|XML]]、[[テキスト|文書]]、[[画像]]等）に応じた[[構文解析器|構文解析]]を行う。
+# 構文解析の結果を基に文字や画像を適切に配置し、あるいは文字の大きさを調整したり色を付けるなどして描画する。
+
+取得した[[HyperText Markup Language|HTML]]は、ウェブブラウザの[[HTMLレンダリングエンジン|レイアウトエンジン]]に渡され、[[マークアップ言語|マークアップ]]からインタラクティブな文書に変換される。[[Adobe Flash|Flash]]アプリケーションや [[Javaアプレット]]に対応する[[プラグイン]]が用意されている場合は、それらを表示・実行することができる。未対応の種類の[[ファイル (コンピュータ)|ファイル]]に遭遇した場合は、[[ダウンロード]]して保存するか、他のプログラムを起動して開こうとする。
+
+HTMLには、他のコンテンツへの[[ハイパーリンク]]を記載することができる。リンクにはURIが含まれており、リンクをクリックすると、ウェブブラウザはそのURIで示されるコンテンツを取得する。
+
+== サーバ等への接続方法 ==
+例えば、ブラウザのロケーションバーに ''&lt;nowiki&gt;http://en.wikipedia.org/&lt;/nowiki&gt;'' と入力したとする。[[Uniform Resource Locator]] (URL) のプレフィックスである[[URIスキーム]]によってURLをどう解釈するかは決まっている。古典的なURLは定義名 ''http:'' で始まり、[[Hypertext Transfer Protocol]] (HTTP) を使用してサーバに接続する。必須要件ではないが、多くのウェブブラウザは様々な定義名に対応しており、[[HTTPS]]用の ''https:''、[[File Transfer Protocol]] 用の ''ftp:''、内部ファイル用の ''file:'' などとも接続できる。
+
+ウェブブラウザが直接扱えない定義名は、ブラウザ内部で定義された、他のアプリケーションにそのまま渡されることが多い。例えば''mailto:'' で始まる[[Uniform Resource Identifier|URI]]は既定の[[電子メールクライアント]]に渡され、''news:''で始まるURIは既定の[[ニュースグループ]]リーダに渡される。OSのシェルがURIスキームを解釈しウェブブラウザなど適切なアプリケーションに渡される場合もある。
+
+== 機能 ==
+ウェブブラウザの機能は、最小限の文字を用いた[[ユーザインタフェース]] (UI) から、多様なファイル形式や[[通信プロトコル|プロトコル]]に対応する高機能なものまで幅広い。[[電子メール]]、[[ネットニュース]]、[[Internet Relay Chat]] (IRC) 等に対応するコンポーネントを含むウェブブラウザは「[[インターネットスイート]]」と呼ばれることもある&lt;ref&gt;{{Cite web |url= http://www.seamonkey-project.org/ |title=The SeaMonkey Project |publisher=[[Mozilla Foundation]] |date=7 November 2008 |accessdate=2009-06-30 }}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url= http://www.cyberdog.org/ |title=Cyberdog: Welcome to the 'doghouse! |date=5 July 2009 |accessdate=2009-06-30}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url= http://www.opus.co.tt/dave/internet.htm |title=Interesting DOS programs |author=Teelucksingh, Dev Anand |publisher=Opus Networkx |accessdate=2009-06-30}}&lt;/ref&gt;。
+
+主要なウェブブラウザは同時に複数の情報リソースを扱うことができ、別窓で表示したり、[[タブ (GUI)|タブ]]を使って同じウィンドウ内に表示したりする（[[タブブラウザ]]）。また、表示したくない[[ポップアップ広告]]を自動的にブロックする機能もある
+&lt;ref&gt;{{Cite web |url= http://technet.microsoft.com/en-us/library/bb457150.aspx#EEAA |title=Part 5: Enhanced Browsing Security |work=Changes to Functionality in Microsoft Windows XP Service Pack 2 |last=Andersen |first=Starr |coauthors=Abella, Vincent |publisher=[[マイクロソフト|Microsoft]] |date=15 September 2004 |accessdate=2009-06-30}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url= http://support.mozilla.com/en-US/kb/Pop-up+blocker |title=Pop-up blocker |publisher=[[Mozilla Foundation]] |accessdate=2009-06-30 }}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url= http://www.mactipsandtricks.com/tips/display.lasso?mactip=137 |title=Safari: Using The Pop-Up Blocker |work=Mac Tips and Tricks |publisher=WeHostMacs |year=2004 |accessdate= 2009-06-30}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url= http://www.opera.com/browser/tutorials/settings/#tabs |title=Simple settings |work=Opera Tutorials |publisher=[[オペラ・ソフトウェア|Opera Software]] |accessdate= 2009-06-30}}&lt;/ref&gt;。
+
+ユーザが[[ブックマーク]]したウェブページの一覧を表示する機能があり、素早くそれらのウェブページに戻ることができる。ブックマークは[[Internet Explorer]]では「お気に入り」と呼ぶ。さらに、[[フィードリーダー|フィードリーダ]]が組み込まれているウェブブラウザも多い。[[Mozilla Firefox|Firefox]]では[[フィード]]は "live bookmarks" という形式で扱われ、フィードにおける最近の項目と対応するブックマークのフォルダのように機能する&lt;ref&gt;{{Cite web |url= http://johnbokma.com/firefox/rss-and-live-bookmarks.html |title=Mozilla Firefox: RSS and Live Bookmarks |last=Bokma |first=John |accessdate=2009-06-30}}&lt;/ref&gt;。[[Opera]]ではフィードの内容を格納し表示する従来型のフィードリーダを採用している&lt;ref&gt;{{Cite web |url= http://www.opera.com/mail/rss/ |title=Opera Mail で RSS ニュースフィードを扱う |publisher=[[オペラ・ソフトウェア]] |accessdate=2009-06-30}}&lt;/ref&gt;。
+
+=== ユーザインタフェース (UI) ===
+多くの主要ウェブブラウザのUIには、以下のような共通の要素がある&lt;ref&gt;{{Cite web |url= http://www.about-the-web.com/shtml/browsers.shtml |title=About Browsers and their Features |publisher=SpiritWorks Software Development |accessdate=2009-05-05}}&lt;/ref&gt;。
+
+* 「前へ／次へ」のボタン。前のリソースに戻るボタンと次のリソースに進むボタンである。一部では一つに統合されているものもある。
+* 「更新」のボタン。現在のリソースを再ロードする。
+* 「中止」のボタン。リソースの読み込みを取り消す。一部では「更新」ボタンと統合されている。
+* 「ホーム」のボタン。指定した[[ホームページ]]に戻る機能を提供する。
+* [[アドレスバー]]は、[[Uniform Resource Identifier]] (URI) の入力のためにあり、入力された URI が指すリソースを表示する。検索バーと統合されている場合もある。
+* 検索バーは[[検索エンジン]]への入力のためにある。アドレスバーと検索バーが統合されている場合もある。
+* サイドバー - ブラウザによって名称は異なる。ウィンドウの左端・右端などにあり表示/非表示を切り替えられる。頻繁に使うが常に表示するほどではない要素（ブックマーク・履歴など）に簡単にアクセスできるようにしている。
+* [[ステータスバー]]はリソースの読み込み状況を表示したり、カーソルの位置にあるリンクのURIを表示したり、ページの拡大機能を提供したりする。
+* ブラウザによっては[[スキン (GUI)|スキン]]で外観を変更できる。
+
+主要なウェブブラウザはウェブページ内の[[インクリメンタルサーチ|インクリメンタル検索]]機能も持っている。
+
+多くのタブブラウザには以下のような共通の要素がある。
+* タブバー - 複数開いているタブを切り替える。タブをピン留めする・グループ化するなどの管理機能を持つものもある。
+* 新しいタブ - タブブラウザで新しいタブを開いた時、単にホームページや空白のページが表示される場合もあるが、Opera 9.2で導入された「スピードダイヤル」を皮切りに多くのブラウザで様々な機能が提供されるようになった。登録したページ（ブックマーク）や頻繁に表示したページの一覧など。
+
+2000年代末期、Google Chromeの登場や画面解像度が低い[[ネットブック]]の普及などに伴い、UIを整理してページの表示領域を極力拡大する傾向が主流になった。アドレスバーに検索などの機能を統合、ステータスバーの廃止、ボタンの数を最小限にするなどである。
+
+=== 特殊なUIを備えたブラウザ ===
+*'''[[テキストブラウザ|テキストベースブラウザ]]'''：（テキストブラウザ）  ウェブページのテキストのみをレンダリングするウェブブラウザ。[[キャラクタユーザインタフェース|CUI]]環境で動作させることができる。スタイルシートや画像、動画といったテキスト以外のコンテンツはほぼ無視されるが、その分必要リソースが少なく動作速度も速い傾向にある。 [[アクセシビリティ]]の観点から、音声ブラウザ等に対応させるためのテストにも利用される。
+* 音声ブラウザ：コンテンツを音声として読み上げるブラウザ。原理はテキストブラウザと同じだが、読み上げ機能に特化している。
+* '''[[ヘッドレスブラウザ]]'''：通常のUIを備えず、レンダリング結果を画面に表示する代わりにファイル等で記録するウェブブラウザ。ウェブコンテンツの制作者がテストに利用することが多い。いわゆるウェブ[[クローラ|クローラー]]はそれ自身がヘッドレスブラウザとして動作している。  通常のブラウザと同じレンダリングエンジンを内蔵しており、単にHTMLを取得しただけではわからないスクリプトの動作結果やCSSによる装飾結果も確認できる。ヘッドレスブラウザはコマンドのパラメーターや、コンテンツ本体とは別に用意した[[スクリプト言語]]等を利用して制御する。
+* '''[[専用ブラウザ]]'''：特定ウェブサイトの閲覧に特化したブラウザ。ブラウザ独自の[[グラフィカルユーザインタフェース|GUI]]を内蔵しているものでは、汎用ブラウザよりも操作性が優れる。[[2ちゃんねるブラウザ]]のようにサーバから直接ローデータを取得してレンダリングするものや、HTTP以外の手段で通信しているものもある。  汎用ブラウザの拡張機能として実装されているケースもある。回線速度やハードウェアのリソースが潤沢ではなかった時代では有力な実装方法であったが、開発コストが大きい為廃れる傾向にある。 なお、スマートフォン用の「アプリ」は専用ブラウザ的な運用がなされているが、実態は特定サイトに接続を固定化された汎用ブラウザという事も珍しくない。
+* '''[[最小主義のブラウザ]]'''：[[UNIX哲学]]に基づいたブラウザ。ウェブページの解釈・表示のみを行ない、例えばタブやボタンを持たない。タイル型ウィンドウマネージャと併用されることが多い。UNIX哲学では、「一つのことを、うまくやれ」の精神が重要視される。{{仮リンク|Uzbl|en|Uzbl}}等一部の（特に[[X Window System|X]]向けの）ブラウザはこの教義をかなり厳密に守っていると言える。Uzblは2017現在も開発が続いている[[Webkit]]解釈によるウェブブラウザである。このブラウザは下部のステータスバーと呼ばれる一行の表示を除き、タブやその他一切のUIを持たない。操作は設定ファイル（多くの場合&lt;code&gt;~/.config/uzbl/config&lt;/code&gt;というテキストファイルである）で定義され、標準では[[Vi]]風の鍵盤操作が定められている。最小主義と言ってもWebブラウザの本義は満たしており、Uzblは[[Acid3]]を満点で合格している。これらのブラウザはウィンドウマネージャ（親和性の高いものに[[awesome]]、[[i3 (ウィンドウマネージャ)|i3]]が挙げられる）によってタブブラウザのように操作できる。
+
+=== ウェブ標準への対応 ===
+初期のウェブブラウザが対応していたHTMLは非常に単純なものだった。ウェブブラウザの発展によりHTMLの標準でない方言が生まれ、互換性問題が大きくなっていった。最近のウェブブラウザは標準および'''事実上'''標準のHTMLと[[Extensible HyperText Markup Language|XHTML]] 、それらに高度な表現や機能を付加する[[Cascading Style Sheet|CSS]]・[[JavaScript]]などに対応している。
+
+表示したときの見た目はどのブラウザでも同じであるべきだが、そうでない場合もある。
+
+=== 拡張機能 ===
+ウェブブラウザが標準では持たない機能を追加するアドオン。
+:Firefox・Google Chrome・Safari・Opera等には独自の拡張機能フォーマットがあり、ブラウザの開発元が用意したポータルサイトで配布される。多くは企業ではなくユーザーの有志が制作しており、UIの改善・広告ブロックなど様々な機能を提供する。
+
+=== プライバシーと安全性 ===
+多くのウェブブラウザは[[HTTPS]]に対応しており、ウェブキャッシュや[[HTTP cookie|Cookie]]や閲覧履歴を素早く簡単に消去する機能もある。しかしそれだけでは対処できないセキュリティのリスクに晒され、[[マルウェア]]に悪用されたり、（現在は死語になったが）[[ブラウザクラッシャー]]などでブラウザのみならず[[オペレーティングシステム]]を[[フリーズ]]させられる場合がある。ブラウザ自体にも[[ブラックリスト]]で悪質なサイトへのアクセスを防止する・自動アップデートなどのセキュリティ向上機能が追加されているが、[[アンチウイルスソフトウェア]]などで[[オペレーティングシステム]] (OS) 全体を保護するのが望ましい。
+
+[[コンピュータセキュリティ]]、[[ネットワーク・セキュリティ]]も参照。
+
+== 歴史 ==
+[[File:WorldWideWeb FSF GNU.png|thumb|right|[[NeXT]]上で動作する[[WorldWideWeb]]は[[1991年]]に登場し、最初のウェブブラウザとなった&lt;ref&gt;{{Cite web
+|url=http://www.livinginternet.com/w/wi_browse.htm
+|title=Web Browser History
+|last=Stewart
+|first=William
+|accessdate=5 May 2009 
+}}&lt;/ref&gt;。]]
+ウェブブラウザの歴史は[[1980年代]]末に遡り、それから様々な技術の基礎を築きあげた最初のウェブブラウザ、[[WorldWideWeb]]が[[ティム・バーナーズ＝リー]]によって[[1991年]]に公開された。このブラウザは既存および新たなソフトウェアとハードウェアの色々な技術とともに寄せ集められていた。なお、WorldWideWebは後にNexusへと改称されている&lt;ref&gt;{{Cite web|url= http://www.w3.org/People/Berners-Lee/WorldWideWeb.html |title=Tim Berners-Lee: WorldWideWeb, the first Web client |publisher=W3.org |date= |accessdate=2011-12-07}}&lt;/ref&gt;。
+
+[[テッド・ネルソン]]と[[ダグラス・エンゲルバート]]はバーナーズ＝リーのずっと前に[[ハイパーテキスト]]の概念を開発していた。この核となる部分は World Wide Web に合うのではないか、というエンゲルバートの提案にバーナーズ＝リーは賛同した。
+
+[[File:Marc Andreessen.jpg|thumb|160px|マーク・アンドリーセン]]
+[[1993年]]に[[NCSA Mosaic]]が登場した。Mosaic は画像が扱える最初のウェブブラウザの一つであり、これによってウェブの利用者が激増するきっかけとなった&lt;ref name="bloomberg"&gt;{{Cite web|url= http://www.bloomberg.com/video/67758394 |title=Bloomberg Game Changers: Marc Andreesen |publisher=Bloomberg.com |date=2011-03-17 |accessdate=2011-12-07}}&lt;/ref&gt;。[[米国立スーパーコンピュータ応用研究所]] (NCSA) の Mosaic チームのリーダーであった[[マーク・アンドリーセン]]はその後まもなく[[ネットスケープコミュニケーションズ|ネットスケープ]]を設立し、Mosaicを汲む[[Netscape Navigator (ネットスケープコミュニケーションズ)|Netscape Navigator]]を[[1994年]]にリリースした。このブラウザは瞬く間に世界中のもっとも主流なウェブブラウザとなり、最盛期には全てのウェブにおいて9割もの利用率を占めた。
+
+これに[[マイクロソフト]]が反応し、[[1995年]]にNCSAからMosaicのライセンスを引き継ぎ[[Internet Explorer]]を開発した。このことが最初の[[ブラウザ戦争]]の引き金にもなった。マイクロソフトはInternet Explorerを[[Microsoft Windows|Windows]]に同梱させることで[[オペレーティングシステム|OS]]市場の優位性をウェブブラウザ市場にも引き継がせ、Internet Explorerにも力を持たせることができた。これによって[[2002年]]にはInternet Explorerの利用率はピーク時で95%を超えた&lt;ref name="searchenginejournal.com"&gt;{{Cite web|author=November 24, 2004 |url= http://www.searchenginejournal.com/mozilla-firefox-internet-browser-market-share-gains-to-74/1082/ |title=Mozilla Firefox Internet Browser Market Share Gains to 7.4% |publisher=Search Engine Journal |date=2004-11-24 |accessdate=2011-12-07}}&lt;/ref&gt;。2011年2月現在ではNet Applicationsによると利用率が57%程度とされており、Internet Explorerのシェア減少が示されていた&lt;ref name="browsershare"&gt;[http://marketshare.hitslink.com/browser-market-share.aspx?qprid=1 Hitslink.com]&lt;/ref&gt;。
+
+[[1996年]]に[[Opera]]が登場したが利用者を大きく獲得することはなく、2011年2月現在で2%と常にその前後の利用率となっていた&lt;ref name="browsershare" /&gt;。ただし[[携帯電話]]のウェブブラウザ市場では最も占有率を伸ばしており、4000万台を超える端末に導入されていた。また、いくつかの[[組み込みシステム]]向けにも登場しており[[任天堂]]の[[家庭用ゲーム機]]である[[Wii]]や[[ニンテンドーDSi|DSi]]などがある。
+
+[[1998年]]に[[Netscape]]は[[Mozilla Foundation]]を旗揚げし、[[オープンソース]]として自由な競争力のあるブラウザを提供しようと計画した。このブラウザは最終的に[[Mozilla Firefox]]として展開された。公開されたFirefoxは[[ベータ版]]段階だったがそれなりの愛好者を獲得し、Firefox 1.0が[[2004年]]末期にリリースされてから間もなくFirefoxの全バージョン合計で7.4%の利用率を獲得した&lt;ref name="searchenginejournal.com" /&gt;。2011年2月現在では22%の利用率となっていた&lt;ref name="browsershare" /&gt;。
+
+[[2003年]]1月に[[Apple]]の[[Safari]]が登場した。Appleの製品での占有率は独占的で、2011年2月現在の利用率は6.3%となっており、緩やかな上昇傾向を見せていた&lt;ref name="browsershare" /&gt;。[[KDE|KDEプロジェクト]]の[[KHTML]]を基に開発した[[WebKit]]と呼ばれるレンダリングエンジンを採用している。WebKitはAppleの[[iOS]]、[[Google]]の[[Android (オペレーティングシステム)|Android]]、[[ノキア]]の[[S60]]、[[パーム (企業)|Palm]]（2010年、[[ヒューレット・パッカード]]により買収）の[[HP webOS]]などいくつかの携帯電話のプラットフォームでも採用されていた。
+
+[[2008年]]9月にGoogleの[[Google Chrome]]が登場した。これはWebKitを基に開発した[[Blink (レンダリングエンジン)|Blink]]と呼ばれるレンダリングエンジンを採用している。ウェブブラウザのシェアは1990年代後半以降のWindowsの普及に伴いInternet Explorerの占有が続いていたが、Google Chromeが2010年代に入って著しくシェアを伸ばし、2011年2月時点で11%の利用率に成長した&lt;ref name="browsershare" /&gt;。この増加傾向はInternet ExplorerやFirefoxの減少傾向と同期していた&lt;ref&gt;{{Cite web|url= http://www.digitaltrends.com/web/internet-explorer-usage-to-plummet-below-50-percent-by-mid-2012/attachment/net-applications-browser-market/ |title=Internet Explorer usage to plummet below 50 percent by mid-2012 |date=September 3, 2011 |accessdate=September 4, 2011}}&lt;/ref&gt;。そして2011年12月、Google Chromeは[[Internet Explorer 8]]を越えて最も広く使われているウェブブラウザとなった。ただし、[[Internet Explorer]]の全バージョンを合計すると、IEが最も広く使われているウェブブラウザであった&lt;ref&gt;{{Cite web |url= http://money.cnn.com/2011/12/16/technology/chrome_internet_explorer/?source=cnn_bin |title=CNN Money claims that Chrome is more popular than IE8 |publisher=[[CNN (アメリカの放送局)|CNN]] |accessdate=2011-12-19}}&lt;/ref&gt;。
+
+2015年時点ではGoogle Chromeの世界シェアはInternet Explorerを抑えて1位となっており、過半数を占めるようになった。Internet ExplorerおよびFirefoxのシェア減少は著しく、それぞれ2位 (19.9％) および3位 (17.87％) となりGoogle Chromeとの差が急激に広がっていた&lt;ref&gt;{{Cite web|url= http://ascii.jp/elem/000/001/020/1020922/ |title=ついに日本でもIEが過半数割れに、世界はすでにChromeが寡占 |accessdate=2015-08-09}}&lt;/ref&gt;。一方で日本国内に限ると、依然としてInternet Explorerのシェアは高く過半数を占めていた&lt;ref&gt;{{Cite web|url= https://news.mynavi.jp/techplus/article/20150702-a307/ |title=シェアの下落続くIE - 6月ブラウザシェア |accessdate=2015-08-09 }}&lt;/ref&gt;。
+
+[[2015年]]7月にマイクロソフトの[[Microsoft Edge|Edge]]が登場した。[[EdgeHTML]]と呼ばれるレンダリングエンジンを採用していたが、後にBlinkへ変更された。[[Microsoft Windows 10|Windows 10]]に合わせてリリースされシェアを伸ばし、2020年には7.9%の利用率となり&lt;ref&gt;{{Cite web |url = https://news.mynavi.jp/techplus/article/20200602-1046668/|title = Microsoft Edgeが6カ月連続増加 - 5月PCブラウザシェア|website = [[マイナビニュース]]|publisher = マイナビ|date = 2020-06-02 |accessdate = 2020-06-23}}&lt;/ref&gt;Firefox (7.2%) をやや上回ったが、Google Chrome (69.8%) には遠く及んでいない。
+
+なお、成長著しい[[スマートフォン]]や非PCの[[タブレット (コンピュータ)|タブレット]]の分野では、[[オペレーティングシステム]] (OS) 付属のウェブブラウザが利用されることがほとんどであり、Androidでは[[Android (オペレーティングシステム)|Android]]の[[Androidブラウザ|Android標準ブラウザ]]と後継のChrome、[[iOS]]の[[Safari]]がOSの占有率にほぼ比例して普及している。PCとのデータ同期も可能である。FirefoxやOperaなどはブラウザをスマートフォン・タブレット対応アプリとしてリリースして対抗している。
+
+{{Main|ブラウザ戦争}}
+
+== 推奨ブラウザ ==
+本来[[ウェブサイト]]は様々なOS環境・ウェブブラウザで見られるように[[ウェブ標準]]などに則し、[[アクセシビリティ]]等を考慮した形で作成される必要がある。しかしウェブサイトによっては種々の都合からサイトの閲覧に必要な環境として特定の[[推奨ブラウザ]]を明記していることがあり、閲覧者は技術上の理由から推奨ブラウザに合わせたウェブブラウザの選択が必要となることもある。また、推奨ブラウザの記述内容によってはユーザが安全上の不利益を被る場合もある。
+{{Main|推奨ブラウザ}}
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 出典 ===
+{{Reflist|2}}
+
+== 関連項目 ==
+{{Commonscat|Web browsers}}
+* [[ウェブサイト]]
+* [[ウェブブラウザの一覧]]
+* [[ブラウザ戦争]]
+* [[HTMLレンダリングエンジン]]（レイアウトエンジンとも）
+* [[タブブラウザ]]
+* [[ツリーブラウザ]]
+* [[ラインモードブラウザ]]
+* [[モバイルブラウザ]]
+* [[推奨ブラウザ]]
+* [[インターネットスイート]]
+
+==外部リンク==
+*[https://www.w3.org/TR/webarch/ Architecture of the World Wide Web, Volume One] W3C
+*[https://www.w3.org/Proposal.html WorldWideWeb: Proposal for a HyperText Project] W3C
+
+{{ウェブブラウザ}}
+{{クラウドコンピューティング}}
+{{Normdaten}}
+{{DEFAULTSORT:うえふふらうさ}}
+[[Category:ウェブブラウザ|*]]
+[[Category:World Wide Web]]
+[[Category:インターネットの歴史]]
+[[Category:ネットワークソフト]]
+[[Category:アプリケーションソフト]]</text>
+      <sha1>01pepb1ovrq95zwju5qdmscm2rpamiv</sha1>
+    </revision>
+  </page>
+  

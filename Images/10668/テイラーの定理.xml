@@ -1,0 +1,395 @@
+<page>
+    <title>テイラーの定理</title>
+    <ns>0</ns>
+    <id>10668</id>
+    <revision>
+      <id>95541909</id>
+      <parentid>91226189</parentid>
+      <timestamp>2023-06-08T22:18:12Z</timestamp>
+      <contributor>
+        <username>Family27390</username>
+        <id>1670018</id>
+      </contributor>
+      <comment>/* 外部リンク */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26007" xml:space="preserve">{{calculus}}
+[[image:Mercator series.svg|thumb|right|関数 {{math|''f''(''x'') {{=}} log ''x''}} の点 {{math|''x'' {{=}} 1}} における多項式 {{math|''p''&lt;sub&gt;''n''&lt;/sub&gt;(''x'') {{=}} &amp;Sigma;{{SubSup||''k'' {{=}} 0|''n''}}(''x'' &amp;minus; 1)&lt;sup&gt;''k''&lt;/sup&gt;''f''&lt;sup&gt;(''k'')&lt;/sup&gt;(1)/''k''!}} による近似]]
+[[File:Taylorspolynomialexbig.svg|thumb|right|300px|指数関数 ''y''&amp;nbsp;=&amp;nbsp;''e''&lt;sup&gt;''x''&lt;/sup&gt;（赤の実線）と原点のまわりでのその4次のテイラー多項式（緑の破線）。]]
+
+[[微分積分学]]において、'''テイラーの定理'''（テイラーのていり、{{lang-en-short|Taylor's theorem}}）は、''k'' 回[[微分可能関数|微分可能]]な[[関数 (数学)|関数]]の与えられた点のまわりでの近似を ''k'' 次の'''テイラー[[多項式]]'''によって与える。[[解析関数]]に対しては、与えられた点におけるテイラー多項式は、その[[テイラー級数]]を有限項で切ったものである。テイラー級数は関数を点のある近傍において完全に決定する。「テイラーの定理」の正確な内容は1つに定まっているわけではなくいくつかのバージョンがあり、状況に応じて使い分けられる。バージョンのいくつかは関数のテイラー多項式による近似誤差の明示的な評価を含んでいる。
+
+テイラーの定理は[[1712年]]に1つのバージョンを述べた数学者[[ブルック・テイラー]] (Brook Taylor) にちなんで名づけられている。しかし誤差の明示的な表現はかなり後になって[[ジョゼフ＝ルイ・ラグランジュ]] (Joseph-Louis Lagrange) によってはじめて与えられた。結果の初期のバージョンはすでに[[1671年]]に[[ジェームス・グレゴリー]] (James Gregory) によって言及されている&lt;ref&gt;{{harvnb|Kline|1972|pp=442, 464}}&lt;/ref&gt;。
+
+テイラーの定理は微分積分学の入門レベルで教えられ、[[解析学]]の中心的な初等的道具の1つである。純粋数学ではより進んだ{{仮リンク|漸近解析|en|asymptotic analysis}}の入り口であり、より応用的な分野の[[数値解析]]や[[数理物理学]]においてよく使われている。テイラーの定理は任意[[次元]] ''n'', ''m'' の[[多変数関数|多変数]][[空間ベクトル|ベクトル値]]関数 {{nowrap|''f'': '''R'''&lt;sup&gt;''n''&lt;/sup&gt; &amp;rarr; '''R'''&lt;sup&gt;''m''&lt;/sup&gt;}} にも一般化する。テイラーの定理のこの一般化は[[微分幾何学]]や[[偏微分方程式]]において現れるいわゆる{{仮リンク|ジェット (数学)|label=ジェット|en|Jet (mathematics)}}の定義の基礎である。
+
+&lt;!--
+''R''&lt;sub&gt;''n''&lt;/sub&gt; の大きさを評価することで、近似がどれだけ正確であるかが分かる。''f'' が無限回微分可能であり、''R''&lt;sub&gt;''n''&lt;/sub&gt; が0に収束する場合、すなわち
+:&lt;math&gt;\lim_{n \to \infty}R_n(x) = 0&lt;/math&gt;
+である場合、''f''(''x'') は[[テイラー展開]]が可能である。そのとき ''f'' は'''[[解析関数|解析的]]'''(analytic)であるといわれる。
+
+テイラーの定理は[[平均値の定理]]を一般化したものになっている。実際、上の式において ''n'' = 1 としたもの、つまり
+:&lt;math&gt;f(x) = f(a) + f'(c)(x-a)&lt;/math&gt;
+は平均値の定理に他ならない。また、テイラーの定理の証明には平均値の定理が用いられる。剰余項を積分表示したもの(ベルヌーイの剰余)を証明するには[[微積分学の基本定理]]を用いる。
+--&gt;
+
+== 動機 ==
+{{empty section}}
+
+== 一変数の場合 ==
+
+=== 定理の主張 ===
+テイラーの定理の最も基本的なバージョンの正確なステートメントは次のようになる：
+
+{{math theorem|name='''テイラーの定理'''&lt;ref&gt;{{ citation|first1=Angelo|last1=Genocchi|first2= Giuseppe|last2=Peano|title=Calcolo differenziale e principii di calcolo integrale|location=(N. 67, p.XVII-XIX)|publisher=Fratelli Bocca ed.|year=1884}}&lt;/ref&gt;&lt;ref&gt;{{Citation | last1=Spivak | first1=Michael | author1-link=Michael Spivak | title=Calculus  | publisher=Publish or Perish | location=Houston, TX | edition=3rd | isbn=978-0-914098-89-8 | year=1994| page=383}}&lt;/ref&gt;&lt;ref&gt;{{springerEOM|title=Taylor formula|id=Taylor_formula}}&lt;/ref&gt;
+|1=''k''&amp;nbsp;&amp;ge;&amp;nbsp;1 を[[整数]]とし[[関数 (数学)|関数]] {{nowrap|''f'': '''R''' &amp;rarr; '''R'''}} を点 {{nowrap|''a'' &amp;isin; '''R'''}} で ''k'' 回微分可能とする。すると次を満たす関数 {{nowrap|''h&lt;sub&gt;k&lt;/sub&gt;'': '''R''' &amp;rarr; '''R'''}} が存在する：
+
+:&lt;math&gt; f(x) = f(a) + f'(a)(x-a) + \frac{f''(a)}{2!}(x-a)^2 + \cdots + \frac{f^{(k)}(a)}{k!}(x-a)^k + h_k(x)(x-a)^k,&lt;/math&gt;
+:&lt;math&gt;\lim_{x\to a}h_k(x)=0.&lt;/math&gt;
+これは'''[[ペアノ]]の剰余項'''と呼ばれる。}}
+
+テイラーの定理に現れる多項式は関数 ''f'' の点 ''a'' における '''''k'' 次のテイラー多項式'''
+
+:&lt;math&gt;P_k(x) = f(a) + f'(a)(x-a) + \frac{f''(a)}{2!}(x-a)^2 + \cdots + \frac{f^{(k)}(a)}{k!}(x-a)^k &lt;/math&gt;
+
+である。テイラー多項式は次のような意味で「漸近的に最もフィットする」唯一の多項式である、すなわち、関数 {{nowrap|''h&lt;sub&gt;k&lt;/sub&gt;'': '''R''' &amp;rarr; '''R'''}} と ''k'' 次多項式 ''p'' が存在して
+
+:&lt;math&gt; f(x) = p(x) + h_k(x)(x-a)^k, \quad \lim_{x\to a}h_k(x)=0&lt;/math&gt;
+
+となるならば、''p''&amp;nbsp;=&amp;nbsp;''P&lt;sub&gt;k&lt;/sub&gt;'' である。テイラーの定理は'''剰余項'''
+
+:&lt;math&gt; r_k(x) = f(x) - P_k(x)&lt;/math&gt;
+
+の漸近的な振る舞いを記述する。これは ''f'' をテイラー多項式で近似するときの[[近似誤差]]である。[[ランダウの記号]]を用いれば、テイラーの定理のステートメントは次のように書ける：
+
+:&lt;math&gt;r_k(x) = o(|x-a|^k), \quad x\to a.&lt;/math&gt;
+
+=== 剰余項の明示公式 ===
+
+''f'' へのより強い正則性の仮定のもとで、テイラー多項式の剰余項
+:&lt;math&gt;R_{k+1}(x)=r_k(x)=f(x) - P_k(x)&lt;/math&gt;
+に対するいくつかの正確な公式がある。最も一般的なものたちは以下のものである。
+
+{{math theorem|name='''平均値形の剰余項'''|1=
+{{nowrap|''f'': '''R''' &amp;rarr; '''R'''}}  を[[閉区間]] {{nowrap|[''a'', ''x'']}}　上 ''k'' 回[[滑らかな関数|連続微分可能]]、[[開区間]] {{nowrap|(''a'', ''x'')}} 上 ''k'' + 1 (''k'' &amp;ge; 0) 回[[微分可能関数|微分可能]]であるとする。 (''x''&amp;lt;''a'' のときは区間をそれぞれ {{nowrap|[''x'', ''a'']}}, {{nowrap|(''x'', ''a'')}} とする。) このとき
+
+:&lt;math&gt; R_{k+1}(x) = \frac{f^{(k+1)}(\xi_{\mathrm{L}})}{(k+1)!} (x-a)^{k+1} &lt;/math&gt;
+
+となる実数 ''&amp;xi;''&lt;sub&gt;L&lt;/sub&gt; が ''a'' と ''x'' の間（両端は含まない）に存在する。これは'''[[ジョゼフ＝ルイ・ラグランジュ|ラグランジュ]]の剰余項'''&lt;ref&gt;{{harvnb|Kline|1998|loc=§20.3}}; {{harvnb|Apostol|1967|loc=§7.7}}.&lt;/ref&gt;である。同様に、
+
+:&lt;math&gt; R_{k+1}(x) = \frac{f^{(k+1)}(\xi_{\mathrm{C}})}{k!}(x-\xi_C)^k(x-a) &lt;/math&gt;
+
+となる実数 ''&amp;xi;''&lt;sub&gt;C&lt;/sub&gt; が ''a'' と ''x'' の間に存在する。これは'''[[オーギュスタン＝ルイ・コーシー|コーシー]]の剰余項'''&lt;ref&gt;{{harvnb|Apostol|1967|loc=§7.7}}.&lt;/ref&gt;である。&lt;math&gt;\theta=\frac{\xi-a}{x-a}\in(0,1)\;(\xi=\xi_{\mathrm{L}},\xi_{\mathrm{C}})&lt;/math&gt; とおくことにより、剰余項はそれぞれ次の形と同値である{{sfn|ハイラー|ヴァンナー|2012|loc=定理(7.14)}}。
+:&lt;math&gt;R_{k+1}(x) =  \frac{f^{(k+1)}(a+\theta(x-a))}{(k+1)!} (x-a)^{k+1},&lt;/math&gt;
+:&lt;math&gt;R_{k+1}(x) =  \frac{f^{(k+1)}(a+\theta(x-a))}{k!} (1-\theta)^{k} (x-a)^{k+1}.&lt;/math&gt;
+}}
+
+テイラーの定理のこれらの改良は通常[[平均値の定理]]を用いて証明されるため、その名前がある。また他の同様の表示も見つけられる。例えば、''G''(''t'') が閉区間上連続、開区間上で微分可能で[[導関数]]の値が非0ならば、
+
+:&lt;math&gt; R_{k+1}(x) = \frac{f^{(k+1)}(\xi)}{k!}(x-\xi)^k \frac{G(x)-G(a)}{G'(\xi)} &lt;/math&gt;
+
+となる数 ''&amp;xi;'' が存在する。このバージョンはラグランジュとコーシーの剰余項を特別な場合として含んでおり、以下で[[コーシーの平均値の定理]]を用いて証明される。
+
+積分形の剰余のステートメントはこれまでのものより進んでおり完全な一般性には[[ルベーグ積分]]論の理解が要求される。しかしながら、''f'' の (''k'' + 1) 階微分が閉区間 [''a'', ''x''] 上連続であるならば、[[リーマン積分]]の意味でも成り立つ。
+
+{{math theorem|name='''積分形の剰余項'''&lt;ref&gt;{{harvnb|Apostol|1967|loc=§7.5}}.&lt;/ref&gt;|1=
+''f''&lt;sup&gt;(''k'')&lt;/sup&gt; を ''a'' と ''x'' の間の閉区間上[[絶対連続]]とする。すると
+:&lt;math&gt; R_{k+1}(x) = \int_a^x \frac{f^{(k+1)} (t)}{k!} (x - t)^k \, dt. &lt;/math&gt;}}
+
+これはベルヌーイの剰余{{sfn|ハイラー|ヴァンナー|2012|loc=定理(7.13)}}とも呼ばれる。閉区間上の ''f''&lt;sup&gt;(''k'')&lt;/sup&gt; の絶対連続性により、導関数 ''f''&lt;sup&gt;(''k''+1)&lt;/sup&gt; は ''L''&lt;sup&gt;1&lt;/sup&gt; 関数として存在し、結果は[[微分積分学の基本定理]]と[[部分積分]]を用いた形式的な計算により証明できる。
+&lt;!--
+;ロッシュ-シュレミルヒの剰余
+:&lt;math&gt;(0&lt;p \le n)&lt;/math&gt; となる任意の実数''p''について、
+::&lt;math&gt;R_n(x) =  \frac{f^{(n)}(a+\theta(x-a))}{(n-1)! p} (1-\theta)^{n-p} (x-a)^{n}&lt;/math&gt;
+:を満たすような''θ''が開区間 (''0'', ''1'') 内に存在する。
+--&gt;
+
+=== 剰余項の評価 ===
+
+テイラー近似に現れる項の剰余項の正確な公式があるよりはむしろそれを評価できることの方が実用上しばしば有用である。''f'' が ''a'' を含む区間 ''I'' において (''k'' + 1) 回連続微分可能とする。実定数 ''q'', ''Q'' が存在して ''I'' 上
+:&lt;math&gt;q\le f^{(k+1)}(x)\le Q&lt;/math&gt;
+とする。このとき剰余項は {{nowrap|''x'' &gt; ''a''}} のとき不等式
+
+:&lt;math&gt;q\frac{(x-a)^{k+1}}{(k+1)!}\le R_{k+1}(x)\le Q\frac{(x-a)^{k+1}}{(k+1)!},&lt;/math&gt;
+
+を満たし&lt;ref&gt;{{harvnb|Apostol|1967|loc=§7.6}}&lt;/ref&gt;、{{nowrap|''x'' &lt; ''a''}} のときも同様の評価が成り立つ。これはラグランジュの剰余の単純な帰結である。とくに、ある ''r'' &gt; 0 で区間 {{nowrap|''I'' {{=}} (''a''&amp;minus;''r'', ''a''+''r'')}} 上
+:&lt;math&gt;|f^{(k+1)}(x)|\leq M&lt;/math&gt;
+ならば、すべての {{nowrap|''x'' &amp;isin; (''a''−''r'', ''a''+''r'')}} に対して
+
+:&lt;math&gt;|R_{k+1}(x)| \le M\frac{|x-a|^{k+1}}{(k+1)!}\le M\frac{r^{k+1}}{(k+1)!}&lt;/math&gt;
+
+である。第二の不等式は[[一様収束|一様評価]]と呼ばれる。区間 {{nowrap|(''a''−''r'', ''a''+''r'')}} 上すべての ''x'' に対して一様に成り立つからである。
+
+=== 例 ===
+
+[[File:Expanimation.gif|thumb|400px|right|''e''&lt;sup&gt;''x''&lt;/sup&gt;（青）の ''x'' = 0 を中心とする次数 ''k'' = 1, ..., 7 のテイラー多項式 ''P&lt;sub&gt;k&lt;/sub&gt;''（赤）による近似。]]
+関数 {{nowrap|''f''(''x'') {{=}} ''e''&lt;sup&gt;''x''&lt;/sup&gt;}} を区間 {{nowrap|[&amp;minus;1, 1]}} 上で誤差が 10&lt;sup&gt;&amp;minus;5&lt;/sup&gt; を超えないように[[近似]]したいとしよう。この例で我々は[[指数関数]]の次の性質しか知らないとしよう：
+
+:&lt;math&gt;(*) \qquad e^0=1, \qquad \frac{d}{dx} e^x = e^x, \qquad e^x&gt;0, \qquad x\in\mathbb{R}.&lt;/math&gt;
+
+これらの性質から次のことが従う。すべての ''k'' に対して {{nowrap|''f''&lt;sup&gt;(''k'')&lt;/sup&gt;(''x'') {{=}} ''e''&lt;sup&gt;''x''&lt;/sup&gt;}} であり、とくに、{{nowrap|''f''&lt;sup&gt;(''k'')&lt;/sup&gt;(0) {{=}} 1}} である。したがって ''f'' の 0 における ''k'' 次のテイラー多項式とそのラグランジュの剰余項は
+
+:&lt;math&gt; P_k(x) = 1+x+\frac{x^2}{2!}+\cdots+\frac{x^k}{k!}, \qquad R_{k+1}(x)=\frac{e^\xi}{(k+1)!}x^{k+1}&lt;/math&gt;
+
+によって与えられる、ただし ''&amp;xi;'' は 0 と ''x'' の間のある数である。''e''&lt;sup&gt;''x''&lt;/sup&gt; は (*) によって増加関数だから、部分区間 [&amp;minus;1,&amp;nbsp;0] 上で剰余項を評価するのに単純に ''e&lt;sup&gt;x&lt;/sup&gt;''&amp;nbsp;≤&amp;nbsp;1 (''x''&amp;nbsp;∈&amp;nbsp;[&amp;minus;1,&amp;nbsp;0]) を使うことができる。[0, 1] 上の剰余の上界を得るには、0&lt;''&amp;xi;''&lt;''x'' に対して {{nowrap|''e&lt;sup&gt;&amp;xi;&lt;/sup&gt;''&lt;''e&lt;sup&gt;x&lt;/sup&gt;''}} という性質を用いて、二次のテイラー展開を用いて
+
+:&lt;math&gt; e^x = 1 + x + \frac{e^\xi}{2}x^2 &lt; 1 + x + \frac{e^x}{2}x^2, \qquad 0 &lt; x\leq 1 &lt;/math&gt;
+
+と評価できる。''e&lt;sup&gt;x&lt;/sup&gt;'' について解いて、単純に[[分子]]を最大化、[[分母]]を最小化して、
+
+:&lt;math&gt; e^x \leq \frac{1+x}{1-\frac{x^2}{2}} = 2\frac{1+x}{2-x^2} \leq 4, \qquad 0 \leq x\leq 1 &lt;/math&gt;
+
+を得る。''e&lt;sup&gt;x&lt;/sup&gt;'' に対するこれらの評価を組み合わせて、
+
+:&lt;math&gt; |R_{k+1}(x)| \leq \frac{4|x|^{k+1}}{(k+1)!} \leq \frac{4}{(k+1)!}, \qquad -1\leq x \leq 1 &lt;/math&gt;
+
+となるので、要求された正確さは
+
+:&lt;math&gt; \frac{4}{(k+1)!} &lt; 10^{-5} \quad \Leftrightarrow \quad 4\cdot 10^5 &lt; (k+1)!  \quad \Leftrightarrow \quad k \geq 9 &lt;/math&gt;
+
+のときに確かに達成されている。（値 9! = 362 880 および 10! = 3 628 800 は[[階乗]]を参照するか手計算せよ。）結論として、テイラーの定理から次の近似が導かれる：
+
+:&lt;math&gt; e^x = 1+x+\frac{x^2}{2!} + \ldots + \frac{x^9}{9!} + R_9(x), \qquad |R_9(x)| &lt; 10^{-5}, \qquad -1\leq x \leq 1. &lt;/math&gt;
+
+例えば、この近似から小数点以下五桁まで正しい[[小数]]表示 &lt;math&gt;e \approx 2.71828&lt;/math&gt; が得られる。
+
+== 解析性との関連 ==
+{{empty section}}
+
+== テイラーの定理の一般化 ==
+
+=== 高次の微分可能性 ===
+
+関数 ''f'': '''R'''&lt;sup&gt;''n''&lt;/sup&gt;&amp;nbsp;→&amp;nbsp;'''R''' が '''''a'''''&amp;nbsp;∈&amp;nbsp;'''R'''&lt;sup&gt;''n''&lt;/sup&gt; において[[導関数|微分可能]]であることは、次と[[同値]]である。
+
+:&lt;math&gt;f(\boldsymbol{x}) = f(\boldsymbol{a}) + L(\boldsymbol{x}-\boldsymbol{a}) + h(\boldsymbol{x})|\mathbf{x}-\mathbf{a}|,
+\qquad \lim_{\boldsymbol{x}\to\boldsymbol{a}}h(\boldsymbol{x})=0 &lt;/math&gt;
+
+となるような[[線型汎関数]] ''L'':&amp;nbsp;'''R'''&lt;sup&gt;''n''&lt;/sup&gt;&amp;nbsp;→&amp;nbsp;'''R''' と関数 ''h'':&amp;nbsp;'''R'''&lt;sup&gt;''n''&lt;/sup&gt;&amp;nbsp;→&amp;nbsp;'''R''' が存在する。
+
+この条件が成り立つとき、''L''&amp;nbsp;=&amp;nbsp;''df''('''''a''''') は点 '''''a''''' における ''f'' の（一意的に定義される）[[関数の微分|微分]]である。さらに、このとき ''f'' の '''''a''''' における[[偏微分]]が存在し、''f'' の '''''a''''' における微分は
+
+:&lt;math&gt; df( \boldsymbol{a} )( \boldsymbol{v} ) = \frac{\partial f}{\partial x_1}(\boldsymbol{a})v_1 + \cdots + \frac{\partial f}{\partial x_n}(\boldsymbol{a})v_n &lt;/math&gt;
+
+によって与えられる。
+
+次のような[[多重指数]]表記を導入する。''&amp;alpha;''&amp;nbsp;∈&amp;nbsp;'''N'''&lt;sup&gt;''n''&lt;/sup&gt; と '''''x'''''&amp;nbsp;∈&amp;nbsp;'''R'''&lt;sup&gt;''n''&lt;/sup&gt; に対して、
+
+:&lt;math&gt; |\alpha| = \alpha_1+\cdots+\alpha_n, \quad \alpha!=\alpha_1!\cdots\alpha_n!, \quad \boldsymbol{x}^\alpha=x_1^{\alpha_1}\cdots x_n^{\alpha_n}. &lt;/math&gt;
+
+{{nowrap|''f'': '''R'''&lt;sup&gt;''n''&lt;/sup&gt; &amp;rarr; '''R'''}} のすべての ''k'' 階[[偏導関数]]が {{nowrap|'''''a''''' &amp;isin; '''R'''&lt;sup&gt;''n''&lt;/sup&gt;}} において連続ならば、[[二階微分の対称性|クレローの定理]]より、'''''a''''' における混合微分の順序を入れ替えることができ、したがって高階偏導関数に対する表記
+
+:&lt;math&gt; D^\alpha f = \frac{\partial^{|\alpha|}f}{\partial x_1^{\alpha_1}\cdots \partial x_n^{\alpha_n}}, \qquad |\alpha|\leq k &lt;/math&gt;
+
+がこの状況において正当化される。''f'' のすべての (''k''&amp;nbsp;&amp;minus;&amp;nbsp;1) 階偏導関数が '''''a''''' のある近傍において存在し '''''a''''' において微分可能であれば、同じことが正しい&lt;ref&gt;このことは、関数 ''f'' の偏導関数が '''''a''''' の近傍において存在し '''''a''''' において連続であるならば関数は '''''a''''' において微分可能であるという定理を繰り返し適用することによって従う。例えば次を参照。{{harvnb|Apostol|1974|loc=Theorem 12.11}}.&lt;/ref&gt;。このとき ''f'' は'''点 ''a'' において ''k'' 回微分可能である'''という。
+
+=== 多変数関数に対するテイラーの定理 ===
+
+{{math theorem|name=テイラーの定理の多変数版&lt;ref&gt;Königsberger Analysis 2, po. 64ff.&lt;/ref&gt;|1=
+{{nowrap|''f'': '''R'''&lt;sup&gt;''n''&lt;/sup&gt; &amp;rarr; '''R'''}} を点 {{nowrap|'''''a'''''&amp;isin;'''R'''&lt;sup&gt;''n''&lt;/sup&gt;}} において ''k'' 回微分可能な関数とする。このとき次を満たす {{nowrap|''h''&lt;sub&gt;''&amp;alpha;''&lt;/sub&gt;: '''R'''&lt;sup&gt;n&lt;/sup&gt;&amp;rarr;'''R'''}} が存在する：
+
+:&lt;math&gt;f(\boldsymbol{x}) = \sum_{|\alpha|\leq k} \frac{D^\alpha f(\boldsymbol{a})}{\alpha!} (\boldsymbol{x}-\boldsymbol{a})^\alpha  + \sum_{|\alpha|=k} h_\alpha(\boldsymbol{x})(\boldsymbol{x}-\boldsymbol{a})^\alpha,&lt;/math&gt;
+:&lt;math&gt;\lim_{\boldsymbol{x}\to \boldsymbol{a}}h_\alpha(\boldsymbol{x})=0.&lt;/math&gt;}}
+
+関数 {{nowrap|''f'': '''R'''&lt;sup&gt;''n''&lt;/sup&gt; &amp;rarr; '''R'''}} が[[閉球]] ''B'' において ''k'' + 1 回[[連続微分可能]]ならば、''f'' の ''k'' + 1 階偏導関数を用いてこの近傍において剰余項の正確な公式を導出できる。すなわち、
+
+:&lt;math&gt; \begin{align}&amp; f( \boldsymbol{x} ) = \sum_{|\alpha|\leq k} \frac{D^\alpha f(\boldsymbol{a})}{\alpha!} (\boldsymbol{x}-\boldsymbol{a})^\alpha  + \sum_{|\beta|=k+1} R_\beta(\boldsymbol{x})(\boldsymbol{x}-\boldsymbol{a})^\beta, \\&amp;
+R_\beta( \boldsymbol{x} ) = \frac{|\beta|}{\beta!} \int_0^1 (1-t)^{|\beta|-1}D^\beta f \big(\boldsymbol{a}+t( \boldsymbol{x}-\boldsymbol{a} )\big) \, dt. \end{align}
+&lt;/math&gt;
+
+このとき、[[コンパクト集合]] ''B'' における ''k'' + 1 階偏導関数の[[連続関数|連続性]]によって、ただちに次の一様評価を得る。
+
+:&lt;math&gt;\left|R_\beta(\boldsymbol{x})\right| \leq \frac{1}{\beta!} \max_{|\alpha|=|\beta|} \max_{\boldsymbol{y}\in B} |D^\alpha f(\boldsymbol{y})|, \qquad \boldsymbol{x}\in B. &lt;/math&gt;
+
+=== 2次元での例 ===
+
+例えば、関数 ''f'': '''R'''&lt;sup&gt;''2''&lt;/sup&gt;&amp;nbsp;→&amp;nbsp;'''R''' の三階のテイラー多項式は、'''''x''''' &amp;minus; '''''a''''' = '''''v''''' と書いて、
+:&lt;math&gt;\begin{align}
+P_3(\boldsymbol{x}) = f ( \boldsymbol{a} ) + &amp;\frac{\partial f}{\partial x_1}( \boldsymbol{a} ) v_1 + \frac{\partial f}{\partial x_2}( \boldsymbol{a} ) v_2 + \frac{\partial^2 f}{\partial^2 x_1}( \boldsymbol{a} ) \frac {v_1^2}{2!} +  \frac{\partial^2 f}{\partial x_1 \partial x_2}( \boldsymbol{a} ) v_1 v_2 + \frac{\partial^2 f}{\partial^2 x_2}( \boldsymbol{a} ) \frac{v_2^2}{2!}  \\
+&amp; + \frac{\partial^3 f}{\partial x_1^3}( \boldsymbol{a} ) \frac{v_1^3}{3!} + \frac{\partial^3 f}{\partial^2 x_1 \partial x_2}( \boldsymbol{a} ) \frac{v_1^2 v_2}{2!} + \frac{\partial^3 f}{\partial x_1 \partial^2 x_2}( \boldsymbol{a} ) \frac{v_1 v_2^2}{2!} + \frac{\partial^3 f}{\partial^3 x_2}( \boldsymbol{a} ) \frac{v_2^3}{3!}
+\end{align}&lt;/math&gt;
+
+== 証明 ==
+=== 一変数の場合のテイラーの定理の証明 ===
+''f'' は点 {{nowrap|''a'' &amp;isin; '''R'''}} で ''k'' 回微分可能であることから ''a'' の適当な近傍で {{nowrap|''k''-1}} 回微分可能である。この近傍の上で
+:&lt;math&gt;h_k(x) = \begin{cases}
+\dfrac{f(x) - P_k(x)}{(x-a)^k} &amp; x\not=a\\
+0&amp;x=a
+\end{cases}
+&lt;/math&gt;
+と定める。ただし
+:&lt;math&gt;P_k(x) = f(a) + f'(a)(x-a) + \frac{f''(a)}{2!}(x-a)^2 + \cdots + \frac{f^{(k)}(a)}{k!}(x-a)^k&lt;/math&gt;
+ここで {{nowrap|''j'' {{=}} 0,1,...,''k''&amp;minus;1}} に対し &lt;math&gt;f^{(j)}(a)-P_k^{(j)}(a)=0&lt;/math&gt; であるから、[[ロピタルの定理]]を {{nowrap|''k''&amp;minus;1}} 回適用すると
+:&lt;math&gt;\begin{align}
+\lim_{x\to a} \frac{f(x) - P_k(x)}{(x-a)^k} 
+&amp;= \lim_{x\to a} \frac{(d/dx)(f(x) - P_k(x))}{(d/dx)(x-a)^k}
+ = \cdots
+ = \lim_{x\to a} \frac{(d/dx)^{k-1}(f(x) - P_k(x))}{(d/dx)^{k-1}(x-a)^k}\\
+&amp;=\frac{1}{k!}\lim_{x\to a} \left[ \frac{f^{(k-1)}(x) - f^{(k-1)}(a)}{x-a} - f^{(k)}(a)\right] \\
+&amp;=\frac{1}{k!}(f^{(k)}(a) - f^{(k)}(a))
+ = 0
+\end{align}&lt;/math&gt;
+ここで最後の等式は点 ''a'' での微分の定義による。従って
+:&lt;math&gt;\lim_{x\to a} h_k(x) =0&lt;/math&gt;
+
+=== 剰余項の明示公式の導出 ===
+簡単のために {{nowrap|''a''&amp;lt;''x''}} とする。まず任意の実関数 ''G'' で[[区間 (数学)|閉区間]] {{nowrap|[''a'', ''x'']}} で[[連続 (数学)|連続]]、[[区間 (数学)|開区間]] {{nowrap|(''a'', ''x'')}} で微分可能、さらに[[微分|導関数]] ''G&amp;apos;'' の値が開区間上で非0となるものを考える。
+
+次に関数 ''F'' を
+:&lt;math&gt;F(t) = f(t) + f'(t)(x-t) + \frac{f''(t)}{2!}(x-t)^2 + \cdots + \frac{f^{(k)}(t)}{k!}(x-t)^k&lt;/math&gt;
+と定めると、 ''F'' は閉区間 {{nowrap|[''a'', ''x'']}} で連続、開区間 {{nowrap|(''a'', ''x'')}} で微分可能である。すると[[コーシーの平均値の定理]]により
+:&lt;math&gt;(*) \quad  \frac{F'(\xi)}{G'(\xi)} = \frac{F(x)-F(a)}{G(x)-G(a)} = \frac{R_{k+1}(x)}{G(x)-G(a)}&lt;/math&gt;
+を満たす点 {{nowrap|''&amp;xi;''&amp;isin;(''a'',''x'')}} が存在する。''F'' の導関数を計算すると、
+:&lt;math&gt;\begin{align}
+F'(t) = {} &amp; f'(t) + \big(f''(t)(x-t) - f'(t)\big) + \left(\frac{f^{(3)}(t)}{2!}(x-t)^2 - \frac{f^{(2)}(t)}{1!}(x-t)\right)  +  \cdots \\
+&amp; \cdots + \left( \frac{f^{(k+1)}(t)}{k!}(x-t)^k - \frac{f^{(k)}(t)}{(k-1)!}(x-t)^{k-1}\right) \\
+= {} &amp; \frac{f^{(k+1)}(t)}{k!}(x-t)^k
+\end{align}&lt;/math&gt;
+これを(*)に代入して計算すると
+:&lt;math&gt;R_{k+1}(x) = \frac{f^{(k+1)}(\xi)}{k!}(x-\xi)^k \frac{G(x)-G(a)}{G'(\xi)}&lt;/math&gt;
+ここで &lt;math&gt;G(t)=(t-x)^{k+1}&lt;/math&gt; と定めればラグランジュの剰余項、 &lt;math&gt;G(t)=t-a&lt;/math&gt; と定めればコーシーの剰余項が得られる。
+
+=== 積分形の剰余項の導出 ===
+簡単のために {{nowrap|''a''&amp;lt;''x''}} とする。まず ''f''&lt;sup&gt;(''k'')&lt;/sup&gt; が閉区間 {{nowrap|[''a'', ''x'']}} で[[絶対連続]] であることから、その導関数 ''f''&lt;sup&gt;(''k''+1)&lt;/sup&gt; が [[Lp空間#Lp_空間|''L''&lt;sup&gt;1&lt;/sup&gt;-関数]] の意味で存在する。ここで[[部分積分]]を繰り返し用いると
+:&lt;math&gt;\begin{align}
+f(x) &amp;= f(a) + \int_a^x f'(t)\,dt \\
+&amp;= f(a) - \Big[(x-t)f'(t)\Big]_a^x + \int_a^x (x-t)f''(t)\,dt \\
+&amp;= f(a) + (x-a)f'(a) + \int_a^x (x-t)f''(t)\,dt \\
+&amp;= f(a) + (x-a)f'(a) + \frac{1}{2}(x-a)^2 f''(a) + \int_a^x \frac{1}{2}(x-t)^2f'''(t)\,dt \\
+&amp;= \dots \\
+&amp;= f(a) + \frac{f'(a)}{1!}(x-a) + \cdots + \frac{f^{(k)}(a)}{k!}(x-a)^k + \int_a^x \frac{f^{(k+1)} (t)}{k!} (x-t)^k\,dt
+\end{align}&lt;/math&gt;
+最後の項 &lt;math&gt;R_{k+1}(x) = \int_a^x \frac{f^{(k+1)} (t)}{k!} (x-t)^k\,dt &lt;/math&gt;が求める剰余項である。
+
+== 関連項目 ==
+* [[テイラー展開]]
+* [[ローラン級数]]
+* [[パデ近似]]
+* {{仮リンク|ニュートン級数|en|Newton series}}
+
+== 脚注 ==
+{{reflist}}
+
+== 参考文献　==
+* {{cite book
+|和書
+|last1      = ハイラー
+|first1     = E. 
+|last2      = ヴァンナー
+|first2     = G. 
+|translator = 蟹江幸博
+|year       = 2012
+|title      = 解析教程
+|url         = {{google books|zML3A8iCmeUC|解析教程|page=98|plainurl=yes}}
+|volume     = 下
+|publisher  = 丸善出版
+|isbn       = 978-4-621-06190-9
+|ref        = harv
+}}
+* {{Cite book
+ | 和書
+ | last1 = 杉浦
+ | first1 = 光夫
+ | year = 1980
+ | title = 解析入門I
+ | series = 基礎数学2
+ | publisher = 東京大学出版会
+ | isbn = 978-4-13-062005-5
+ | ref = harv
+}}
+*{{citation
+ | title=Calculus
+ | authorlink=Tom Apostol
+ | first=Tom
+ | last=Apostol
+ | publisher=Wiley
+ | year=1967
+ | isbn=0-471-00005-1
+}}.
+*{{citation
+ | title=Mathematical analysis
+ | first=Tom
+ | last=Apostol
+ | publisher=Addison–Wesley
+ | year=1974
+}}.
+*{{citation
+ | first1=Robert G.
+ | last1=Bartle
+ | first2=Donald R.
+ | last2=Sherbert
+ | title=Introduction to Real Analysis
+ | edition=4th
+ | publisher=Wiley
+ | year=2011
+ | isbn=978-0-471-43331-6
+}}.
+*{{citation
+ | first=L.
+ | last=Hörmander
+ | authorlink=Lars Hörmander
+ | title=Linear Partial Differential Operators, Volume 1
+ | publisher=Springer
+ | year=1976
+ | isbn=978-3-540-00662-6
+}}.
+*{{citation
+ | title = Mathematical thought from ancient to modern times, Volume 2
+ | authorlink=Morris Kline
+ | first=Morris
+ | last=Kline
+ | publisher=Oxford University Press
+ | year=1972
+}}.
+*{{citation
+ | title=Calculus: An Intuitive and Physical Approach
+ | first=Morris
+ | last=Kline
+ | publisher=Dover
+ | year=1998
+ | isbn=0-486-40453-6
+}}.
+*{{citation
+ | last=Pedrick
+ | first=George
+ | year=1994
+ | title=A First Course in Analysis
+ | publisher=Springer
+ | isbn=0-387-94108-8
+}}.
+*{{citation
+ | last=Stromberg
+ | first=Karl
+ | title=Introduction to classical real analysis
+ | publisher=Wadsworth
+ | year=1981
+ | isbn=978-0-534-98012-2
+}}.
+*{{citation
+ | last=Rudin
+ | first=Walter
+ | title=Real and complex analysis
+ | edition=3rd
+ | publisher=McGraw-Hill
+ | year=1987
+ | isbn=0-07-054234-1
+}}.
+
+== 外部リンク ==
+* [https://proofwiki.org/wiki/Taylor%27s_Theorem/One_Variable Proofs for a few forms of the remainder in one-variable case] at [https://proofwiki.org/ ProofWiki]
+* [http://www.cut-the-knot.org/Curriculum/Calculus/TaylorSeries.shtml Taylor Series Approximation to Cosine] at [[cut-the-knot]]
+* [http://cinderella.de/files/HTMLDemos/2C02_Taylor.html Trigonometric Taylor Expansion] interactive demonstrative applet
+* [http://numericalmethods.eng.usf.edu/topics/taylor_series.html Taylor Series Revisited] at [http://numericalmethods.eng.usf.edu Holistic Numerical Methods Institute]
+
+{{analysis-stub}}
+{{authority control}}
+{{DEFAULTSORT:ていらあのていり}}
+[[Category:微分積分学の定理]]
+[[Category:実解析の定理]]
+[[Category:数学に関する記事]]
+[[Category:証明を含む記事]]
+[[Category:数学のエポニム]]</text>
+      <sha1>9fgj0gdcza848hedhx5g8jpenhf6xpz</sha1>
+    </revision>
+  </page>
+  

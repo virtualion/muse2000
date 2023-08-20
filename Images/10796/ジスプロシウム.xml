@@ -1,0 +1,226 @@
+<page>
+    <title>ジスプロシウム</title>
+    <ns>0</ns>
+    <id>10796</id>
+    <revision>
+      <id>92874152</id>
+      <parentid>92867489</parentid>
+      <timestamp>2022-12-12T22:27:12Z</timestamp>
+      <contributor>
+        <username>ROE100</username>
+        <id>944206</id>
+      </contributor>
+      <comment>/* 参考文献 */ tmp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36975" xml:space="preserve">{{Elementbox
+|name=dysprosium
+|japanese name=ジスプロシウム
+|number=66
+|symbol=Dy
+|pronounce={{IPAc-en|d|ɪ|s|ˈ|p|r|oʊ|z|i|əm}}&lt;br&gt;{{respell|dis|PROE|zee-əm}}
+|left=[[テルビウム]]
+|right=[[ホルミウム]]
+|above=-
+|below=[[カリホルニウム|Cf]]
+|series=ランタノイド
+|group=3
+|period=6
+|block=f
+|image name=Dy chips.jpg
+|appearance=銀白色
+|atomic mass=162.500
+|electron configuration=&amp;#91;[[キセノン|Xe]]&amp;#93; 4f&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;
+|electrons per shell=2, 8, 18, 28, 8, 2
+|phase=固体
+|density gpcm3nrt=8.540
+|density gpcm3mp=8.37
+|melting point K=1680
+|melting point C=1407
+|melting point F=2565
+|boiling point K=2840
+|boiling point C=2562
+|boiling point F=4653
+|heat fusion=11.06
+|heat vaporization=280
+|heat capacity=27.7
+|vapor pressure 1=1378
+|vapor pressure 10=1523
+|vapor pressure 100=(1704)
+|vapor pressure 1 k=(1954)
+|vapor pressure 10 k=(2304)
+|vapor pressure 100 k=(2831)
+|vapor pressure comment=
+|crystal structure=hexagonal
+|japanese crystal structure=[[六方晶系]]
+|oxidation states='''3''', 2（弱[[塩基性酸化物]]）
+|electronegativity=1.22
+|number of ionization energies=3
+|1st ionization energy=573.0
+|2nd ionization energy=1130
+|3rd ionization energy=2200
+|atomic radius=178
+|covalent radius=192 ± 7
+|magnetic ordering=[[常磁性]] (300 K)
+|electrical resistivity=([[室温|r.t.]]) (α, poly) 926 n
+|thermal conductivity=10.7
+|thermal expansion=([[室温|r.t.]]) (α, poly) 9.9
+|speed of sound rod at 20=2710
+|Young's modulus=(α form) 61.4
+|Shear modulus=(α form) 24.7
+|Bulk modulus=(α form) 40.5
+|Poisson ratio=(α form) 0.247
+|Vickers hardness=540
+|Brinell hardness=500
+|CAS number=7429-91-6
+|isotopes=
+{{Elementbox_isotopes_decay | mn=154 | sym=Dy
+ | na=[[人工放射性同位体|syn]] | hl=3.0 × 10&lt;sup&gt;6&lt;/sup&gt; [[年|y]]
+ | dm=[[アルファ崩壊|α]] | de=2.947 | pn=150 | ps=[[ガドリニウム|Gd]]}}
+{{Elementbox_isotopes_decay | mn=156 | sym=Dy | na=0.06 % | hl= &gt;1 × 10&lt;sup&gt;18&lt;/sup&gt; [[年|y]] | dm=[[アルファ崩壊|α]] | de=? | pn=152 | ps=[[ガドリニウム|Gd]]}}
+{{Elementbox_isotopes_stable | mn=158 | sym=Dy | na=0.10 % | n=92}}
+{{Elementbox_isotopes_stable | mn=160 | sym=Dy | na=2.34 % | n=94}}
+{{Elementbox_isotopes_stable | mn=161 | sym=Dy | na=18.91 % | n=95}}
+{{Elementbox_isotopes_stable | mn=162 | sym=Dy | na=25.51 % | n=96}}
+{{Elementbox_isotopes_stable | mn=163 | sym=Dy | na=24.90 % | n=97}}
+{{Elementbox_isotopes_stable | mn=164 | sym=Dy | na=28.18 % | n=98}}
+|isotopes comment=
+}}
+'''ジスプロシウム''' ({{lang-en-short|dysprosium}} {{IPA-en|dɪsˈproʊziəm|}}、ディスプロシウムとも言うことあり) は[[原子番号]]66の[[元素]]。[[元素記号]]は '''Dy'''。金属的な銀色の光沢を持つ[[希土類元素]]である。単体として存在することはないが、[[ゼノタイム]]など様々な鉱物に含まれる。自然界に生じるジスプロシウムは7つの[[同位体]]から構成され、最も多いのは&lt;sup&gt;164&lt;/sup&gt;Dyである。[[レアアース]]の一種。
+
+1886年に[[ポール・ボアボードラン]]により初めて同定されたが、1950年代に[[イオン交換]]技術が開発されるまで純粋な形では単離されなかった。他の元素で代替できない用途は比較的少ない。熱中性子吸収断面積が高いため[[原子炉]]の[[制御棒]]に使用され、[[磁化率]]が高いため(&lt;math&gt;\chi_v \approx 5.44 \times 10^{-3}&lt;/math&gt;)データ記憶の用途で使用され、Terfenol-D（磁歪材料）の成分として使用される。可溶性のジスプロシウム塩は軽度の毒性があるが、不溶性の塩は無毒であると考えられている。
+
+==特徴==
+
+===物理的性質===
+[[Image:Dysprosium.jpg|thumb|upright=0.4|left|ジスプロシウムの試料]]
+ジスプロシウムは[[希土類元素]]であり、金属の明るい銀色の光沢を持つ。非常に柔らかく、過度に熱することを避ければ火花を出すことなく加工することができる。物理的特性は少量の不純物でも大きな影響を受ける&lt;ref name="CRC"&gt;{{Cite book |editor = Lide, David R. |chapter = Dysprosium |year = 2007–2008 |title = CRC Handbook of Chemistry and Physics |volume = 4 |pages = 11 |location = New York |publisher = CRC Press |isbn = 978-0-8493-0488-0}}&lt;/ref&gt;。
+
+ジスプロシウムと[[ホルミウム]]は、特に低温で&lt;ref name="krebs"/&gt;元素の磁気強度が最も高い&lt;ref name=nbb/&gt;。{{convert|85|K|C}}未満の温度で単純な[[強磁性]]秩序を持つ。{{convert|85|K|C}}以上では、らせん状の[[反強磁性]]状態になり、特定の[[基底面]]層のすべての原子モーメントが平行で隣接する層のモーメントに対して一定の角度で配向する。この異常な反強磁性は、{{convert|179|K|C}}で無秩序（[[常磁性]]）状態に変わる&lt;ref&gt;{{cite journal |journal = IRM Quarterly |year = 2000 |volume = 10 |issue = 3 |page = 6 |author = Jackson, Mike |url = http://www.irm.umn.edu/quarterly/irmq10-3.pdf |title = Wherefore Gadolinium? Magnetism of the Rare Earths |accessdate = 2009-05-03 |archiveurl = https://web.archive.org/web/20170712151422/http://www.irm.umn.edu/quarterly/irmq10-3.pdf |archive-date = 2017-07-12 |url-status = dead}}&lt;/ref&gt;。
+
+===化学的性質===
+ジスプロシウム金属は空気中でゆっくりと変色し、容易に燃焼して[[酸化ジスプロシウム(III)]]を形成する。
+:4 Dy + 3 O&lt;sub&gt;2&lt;/sub&gt; → 2 Dy&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;
+
+電気的にかなり陽性であり、冷水とゆっくりと（熱水とはかなり速く）反応して水酸化ジスプロシウムを形成する。
+:2 Dy (s) + 6 H&lt;sub&gt;2&lt;/sub&gt;O (l) → 2 Dy(OH)&lt;sub&gt;3&lt;/sub&gt; (aq) + 3 H&lt;sub&gt;2&lt;/sub&gt; (g)
+
+ジスプロシウム金属は、200℃以上ですべてのハロゲンと激しく反応する。
+:2 Dy (s) + 3 F&lt;sub&gt;2&lt;/sub&gt; (g) → 2 DyF&lt;sub&gt;3&lt;/sub&gt; (s) [緑]
+:2 Dy (s) + 3 Cl&lt;sub&gt;2&lt;/sub&gt; (g) → 2 DyCl&lt;sub&gt;3&lt;/sub&gt; (s) [白]
+:2 Dy (s) + 3 Br&lt;sub&gt;2&lt;/sub&gt; (g) → 2 DyBr&lt;sub&gt;3&lt;/sub&gt; (s) [白]
+:2 Dy (s) + 3 I&lt;sub&gt;2&lt;/sub&gt; (g) → 2 DyI&lt;sub&gt;3&lt;/sub&gt; (s) [緑]
+
+ジスプロシウムは希[[硫酸]]に容易に溶解して、[Dy(OH&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;9&lt;/sub&gt;]&lt;sup&gt;3+&lt;/sup&gt;錯体として存在する黄色のDy(III)イオンを含む溶液を形成する&lt;ref&gt;{{cite web| url =https://www.webelements.com/dysprosium/chemistry.html| title =Chemical reactions of Dysprosium| publisher=Webelements| accessdate=2012-08-16}}&lt;/ref&gt;。
+
+:2 Dy (s) + 3 H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt; (aq) → 2 Dy&lt;sup&gt;3+&lt;/sup&gt; (aq) + 3 {{chem|SO|4|2-}} (aq) + 3 H&lt;sub&gt;2&lt;/sub&gt; (g)
+
+得られる化合物である硫酸ジスプロシウム(III)は、著しく常磁性である。
+
+===化合物===
+[[File:Dysprosium-sulfate.jpg|left|thumb|upright|硫酸ジスプロシウム Dy&lt;sub&gt;2&lt;/sub&gt;(SO&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;]]
+{{See also|:Category:ジスプロシウムの化合物|l1=ジスプロシウムの化合物}}
+DyF&lt;sub&gt;3&lt;/sub&gt;やDyBr&lt;sub&gt;3&lt;/sub&gt;などのハロゲン化ジスプロシウムは、黄色を帯びる傾向がある。[[酸化ジスプロシウム(III)|酸化ジスプロシウム]]（ジスプロシア）は、酸化鉄よりも磁性の高い白色粉末である&lt;ref name="krebs"/&gt;。
+
+ジスプロシウムは高温でさまざまな非金属と結合し、さまざまな組成と酸化状態+3（場合によっては+2）の二元化合物を形成する。例えば、DyN, DyP, DyH&lt;sub&gt;2&lt;/sub&gt;とDyH&lt;sub&gt;3&lt;/sub&gt;; DyS, DyS&lt;sub&gt;2&lt;/sub&gt;, Dy&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;とDy&lt;sub&gt;5&lt;/sub&gt;S&lt;sub&gt;7&lt;/sub&gt;; DyB&lt;sub&gt;2&lt;/sub&gt;, DyB&lt;sub&gt;4&lt;/sub&gt;, DyB&lt;sub&gt;6&lt;/sub&gt;とDyB&lt;sub&gt;12&lt;/sub&gt;, Dy&lt;sub&gt;3&lt;/sub&gt;CとDy&lt;sub&gt;2&lt;/sub&gt;C&lt;sub&gt;3&lt;/sub&gt;&lt;ref name=patnaik/&gt;。
+
+炭酸ジスプロシウムDy&lt;sub&gt;2&lt;/sub&gt;(CO&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;と硫酸ジスプロシウムDy&lt;sub&gt;2&lt;/sub&gt;(SO&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;は、同様の反応から生じる&lt;ref name=heiserman/&gt;。ほとんどのジスプロシウム化合物は水に溶解するが、炭酸ジスプロシウム四水和物(Dy&lt;sub&gt;2&lt;/sub&gt;(CO&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;·4H&lt;sub&gt;2&lt;/sub&gt;O)とシュウ酸ジスプロシウム十水和物(Dy&lt;sub&gt;2&lt;/sub&gt;(C&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;·10H&lt;sub&gt;2&lt;/sub&gt;O)はどちらも水に不溶である&lt;ref name="perry"&gt;{{cite book |title = Handbook of Inorganic Compounds |author=Perry, D. L. |pages = 152–154|year = 1995|isbn = 978-0-8493-8671-8|publisher = CRC Press}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|title = Zur Kenntnis der Verbindungen des Dysprosiums|pages = 1274–1280|first = G.|last = Jantsch|doi = 10.1002/cber.19110440215|journal = Berichte der Deutschen Chemischen Gesellschaft|volume = 44|issue = 2|year = 1911|last2 = Ohl|first2 = A.|url = https://zenodo.org/record/1426439}}&lt;/ref&gt;。最も豊富な炭酸ジスプロシウムの2つ、Dy&lt;sub&gt;2&lt;/sub&gt;(CO&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;·2–3H&lt;sub&gt;2&lt;/sub&gt;O（テンゲル石-(Y)に類似）とDyCO&lt;sub&gt;3&lt;/sub&gt;(OH)（弘三石-(La)と弘三石-(Nd)）は、化学式Dy&lt;sub&gt;2&lt;/sub&gt;(CO&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;·4H&lt;sub&gt;2&lt;/sub&gt;Oで表される整列されていない（アモルファス）前駆体相を介して形成されることが知られている。このアモルファスの前駆体は、周囲温度および高温での乾燥処理の下で非常に安定している、直径10-20nmの高く水和した球状ナノ粒子で構成される&lt;ref&gt;{{cite journal|author=Vallina, B., Rodriguez-Blanco, J.D., Brown, A.P., Blanco, J.A. and Benning, L.G.|year=2013|title=Amorphous dysprosium carbonate: characterization, stability and crystallization pathways|journal=Journal of Nanoparticle Research|volume=15|issue=2|pages=1438|bibcode=2013JNR....15.1438V|citeseerx=10.1.1.705.3019|doi=10.1007/s11051-013-1438-3}}&lt;/ref&gt;。
+
+===同位体===
+{{main|ジスプロシウムの同位体}}
+自然に生じるジスプロシウムは、7つの[[同位体]]（&lt;sup&gt;156&lt;/sup&gt;Dy, &lt;sup&gt;158&lt;/sup&gt;Dy, &lt;sup&gt;160&lt;/sup&gt;Dy, &lt;sup&gt;161&lt;/sup&gt;Dy, &lt;sup&gt;162&lt;/sup&gt;Dy, &lt;sup&gt;163&lt;/sup&gt;Dy, &lt;sup&gt;164&lt;/sup&gt;Dy）からなる。これらはすべて安定していると考えられているが、理論的には&lt;sup&gt;156&lt;/sup&gt;Dyは半減期が1×10&lt;sup&gt;18&lt;/sup&gt;年を超える[[アルファ崩壊]]を起こす可能性がある。自然に生じる同位体のうち、&lt;sup&gt;164&lt;/sup&gt;Dyが28%と最も[[天然存在比|多く]]、次いで多いのは&lt;sup&gt;162&lt;/sup&gt;Dyで26%である。最も少ないのは&lt;sup&gt;156&lt;/sup&gt;Dyで0.06%である&lt;ref name="NUBASE"&gt;{{cite journal
+|title=The NUBASE2016 evaluation of nuclear properties
+|doi=10.1088/1674-1137/41/3/030001
+|last1=Audi |first1=G.
+|last2=Kondev|first2=F. G.
+|last3=Wang |first3=M.
+|last4=Huang |first4=W. J.
+|last5=Naimi |first5=S.
+|journal=Chinese Physics C
+|volume=41 |issue=3
+|page=030001
+|year=2017
+|url=https://www-nds.iaea.org/amdc/ame2016/NUBASE2016.pdf
+|bibcode=2017ChPhC..41c0001A
+|accessdate=
+|ref=
+}}&lt;/ref&gt;。
+
+原子質量が138から173までの範囲で29の[[放射性同位体]]が合成されている。このうち最も安定しているのは&lt;sup&gt;154&lt;/sup&gt;Dyであり、[[半減期]]はおよそ3{{e|6}}年であり、次いで長いのは&lt;sup&gt;159&lt;/sup&gt;Dyで144.4日である。最も不安定であるのは&lt;sup&gt;138&lt;/sup&gt;Dyで、半減期は200ミリ秒である。一般的に、安定同位体よりも軽い同位体は主にβ&lt;sup&gt;+&lt;/sup&gt;崩壊により崩壊する傾向があり、重い同位体はβ&lt;sup&gt;−&lt;/sup&gt;崩壊により崩壊する傾向がある。しかし、&lt;sup&gt;154&lt;/sup&gt;Dyは主にアルファ崩壊により崩壊し、&lt;sup&gt;152&lt;/sup&gt;Dyと&lt;sup&gt;159&lt;/sup&gt;Dyは主に[[電子捕獲]]により崩壊する&lt;ref name=NUBASE/&gt;。ジスプロシウムには少なくとも11の[[準安定異性体]]があり、原子質量は140から165までの範囲にある。これらの中で最も安定であるのは&lt;sup&gt;165m&lt;/sup&gt;Dyであり、半減期は1.257分である。&lt;sup&gt;149&lt;/sup&gt;Dyには2つの準安定異性体があり、2番目の&lt;sup&gt;149m2&lt;/sup&gt;Dyの半減期は28ナノ秒である&lt;ref name=NUBASE/&gt;。
+
+==歴史==
+1878年、[[エルビウム]]鉱石に[[ホルミウム]]と[[ツリウム]]の酸化物が含まれていることが分かった。1886年[[パリ]]でフランスの化学者[[ポール・ボアボードラン]]が[[酸化ホルミウム]]から酸化ジスプロシウムを分離した&lt;ref name="DeKosky"&gt;{{cite journal|title = Spectroscopy and the Elements in the Late Nineteenth Century: The Work of Sir William Crookes|first = Robert K.|last = DeKosky|journal = The British Journal for the History of Science|volume = 6|issue = 4|date = 1973|pages = 400–423|jstor = 4025503|doi = 10.1017/S0007087400012553}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|journal = Comptes Rendus|volume = 143|pages = 1003–1006|url = http://gallica.bnf.fr/ark:/12148/bpt6k3058f/f1001.chemindefer|title = L'holmine (ou terre X de M Soret) contient au moins deux radicaux métallique (Holminia contains at least two metal)|language = French|year = 1886|author = de Boisbaudran, Paul Émile Lecoq}}&lt;/ref&gt;。彼がジスプロシウムを単離するために、酸化ジスプロシウムを酸に溶解し、次にアンモニアを加えて水酸化物を沈殿させる手順を行った。この手順を30回以上試みることで酸化物からジスプロシウムを単離することができた。単離に成功後、この元素をギリシア語で「近づき難い」を意味するδυσπρόσιτος (dysprositos)から、ジスプロシウムと名付けた。1950年代初頭に[[アイオワ州立大学]]で{{仮リンク|フランク・スペディング|en|Frank Spedding}}がイオン交換技術を開発するまで、比較的純粋な形で分離されなかった&lt;ref name=nbb&gt;{{cite book|last = Emsley| first = John| title = Nature's Building Blocks| publisher = Oxford University Press| year = 2001| location = Oxford|url=https://books.google.com/?id=j-Xu07p3cKwC&amp;pg=PA131|pages = 129–132| isbn = 978-0-19-850341-5}}&lt;/ref&gt;&lt;ref name="Weeks"&gt;{{cite book |last1=Weeks |first1=Mary Elvira |title=The discovery of the elements |date=1956 |publisher=Journal of Chemical Education |location=Easton, PA |url=https://archive.org/details/discoveryoftheel002045mbp |edition=6th }}&lt;/ref&gt;。
+
+風力タービンに使用される永久磁石に使用されるため、ジスプロシウムは再生可能エネルギーの世界において地政学的競争の主要物の1つになるであろうと主張されてきた。しかし、この視点はほとんどの風力タービンが永久磁石を使用していないことを認識しておらず、生産拡大のための経済的インセンティブの力を過小評価していると批判されている&lt;ref&gt;{{Cite journal|last=Overland|first=Indra|date=2019-03-01|title=The geopolitics of renewable energy: Debunking four emerging myths|journal=Energy Research &amp; Social Science|volume=49|pages=36–40|doi=10.1016/j.erss.2018.10.018|issn=2214-6296}}&lt;/ref&gt;&lt;ref name="Klinger"&gt;{{cite book |last1=Klinger |first1=Julie Michelle |title=Rare earth frontiers : from terrestrial subsoils to lunar landscapes |date=2017 |publisher=Cornell University Press |location=Ithaca, NY |isbn=978-1501714603 |jstor=10.7591/j.ctt1w0dd6d }}&lt;/ref&gt;。
+
+[[2013年]]、当時の一大生産拠点であった[[中華人民共和国]]が[[レアアース]]の輸出制限を実施し、ジスプロシウムも価格が高騰。日本では対前年度比で10倍超となる3,500円/kgに迫る月も出た。翌年には1,000円/kg台へ下落したが、高騰を契機にジスプロシウムの使用量を抑えたモーターの製造などの技術革新が進んだ&lt;ref&gt;{{Cite news|url=http://www.bloomberg.co.jp/news/123-LPC6R40D9L3501.html|title=レアアース「想定外」の暴騰、一部3カ月で約4倍に－企業は対策急ぐ|work=Bloombrg.co.jp|publisher=Bloombrg|date=2011-08-29|accessdate=2013-09-16}}&lt;/ref&gt;。このことを契機に、[[ベトナム]]や[[カザフスタン]]など中国以外の生産地調査が進められている&lt;ref&gt;{{Cite news|url=http://sankei.jp.msn.com/economy/news/130916/fnc13091609560004-n3.htm|title=脱・中国レアアース…日本の動き見誤る 対日「禁輸」3年|work=MSN産経ニュース
+|newspaper=産経新聞社|date=2013-09-16|accessdate=2014-08-08}}&lt;/ref&gt;。
+==発生==
+[[Image:Xenotímio1.jpeg|thumb|ゼノタイム]]
+ジスプロシウムは単体では見られることはなく、多くの鉱物（[[ゼノタイム]]、[[フェルグソン石]]、[[ガドリン石]]、[[ユークセン石]]、[[ポリクレース石]]、[[ブロムストランジン]]、[[モナズ石]]、[[バストネサイト]]など）に含まれ、[[エルビウム]]や[[ホルミウム]]などの希土類元素とともに含まれることがよくある。ジスプロシウムが最も多く含まれる鉱物は未だ見つかっていない&lt;ref&gt;{{cite web |url=https://www.mindat.org/ |title=Mindat.org |author=Hudson Institute of Mineralogy |date=1993–2018 |website=www.mindat.org |access-date=14 January 2018}}&lt;/ref&gt;。
+
+これらのうち[[イットリウム]]が多いものでは、ジスプロシウムは重[[ランタノイド]]の中で最も豊富に含まれており、濃縮液の7–8%（対イットリウムの割合は65%）を占める&lt;ref&gt;{{cite journal|journal = Russian Journal of Non-Ferrous Metals|year = 2008|volume = 49|issue = 1|pages = 14–22|title = Review of the World Market of Rare-Earth Metals|first = A. V.|last = Naumov|url = https://www.researchgate.net/publication/227326809|doi=10.1007/s11981-008-1004-6|doi-broken-date = 2020-01-11}}&lt;/ref&gt;&lt;ref&gt;{{cite book|title = Extractive Metallurgy of Rare Earths|first = C. K.|last = Gupta|author2=Krishnamurthy N.|publisher = CRC Press|year = 2005|isbn = 978-0-415-33340-5|url = https://books.google.com/?id=F0Bte_XhzoAC}}&lt;/ref&gt;。地球の地殻における割合は約5.2&amp;nbsp;mg/kgであり、海水中では0.9&amp;nbsp;ng/Lである&lt;ref name=patnaik&gt;{{cite book|last =Patnaik|first =Pradyot|year = 2003|title =Handbook of Inorganic Chemical Compounds|publisher = McGraw-Hill|pages = 289–290| isbn =978-0-07-049439-8|url= https://books.google.com/?id=Xqj-TTzkvTEC&amp;pg=PA243|accessdate = 2009-06-06}}&lt;/ref&gt;。
+
+==産出==
+ジスプロシウムは、主に様々な[[リン酸塩]]の混合物である[[モナズ石]]から得られる。また、イットリウムの商業的抽出の副産物として得られる。ジスプロシウムを単離する際には、不要な金属の大部分を磁気的もしくは[[浮遊選鉱]]により取り除くことができる。その後、[[イオン交換]]置換過程により他の希土類金属から分離することができる。結果得られるジスプロシウムイオンは[[フッ素]]または[[塩素]]と反応してフッ化ジスプロシウムDyF&lt;sub&gt;3&lt;/sub&gt;または塩化ジスプロシウムDyCl&lt;sub&gt;3&lt;/sub&gt;が形成されうる。これらの化合物はカルシウムまたはリチウム金属のいずれかを使用して、以下の反応で還元することができる&lt;ref name=heiserman&gt;{{cite book|title = Exploring Chemical Elements and their Compounds|author = Heiserman, David L.|pages = [https://archive.org/details/exploringchemica01heis/page/236 236]–238|publisher = TAB Books|isbn = 978-0-8306-3018-9|year = 1992|url = https://archive.org/details/exploringchemica01heis|url-access = registration}}&lt;/ref&gt;。
+
+:3 Ca + 2 DyF&lt;sub&gt;3&lt;/sub&gt; → 2 Dy + 3 CaF&lt;sub&gt;2&lt;/sub&gt;
+:3 Li + DyCl&lt;sub&gt;3&lt;/sub&gt; → Dy + 3 LiCl
+
+[[タンタル]]のるつぼに入れ、[[ヘリウム]]雰囲気下で燃焼させる。反応が進行すると、得られるハロゲン化合物と溶融ジスプロシウムは密度の違いにより分離する。混合物が冷却されるとジスプロシウムが不純物から分離される&lt;ref name=heiserman/&gt;。
+
+ジスプロシウムは毎年世界中でおよそ100トンが産出され&lt;ref&gt;{{cite web|title=Dysprosium (Dy) - Chemical properties, Health and Environmental effects|url=http://www.lenntech.com/Periodic-chart-elements/Dy-en.htm|website=|publisher=Lenntech Water treatment &amp; air purification Holding B.V.|year=2008|accessdate=2009-06-02}}&lt;/ref&gt;、その99%が中国で産出されている&lt;ref name="Bradsher, Keith"&gt;{{cite news |url=https://www.nytimes.com/2010/12/30/business/global/30smuggle.html?pagewanted=2&amp;_r=1&amp;emc=eta1 |title=In China, Illegal Rare Earth Mines Face Crackdown |author=Bradsher, Keith |newspaper=The New York Times |date=December 29, 2010}}&lt;/ref&gt;。価格は2003年の1ポンドあたり7ドルから2010年後半には1ポンド当たり130ドルとほぼ20倍になった&lt;ref name="Bradsher, Keith"/&gt;。2011年には1キロあたり1,400ドルに上昇したが、2015年には240ドルに下落した。これは主に政府の制限を回避した中国での違法な産出が原因となっている&lt;ref&gt;[http://minerals.usgs.gov/minerals/pubs/commodity/rare_earths/mcs-2016-raree.pdf Rare Earths] [https://web.archive.org/web/20160506184123/http://minerals.usgs.gov/minerals/pubs/commodity/rare_earths/mcs-2016-raree.pdf archive]. ''[[United States Geological Survey]]''. January 2016&lt;/ref&gt;。
+
+現在、ジスプロシウムのほとんどは中国南部のイオン吸着性粘土鉱石から得られている&lt;ref name="China rare"&gt;{{cite news|url=https://www.nytimes.com/2009/12/26/business/global/26rare.html |title=Earth-Friendly Elements, Mined Destructively |newspaper=The New York Times |last=Bradsher |first=Keith |date=December 25, 2009}}&lt;/ref&gt;。{{Asof|2018|November}}、[[西オーストラリア州]]Halls Creekの南東160kmにあるBrowns Range Projectのパイロットプラントでは、年間{{convert|50|t|LT}}産出されている&lt;ref name="abc-net-au2018-11-30-rare-earth"&gt;{{cite web
+ | url =https://www.abc.net.au/news/rural/2018-11-30/rare-earth-mineral-find-to-boost-electric-vehicle-sector/10562460
+ | title =Rare earth mineral discovery set to make Australia a major player in electric vehicle supply chain
+ | last =Major
+ | first =Tom
+ | date =30 November 2018
+ | website =ABC News
+ | publisher =Australian Broadcasting Corporation
+ | access-date =30 November 2018
+ | quote = }}&lt;/ref&gt;&lt;ref name="Australia rare"&gt;{{cite news|url=http://www.abc.net.au/rural/content/2011/s3377547.htm |title=Halls Creek turning into a hub for rare earths |last=Brann |first=Matt |date=November 27, 2011}}&lt;/ref&gt;。
+
+[[アメリカ合衆国エネルギー省]]によると、ジスプロシウムの現在の用途と予測される用途の幅の広さ及びただちに適切な代替がないことから、新興のクリーンエネルギー技術にとって最も重要な元素となっている。最も保守的な予測でさえも2015年までにジスプロシウムが不足すると予測している&lt;ref&gt;New Scientist, 18 June 2011, p. 40&lt;/ref&gt;。2015年下半期時点でオーストラリアには新興の希土類（ジスプロシウム含む）抽出産業が存在する&lt;ref&gt;Jasper, Clint (2015-09-22) [http://www.abc.net.au/news/2015-09-22/rare-earth-miners-face-tough-market/6786970 Staring down a multitude of challenges, these Australian rare earth miners are confident they can break into the market]. abc.net.au&lt;/ref&gt;。
+
+==用途==
+ジスプロシウムは[[バナジウム]]などの元素とともに[[レーザー]]材料や商用照明などに使用されている。ジスプロシウムは[[熱中性子]]吸収断面積が大きいため、酸化ジスプロシウムニッケル[[サーメット]]は[[原子炉]]の中性子吸収[[制御棒]]に使用されている&lt;ref name=nbb/&gt;&lt;ref&gt;{{cite journal |title= Development of Dysprosium Titanate Based Ceramics |first = Sinha |last = Amit |journal = Journal of the American Ceramic Society |volume = 88 |issue = 4 |year = 2005 |pages = 1064–1066 |doi = 10.1111/j.1551-2916.2005.00211.x |last2= Sharma |first2= Beant Prakash}}&lt;/ref&gt;。ジスプロシウム[[カドミウム]][[カルコゲン|カルコゲナイド]]は、[[赤外線]]放射源であり、化学反応の研究に有用である&lt;ref name="CRC"/&gt;。ジスプロシウムとその化合物は磁化に対して敏感であるため、[[ハードディスクドライブ|ハードディスク]]などの各種データ保存用途に採用されている&lt;ref name="lagowski"&gt;{{cite book |title = Chemistry Foundations and Applications |volume = 2 |editor = Lagowski, J. J. |pages = [https://archive.org/details/chemistryfoundat0000unse/page/267 267–268] |year = 2004 |isbn = 978-0-02-865724-0 |publisher = Thomson Gale |url = https://archive.org/details/chemistryfoundat0000unse/page/267}}&lt;/ref&gt;。電気自動車のモーターや風力発電機に使用される永久磁石としての需要が高まっている&lt;ref name="MIT-TechRev"&gt;{{cite web |last1=Bourzac |first1=Katherine |title=The Rare Earth Crisis |url=https://www.technologyreview.com/s/423730/the-rare-earth-crisis/ |publisher=MIT Technology Review |date=19 April 2011 |accessdate=18 June 2016}}&lt;/ref&gt;。
+
+[[ネオジム]]鉄ホウ素[[ネオジム磁石|磁石]]は、電気自動車の駆動モーターや風力タービンの発電機などの用途で[[保磁力]]を高めるために、ネオジムの6%までをジスプロシウムに代替することができる&lt;ref&gt;{{cite journal |journal = IEEE Transactions on Magnetics |title = Modeling of magnetic properties of heat treated Dy-doped NdFeB particles bonded in isotropic and anisotropic arrangements |last = Shi |first = Fang, X. |year = 1998 |volume = 34 |issue = 4 |pages = 1291–1293 |doi = 10.1109/20.706525 |last2 = Shi |first2 = Y. |last3 = Jiles |first3 = D. C. |bibcode = 1998ITM....34.1291F |url = https://zenodo.org/record/1232140 |type = Submitted manuscript}}&lt;/ref&gt;。この代替には電気自動車1台当たり最大100gのジスプロシウムが必要となる。[[トヨタ自動車]]が年間200万台を予測していることを基にすると、このような用途にジスプロシウムを使用した場合、利用可能な供給源がすぐに枯渇してしまう&lt;ref&gt;{{cite web |title=Supply and Demand, Part 2 |first=Peter |last=Campbell |publisher=Princeton Electro-Technology, Inc. |date=February 2008 |url=http://www.magnetweb.com/Col05.htm |accessdate =2008-11-09 |archiveurl = https://web.archive.org/web/20080604005700/http://www.magnetweb.com/Col05.htm |archivedate = June 4, 2008 |url-status=dead}}&lt;/ref&gt;。また、ネオジム磁石の保磁力を高めるための添加物としての利用が急増しており、安定供給の確保に懸念が生じている。そのため、日本では[[経済産業省]]主導の「希少金属代替材料開発プロジェクト」で希土類磁石に向けた使用量を2011年度までに現状から30 %低減、2012年度までに100%低減（代替）するための技術開発を目指すなどしていた&lt;ref&gt;[https://www.nedo.go.jp/content/100749258.pdf 「希少金属代替材料開発プロジェクト」基本計画]&lt;/ref&gt;。ジスプロシウムによる置換は磁石の耐食性を向上させることから他の用途にも役立つ可能性がある&lt;ref&gt;{{cite journal |journal = Journal of Magnetism and Magnetic Materials |volume = 283 |issue = 2–3 |year = 2004 |pages =353–356 |doi = 10.1016/j.jmmm.2004.06.006 |title = Effects of Dy and Nb on the magnetic properties and corrosion resistance of sintered NdFeB |first = L. Q. |last = Yu |last2 = Wen |first2 = Y. |last3 = Yan |first3 = M. |bibcode = 2004JMMM..283..353Y }}&lt;/ref&gt;。
+
+ジスプロシウムは、鉄、テルビウムとともにTerfenol-Dの成分の1つである。Terfenol-Dは既知の材料の中で最高の室温[[磁歪]]を有しており&lt;ref name="etrema"&gt;{{cite web |title=What is Terfenol-D? |url=http://etrema-usa.com/core/terfenold/ |publisher=ETREMA Products, Inc. |year=2003 |accessdate=2008-11-06 |url-status=dead |archiveurl=https://web.archive.org/web/20150510114041/http://etrema-usa.com/core/terfenold/ |archivedate=2015-05-10 }}&lt;/ref&gt;、[[トランスデューサー]]、広帯域力学的[[共振器]]&lt;ref&gt;{{cite journal |title=Wide Band Tunable Mechanical Resonator Employing the Δ''E'' Effect of Terfenol-D |author=Kellogg, Rick |journal = Journal of Intelligent Material Systems &amp; Structures |volume=15 |issue=5 |pages=355–368 |date=May 2004 |doi=10.1177/1045389X04040649 |last2=Flatau |first2=Alison}}&lt;/ref&gt;、高精度液体燃料噴射装置&lt;ref&gt;{{cite journal |title=Take Terfenol-D and call me |author = Leavitt, Wendy |journal = Fleet Owner |volume = 95 |issue = 2 |pages =97 |date = February 2000 |url=http://fleetowner.com/mag/fleet_terfenold_call |accessdate = 2008-11-06}}&lt;/ref&gt;に採用されている。
+
+ジスプロシウムは、電離[[放射線]]を測定するための[[線量計]]に使用されている。[[硫酸カルシウム]]や[[フッ化カルシウム]]の結晶にジスプロシウムがドープされている。これらの結晶に放射線を照射すると、ジスプロシウム原子が[[励起状態|励起]]されて[[発光]]する。この発光を測定することで、線量計がどの程度の被ばくを受けたかを決定することができる&lt;ref name=nbb/&gt;。
+
+ジスプロシウムのナノファイバーは、強度が高く表面積が大きい。したがって、他の材料を補強したり触媒として機能するために使用される。酸化ジスプロシウムフッ化物のファイバーはDyBr&lt;sub&gt;3&lt;/sub&gt;とNaFの水溶液を450℃、450[[バール (単位)|バール]]で17時間加熱することにより製造することができる。この材料は再溶解や凝集を起こさず、400℃を超える温度の様々な水溶液中で100時間以上残存するほど非常に強健である&lt;ref&gt;{{cite web |url=http://www.pnl.gov/supercriticalfluid/tech_oxidation.stm |title=Supercritical Water Oxidation/Synthesis |publisher=Pacific Northwest National Laboratory |accessdate=2009-06-06 |archiveurl = https://web.archive.org/web/20080420144601/http://www.pnl.gov/supercriticalfluid/tech_oxidation.stm |archivedate = 2008-04-20}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://availabletechnologies.pnl.gov/technology.asp?id=152 |title=Rare Earth Oxide Fluoride: Ceramic Nano-particles via a Hydrothermal Method |publisher=Pacific Northwest National Laboratory |accessdate=2009-06-06 |url-status=bot: unknown |archiveurl=https://web.archive.org/web/20100527103533/http://availabletechnologies.pnl.gov/technology.asp?id=152 |archivedate=2010-05-27}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |title=Unusual dysprosium ceramic nano-fiber growth in a supercritical aqueous solution |author1=Hoffman, M. M. |author2=Young, J. S. |author3=Fulton, J. L. |journal= J. Mater. Sci. |volume =35 |year =2000 |page = 4177 |doi=10.1023/A:1004875413406 |issue=16 |bibcode = 2000JMatS..35.4177H }}&lt;/ref&gt;。
+
+高輝度[[メタルハライドランプ]]には、ヨウ化ジスプロシウムと臭化ジスプロシウムが使用されている。これらの化合物はランプの高温中心付近で解離し単離ジスプロシウム原子を放出する。後者はスペクトルの緑と赤の部分の光を再放出し、これにより効果的に明るい光を生成する&lt;ref name=nbb/&gt;&lt;ref name=gray&gt;{{cite book |title = The Elements |author = Gray, Theodore |pages = [https://archive.org/details/elementsvisualex0000gray/page/152 152–153] |year = 2009 |isbn = 978-1-57912-814-2 |publisher = Black Dog and Leventhal Publishers |url = https://archive.org/details/elementsvisualex0000gray/page/152}}&lt;/ref&gt;。
+
+ジスプロシウムのいくつかの常磁性結晶塩（ジスプロシウムガリウムガーネット(DGG)、ジスプロシウムアルミニウムガーネット(DAG)、ジスプロシウム鉄ガーネット(DyIG)）は、[[断熱消磁]]冷却装置に使用されている&lt;ref&gt;Milward, Steve et al. (2004). [http://www.ucl.ac.uk/mssl/cryogenics/documents/5LH01.pdf "Design, Manufacture and Test of an Adiabatic Demagnetization Refrigerator Magnet for use in Space"]. {{Webarchive|url=https://web.archive.org/web/20131004215527/http://www.ucl.ac.uk/mssl/cryogenics/documents/5LH01.pdf |date=2013-10-04 }}. University College London.&lt;/ref&gt;&lt;ref&gt;Hepburn, Ian. [http://www.ucl.ac.uk/mssl/cryogenics/documents/ADR_presentation__Compatibility_Mode_.pdf "Adiabatic Demagnetization Refrigerator: A Practical Point of View"]. {{Webarchive|url=https://web.archive.org/web/20131004212731/http://www.ucl.ac.uk/mssl/cryogenics/documents/ADR_presentation__Compatibility_Mode_.pdf |date=2013-10-04 }}. Cryogenic Physics Group, Mullard Space Science Laboratory, University College London.&lt;/ref&gt;。
+
+3価のジスプロシウム(Dy&lt;sup&gt;3+&lt;/sup&gt;)のダウンシフト発光特性が研究されている。ジスプロシウムをドープした[[イットリウム・アルミニウム・ガーネット]](Dy:YAG)を電磁スペクトルの紫外線領域で励起すると、可視光領域のより長い波長の光子が放出される。このアイデアはUV励起白色発光ダイオードの新世代の基礎となっている&lt;ref&gt;{{cite journal |last1=Carreira |first1=J. F. C. |title=YAG:Dy – Based single white light emitting phosphor produced by solution combustion synthesis |journal=Journal of Luminescence |date=2017 |volume=183 |pages=251–258 |doi=10.1016/j.jlumin.2016.11.017 |bibcode=2017JLum..183..251C}}&lt;/ref&gt;。
+
+==注意点==
+多くの粉末と同様、ジスプロシウムの粉末は空気と混合した場合や着火源がある場合に爆発の危険性がある。ジスプロシウムの薄い箔は火花や[[静電気]]によっても発火することがある。ジスプロシウムの火は水で消すことができない。水と反応して可燃性の[[水素]]ガスを発生させることがある&lt;ref name="ESPI"&gt;{{cite web|title = Dysprosium|work = Material Safety Data Sheets|url = http://www.espi-metals.com/msds's/Dysprosium.htm|author = Dierks, Steve|date = January 2003|publisher = Electronic Space Products International|accessdate = 2008-10-20|url-status = bot: unknown|archiveurl = https://web.archive.org/web/20150922145520/http://www.espi-metals.com/msds's/Dysprosium.htm|archivedate = 2015-09-22}}&lt;/ref&gt;が、塩化ジスプロシウムの火は水で消すことができる&lt;ref&gt;{{cite web|title = Dysprosium Chloride|work = Material Safety Data Sheets|url = http://www.espi-metals.com/msds%27s/Dysprosium%20Chloride.htm|author = Dierks, Steve|date = January 1995|publisher = Electronic Space Products International|accessdate = 2008-11-07|url-status = bot: unknown|archiveurl = https://web.archive.org/web/20150922145520/http://www.espi-metals.com/msds%27s/Dysprosium%20Chloride.htm|archivedate = 2015-09-22}}&lt;/ref&gt;。フッ化ジスプロシウム、酸化ジスプロシウムは不燃性である&lt;ref&gt;{{cite web|title = Dysprosium Fluoride|work = Material Safety Data Sheets|url = http://www.espi-metals.com/msds%27s/Dysprosium%20Fluoride.htm|author = Dierks, Steve|date = December 1995|publisher = Electronic Space Products International|accessdate = 2008-11-07|url-status = bot: unknown|archiveurl = https://web.archive.org/web/20150922145520/http://www.espi-metals.com/msds%27s/Dysprosium%20Fluoride.htm|archivedate = 2015-09-22}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title = Dysprosium Oxide|work = Material Safety Data Sheets|url = http://www.espi-metals.com/msds%27s/Dysprosium%20Oxide.htm|author = Dierks, Steve|date = November 1988|publisher = Electronic Space Products International|accessdate = 2008-11-07|url-status = bot: unknown|archiveurl = https://web.archive.org/web/20150922145520/http://www.espi-metals.com/msds%27s/Dysprosium%20Oxide.htm|archivedate = 2015-09-22}}&lt;/ref&gt;。硝酸ジスプロシウム(Dy(NO&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;)は強力な[[酸化剤]]であり、有機物と接触すると容易に発火する&lt;ref name="krebs"&gt;{{cite book|title = The History and Use of our Earth's Chemical Elements|author = Krebs, Robert E.|chapter = Dysprosium|pages = [https://archive.org/details/historyuseofoure00kreb/page/234 234–235]|publisher = Greenwood Press|year = 1998|isbn = 978-0-313-30123-0|chapter-url = https://archive.org/details/historyuseofoure00kreb|url = https://archive.org/details/historyuseofoure00kreb/page/234}}&lt;/ref&gt;。
+
+塩化ジスプロシウムや硝酸ジスプロシウムなどの可溶性のジスプロシウム塩は、摂取すると軽度の毒性を示す。塩化ジスプロシウムのマウスへの毒性から、ヒトにとって500グラム以上の摂取が致命的であると推定されている。不溶性の塩は無毒である&lt;ref name=nbb/&gt;。
+== 参考文献 ==
+{{脚注ヘルプ}}
+{{reflist|30em}}
+
+==外部リンク==
+{{Commons|Dysprosium}}
+{{wiktionary|dysprosium}}
+* [http://education.jlab.org/itselemental/ele066.html It's Elemental – Dysprosium]
+{{Commons|Dysprosium}}
+
+{{元素周期表}}
+{{ジスプロシウムの化合物}}
+{{Normdaten}}
+{{DEFAULTSORT:しすふろしうむ}}
+[[Category:ジスプロシウム|*]]</text>
+      <sha1>cvvziuqucgff2p6yanr05jc770g0dhq</sha1>
+    </revision>
+  </page>
+  

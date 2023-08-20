@@ -1,0 +1,277 @@
+<page>
+    <title>ビタミンC</title>
+    <ns>0</ns>
+    <id>10740</id>
+    <revision>
+      <id>94939706</id>
+      <parentid>93464227</parentid>
+      <timestamp>2023-04-26T00:48:38Z</timestamp>
+      <contributor>
+        <username>Report0723</username>
+        <id>1003573</id>
+      </contributor>
+      <comment>/* 外部リンク */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="61464" xml:space="preserve">{{精度|講義資料、自主公表されたサイトがWikipediaの科学的な信頼できる出典として不適|date=2015年2月}}
+{{drugbox
+| verifiedrevid = 477315393
+| IUPAC_name = 2-Oxo-&lt;small&gt;L&lt;/small&gt;-threo-hexono-1,4-lactone-2,3-enediol&lt;br /&gt;''or''&lt;br /&gt;(''R'')-3,4-dihydroxy-5-((''S'')- 1,2-dihydroxyethyl)furan-2(5''H'')-one
+| image = L-Ascorbic_acid.svg
+| width = 200px
+| image2 = Ascorbic-acid-from-xtal-1997-3D-balls.png
+| width2 = 200px
+
+&lt;!--Clinical data--&gt;
+| Drugs.com = {{drugs.com|MTM|vitamin_c}}
+| licence_EU = &lt;!-- EMEA requires brand name --&gt;
+| licence_US = &lt;!-- FDA may use generic name --&gt;
+| pregnancy_AU = &lt;!-- A / B1 / B2 / B3 / C / D / X --&gt;
+| pregnancy_US = &lt;!-- A / B  / C / D / X --&gt;
+| pregnancy_category = A
+| legal_AU = &lt;!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 --&gt;
+| legal_CA = &lt;!--  / Schedule I, II, III, IV, V, VI, VII, VIII --&gt;
+| legal_UK = &lt;!-- GSL  / P / POM / CD / Class A, B, C --&gt;
+| legal_US = OTC
+| legal_JP = [[成分本質 (原材料) では医薬品でないもの]]として分類
+| legal_status =
+| routes_of_administration = 経口
+
+&lt;!--Pharmacokinetic data--&gt;
+| bioavailability = rapid &amp; complete
+| protein_bound = negligible
+| elimination_half-life = 10-20日&lt;ref&gt;{{cite journal|title=Vitamin C in human health and disease is still a mystery ? An overview|author=K Akhilender Naidu
+|journal=Nutrition Journal|year=2003|volume=|issue=
+|pmid=14498993|doi=10.1186/1475-2891-2-7
+}}&lt;/ref&gt;
+| excretion = 腎臓
+| blood_brain_barrier = 透過 (酸化型として)&lt;ref&gt;{{cite journal|title=Vitamin C crosses the blood-brain barrier in the oxidized form through the glucose transporters.
+|journal=The Journal of Clinical Investigation|year=1997|volume=100|issue=11
+|pmid=9389750|doi=10.1172/JCI119832
+|}}&lt;/ref&gt;
+&lt;!--Identifiers--&gt;
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 50-81-7
+| ATC_prefix = A
+| ATC_suffix = 11G
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 29073
+| PubChem = 5785
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00126
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10189562
+| NIAID_ChemDB = 002072
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = PQ6CK8PD0R
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00018
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 196
+
+&lt;!--Chemical data--&gt;
+| chemical_formula =
+| C=6 | H=8 | O=6
+| molecular_weight = 176.12 g/mol
+| smiles = C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
+| InChI = 1/C6H8O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-10H,1H2/t2-,5+/m0/s1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H8O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-10H,1H2/t2-,5+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CIWBSHSKHKDKBQ-JLAZNSOCSA-N
+| synonyms = &lt;small&gt;L&lt;/small&gt;-アスコルビン酸
+| density = 1.694
+| melting_point = 190
+| boiling_point = 553
+}}
+'''ビタミンC''' (vitamin C, VC) は、[[水溶性ビタミン]]の1種。物質としては '''[[アスコルビン酸|&lt;small&gt;L&lt;/small&gt;-アスコルビン酸]]'''（単にアスコルビン酸とも）を指す&lt;ref name="各論2015"/&gt;&lt;ref name=NIH2016/&gt;。欠乏状態が続くと[[壊血病]]を発症する&lt;ref name="各論2015"/&gt;。[[ビタミンE]]の再利用や[[コラーゲン]]の合成に必要であるほか、発症した壊血病の治療にも使われる&lt;ref name="AHFS2016"/&gt;。[[WHO必須医薬品モデル・リスト]]収録品。特に野菜や果物に含まれ、[[サプリメント]]も利用されている。
+
+風邪をひいてからビタミンCを摂取する「治療」効果は、7件の[[ランダム化比較試験]] (RCT) からはっきりせず&lt;ref name="HemiläChalker2013"/&gt;、31件のRCTから日常的なビタミンC摂取では[[風邪]]の発症率は低下しない（予防しない）が、風邪の重症度と期間は減少させ、スポーツ選手や寒冷地の兵士といった特定の集団では予防効果があるとされる&lt;ref name=NIH2016/&gt;。[[鉄分]]や[[カルシウム]]など[[ミネラル]]の吸収を高める効果がある。[[鉄過剰症]]（ヘモクロマトーシス）の人でビタミンCの摂取過剰では鉄過剰が促進されるが&lt;ref name=MSD /&gt;、健康な成人であれば影響はない&lt;ref name=vso.72.1_19 /&gt;。
+
+==機能==
+&lt;!--
+[[File:Glutathione-ascorbate_cycle_4.png|thumb|right|300px|[[グルタチオン-アスコルビン酸回路]]、[[NADPH]]、[[NADP+]]、GR:[[グルタチオンレダクターゼ]]、GSH:[[グルタチオン]]、GSSG:[[グルタチオンジスルフィド]]、DHAR:[[デヒドロアスコルビン酸レダクターゼ]]、DHA:[[デヒドロアスコルビン酸]]、MDAR:[[モノデヒドロアスコルビン酸レダクターゼ (NADH)]]、MDA:[[モノデヒドロアスコルビン酸]]、ASC:[[アスコルビン酸]]、APX:[[アスコルビン酸ペルオキシダーゼ]]、[[過酸化水素|H2O2]]、[[水|H2O]]]]
+--&gt;
+ビタミンCは、[[コラーゲン]]の合成に深く関与している&lt;ref name=NIH2016 /&gt;。[[プロリン]]・[[リジン]][[残基]]を含めた形でコラーゲンの[[タンパク質]]が合成され、タンパク質鎖が形成された後で[[酸化酵素]]によりプロリン・リジン残基がそれぞれ[[ヒドロキシル化]]（水酸化）を受けて[[ヒドロキシプロリン]]・[[ヒドロキシリジン]]残基に変化し、これらは[[水素結合]]によってタンパク質鎖同士を結び、コラーゲンの3重[[螺旋]]構造を保つ働きがある。またこの反応の際にはビタミンCを必要とするため、ビタミンCを欠いた食事を続けていると正常なコラーゲン合成ができなくなり、[[壊血病]]を引き起こすものである&lt;ref name=NIH2016 /&gt;。
+
+ビタミンCは、水溶性で強い還元能力を有し、スーパーオキシド({{chem|O|2-}})、ヒドロキシラジカル（･OH）、[[過酸化水素]]({{chem|H|2|O|2}})などの[[活性酸素]]類を消去する。ビタミンCの過酸化水素の消去は、[[グルタチオン-アスコルビン酸回路]]によって行われる。この回路に代表されるように、ビタミンCが[[デヒドロアスコルビン酸]]に酸化されても各種酵素によりビタミンC（アスコルビン酸）に還元・再生されて[[触媒]]的に機能する。
+
+ビタミンCは、[[ビタミンE]]の再生機能がある。ビタミンEは、脂質中のフリーラジカルを消失させることにより自らがビタミンEラジカルとなり、フリーラジカルによる脂質の連鎖的酸化を阻止する。発生したビタミンEラジカルは、ビタミンCによりビタミンEに再生される&lt;ref&gt;平原文子、[https://doi.org/10.5264/eiyogakuzashi.52.205 ビタミンEと抗酸化性] 『栄養学雑誌』 1994年 52巻 4号 p.205-206, {{doi|10.5264/eiyogakuzashi.52.205}}&lt;/ref&gt;。
+
+その他のビタミンCの機能としては、[[生体異物]]を代謝する[[シトクロムP450]]の活性化、[[チロシン]]から[[ノルアドレナリン]]への代謝（ドーパミンヒドロキシラーゼ）、消化器官中で鉄イオンを2価に保つことによる鉄の吸収の促進、脂肪酸の分解に関与する[[カルニチン]]が[[リジン]]から生合成される過程のヒドロキシ酵素の[[補酵素]]としての参画、[[コレステロール]]をヒドロキシ化し[[7α-ヒドロキシコレステロール]]を経た[[胆汁酸]]の合成等の様々な反応に関与している&lt;ref name="s5-16-5"&gt;重岡成、武田徹、村上恵 [http://www.shc.usp.ac.jp/shibata/5-16-5.pdf ビタミンC－多様な働きから所要量まで] 第4回「日本人の水溶性ビタミン必要量に関する基礎的研究」講演会 元気なカラダとビタミン摂取―水溶性ビタミンの必要量について―（近畿大学 農学部 食品栄養学科）&lt;/ref&gt;｡
+
+== 適応 ==
+=== 壊血病 ===
+{{main|壊血病}}
+壊血病の予防・治療に用いられる&lt;ref name="AHFS2016"&gt;{{cite web|title=Ascorbic Acid|url=https://www.drugs.com/monograph/ascorbic-acid.html|publisher=The American Society of Health-System Pharmacists|accessdate= 8 December 2016}}&lt;/ref&gt;&lt;ref name=WHO2008/&gt;。ビタミンCを含まない食事を約60 - 90日間続けた場合、体内のビタミンCの蓄積総量が300 mg以下になり&lt;ref&gt;佐藤安訓, 石神昭人「[https://doi.org/10.20632/vso.82.11_609 壊血病は過去の病気ではない]」『ビタミン』 82巻11号、2008年、609-611頁、{{doi|10.20632/vso.82.11_609}}&lt;/ref&gt;、軽度の欠乏症状である疲労、倦怠感や筋肉痛を感じ、易怒性を呈し数カ月後に出血性の障害をもたらす重度の欠乏症である壊血病を発症する&lt;ref name=MSD /&gt;。
+
+=== 風邪 ===
+{{See also|風邪#予防|風邪#治療}}
+
+ノーベル化学賞を受賞した[[ライナス・ポーリング]]が、1970年代に、毎日100mg以上のビタミンCの摂取によって、風邪の発生率と期間を意味する「風邪の総負担」の減少が、4件の[[ランダム化比較試験]] (RCT) を分析した「統合された罹患率」よって裏付けられているとした&lt;ref name="pmid4941984"&gt;{{cite journal |authors=Pauling L |title=The significance of the evidence about ascorbic acid and the common cold |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=68 |issue=11 |pages=2678–81 |date=November 1971 |pmid=4941984 |pmc=389499 |doi=10.1073/pnas.68.11.2678 }}&lt;/ref&gt;。その後、予防、治療、対象集団を変えて賛否両論のある形で研究が続いてきた&lt;ref name=NIH2016/&gt;。ポーリングによって一般大衆にまで興味を引き、1972年から1979年まで約8400人が参加した29件のRCTが実施されたが、その後、関心は薄れ1985年以降にはわずかにしか実施されず参加者の数も小規模となっている&lt;ref name="pmid28353648"/&gt;。2008年の[[世界保健機関]] (WHO) の処方薬一覧の簡単な記載には、風邪の治療効果には証拠が確認されていないと記されているが、この記載には証拠の引用はない&lt;ref name=WHO2008&gt;{{cite book|title=WHO Model Formulary 2008|date=2009|publisher=World Health Organization|isbn=9789241547659|page=496|url=https://apps.who.int/medicinedocs/documents/s16879e/s16879e.pdf |accessdate= 8 December 2016}}&lt;/ref&gt;。
+
+[[アメリカ国立衛生研究所]] (NIH) の医療向けサプリメントの解説ページでは、2018年時点で、2007年のコクランレビューやそれ以外の研究も引用し、総合的には、風邪をひいてからではおそらく効果はないが、毎日200mgの定期的なビタミンCでは一般集団の風邪の発生率には影響しないが、風邪の期間や重症度を下げ、寒冷地や激しい運動、高齢者や喫煙者のようにビタミンCが少なくなっている人では予防効果があるかもしれないとしている&lt;ref name=NIH2016&gt;{{cite report|title=Office of Dietary Supplements - Vitamin C|url=https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/|publisher=[[アメリカ国立衛生研究所]] |date=2018-09-18}}&lt;/ref&gt;。
+
+[[米国家庭医学会]] (AAFP) の2012年ガイドラインでは、ビタミンCの200mgから2グラムは小児の風邪の予防に効果ありとし、成人の風邪治療にはビタミンCは効果を示さないということを効果なしの研究一覧にも、効果ありの研究一覧にも、同じ2007年のコクランレビューを記載している&lt;ref name="AAFP"&gt;{{cite journal |author=Fashner J, Ericson K, Werner S |title=Treatment of the common cold in children and adults |journal=Am Fam Physician |volume=86 |issue=2 |pages=153–9 |year=2012 |pmid=22962927 |url=https://www.aafp.org/afp/2012/0715/p153.html }}&lt;/ref&gt;。なおこのガイドラインは医薬品にも効果なしを判定しており厳格なものとなっている。
+
+2013年に改訂された[[コクランレビュー]]では同じような内容だが、31研究の合計9745人から定期的にビタミンCを200mg摂取することで、一般集団では発症率の低下はないが、重症度を下げ、回復までの日数は成人8%、小児14%減少し、スポーツ選手や寒冷地の兵士では発症率は半減していた&lt;ref name="HemiläChalker2013"&gt;{{cite journal|last1=Hemilä|first1=Harri|last2=Chalker|first2=Elizabeth|last3=Hemilä|first3=Harri|title=Vitamin C for preventing and treating the common cold|year=2013|doi=10.1002/14651858.CD000980.pub4}}&lt;/ref&gt;&lt;!--2018年のPMID:30113569も同じく31件で重複なので省略--&gt;。治療薬としてビタミンCを投与した場合、7件のランダム化比較試験があったが結果は一貫しておらず、回復までの期間減少も再現されていないが、日常的な服用で効果があることとビタミンCが安全で安いことから、治療薬としてのビタミンCの研究も実施すべきだとしている&lt;ref name="HemiläChalker2013"/&gt;&lt;!--2018年のPMID:30339136も同じく7件で重複なので省略--&gt;。それまでの治療薬としてのビタミンCの研究は、定期摂取で有望な小児での研究は実施されておらず、成人では初日に5グラムや、2-3日間に2-4グラムなど一貫したものではない&lt;ref name="pmid28353648"/&gt;。
+
+2018年の9件のRCTを分析した[[メタアナリシス]]では、発症時にのみ高用量のビタミンCを摂取した場合には効果はなく、定期的なビタミンCの摂取があり、風邪の発症後に毎日1グラムから6グラムを追加して服用したグループでは、胸痛、発熱、悪寒の減少、平均10時間の風邪の期間の短縮がみられた&lt;ref name="pmid30069463"&gt;{{cite journal|author=Ran L, Zhao W, Wang J, et al.|title=Extra Dose of Vitamin C Based on a Daily Supplementation Shortens the Common Cold: A Meta-Analysis of 9 Randomized Controlled Trials|journal=Biomed Res Int|pages=1837634|date=2018|pmid=30069463|pmc=6057395|doi=10.1155/2018/1837634|url=https://doi.org/10.1155/2018/1837634}}&lt;/ref&gt;。
+
+2013年のコクランレビューは、肺炎を予防したという3件のRCT、治療したという2件のRCTを発見している&lt;ref name="pmid28353648"&gt;{{cite journal |authors=Hemilä H |title=Vitamin C and Infections |journal=Nutrients |volume=9 |issue=4 |pages= |date=March 2017 |pmid=28353648 |pmc=5409678 |doi=10.3390/nu9040339 |url=https://doi.org/10.3390/nu9040339}}&lt;/ref&gt;。
+
+重症の[[敗血症]]では、比較群の治療による約40%の死亡率よりも、静脈内ビタミンCでは8.5%と生存率を大きく向上させ、重症化も防いでいる&lt;ref&gt;{{Cite journal|last=Marik|first=Paul E.|last2=Khangoora|first2=Vikramjit|last3=Rivera|first3=Racquel|last4=Hooper|first4=Michael H.|last5=Catravas|first5=John|date=06 2017|title=Hydrocortisone, Vitamin C, and Thiamine for the Treatment of Severe Sepsis and Septic Shock: A Retrospective Before-After Study|url=https://www.ncbi.nlm.nih.gov/pubmed/27940189|journal=Chest|volume=151|issue=6|pages=1229–1238|doi=10.1016/j.chest.2016.11.036|issn=1931-3543|pmid=27940189}}&lt;/ref&gt;。
+
+=== がん（癌） ===
+食品中のビタミンC摂取は多くのコホート研究で様々ながんの発症の減少と関連しており、ビタミンCサプリメントは様々なランダム化比較試験でがんの発生率と無関係だとされている&lt;ref name=NIH2016/&gt;。
+
+1976年にライナス・ポーリングとキャメロンは、様々な末期がん患者に100名に対し10日間ビタミンC10グラムを「[[静脈注射]]」し、その後経口摂取したことで、生存期間を延長すると報告した&lt;ref name="pmid1068480"&gt;{{cite journal |authors=Cameron E, Pauling L |title=Supplemental ascorbate in the supportive treatment of cancer: Prolongation of survival times in terminal human cancer |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=73 |issue=10 |pages=3685–9 |date=October 1976 |pmid=1068480 |pmc=431183 |doi=10.1073/pnas.73.10.3685 |url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC431183/ |quote=intravenous infusion for about 10 days and orally thereafter}}&lt;/ref&gt;。また、1974年には分子矯正医学研究所のキャメロン・キャンベルらは様々ながん患者50名に対し最初10日間ビタミンC10グラムを静注し、それから経口のビタミンCを摂取したことで、標準的な治療法を補助する手段だと報告した&lt;ref name="pmid4430016"&gt;{{cite journal |authors=Cameron E, Campbell A |title=The orthomolecular treatment of cancer. II. Clinical trial of high-dose ascorbic acid supplements in advanced human cancer |journal=Chem. Biol. Interact. |volume=9 |issue=4 |pages=285–315 |date=October 1974 |pmid=4430016 |doi=10.1016/0009-2797(74)90019-2 |url= |quote=In many of the patients here reported, treatment was initiated in hospital by the continuous intravenous infusion of ascorbic acid for periods up to 10 days.}}&lt;/ref&gt;。1985年には[[メイヨークリニック]]のMoertelらが、「経口」のビタミンC&lt;!--各カプセルは500mgで経口摂取とか書いてあるがどう計上して10gなのか不明--&gt;を使った偽薬対照のランダム化比較試験を実施し、進行性の結腸直腸がん患者で効果が見られなかったと報告した&lt;ref name="pmid3880867"&gt;{{cite journal |authors=Moertel CG, Fleming TR, Creagan ET, Rubin J, O'Connell MJ, Ames MM |title=High-dose vitamin C versus placebo in the treatment of patients with advanced cancer who have had no prior chemotherapy. A randomized double-blind comparison |journal=N. Engl. J. Med. |volume=312 |issue=3 |pages=137–41 |date=January 1985 |pmid=3880867 |doi=10.1056/NEJM198501173120301 |url= |quote=10 g of vitamin C daily or placebo (lactose). Both were prepared in identical opaque gelatin capsules and dispensed in the bottles.}}&lt;/ref&gt;。前者の肯定的研究は静注であり、後者のような否定的研究は経口投与したものだったが、人々の注目は小さくなり、しかし静注の方が血中濃度が高くなるという事実から後に再び関心を集めることになる&lt;ref name=NIH2016/&gt;&lt;ref name="pmid31035414"/&gt;。
+
+[[アメリカ国立がん研究所]]の公開情報では、静脈投与では経口投与よりも血中ビタミンCが高くなり、副作用は非常に少なく[[クオリティ・オブ・ライフ|QOL]]の向上が見られ、がん治療の副作用を軽減させる効果も見られるとされている&lt;ref&gt;{{Cite web |author= |date=2018-6-21 |url=http://cancerinfo.tri-kobe.org/pdq/summary/japanese.jsp?Pdq_ID=CDR0000742253 |title=高用量ビタミンC PDQ |website=がん情報サイト |publisher= |accessdate=2019-05-21}}&lt;/ref&gt;。2019年のレビューでは、経口・静脈含め症例報告などを除外し、既に紹介した1980年代の研究から、2010年代までの賛否両方の合計19件の試験があり、そのうち偽薬対照が設けられていたのは4件で、これら全研究から非常に軽い副作用しか害はなさそうだが、効果を裏付けるには研究は足りていないので、続くランダム化比較試験が計画されているとした&lt;ref name="pmid31035414"&gt;{{cite journal |authors=van Gorkom GNY, Lookermans EL, Van Elssen CHMJ, Bos GMJ |title=The Effect of Vitamin C (Ascorbic Acid) in the Treatment of Patients with Cancer: A Systematic Review |journal=Nutrients |volume=11 |issue=5 |pages= |date=April 2019 |pmid=31035414 |doi=10.3390/nu11050977 |url=https://doi.org/10.3390/nu11050977 }}&lt;/ref&gt;&lt;!--以下を含む doi=10.1016/j.pmu.2012.05.008|issn=2186-4950 --&gt;&lt;!--pmid=25360419は2014年のレビューなので少し古い--&gt;。
+
+その4件のRCT
+*1970年と1985年の経口摂取によって効果がなかった2研究がある&lt;ref name="pmid3880867"/&gt;&lt;ref name="pmid384241"&gt;{{cite journal |authors=Creagan ET, Moertel CG, O'Fallon JR, Schutt AJ, O'Connell MJ, Rubin J, Frytak S |title=Failure of high-dose vitamin C (ascorbic acid) therapy to benefit patients with advanced cancer. A controlled trial |journal=N. Engl. J. Med. |volume=301 |issue=13 |pages=687–90 |date=September 1979 |pmid=384241 |doi=10.1056/NEJM197909273011303 |url=}}&lt;/ref&gt;。
+*2014年の[[有意]]ではないが比較群の約17か月に比較しビタミンC静脈注射では25.5か月と長い生存期間だったという研究と&lt;ref name="pmid24500406"&gt;{{cite journal |authors=Ma Y, Chapman J, Levine M, Polireddy K, Drisko J, Chen Q |title=High-dose parenteral ascorbate enhanced chemosensitivity of ovarian cancer and reduced toxicity of chemotherapy |journal=Sci Transl Med |volume=6 |issue=222 |pages=222ra18 |date=February 2014 |pmid=24500406 |doi=10.1126/scitranslmed.3007154 |url=}}&lt;/ref&gt;、2018年の高濃度ビタミンCの静脈投与によって完全治癒率の上昇・生存期間の延長が見られた研究がある&lt;ref name="pmid29331774"&gt;{{cite journal |authors=Zhao H, Zhu H, Huang J; et al |title=The synergy of Vitamin C with decitabine activates TET2 in leukemic cells and significantly improves overall survival in elderly patients with acute myeloid leukemia |journal=Leuk. Res. |volume=66 |issue= |pages=1–7 |date=March 2018 |pmid=29331774 |doi=10.1016/j.leukres.2017.12.009 |url=}}&lt;/ref&gt;。
+
+Yun J, Mullarky E ら(2015)&lt;ref name=science.aaa5004&gt;Jihye Yun1, Edouard Mullarky, Changyuan Lu, Kaitlyn N. Bosch, A,. "[https://science.sciencemag.org/content/350/6266/1391 Vitamin C selectively kills KRAS and BRAF mutant colorectal cancer cells by targeting GAPDH.]" ''Science''  11 Dec 2015: Vol.350, Issue 6266, pp.1391-1396, {{doi|10.1126/science.aaa5004 }}&lt;/ref&gt;は高濃度のビタミンCは、がん細胞の[[アポトーシス]]を引き起こすとする研究結果を発表しているが、作用機序は未解明であるため臨床応用が可能かは不明である&lt;ref name=science.aaa5004 /&gt;&lt;ref&gt;森下雄太, 田井章博「[https://doi.org/10.20632/vso.90.8_398　ビタミンC 再生経路と酸化ストレス]」『ビタミン』90巻8号、2016年、398-401頁、{{doi|10.20632/vso.90.8_398}}&lt;/ref&gt;。
+
+=== 皮膚 ===
+{{See also|#外用}}
+
+日本でも戦後の1940年代には、栄養欠乏によってビタミンC欠乏による色素沈着になる人も多く、ビタミンCが使われ、医薬品の「ハイシー」には以下の効能がある：ビタミンCの欠乏の関与が推定される、[[肝斑]]・[[雀卵斑]]・炎症後の[[色素沈着]]&lt;ref name="色素沈着抑制"&gt;{{Cite journal |和書|author=伊東忍 |date=2012-11 |title=プロビタミンC(13)美白とプロビタミンC : ビタミンC誘導体と色素沈着抑制 |journal=フレグランスジャーナル  |volume=40 |issue=11 |pages=66-72}}&lt;/ref&gt;。1950年代になると栄養状態は改善され、同じく肝斑・雀卵斑や日焼け後の色素沈着の予防について報告されるようになった&lt;ref name="色素沈着抑制"/&gt;。RCTで、紫外線照射後の色素沈着は、ビタミンCを600mgを単独で摂取するよりも[[パントテン酸]] (9mg) を併用した方が抑制された&lt;ref&gt;{{Cite journal |和書|author1=麻生和雄 |author2=穂積豊 |date=1980 |title=紫外線照射後の皮膚色素沈着にたいするビタミンC、パントテン酸カルシウムの併用効果 |journal=西日本皮膚科 |volume=42 |issue=5 |pages=885-892 |doi=10.2336/nishinihonhifu.42.885 }}&lt;/ref&gt;。26名を対象とした試験でビタミンCが200mg、ビタミンEが100mgの合剤を6か月服用し、肝斑に対し「有効」19.2%、「やや有効」23%であった&lt;ref&gt;{{Cite journal |和書|author1=山本幸代 |author2=須貝哲郎 |author3=麻生五月 |author4=渡辺加代子 |date=1982 |title=肝斑、炎症後色素沈着に対するユベラC顆 粒の治療効果 |journal=皮膚 |volume=24 |issue=3 |pages=405-412 |doi=10.11340/skinresearch1959.24.405 |url=https://doi.org/10.11340/skinresearch1959.24.405}}&lt;/ref&gt;。内服では、肝斑に対し[[トラネキサム酸]]配合錠で改善率は約60%、ビタミンC製剤で26.5%である&lt;ref&gt;{{Cite book |和書 |author=日本形成外科学会 |coauthors=日本創傷外科学会、日本頭蓋顎顔面外科学会 |date=2015 |title=形成外科診療ガイドライン1 皮膚疾患 |url=http://www.jsprs.or.jp/member/committee/module/21/pdf/keiseigeka2.pdf |format=PDF |publisher=金原出版 |isbn=978-4-307-25714-5 |page=137 }}&lt;/ref&gt;。
+
+*紫外線防御
+:紫外線によって紅斑を生じさせる最小紅斑線量 (MED) について。ビタミンCと[[ビタミンE]]をともに摂取し、それぞれ別の研究として1週間でMEDは21%増加（毎日Eを1000IUとCを2g&lt;!--PMID 9448204--&gt;）、7週間でMED77.6%増加（E3g/C3g&lt;!--PMID 9870553--&gt;）、12週間で41%増加（E1000IU/C2g&lt;ref name="pmid15675947"/&gt;）、別の研究でも12週間で41%増加（同&lt;!--15675947--&gt;）&lt;ref name="pmid29998107"/&gt;。なお、ビタミンCやE単体の摂取ではMEDの変化はなかったという研究がある&lt;ref name="pmid29998107"&gt;{{Cite journal |author=Parrado C, Philips N, Gilaberte Y et al |title=Oral Photoprotection: Effective Agents and Potential Candidates |journal=Frontiers in medicine |volume=5 |pages=188 |date=2018 |doi=10.3389/fmed.2018.00188 |pmid=29998107 |pmc=6028556 |url=https://doi.org/10.3389/fmed.2018.00188 }}&lt;/ref&gt;。
+
+== 摂取 ==
+[[File:Oranges and orange juice.jpg|thumb|right|160px|一杯の[[オレンジジュース]]（248g）で、米国[[食生活指針|成人栄養摂取目標]]を149%満たすことができる&lt;ref&gt;{{Cite web|publisher=米国農務省 |title=Orange juice, raw (Includes foods for USDA's Food Distribution Program) |website=FoodData Central Search Results  |url=https://fdc.nal.usda.gov/fdc-app.html#/food-details/169098/nutrients |accessdate=2019-04}}&lt;/ref&gt;]]
+[[ヒト]]を含む類人猿はアスコルビン酸を体内で合成できないため、必要量をすべて[[食事]]などによって外部から摂取する必要がある[[ビタミン]]の一種類として扱われている。一方、多くの動物にとっては、アスコルビン酸は生体内で[[生合成]]できる物質であるため、必ずしも外界から摂取する必要はない。体内でアスコルビン酸を合成できないのは、ヒトを含む[[サル目]]の一部や[[テンジクネズミ|モルモット]]などだけである。
+
+[[風邪]]や[[インフルエンザ]]、その他の感染症に対してアスコルビン酸粉末などとして[[医薬品]]と併用される。その理由としては、これらの肉体的[[ストレス (生体)|ストレス]]や治癒に際してはアスコルビン酸の要求量が増大するからというものである。[[喫煙]]&lt;ref&gt;今木雅英、三好保、多田敏子 ほか「[https://doi.org/10.3861/jshhe.57.19 青年における喫煙と血清ビタミンC量の関係について]」『民族衛生』、1991年、57巻1号、19-23頁、{{doi|10.3861/jshhe.57.19}}&lt;/ref&gt;等のストレスによっても血中濃度が低下するため&lt;ref&gt;石神昭人「[https://doi.org/10.20632/vso.85.8_400 災害時におけるビタミンCの不足と摂取の必要性]」『ビタミン』2011年、85巻8号、400-404頁、{{doi|10.20632/vso.85.8_400}}&lt;/ref&gt;、結果的にアスコルビン酸の要求量が増大する。
+
+=== 推奨量 ===
+成人の1日あたり摂取量としての厚生労働省による推奨量([[RDA]])は100mgである&lt;ref&gt;[https://www.mhlw.go.jp/houdou/2004/11/h1122-2.html 厚生労働省「日本人の食事摂取基準について」] 厚生労働省の第6次改定「日本人の栄養所要量」&lt;/ref&gt;が、[[喫煙]]者の場合は、ニコチンがビタミンCの吸収を妨げるといわれているため更に35mg多く摂取する必要があると考えられている&lt;ref&gt;{{Cite web |title=たばこと健康 |url=https://www.eiyou-chiba.or.jp/commons/shokuji-kou/health_and_diet/tabaco/ |publisher=千葉県栄養士会  |date=2021-12-11 |accessdate=2022-08-24 }}&lt;/ref&gt;。
+
+{| class="wikitable" style="font-size:90%; margin-left:1em"
+|+ ビタミンCの[[血液検査の参考基準値]]
+!rowspan=2|項目
+!rowspan=2|被験者の&lt;br&gt;タイプ
+!colspan=2|標準範囲
+!rowspan=2|単位
+!colspan=2|最適範囲
+|-
+!下限値!!上限値!!下限値!!上限値
+|-
+|rowspan=2| '''ビタミンC'''&lt;br&gt;（アスコルビン酸）
+|rowspan=2| || 0.4&lt;ref name=bloodbook&gt;[http://www.bloodbook.com/ranges.html Blood Test Results - Normal Ranges] Bloodbook.Com&lt;/ref&gt; || 1.5&lt;ref name=bloodbook/&gt; || mg/dL || 0.9&lt;ref name=adeeva&gt;[http://www.adeeva.com/resources/bloodtestscomplete.html Adëeva Nutritionals Canada &gt; Optimal blood test values] {{webarchive|url=https://web.archive.org/web/20090529032656/http://adeeva.com/resources/bloodtestscomplete.html |date=2009年5月29日 }} Retrieved on July 9, 2009&lt;/ref&gt; ||
+|-
+| 23&lt;ref name=c-mass&gt;Derived from mass values using molar mass of 176 grams per mol&lt;/ref&gt; || 85&lt;ref name=c-mass/&gt; || μmol/L || 50&lt;ref name=adeeva/&gt; ||
+|}
+血漿中ビタミンC濃度基準値を0.7mg/100ml以上に設定して、ビタミンCの1日あたり適正摂取量は成人で100mg（妊婦は＋10mg、授乳婦は＋40mg ） である。血漿中ビタミンC濃度の正常範囲は 0.5-1.5mg/100mL である&lt;ref&gt;GARRY PJ. Nutritional status in a healthy elderly population : vitamin C. Am J Clin Nutr. (1982) vol.36, p.332-339, {{PMID|7102589}}, {{DOI|10.1093/ajcn/36.2.332}}&lt;/ref&gt;。0.2mg/100mL を下回ると、各種の欠乏症状が現れる可能性がある&lt;ref&gt;荒金和美, 北浦奈由, 北田修 ほか. 「{{PDFlink|[http://www.jrs.or.jp/quicklink/journal/nopass_pdf/040120941j.pdf 肺胞出血を伴った壊血病の一例]}}」 日本呼吸器学会雑誌 2002年 vol.40, no.12, p.941-944., {{PMID|12692944}}&lt;/ref&gt;。
+
+なお、ヒトの[[母乳]]のビタミンC濃度は0.5mg/100gとの報告がある。
+
+=== 大量摂取 ===
+健康な成人であれば 2000mg の摂取量まで毒性はなく、体内で吸収されなかった余剰なビタミンCは[[尿]]中に排出されるが、数グラムレベルで一度に大量摂取し、腸管耐容量を超えると[[下痢]]を起こす可能性がある&lt;ref name="MSD"&gt;[https://www.msdmanuals.com/ja-jp/プロフェッショナル/09-栄養障害/ビタミン欠乏症，依存症，および中毒/ビタミンc ビタミン欠乏症，依存症，および中毒 ビタミンC] MDSマニュアル プロフェッショナル版&lt;/ref&gt;。
+
+厚生労働省による2015年の[[日本人の食事摂取基準]]では、広い摂取範囲でも安全だと考えられるため、上限量は設定していないが、通常の食品から摂取することを基本とし、サプリメント（健康食品）から 1日あたり1g以上の量を摂取することは推奨できないとしており、生活習慣病の発症予防についても、ビタミンCの摂取量と血液中濃度と体外排泄からは1g以上の摂取には意味がないことが示されているが、病気発症との関連については不明確だとしている&lt;ref name="各論2015"&gt;「{{PDFlink|[https://www.mhlw.go.jp/file/05-Shingikai-10901000-Kenkoukyoku-Soumuka/0000067134.pdf 各論 ビタミン（水溶性ビタミン）]}}」、「[https://www.mhlw.go.jp/stf/shingi/0000041824.html 日本人の食事摂取基準 (2015年版) 策定検討会]」厚生労働省、2014年3月28日。&lt;/ref&gt;。毎日、数グラムの摂取では腎臓でのシュウ酸結石のリスクがあるとしている&lt;ref name="各論2015"/&gt;。
+
+体内でビタミンCの一部がシュウ酸に代謝されるとして、毎日4グラム摂取した者で[[シュウ酸塩]]の結晶より腎臓が損傷することで腎不全を発症したという症例報告がある&lt;ref name="hfnet1037" /&gt;。腎臓移植を受けた31歳の女性が毎日2グラム摂取し、続発性シュウ酸症となった症例が報告されており、腎不全患者のビタミンCの大量摂取については注意が必要であるとする考え方もある。&lt;ref name="hfnet1037"&gt;{{Hfnet|1037|香港衛生署がビタミンサプリメントの過剰摂取に注意喚起}}&lt;/ref&gt;
+
+2019年現在、[[アメリカ食品医薬品局]] (FDA) はビタミンCを癌の治療薬として認可していない。ビタミンCは単に[[サプリメント|補助食品]]として利用されている。
+
+=== 含有食品 ===
+[[File:Ambersweet oranges.jpg|thumb|right|柑橘類]]
+多くの[[食品]]やサプリメントにおいて、「[[レモン]]何個分のビタミンC」という表現が用いられるが、このとき「レモン1個分のビタミンC」は 20mg に換算される。この表記は[[農林水産省]]によって1987年に制定された「ビタミンC含有菓子の品質表示ガイドライン」によるものであるが、ビタミンCが主成分である[[ビタミン]]添加菓子を対象とするものであり、それ以外の食品やサプリメントに対して用いることは適当でない。また、このことから「レモンはビタミンCを豊富に含む果物である」と誤解されがちだが、実際には同じ[[柑橘類]]であるグレープフルーツやユズよりも含有量は低い。
+
+レモン・ライム・オレンジ・グレープフルーツなどの柑橘類のほか、カムカム、[[カキノキ|柿]]、アセロラ、キウイフルーツ、トマトはビタミンCの含有量が非常に多い。その他にビタミンCの多く含まれる食品としては、グァバ、パパイヤ、ブロッコリー、芽キャベツ、ブラックベリー、イチゴ、カリフラワー、ほうれん草、マスクメロン、ブルーベリー、パセリ、ジャガイモ、ピーマン、サツマイモなどがある。&lt;!--含有食品の単純な列挙は止めましょう。標準成分表等を出典にした含有量を伴った記述は歓迎です。--&gt;
+
+ビタミンCそのものは強い癖のある味で、柑橘類でもすっぱい物のほうが含有量は多い傾向にあるため「酸味の強い果物ほどビタミンCが豊富だ」と思われがちだが、実際にはそれらの酸味の多くは[[クエン酸]]によるものである。上記のように、酸味がまったくないのにビタミンCが豊富な食品も多い。
+
+[[乳酸菌]]は[[発酵]]の際にビタミンCも産生し、発酵前の[[生乳]]等のビタミンCよりも濃度が高くなる&lt;ref name=kyoto&gt;石井智美「[http://www.cias.kyoto-u.ac.jp/files/img/publish/alpub/jcas_ren/REN_04/REN_04_009.pdf 内陸アジアの遊牧民の製造する乳酒に関する微生物学的研究]」『国立民族学博物館地域研』JCAS連携研究成果報告4、2002年、103-123頁。&lt;/ref&gt;。[[牛乳]]にはビタミンCがほとんど含まれていない。その理由は、子牛が自らビタミンCを合成できるので牛乳から摂取する必要がないためである。牛乳を発酵して作った[[ヨーグルト]]では若干ながらビタミンCが含まれている。牛乳のみならず肉にもビタミンCは含まれていないので、野菜や果物を摂取できない[[モンゴル]][[遊牧民]]は、大人のみならず子供を含め[[馬乳]]を[[乳酸発酵]]させ微量のビタミンCを生成した[[馬乳酒]]を大量に飲むことでビタミンCを補っている&lt;ref name=kyoto/&gt;。アフリカの遊牧民族である[[マサイ族]]も日常的に発酵乳を飲む。
+
+==== 加熱に弱い ====
+ビタミンCは、加熱すると空気中の[[酸素]]や水分との反応が促進され、酸化されてデヒドロアスコルビン酸となり、さらに加水分解されたジケトグロン酸へ分解しやすくなる&lt;ref&gt;[http://pharm.ph.sojo-u.ac.jp/genometalk/genometalk11-20.pdf げのむトーク(11-20)]&lt;/ref&gt;{{信頼性要検証|date=2019-08}}。デヒドロアスコルビン酸は人体内でアスコルビン酸に還元され利用されるが、ジケトグロン酸にはビタミンCのような生理活性はないとされる。[[ジャガイモ]]や[[サツマイモ|さつまいも]]に含まれるビタミンCのように、[[デンプン]]に保護されて酸素に接触しない場合には、加熱してもビタミンCは壊れにくいとの指摘もある&lt;ref&gt;[http://co-4gun.eiyo.ac.jp/food%20database/3gun/foods-dic-3-jagaimo.html ジャガイモ] KNU ﾀﾞｲｴｯﾄ 食材百科事典&lt;/ref&gt;{{信頼性要検証|date=2019-08}}が、ジャガイモの加熱時間に従いビタミンC残存量が顕著に減少し、ゆで加熱では28%程度のビタミンC残存量となる&lt;ref&gt;{{Cite journal|和書|author=大羽 和子 |title=貯蔵、切断および加熱調理に伴うジャガイモのビタミンC含量の変化」|journal=日本家政学会誌 |vol=39 |date=1988 |issue=10 |pages=1051-1057 |doi=10.11428/jhej1987.39.1051}}&lt;/ref&gt;。酸素と接する加熱過程を有する、果汁100%の加熱型[[濃縮還元]]ジュースでは、ビタミンCの大半は壊れてしまうことになる。ただし現在では、加熱型濃縮還元は探すことが困難なほどでほぼ絶えており、超音波による果汁濃縮が主流となっている（超音波[[加湿器]]の原理で、果汁液の水分のみを飛ばすことによって果汁を濃縮するシステム（[[超音波霧化分離]]装置）。加熱式にくらべ、エネルギー効率が良く、工場の冷房費用もかからないため主流となった）。しかし、この方式でも加熱殺菌は行われるため、やはりビタミンCは壊れてしまう。そのため高栄養価を謳う野菜ジュースは別途ビタミン類が添加されている。
+
+== 体内動態 ==
+=== 吸収 ===
+ビタミンCは体内の消化器にて吸収されたのちに、血液によっていくつかの臓器に送られる。
+
+ヒトでは経口摂取した量が、30mgから180mg では 70-80% が吸収される&lt;ref name=vso.72.1_19 /&gt;。1.5g では 50% が吸収されるが、3g で飽和するとの報告がある&lt;ref name=vso.72.1_19 /&gt;。また、飲酒により吸収が阻害される&lt;ref name=vso.77.12_625&gt;村田晃、小林千恵、白石育子 ほか「[https://doi.org/10.20632/vso.77.12_625 飲酒の血漿ビタミンC濃度に及ぼす影響]」『ビタミン』77巻12号、2003年、625-632頁、{{doi|10.20632/vso.77.12_625}}&lt;/ref&gt;、しかし飲酒により血中濃度は低下しない&lt;ref name=vso.77.12_625 /&gt;。
+
+別の研究ではビタミンCを毎日2グラム摂取し、4週間時点で1週間時点よりも血中ビタミンC濃度が上昇しているが、それ以降はそれ以上の血中濃度の増加はなく飽和したと考えられ、1週間では飽和までは不十分だと考察された&lt;ref name="pmid15675947"&gt;{{Cite journal |author=Placzek M, Gaube S, Kerkmann U |title=Ultraviolet B-induced DNA damage in human epidermis is modified by the antioxidants ascorbic acid and D-alpha-tocopherol |journal=The Journal of investigative dermatology |volume=124 |issue=2 |pages=304–307 |date=2005-2 |doi=10.1111/j.0022-202X.2004.23560.x |pmid=15675947 |url=https://doi.org/10.1111/j.0022-202X.2004.23560.x }}&lt;/ref&gt;。
+
+ビタミンC錠剤を飲むよりビタミンC入りのガムを噛んだ場合、血中のビタミンCの上昇が速やかに起こり、また吸収量が多いことが分かった&lt;ref&gt;安田和人「チューインガム中のビタミンCの吸収」『医療と検査機器・試薬』27(2)、2004年、71-74頁、{{naid|10029766059}}。&lt;/ref&gt;。サプリメントや野菜ジュースは、野菜サラダに比べて尿への排出速度が速く、食物繊維などと同時に摂取することで体内に長くとどまるとされる&lt;ref&gt;{{Cite web|url=http://camp.toho-u.ac.jp/portal/headline/view.php?no=6742&amp;site_no=nc&amp;camp_no=all |title=【薬学部生化学教室・石神昭人准教授】食の健康学 ビタミンC サプリよりサラダ（9/28 朝日）|accessdate=2018-11-26 |first=|date=2009-9-28|website=東邦大学キャンパスポータルサイト|publisher=東邦大学|archiveurl=https://web.archive.org/web/20140407081336/http://camp.toho-u.ac.jp/portal/headline/view.php?no=6742&amp;site_no=nc&amp;camp_no=all |archivedate=2014-4-7 }}&lt;/ref&gt;。
+
+=== 排泄・代謝 ===
+アスコルビン酸は、尿を介して排泄される。ヒトでは、ビタミンCの摂取量が少ないときは、ビタミンCを排泄せずに[[腎臓]]で再吸収する。ビタミンCの血漿濃度が1.4mg/dL以上の場合にのみ、再吸収が低下し、過剰な量が尿に移行する。この回収機構は、ビタミンCの欠乏を遅延させる&lt;ref name="pmid8263270"&gt;{{cite journal |authors=Oreopoulos DG, Lindeman RD, VanderJagt DJ; et al |title=Renal excretion of ascorbic acid: effect of age and sex |journal=Journal of the American College of Nutrition |volume=12 |issue=5 |pages=537–542 |date=October 1993 |pmid=8263270 |doi=10.1080/07315724.1993.10718349 }}&lt;/ref&gt;。
+アスコルビン酸は、デヒドロアスコルビン酸に可逆的に変換し、その化合物から非可逆的に2,3-ジケトグルコン酸に変換されてから[[シュウ酸]]に変換される。これらの3つの化合物も尿を介して排泄される。ヒトは[[モルモット]]よりもデヒドロアスコルビン酸をアスコルビン酸に変換する能力が優れているため、ビタミンCの欠乏をより遅延させることができる&lt;ref name=Linster2007&gt;{{cite journal |authors=Linster CL, Van Schaftingen E |title=Vitamin C. Biosynthesis, recycling and degradation in mammals |journal=The FEBS Journal |volume=274 |issue=1 |pages=1–22 |date=January 2007 |pmid=17222174 |doi=10.1111/j.1742-4658.2006.05607.x }}&lt;/ref&gt;。
+
+===分布===
+細胞内への輸送について。ビタミンCは腸管上部で吸収され&lt;ref name=vso.72.1_19&gt;美濃眞、五十嵐脩、糸川嘉則 ほか（1998年）「[https://doi.org/10.20632/vso.72.1_19 ビタミンCの安全性]」『ビタミン』、72巻1号、19-24頁、{{doi|10.20632/vso.72.1_19}}&lt;/ref&gt;、[[ナトリウム]]依存性輸送体が存在するが、そのナトリウム依存性輸送体は、[[グルコース輸送体]]、特に、アスコルビン酸に戻る[[リサイクル]]において必要な[[酵素]][[補因子]]と細胞内[[抗酸化物質]]を生成する体のほとんどの細胞でビタミンC（その酸化型である[[デヒドロアスコルビン酸]]）&lt;ref&gt;{{cite journal|author=KC, S.; Carcamo, J. M.; Golde, D. W.|year= 2005|title=Vitamin C enters mitochondria via facilitative glucose transporter 1 (Glut1) and confers mitochondrial protection against oxidative injury|journal=FASEB J.|volume= 19 |issue=12|pages= 1657–67|doi=10.1096/fj.05-4107com|pmid= 16195374}}&lt;/ref&gt;の輸送を担当するものがGLUT1で、特殊化した細胞内に主に存在する。
+
+脳への輸送について。脳は、ビタミンCの最大濃度をもつ器官の一つであるが、ビタミンCは血流から脳への関門を通過しない。このためアスコルビン酸に代わって、デヒドロアスコルビン酸がGLUT1トランスポーターを介して[[血液脳関門]]を通過して輸送され、その後にアスコルビン酸に変換される&lt;ref name="ascorBBB"&gt;{{cite journal |author=Huang, J.; Agus, D. B.; Winfree, C. J.; et al |title=Dehydroascorbic acid, a blood-brain barrier transportable form of vitamin C, mediates potent cerebroprotection in experimental stroke |url=http://www.pnas.org/cgi/content/full/98/20/11720 |journal=[[米国科学アカデミー紀要|Proc. Natl. Acad. Sci. USA]] |volume=98 |issue=20 |pages=11720–11724 |year=2001 |pmid=11573006 |doi=10.1073/pnas.171325998 |pmc=58796}}&lt;/ref&gt;。
+
+ミトコンドリアへの輸送について。ビタミンCは、[[グルコーストランスポーター]]GLUT1を介してデヒドロアスコルビン酸が輸送され、還元され、[[フリーラジカル]]の大部分が生成される場所である[[ミトコンドリア]]に蓄積される。アスコルビン酸は、ミトコンドリアの[[ゲノム]]と[[膜]]を保護する&lt;ref name="MitoGolde"&gt;{{cite journal |author=KC S, Carcamo JM, Golde DW |title=Vitamin C enters mitochondria via facilitative glucose transporter 1 (Glut1) and confers mitochondrial protection against oxidative injury |url=http://www.fasebj.org/cgi/content/full/19/12/1657 |journal=FASEB J |volume=19 |issue=12 |pages=1657–67 |year=2005 |pmid=16195374 |doi=10.1096/fj.05-4107com}}&lt;/ref&gt;。
+
+==外用==
+ビタミンCの外用はビタミンCの経口摂取によって血中のビタミンC濃度が飽和していない人に効果的だと考えられる&lt;ref name="pmid28805671"&gt;{{cite journal|author=Pullar JM, Carr AC, Vissers MCM |title=The Roles of Vitamin C in Skin Health |journal=Nutrients |volume=9 |issue=8 |date=2017 |pages=866 |pmid=28805671 |pmc=5579659 |doi=10.3390/nu9080866 |url=https://doi.org/10.3390/nu9080866 }}&lt;/ref&gt;。
+
+ビタミンC（アスコルビン酸）ではpH3.5以下にする必要があり&lt;ref name="pmid11207686"&gt;{{Cite journal |author=S. R. Pinnell, H. Yang, M. Omar |coauthors=et al |title=Topical L-ascorbic acid: percutaneous absorption studies |journal=Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.] |volume=27 |issue=2 |pages=137–142 |date=2001-2 |pmid=11207686 }}&lt;/ref&gt;、活性を持つには理想的には濃度は8%以上にし、逆に濃度が20%以上でも皮膚への刺激性のみが増加すると考えられるため、一般的な製品は10-20%の濃度となっている&lt;ref name="pmid29104718"&gt;{{Cite journal |author=Firas Al-Niaimi, Nicole Yi Zhen Chiang |title=Topical Vitamin C and the Skin: Mechanisms of Action and Clinical Applications |journal=The Journal of clinical and aesthetic dermatology |volume=10 |issue=7 |pages=14–17 |date=2017-7 |pmid=29104718 |pmc=5605218 |url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605218/ }}&lt;/ref&gt;。
+
+顔の皮膚を[[光老化|光損傷]]（光老化）し、その程度が軽症から中等度の19人に[[ランダム化比較試験]] (RCT) を実施し3か月後、ビタミンCセラムの外用薬は偽薬よりも、[[皺|シワ]]、[[顔のたるみ|たるみ]]などを改善した&lt;ref name="pmid10522500"&gt;{{cite journal|author=Traikovich SS|title=Use of topical ascorbic acid and its effects on photodamaged skin topography|journal=Arch. Otolaryngol. Head Neck Surg.|issue=10|pages=1091–8|date=October 1999 |pmid=10522500}}&lt;/ref&gt;。RCTで、光老化した20人の50代女性に、5%濃度のビタミンCを含むクリームを塗り6か月後、深いシワが偽薬に比較して大きく減少した&lt;ref name="pmid12823436"&gt;{{Cite journal |author=Philippe G. Humbert, Marek Haftek, Pierre Creidi |coauthors=et al |title=Topical ascorbic acid on photoaged skin. Clinical, topographical and ultrastructural evaluation: double-blind study vs. placebo |journal=Experimental dermatology |volume=12 |issue=3 |pages=237–244 |date=2003-6 |pmid=12823436 |doi=10.1034/j.1600-0625.2003.00008.x |url=https://hdl.handle.net/2268/39190 }}&lt;/ref&gt;。
+
+二重盲検ではない80人での試験は、ビタミンC含有のシリコン製ジェルを6か月使用することで、アジア人の顔面の手術後に、[[瘢痕]]の隆起や紅斑を減少させ、メラニン色素の指数を低下させていた&lt;ref name="pmid24091488"&gt;{{cite journal|author=Yun IS, Yoo HS, Kim YO, Rah DK |title=Improved scar appearance with combined use of silicone gel and vitamin C for Asian patients: a comparative case series |journal=Aesthetic Plast Surg |issue=6|pages=1176–81 |date=December 2013|pmid=24091488 |doi=10.1007/s00266-013-0210-5}}&lt;/ref&gt;。
+
+RCTにて[[肝斑]]（シミ）に対し、（多い）4%濃度の[[ハイドロキノン]]では93%が良い結果に改善し副作用は68.7%に起こり、同5%ビタミンCは良い結果62.5%と副作用6.2%で、研究者は副作用が少ない点を評価している&lt;ref name="pmid15304189"&gt;{{Cite journal |author=Liliana Elizabeth Espinal-Perez, Benjamin Moncada, Juan Pablo Castanedo-Cazares |title=A double-blind randomized trial of 5% ascorbic acid vs. 4% hydroquinone in melasma |journal=International journal of dermatology |volume=43 |issue=8 |pages=604–607 |date=2004-8 |doi=10.1111/j.1365-4632.2004.02134.x |pmid=15304189 }}&lt;/ref&gt;。別のRCTでは&lt;ref name="pmid7027767"&gt;{{Cite journal |author=Hayakawa R, Ueda H, Nozaki T |coauthors=et al |title=Effects of combination treatment with vitamins E and C on chloasma and pigmented contact dermatitis. A double blind controlled clinical trial |journal=Acta vitaminologica et enzymologica |volume=3 |issue=1 |pages=31–38 |date=1981 |pmid=7027767 }}&lt;/ref&gt;、肝斑に対しビタミンC単体よりもビタミンEと併用した方が効果があった&lt;!--外用薬の論文だという出典--&gt;&lt;ref name="pmid23723597"&gt;{{cite journal |last1=Sarkar |first1=Rashmi |last2=Arora |first2=Pooja |last3=Garg |first3=KVijay |title=Cosmeceuticals for hyperpigmentation: What is available? |journal=Journal of Cutaneous and Aesthetic Surgery |volume=6 |issue=1 |date=2013 |pages=4 |pmid=23723597 |pmc=3663177  |doi=10.4103/0974-2077.110089 |url=https://doi.org/10.4103/0974-2077.110089 }}&lt;/ref&gt;。25%ビタミンCを使い、4か月で肝斑を有意に減少させたという比較対象のない試験がある&lt;ref name="pmid19298775"&gt;{{cite journal |last1=Hwang |first1=Seon-Wook |last2=Oh |first2=Doo-Jin |last3=Lee |first3=Deborah |coauthors=et al |title=Clinical Efficacy of 25% l-Ascorbic Acid (C'ensil) in the Treatment of Melasma |journal=Journal of Cutaneous Medicine and Surgery |volume=13 |issue=2 |date=2009 |pages=74–81 |pmid=19298775 |doi=10.2310/7750.2008.07092 }}&lt;/ref&gt;。イオン導入も有効である&lt;ref name="pmid12771472"&gt;{{cite journal |last1=Huh |first1=Chang-Hun |last2=Seo |first2=Koo-Il |last3=Park |first3=Je-Young |coauthors=et al |title=A Randomized, Double-Blind, Placebo-Controlled Trial of Vitamin C Iontophoresis in Melasma |journal=Dermatology |volume=206 |issue=4 |date=2003 |pages=316–320 |pmid=12771472 |doi=10.1159/000069943 }}&lt;/ref&gt;。
+
+1%濃度のビタミンE（αトコフェロール）と同15%ビタミンCは、それぞれ単独でも日焼けによる紅斑や日焼け細胞数を減少させたが、併用した方が効果があった&lt;ref name="pmid12789176"&gt;{{cite journal |last1=Lin |first1=Jing-Yi |last2=Selim |first2=M.Angelica |last3=Shea |first3=Christopher R. |coauthors=et al |title=UV photoprotection by combination topical antioxidants vitamin C and vitamin E |journal=Journal of the American Academy of Dermatology |volume=48 |issue=6 |date=2003 |pages=866–874 |pmid=12789176 |doi=10.1067/mjd.2003.425 }}&lt;/ref&gt;。[[フェルラ酸]]は、ビタミンC、ビタミンEの化学的な安定性を向上させ、太陽光に対する防御性を数倍にする&lt;ref name="pmid16185284"&gt;{{cite journal|author=Lin FH, Lin JY, Gupta RD, et al. |title=Ferulic acid stabilizes a solution of vitamins C and E and doubles its photoprotection of skin |journal=J. Invest. Dermatol. |issue=4 |pages=826–32 |date=October 2005 |pmid=16185284 |doi=10.1111/j.0022-202X.2005.23768.x }}&lt;/ref&gt;。10名のランダム化比較試験で、ビタミンC（15%濃度）、フェルラ酸(2%)、フロレチンを含有する外用薬を、紫外線による皮膚損傷に備えて事前に塗ることで防御作用があった&lt;ref name="pmid19146606"&gt;{{cite journal|author=Oresajo C, Stephens T, Hino PD, et al.|title=Protective effects of a topical antioxidant mixture containing vitamin C, ferulic acid, and phloretin against ultraviolet-induced photodamage in human skin |journal=J Cosmet Dermatol |issue=4 |pages=290–7 |date=December 2008 |pmid=19146606 |doi=10.1111/j.1473-2165.2008.00408.x }}&lt;/ref&gt;。12名の中国人女性を用いて、ビタミンC、ビタミンE、フェルラ酸からなる外用薬は、これを塗った部分は、塗っていない部分に比較して光から防御された&lt;ref name="pmid23652896"&gt;{{cite journal |authors=Wu Y, Zheng X, Xu XG, etal |title=Protective effects of a topical antioxidant complex containing vitamins C and E and ferulic acid against ultraviolet irradiation-induced photodamage in Chinese women |journal=J Drugs Dermatol |volume=12 |issue=4 |pages=464–8 |date=April 2013 |pmid=23652896 |doi= |url=http://jddonline.com/articles/dermatology/S1545961613P0464X}}&lt;/ref&gt;。
+
+[[ビタミンC誘導体]]が開発されておりアスコルビン酸（ビタミンC）の不安定な性質を改良したり、保湿性を持たせている&lt;ref&gt;{{Cite journal |和書|author1=松岡桓準 |author2=平徳久 |author3=中村清香 |author4=勝山雄志 |author5=吉岡正人 |date=2014 |title=新規保湿型ビタミンC誘導体グリセリル化アスコルビン酸の有用性 |journal=日本化粧品技術者会誌 |volume=48 |issue=3 |pages=200-207 |doi=10.5107/sccj.48.200 |url=https://doi.org/10.5107/sccj.48.200}}&lt;/ref&gt;。
+
+== 歴史 ==
+[[File:A case of Scurvy journal of Henry Walsh Mahon.jpg|thumb|right|壊血病の報告（1841年）]]
+[[16世紀]]から[[18世紀]]の[[大航海時代]]には、[[壊血病]]の原因が分からなかったため、海賊以上に恐れられた。[[ヴァスコ・ダ・ガマ]]によるインド航路発見の航海においては、180人の船員のうち100人がこの病気にかかって死亡している。
+
+1753年にイギリス海軍省の[[ジェームズ・リンド]]は、食事環境が比較的良好な高級船員の発症者が少ないことに着目し、新鮮な野菜や果物、特に[[ミカン]]や[[レモン]]を摂ることによってこの病気の予防ができることを見出した。その成果を受けて、[[ジェームズ・クック|キャプテン・クック]]の[[南太平洋]]探検の第一回航海（1768年 - 1771年）で、[[ザワークラウト]]や果物の摂取に努めたことにより、史上初めて壊血病による死者を出さずに世界周航が成し遂げられた。
+
+しかし、当時の航海では新鮮な[[柑橘類]]を常に入手することが困難だったことから、イギリス海軍省の傷病委員会は、抗壊血病薬として[[麦汁]]、[[ポータブルスープ]]、濃縮オレンジジュースなどをクックに支給していた。これらのほとんどは、今日ではまったく効果がないことが明らかになっている（濃縮オレンジジュースは加熱されていて、ビタミンCは失われている）。結局、おもに[[ザワークラウト]]のおかげだったことは当時は不明で、あげく帰還後にクックは麦汁を推薦したりしたもので、長期航海における壊血病の根絶はその後もなかなか進まなかった。
+
+1920年、{{仮リンク|ジャック・ドラモンド|en|Jack Drummond}}が[[オレンジ]]果汁から還元性のある抗壊血病因子を抽出し、これをビタミンCと呼ぶことを提案した。1927年には[[セント＝ジェルジ・アルベルト|セント-ジェルジ]]がウシの[[副腎]]から強い還元力のある物質を単離し、「ヘキスロ酸」として発表したが、1932年にこれがビタミンCであることが判明した。1933年に[[ウォルター・ハース|ハース]]によってビタミンCの[[構造式]]が決定されてアスコルビン酸と命名され、1933年には[[タデウシュ・ライヒスタイン|ライヒシュタイン]]が[[有機合成]]によるビタミンCの合成に成功した。
+
+==ビタミンC合成能を失った動物種==
+[[L-グロノラクトンオキシダーゼ]]（ビタミンC合成酵素）[[遺伝子]]の活性は、いくつかの[[種 (分類学)|種]]の[[進化]]史のなかでそれぞれ独立に失われている。哺乳類ではテンジクネズミや霊長目の直鼻亜目がこの遺伝子の活性を失っており、そのためにビタミンCを合成できないが、その原因となった[[突然変異]]は別のものである。どちらの[[系統]]でも、活性を失った遺伝子は多数の変異を蓄積しつつ、[[偽遺伝子]]として残っている&lt;ref name="pmid1400507"&gt;{{cite journal |author=Nishikimi M, Kawai T, Yagi K | title=Guinea pigs possess a highly mutated gene for L-gulono-gamma-lactone oxidase, the key enzyme for L-ascorbic acid biosynthesis missing in this species | journal=J. Biol. Chem. | volume=267 |issue=30 |pages=21967–72 |date=1992-10 |pmid=1400507 |doi= |url=}}&lt;/ref&gt;。[[スズメ目]]の鳥類では、活性の喪失が何度か起こっており、またおそらくは再獲得も起こったために、種によってビタミンC合成能力が異なる。他に、[[コウモリ]]類もこの遺伝子の活性を失っている&lt;ref&gt;{{cite journal |author=Martinez del Rio C |date=1997 |title=Can Passerines Synthesize Vitamin C? |journal=The Auk |volume=114 |issue=3 |pages=513-516 | url=http://elibrary.unm.edu/sora/Auk/v114n03/p0513-p0516.pdf |format=PDF}}&lt;/ref&gt;。これらの動物が遺伝子変異によるビタミンC合成能力を失ったにもかかわらず継続的に生存し得た最大の理由は、これらの動物が果物、野菜等のビタミンCを豊富に含む食餌を日常的に得られる環境にあったためである。なお、鳥類のビタミンC合成能力について、原始的な鳥類は[[腎臓]]でビタミンCを合成しており、さらに進化した高等な鳥類(スズメ目)では、[[肝臓]]で合成するようになった。これは、酸素消費量の増大に伴う過酸化物質産生から身を守るため、より多くのビタミンC合成を行う必要があり、ビタミンC合成部位が腎臓よりも大きな肝臓に移行したと推測されることを示す文献もある&lt;ref&gt;{{cite web |url=http://ocw.kyoto-u.ac.jp/ja/faculty-of-agriculture-jp/5112000/pdf/13.pdf |format=PDF |title=資源生物科学概論 A 2012年 講義ノート  5章 動物の栄養 |publisher=京都大学OCW |accessdate=2015-3-26}}&lt;/ref&gt;。
+
+霊長目でこの酵素の活性が失われたのは約6300万年前であり、直鼻亜目（酵素活性なし）と曲鼻亜目（酵素活性あり）の分岐が起こったのとほぼ同時である。ビタミンC合成能力を失った直鼻亜目にはメガネザル下目や真猿下目（サル、類人猿、ヒト）を含んでいる。ビタミンC合成能力を有する曲鼻亜目には、キツネザルなどが含まれる&lt;ref name="pmid3113259"&gt;{{cite journal |author=Pollock JI, Mullin RJ |title=Vitamin C biosynthesis in prosimians: evidence for the anthropoid affinity of Tarsius |journal=Am. J. Phys. Anthropol |volume=73 |issue=1 |pages=65–70 |date= 1987-5 |pmid=3113259 |doi=10.1002/ajpa.1330730106 |url= }}&lt;/ref&gt;。
+
+ヒト上科がオナガザル上科から分岐したのは、2800万年から2400万年前頃であると推定されている&lt;ref&gt;[https://www.afpbb.com/articles/-/2741112?pid=5970393 サルとヒトとの進化の分岐、定説より最近か ミシガン大] AFPBB News 2010年7月16日&lt;/ref&gt;&lt;ref&gt;''[[ネイチャー|Nature]]''、2010年7月15日号&lt;/ref&gt;。ヒト上科の共通の祖先が旧世界のサルから分枝した際に、[[尿酸オキシダーゼ]]活性が消失したものと推定されている&lt;ref&gt;{{cite journal |author=Friedman TB, Polanco GE, Appold JC, Mayle JE |title=On the loss of uricolytic activity during primate evolution--I. Silencing of urate oxidase in a hominoid ancestor |journal=Comp. Biochem. Physiol., B |volume=81 |issue=3 |pages=653?9 |year=1985 |pmid=3928241}}&lt;/ref&gt;。尿酸オキシダーゼ活性の消失の意味付けは、尿酸が[[抗酸化物質]]として部分的にビタミンCの代用となるためである&lt;ref name="proctor1970"&gt;Peter Proctor [http://www.drproctor.com/rev/ascorbicuric.htm Similar Functions of Uric Acid and Ascorbate in ManSimilar Functions of Uric Acid and Ascorbate in Man] ''Nature'' vol 228, 1970, p868.&lt;/ref&gt;。
+
+==出典==
+{{脚注ヘルプ}}
+{{Reflist|30em}}
+
+==外部リンク==
+*{{PaulingInstitute|mic/vitamins/vitamin-C|Vitamin C}}
+*{{PaulingInstitute|mic/health-disease/skin-health/vitamin-C|C and Skin Health|nolink=yes}}
+*{{Hfnet|179|ビタミンC解説}}[https://web.archive.org/web/20220806101952/https://hfnet.nibiohn.go.jp/contents/detail179.html]
+*{{Hfnet|45|ビタミンC（アスコルビン酸）|nolink=yes}}
+
+== 関連項目 ==
+* [[ビタミンC誘導体]]
+* [[アスコルビン酸]]
+* [[ライナス・ポーリング]] ＞ 臨床医学におけるビタミン治療の研究 超高用量のビタミンCの投与
+
+{{ビタミン}}
+{{抗酸化物質}}
+{{Normdaten}}
+
+{{DEFAULTSORT:ひたみんC}}
+[[Category:ビタミン|C]]
+[[Category:糖酸]]
+[[Category:補酵素]]
+[[Category:WHOエッセンシャルドラッグ]]</text>
+      <sha1>d57nj3z0s0wdn8ylqmzmdl643gd560q</sha1>
+    </revision>
+  </page>
+  
