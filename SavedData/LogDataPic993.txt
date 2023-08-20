@@ -1,0 +1,6 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/993/title_panel.png	-168.05263157894734,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/993/word_cloud.png	-188.22631578947366,38,148.1873684210526	0,0,1	0,1,0	-1,0,0	103.73115789473682	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/993/Python build and install.png	-188.22631578947366,38,146.70549473684207	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/993/caption/caption0.png	-188.22631578947366,38,146.70549473684207	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	Images/993/table/fixed_歴史.png	188.22631578947366,38,149.68421052631578	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	9.5625	Wooden_thin	-1:-1	3

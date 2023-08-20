@@ -1,0 +1,16 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/262/title_panel.png	-200.89473684210526,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/262/word_cloud.png	-220.24736842105264,38,213.21473684210528	0,0,1	0,1,0	-1,0,0	149.2503157894737	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/262/Elvis Presley promoting Jailhouse Rock.jpg	-220.24736842105264,38,211.08258947368424	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/262/PresleyPromo1954PhotoOnly.jpg	0,38,425.3526315789474	1,0,0	0,1,0	0,0,1	-166.03947368421052	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/262/caption/caption1.png	0,38,425.3526315789474	1,0,0	0,1,0	0,0,1	-144.03947368421052	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/262/1956-elvis-presley-harley-davidson.jpg	0,38,425.3526315789474	1,0,0	0,1,0	0,0,1	-97.62368421052632	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/262/caption/caption2.png	0,38,425.3526315789474	1,0,0	0,1,0	0,0,1	-75.62368421052632	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/262/Elvis and liberace.jpg	0,38,425.3526315789474	1,0,0	0,1,0	0,0,1	-29.20789473684212	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/262/caption/caption3.png	0,38,425.3526315789474	1,0,0	0,1,0	0,0,1	-7.207894736842121	-20	1.5	0.7	none(caption)	-1:-1	8
+9	./Images/262/Elvis Presley and Ed Sullivan October 1956.jpg	0,38,425.3526315789474	1,0,0	0,1,0	0,0,1	39.20789473684212	-10	0.2	4.5	Wooden_thin	-1:-1	9
+10	./Images/262/caption/caption4.png	0,38,425.3526315789474	1,0,0	0,1,0	0,0,1	61.20789473684212	-20	1.5	0.7	none(caption)	-1:-1	10
+11	./Images/262/Elvis Presley in Germany.jpg	0,38,425.3526315789474	1,0,0	0,1,0	0,0,1	107.6236842105263	-10	0.2	4.5	Wooden_thin	-1:-1	11
+12	./Images/262/caption/caption5.png	0,38,425.3526315789474	1,0,0	0,1,0	0,0,1	129.6236842105263	-20	1.5	0.7	none(caption)	-1:-1	12
+13	Images/262/table/fixed_オリジナルアルバム.png	220.24736842105264,38,215.3684210526316	0,0,-1	0,1,0	1,0,0	116.09542421052635	-10	0.2	10.732500000000002	Wooden_thin	-1:-1	13
+14	Images/262/table/fixed_ライブ・アルバム.png	220.24736842105264,38,215.3684210526316	0,0,-1	0,1,0	1,0,0	-116.09542421052635	-10	0.2	10.276875	Wooden_thin	-1:-1	14

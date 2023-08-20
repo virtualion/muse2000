@@ -1,0 +1,9 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/231/title_panel.png	-110.57894736842104,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/231/word_cloud.png	-132.18947368421053,38,140.05894736842106	0,0,1	0,1,0	-1,0,0	98.04126315789473	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/231/Trisquel GNU Linux 4.0 screenshot - Games.jpg	-132.18947368421053,38,138.65835789473684	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/231/caption/caption0.png	-132.18947368421053,38,138.65835789473684	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/231/Playzone4.jpg	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-73.1263157894737	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/231/caption/caption1.png	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-51.12631578947369	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/231/Nintendo 3DS Target Shooting demo at E3 2010.jpg	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/231/caption/caption2.png	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6

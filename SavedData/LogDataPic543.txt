@@ -1,0 +1,14 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/543/title_panel.png	-159.8421052631579,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/543/word_cloud.png	-180.22105263157894,38,188.82947368421054	0,0,1	0,1,0	-1,0,0	132.18063157894738	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/543/Jas Messengers01.JPG	-180.22105263157894,38,186.94117894736843	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/543/150913 Blue Note Jazz Club Tokyo Japan01s3.jpg	0,38,376.70526315789476	1,0,0	0,1,0	0,0,1	-105.14736842105262	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/543/caption/caption1.png	0,38,376.70526315789476	1,0,0	0,1,0	0,0,1	-83.14736842105262	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/543/Modern art wall splashed handyman dripped free-form painting.jpg	0,38,376.70526315789476	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/543/caption/caption2.png	0,38,376.70526315789476	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/543/Cotton Club December 2013.jpg	180.22105263157894,38,190.73684210526318	0,0,-1	0,1,0	1,0,0	137.09019789473683	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/543/caption/caption3.png	180.22105263157894,38,190.73684210526318	0,0,-1	0,1,0	1,0,0	159.09019789473683	-20	1.5	0.7	none(caption)	-1:-1	8
+9	./Images/543/Frank Sinatra (circa 1955 in Capitol Studios).jpg	180.22105263157894,38,190.73684210526318	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	4.5	Wooden_thin	-1:-1	9
+10	./Images/543/caption/caption4.png	180.22105263157894,38,190.73684210526318	0,0,-1	0,1,0	1,0,0	22.0	-20	1.5	0.7	none(caption)	-1:-1	10
+11	./Images/543/Duke Ellington - Hurricane Ballroom - Duke directing 2.jpg	180.22105263157894,38,190.73684210526318	0,0,-1	0,1,0	1,0,0	-137.0901978947369	-10	0.2	4.5	Wooden_thin	-1:-1	11
+12	./Images/543/caption/caption5.png	180.22105263157894,38,190.73684210526318	0,0,-1	0,1,0	1,0,0	-115.09019789473689	-20	1.5	0.7	none(caption)	-1:-1	12

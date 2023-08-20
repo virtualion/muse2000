@@ -1,0 +1,15 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/10741/title_panel.png	-209.10526315789474,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/10741/word_cloud.png	-228.25263157894736,38,205.08631578947364	0,0,1	0,1,0	-1,0,0	143.56042105263154	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/10741/Hogwarts Express at Harry Potter Experience at Leavesden.jpg	-228.25263157894736,38,203.03545263157892	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/10741/caption/caption0.png	-228.25263157894736,38,203.03545263157892	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/10741/Nerima Ward Independence Monument 220530.jpg	0,38,409.1368421052631	1,0,0	0,1,0	0,0,1	-165.60210526315788	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/10741/caption/caption1.png	0,38,409.1368421052631	1,0,0	0,1,0	0,0,1	-143.60210526315788	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/10741/Nerima art museum.JPG	0,38,409.1368421052631	1,0,0	0,1,0	0,0,1	-80.30105263157895	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/10741/caption/caption2.png	0,38,409.1368421052631	1,0,0	0,1,0	0,0,1	-58.301052631578955	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/10741/A field in Hazawa Nerima.jpg	0,38,409.1368421052631	1,0,0	0,1,0	0,0,1	4.999999999999972	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/10741/caption/caption3.png	0,38,409.1368421052631	1,0,0	0,1,0	0,0,1	26.99999999999997	-20	1.5	0.7	none(caption)	-1:-1	8
+9	./Images/10741/Yumeria-Fente.jpg	0,38,409.1368421052631	1,0,0	0,1,0	0,0,1	90.30105263157893	-10	0.2	4.5	Wooden_thin	-1:-1	9
+10	./Images/10741/caption/caption4.png	0,38,409.1368421052631	1,0,0	0,1,0	0,0,1	112.30105263157893	-20	1.5	0.7	none(caption)	-1:-1	10
+11	Images/10741/table/fixed_公園・緑地.png	228.25263157894736,38,207.15789473684208	0,0,-1	0,1,0	1,0,0	111.66949894736841	-10	0.2	26.15625	Wooden_thin	-1:-1	11
+12	Images/10741/table/fixed_財政.png	228.25263157894736,38,207.15789473684208	0,0,-1	0,1,0	1,0,0	-111.6694989473684	-10	0.2	6.615	Wooden_thin	-1:-1	12

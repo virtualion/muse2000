@@ -1,0 +1,8 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/655/title_panel.png	-258.36842105263156,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/655/word_cloud.png	-276.28421052631575,38,278.24210526315784	0,0,1	0,1,0	-1,0,0	194.76947368421048	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/655/Shigeru Mura cropped 1 Shigeru Mura 201011.jpg	-276.28421052631575,38,275.45968421052623	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/655/Shigeru Mizuki at age 18.jpg	0,38,555.078947368421	1,0,0	0,1,0	0,0,1	-169.1894736842105	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/655/caption/caption1.png	0,38,555.078947368421	1,0,0	0,1,0	0,0,1	-147.1894736842105	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/655/National Hospital Organization Sagamihara National Hospital.JPG	0,38,555.078947368421	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/655/caption/caption2.png	0,38,555.078947368421	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6

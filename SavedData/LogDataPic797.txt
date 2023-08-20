@@ -1,0 +1,9 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/797/title_panel.png	-168.05263157894734,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/797/word_cloud.png	-188.22631578947366,38,180.7010526315789	0,0,1	0,1,0	-1,0,0	126.49073684210522	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/797/South-Goodwin.jpg	-188.22631578947366,38,178.8940421052631	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/797/caption/caption0.png	-188.22631578947366,38,178.8940421052631	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/797/Plastic-model-F18.jpg	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	-110.48421052631576	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/797/caption/caption1.png	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	-88.48421052631576	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/797/Wyvern kit.JPG	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/797/caption/caption2.png	0,38,360.48947368421045	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6

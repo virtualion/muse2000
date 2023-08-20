@@ -1,0 +1,8 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/941/title_panel.png	-151.6315789473684,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/941/word_cloud.png	-172.2157894736842,38,140.05894736842106	0,0,1	0,1,0	-1,0,0	98.04126315789473	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/941/Go Nagai 20080704 Japan Expo 05 (cropped).jpg	-172.2157894736842,38,138.65835789473684	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/941/Go Nagai Tokyo 1987.jpg	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-99.81052631578947	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/941/caption/caption1.png	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-77.81052631578947	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/941/NT211 Go Nagai.jpg	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/941/caption/caption2.png	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6

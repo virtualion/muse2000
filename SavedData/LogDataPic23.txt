@@ -1,2 +1,6 @@
 ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
-1	./Images/10265/Chiba Prefectural Museum of Art 2010.jpg	0,52.5,214.5474	1,0,0	0,1,0	0,0,1	-9.385224	-25.5	0.2	1	Metal	-1:-1	5
+1	./Images/23/title_panel.png	-69.52631578947368,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/23/word_cloud.png	-92.16315789473684,38,99.41684210526314	0,0,1	0,1,0	-1,0,0	69.5917894736842	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/23/Sri Lanka in Sinhala Language.png	-92.16315789473684,38,98.42267368421051	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/23/caption/caption0.png	-92.16315789473684,38,98.42267368421051	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	Images/23/table/fixed_国際連合加盟国.png	92.16315789473684,38,100.42105263157893	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	23.248328388169107	Wooden_thin	-1:-1	3

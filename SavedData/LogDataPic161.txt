@@ -1,0 +1,5 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/161/title_panel.png	-151.6315789473684,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/161/word_cloud.png	-172.2157894736842,38,156.31578947368422	0,0,1	0,1,0	-1,0,0	109.42105263157895	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	Images/161/table/fixed_支分権.png	-172.2157894736842,38,154.7526315789474	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	Images/161/table/fixed_著作権の制限.png	172.2157894736842,38,157.89473684210526	0,0,-1	0,1,0	1,0,0	85.11394736842107	-10	0.2	19.507499999999997	Wooden_thin	-1:-1	3

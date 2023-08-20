@@ -1,0 +1,20 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/442/title_panel.png	-217.3157894736842,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/442/word_cloud.png	-236.25789473684208,38,237.6	0,0,1	0,1,0	-1,0,0	166.32	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/442/Route220_Nichinan_Coast_01.JPG	-236.25789473684208,38,235.224	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/442/Obi Castle Otemon.jpg	0,38,474.0	1,0,0	0,1,0	0,0,1	-188.60065789473683	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/442/Miyazaki Miyazaki-jingu Shinmon 1.JPG	0,38,474.0	1,0,0	0,1,0	0,0,1	-133.2861842105263	-10	0.2	4.5	Wooden_thin	-1:-1	4
+5	./Images/442/Kirishima Takachihonomine 2.jpg	0,38,474.0	1,0,0	0,1,0	0,0,1	-77.97171052631577	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/442/caption/caption3.png	0,38,474.0	1,0,0	0,1,0	0,0,1	-55.971710526315775	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/442/Route220 TachibanaStreet.jpg	0,38,474.0	1,0,0	0,1,0	0,0,1	-22.657236842105277	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/442/caption/caption4.png	0,38,474.0	1,0,0	0,1,0	0,0,1	-0.6572368421052772	-20	1.5	0.7	none(caption)	-1:-1	8
+9	./Images/442/Central Nobeoka from MtAtago 200807.jpg	0,38,474.0	1,0,0	0,1,0	0,0,1	32.65723684210528	-10	0.2	4.5	Wooden_thin	-1:-1	9
+10	./Images/442/caption/caption5.png	0,38,474.0	1,0,0	0,1,0	0,0,1	54.65723684210528	-20	1.5	0.7	none(caption)	-1:-1	10
+11	./Images/442/Murasho Nishimera Miyazaki Japan 200809.jpg	0,38,474.0	1,0,0	0,1,0	0,0,1	87.97171052631577	-10	0.2	4.5	Wooden_thin	-1:-1	11
+12	./Images/442/caption/caption6.png	0,38,474.0	1,0,0	0,1,0	0,0,1	109.97171052631577	-20	1.5	0.7	none(caption)	-1:-1	12
+13	./Images/442/Re-installation of Miyazaki Prefecture 1883.jpg	0,38,474.0	1,0,0	0,1,0	0,0,1	143.28618421052627	-10	0.2	4.5	Wooden_thin	-1:-1	13
+14	./Images/442/caption/caption7.png	0,38,474.0	1,0,0	0,1,0	0,0,1	165.28618421052627	-20	1.5	0.7	none(caption)	-1:-1	14
+15	Images/442/table/fixed_ケーブルテレビ.png	236.25789473684208,38,240.0	0,0,-1	0,1,0	1,0,0	194.0598	-10	0.2	7.800000000000001	Wooden_thin	-1:-1	15
+16	Images/442/table/fixed_スポーツキャンプ・合宿の受入実績.png	236.25789473684208,38,240.0	0,0,-1	0,1,0	1,0,0	64.6866	-10	0.2	6.28125	Wooden_thin	-1:-1	16
+17	Images/442/table/fixed_気候温度と降雨.png	236.25789473684208,38,240.0	0,0,-1	0,1,0	1,0,0	-64.6866	-10	0.2	3.1500000000000004	Wooden_thin	-1:-1	17
+18	Images/442/table/fixed_県民栄誉賞受賞者.png	236.25789473684208,38,240.0	0,0,-1	0,1,0	1,0,0	-194.0598	-10	0.2	3.6750000000000003	Wooden_thin	-1:-1	18

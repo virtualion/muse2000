@@ -1,0 +1,16 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/31/title_panel.png	-241.9473684210526,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/31/word_cloud.png	-260.2736842105263,38,261.98526315789474	0,0,1	0,1,0	-1,0,0	183.3896842105263	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/31/Paris-Landsat001.jpg	-260.2736842105263,38,259.36541052631577	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/31/Arc De Triumph Flag.jpg	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	-199.39473684210526	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/31/caption/caption1.png	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	-177.39473684210526	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/31/Paris Champs Elysees westwards DSC03316.JPG	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	-117.63684210526316	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/31/caption/caption2.png	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	-95.63684210526316	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/31/Palais_garnier_bs.jpg	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	-35.87894736842105	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/31/caption/caption3.png	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	-13.878947368421052	-20	1.5	0.7	none(caption)	-1:-1	8
+9	./Images/31/Tour_eiffel_at_sunrise_from_the_trocadero.jpg	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	45.87894736842105	-10	0.2	4.5	Wooden_thin	-1:-1	9
+10	./Images/31/caption/caption4.png	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	67.87894736842105	-20	1.5	0.7	none(caption)	-1:-1	10
+11	./Images/31/Paris raining autumn cityscape (8252181936).jpg	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	127.63684210526316	-10	0.2	4.5	Wooden_thin	-1:-1	11
+12	./Images/31/caption/caption5.png	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	149.63684210526316	-20	1.5	0.7	none(caption)	-1:-1	12
+13	Images/31/table/fixed_20世紀以降.png	260.2736842105263,38,264.63157894736844	0,0,-1	0,1,0	1,0,0	142.65097578947368	-10	0.2	5.670000000000001	Wooden_thin	-1:-1	13
+14	Images/31/table/fixed_運動施設.png	260.2736842105263,38,264.63157894736844	0,0,-1	0,1,0	1,0,0	-142.65097578947365	-10	0.2	11.002500000000001	Wooden_thin	-1:-1	14

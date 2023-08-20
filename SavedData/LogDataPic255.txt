@@ -1,0 +1,11 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/255/title_panel.png	-176.26315789473682,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/255/word_cloud.png	-196.2315789473684,38,196.95789473684206	0,0,1	0,1,0	-1,0,0	137.87052631578945	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/255/Tango_BuenosAires.jpg	-196.2315789473684,38,194.98831578947363	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/255/caption/caption0.png	-196.2315789473684,38,194.98831578947363	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/255/Tango-Show-Buenos-Aires-01.jpg	0,38,392.9210526315789	1,0,0	0,1,0	0,0,1	-85.6157894736842	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/255/caption/caption1.png	0,38,392.9210526315789	1,0,0	0,1,0	0,0,1	-63.6157894736842	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/255/Tango-origen.jpg	196.2315789473684,38,198.9473684210526	0,0,-1	0,1,0	1,0,0	107.2435736842105	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/255/caption/caption2.png	196.2315789473684,38,198.9473684210526	0,0,-1	0,1,0	1,0,0	129.2435736842105	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/255/AnibalTroilo.jpg	196.2315789473684,38,198.9473684210526	0,0,-1	0,1,0	1,0,0	-107.2435736842105	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/255/caption/caption3.png	196.2315789473684,38,198.9473684210526	0,0,-1	0,1,0	1,0,0	-85.2435736842105	-20	1.5	0.7	none(caption)	-1:-1	8
